@@ -67,8 +67,8 @@ def triage(r):
         flag += ' | AGE FLAG: founded %s (under 10 years)' % yr
     rev = r.get('rev'); emp = r.get('emp')
     has_model = bool(re.search(MODEL, low))
-    if emp is not None and isinstance(emp, (int, float)) and emp < 10:
-        return 'Nurture-candidate', ('under ~10 employees with model language' if has_model else 'under ~10 employees') + flag
+    if emp is not None and isinstance(emp, (int, float)) and emp < 10 and not (rev and 5_000_000 <= rev <= 50_000_000):
+        return 'Nurture-candidate', ('under ~10 employees with model language' if has_model else 'under ~10 employees') + ' (client rule: headcount only gates when revenue is undeterminable)' + flag
     if has_model and rev and 5_000_000 <= rev <= 50_000_000:
         return 'P2-candidate', 'service/maintenance/testing language; revenue est. in $5-50M box' + flag
     if has_model:

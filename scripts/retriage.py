@@ -55,8 +55,8 @@ for b,v in d.items():
         else:
             rev=r.get('rev'); emp=r.get('emp')
             has_model=bool(re.search(MODEL, desc.lower()))
-            if emp is not None and emp<10:
-                r['priority']='Nurture-candidate'; note='under ~10 employees (Grata est.) with model language' if has_model else 'under ~10 employees (Grata est.)'
+            if emp is not None and emp<10 and not (rev and 5_000_000<=rev<=50_000_000):
+                r['priority']='Nurture-candidate'; note='under ~10 employees (Grata est.); revenue not determinably in box'
             elif has_model and rev and 5_000_000<=rev<=50_000_000:
                 r['priority']='P2-candidate'; note='service/maintenance/testing language; Grata revenue est. in $5-50M box'
             elif has_model:
