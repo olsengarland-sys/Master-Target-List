@@ -67,14 +67,37 @@ for b in ORDER:
 trow = ['TOTAL','', tot['P2-candidate'], tot['P3-candidate'], tot['Nurture-candidate'], tot['DQ-candidate'], tot['n'], tot['dk'], tot['do']]
 for i,x in enumerate(trow,1):
     c = ws.cell(row=r, column=i, value=x); c.font = BOLD
+r += 2
+W2 = json.load(open('scripts/xref/wave2.json'))
+ws.cell(row=r, column=1, value='WAVE 2 - INVEN x GRATA CROSS-REFERENCE (lower precision by design; see gaps)').font = TITLE; r += 1
+header(ws, r, ['Bucket','Bucket name','P2-candidate','P3-candidate','Nurture-candidate','DQ-candidate','Total new','Dropped as known','Dropped off-thesis by verifier'])
+r += 1
+w2t = collections.Counter()
+for b in ORDER:
+    t = W2['tally'][b]
+    row = [b, NAMES[b], t['P2-candidate'], t['P3-candidate'], t['Nurture-candidate'], t['DQ-candidate'], t['new'], t['dropped_known'], t['dropped_offthesis']]
+    for i,x in enumerate(row,1): ws.cell(row=r, column=i, value=x).alignment = TOP
+    for k in ('P2-candidate','P3-candidate','Nurture-candidate','DQ-candidate'): w2t[k] += t[k]
+    w2t['n'] += t['new']; w2t['dk'] += t['dropped_known']; w2t['do'] += t['dropped_offthesis']
+    r += 1
+for i,x in enumerate(['TOTAL','', w2t['P2-candidate'], w2t['P3-candidate'], w2t['Nurture-candidate'], w2t['DQ-candidate'], w2t['n'], w2t['dk'], w2t['do']],1):
+    ws.cell(row=r, column=i, value=x).font = BOLD
+r += 1
+c = ws.cell(row=r, column=1, value=('Wave 2 method: per bucket, one Inven semantic search (top 200 relevance-ranked rows, the three saved Inven lists excluded engine-side) '
+    'plus two fresh Grata keyword angles wave 1 never ran; deterministic dedupe against master, DQ log, Nurture, screened log, outreach list AND wave-1 candidates; '
+    'then an adversarial verifier per bucket challenged every priority. %d cross-bucket duplicates removed; %d non-US rows dropped in post-hoc cleanup. '
+    "Wave-2 'dropped as known' also counts within-wave cross-source duplicates, so it overstates prior-list overlap.") % (W2['crossDupes'], W2['_cleanup']['foreign_count']))
+c.alignment = WRAP; c.font = Font(italic=True, size=9)
+ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=9); ws.row_dimensions[r].height = 45
 r += 3
 
 ws.cell(row=r, column=1, value='GRATA TOKEN BALANCE').font = TITLE; r += 1
 for lab,val in [('Balance at start of run','5,743 of 7,000 remaining'),
-                ('Balance at end of run','4,758 of 7,000 remaining (32.03% of annual pool used)'),
-                ('Consumed by this run','985 tokens'),
+                ('Balance after wave 1','4,758 of 7,000 remaining'),
+                ('Balance after wave 2 (Inven x Grata cross-reference)','4,650 of 7,000 remaining'),
+                ('Consumed','985 tokens (wave 1) + 72 tokens (wave 2 Grata variants)'),
                 ('Billing period','2026-08-24 to 2027-08-23'),
-                ('Tools used','search_companies (3), find_similar_companies (3), get_public_comps (1), get_token_usage (0). No credit-consuming or side-effectful tool was called.')]:
+                ('Tools used','Grata: search_companies (3), find_similar_companies (3), get_public_comps (1), get_token_usage (0). Inven (wave 2): build_company_search, run_company_search, build_columns, get_lists - 31 visible screening credits total (1,452 -> 1,421) plus ~2,000 rows against the org export-volume quota (pool not visible via API). No contact, enrichment, CRM, list-write or export tool was called on either platform.')]:
     ws.cell(row=r, column=1, value=lab).font = BOLD
     ws.cell(row=r, column=2, value=val).alignment = WRAP
     r += 1
@@ -124,6 +147,20 @@ gaps = [
   'The S9 similar-to pass returned pure LED-lighting-retrofit and energy-services firms with no EV or electrical-infrastructure service '
   'line. These were dropped at triage rather than carried into the DQ tab as noise; the names are recorded in scripts/candidates.json '
   'under S9.offthesis_note. No other bucket needed an off-thesis drop.'),
+ ('WAVE 2: treat as a broader, lower-precision pool',
+  'Wave 2 (Inven semantic search + fresh Grata angles) trades precision for reach. Every priority was adversarially verified per bucket, but the completeness critic still recommends a human read of P2s before outreach. The wave-2 DQ pool (~544) contains verified gate misfires and must NOT be ingested into the DQ log wholesale.'),
+ ('WAVE 2: T3 and T2 counts are inflated by drift',
+  "T3 shows 137 new rows against a Grata-measured universe of ~102 - most of the excess is telecom/pipeline/heavy-civil drift; treat T3 wave-2 rows as unvetted. T2's 78 P2s against a ~273-firm universe is not credible either: an Inven refinement loosened the search ~10x (estimate 1,852 -> 19,739) and ~10 servo/PLC-repair names were kept on an unconfirmed assumption."),
+ ('WAVE 2: T5 under-returned',
+  'T5 delivered 19 P2 against a measured in-box universe of ~842. The Inven prompt drifted to MRO/distributor language. T5 needs a re-run with service-department-specific phrasing - the biggest single re-run opportunity.'),
+ ('WAVE 2: only the top 200 Inven rows per bucket were examined',
+  'Inven universes run 3,077-24,414 per bucket; only the top-200 relevance-ranked rows were pulled (2,000 export rows total). The unexamined tail plus never-exercised accreditation directories (NETA for T1, EASA/PEARL for T2/S7, LPI/UL Master Label for S10) are the highest-value next modalities.'),
+ ('WAVE 2: ownership filtering is not comparable across buckets',
+  'Inven ownership refinements resolved "not PE-backed" differently per bucket (VC-backed privates included in some, excluded in others - T1 and S10 excluded them). Per-bucket P2 pools are not comparable on ownership; Investor Backed rows carry REVIEW flags.'),
+ ('WAVE 2: revenue estimates disagree across platforms by up to 4.9x',
+  'Same-company revenue estimates from Inven vs Grata differ by up to 4.9x and cross the $5-50M box boundary (e.g. emoryelectric.com $40.9M vs $51.3M; krautomationinc.com $5.5M vs $27.1M). Box-based priority calls rest on soft estimates; verify revenue independently before acting on any single name.'),
+ ('WAVE 2: known data defects cleaned or flagged',
+  '12 non-US companies (foreign TLDs or critic-named) were dropped post-hoc; 7 rows carry REVIEW notes for critic-verified data errors (wrong description, implausible revenue/employee ratios, possible duplicate entity jhe-la.com/jbhcontractor.com); one invalid founding year (1694) was set to [unknown]. A Grata age-filter translation in T4 silently floored company age at 61 years, cutting pre-1965 family firms from the Grata-variant contribution.'),
  ('Description-only triage',
   'No enrichment call was made on any candidate. Model signals (recurring service revenue, contract base, technician count, NETA accreditation) are inferred from marketing prose. Expect meaningful false-positive and false-negative rates on the P2/P3 split.'),
 ]
@@ -304,6 +341,31 @@ for i,x in enumerate(tots,1):
 r += 2
 ws.cell(row=r, column=1, value='Note: bucket universes overlap (a firm can satisfy more than one keyword profile), so the TOTAL row is a sum of overlapping sets, not a distinct company count.').font = Font(italic=True, size=9)
 widths(ws, [8,30]+[16]*19)
+
+
+# ---------------------------------------------------------------- Wave 2 tab
+ws = wb.create_sheet('Wave 2 xref')
+ws['A1'] = 'Wave 2 - Inven x Grata cross-reference: net-new companies in no existing list'; ws['A1'].font = TITLE
+ws['A2'] = ('Broader, lower-precision pool than the wave-1 bucket tabs. Every row survived deterministic dedupe against all lists (wave 1 included) '
+            'and an adversarial verification pass. Revenue/employee figures are single-platform ESTIMATES (Inven or Grata per the Source column) and '
+            'disagree across platforms by up to 4.9x. Red = DQ-candidate (do not ingest into DQ log without the quoted-phrase check), amber = review/age/nurture flag.')
+ws['A2'].alignment = WRAP; ws['A2'].font = Font(italic=True, size=9)
+W2COLS = ['Bucket','Company','Domain','HQ','Revenue est.','Employee est.','Ownership','Year founded','Description (first 300 chars)','Source','Provisional priority','Gate / flag notes','Profile URL']
+header(ws, 4, W2COLS)
+r = 5
+for b in ORDER:
+    for c in sorted(W2['perBucket'][b]['candidates'], key=lambda x: (PRI_ORDER.get(x['priority'],9), -(x.get('rev') or 0))):
+        row = [b, c['name'], c.get('domain') or '[unknown]', c.get('hq') or '[unknown]', money(c.get('rev')), num(c.get('emp')),
+               c.get('own') or '[unknown]', num(c.get('yr')), (c.get('desc') or '')[:300], c.get('source',''), c['priority'], c.get('note','')[:500], c.get('url','')]
+        for i,x in enumerate(row,1):
+            cell = ws.cell(row=r, column=i, value=x); cell.alignment = WRAP; cell.border = THIN
+        if c['priority'] == 'DQ-candidate':
+            for i in range(1, len(W2COLS)+1): ws.cell(row=r, column=i).fill = RED
+        elif 'REVIEW' in c.get('note','') or 'AGE FLAG' in c.get('note','') or c['priority'] == 'Nurture-candidate':
+            for i in range(1, len(W2COLS)+1): ws.cell(row=r, column=i).fill = AMBER
+        ws.row_dimensions[r].height = 52
+        r += 1
+widths(ws, [7,30,26,20,13,12,15,10,64,34,16,55,30])
 
 wb.save(OUT)
 print('wrote', OUT)
