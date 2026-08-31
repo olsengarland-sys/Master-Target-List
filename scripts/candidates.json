@@ -2,20 +2,6 @@
  "T1": {
   "candidates": [
    {
-    "name": "Electrical Testing Solutions",
-    "domain": "electricaltestingsolutions.com",
-    "hq": "Oshkosh, WI",
-    "rev": 2903000,
-    "emp": 25,
-    "own": "Bootstrapped",
-    "yr": 2005,
-    "url": "https://search.grata.com/c/8FDKQ4R8",
-    "desc": "Electrical Testing Solutions offers a range of electrical testing and engineering services, including electrical equipment testing, infra-red thermography, circuit breakers and switchgear testing, transformer testing, and more. Their typical customers include commercial and industrial facilities in a variety of industries such as corporate, education, municipal, healthcare, manufacturing, utilities, construction, public venues, and institutional.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
     "name": "Industrial Electric Testing",
     "domain": "industrialelectrictesting.com",
     "hq": "Jacksonville, FL",
@@ -44,34 +30,6 @@
     "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    },
    {
-    "name": "Control Power Concepts",
-    "domain": "controlpowerconcepts.com",
-    "hq": "Las Vegas, NV",
-    "rev": 6343000,
-    "emp": 39,
-    "own": "Bootstrapped",
-    "yr": 2006,
-    "url": "https://search.grata.com/c/6G7UKR57",
-    "desc": "Control Power Concepts provides engineering and field testing services for electrical power systems, focusing on power system studies, protective relay engineering, acceptance and maintenance testing, and electrical safety programs for industrial, commercial, and utility customers. They position themselves as an accredited specialist that delivers hands-on support and long-term partnerships.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
-    "name": "A & F Electrical Testing",
-    "domain": "afelectricaltesting.com",
-    "hq": "Nesconset, NY",
-    "rev": 1786000,
-    "emp": 10,
-    "own": "Bootstrapped",
-    "yr": 1995,
-    "url": "https://search.grata.com/c/5E77TWD4",
-    "desc": "A & F Electrical Testing provides on-site acceptance and maintenance electrical testing, calibration, repair, and consulting for commercial and industrial power systems. They present themselves as a full-service independent testing and maintenance provider with experienced technicians, 24-hour availability, union signatory status and expertise across high-, medium-, and low-voltage equipment.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
     "name": "Giga Electrical",
     "domain": "gigaelectricalca.com",
     "hq": "Commerce, CA",
@@ -84,34 +42,6 @@
     "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
     "priority": "P3-candidate",
     "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
-    "name": "Infra-Red Building & Power Service, Inc",
-    "domain": "infraredbps.com",
-    "hq": "Holbrook, MA",
-    "rev": 4533000,
-    "emp": 51,
-    "own": "Bootstrapped",
-    "yr": 1992,
-    "url": "https://search.grata.com/c/F7XYMEBP",
-    "desc": "Infra-Red Building & Power Service, Inc provides electrical testing, preventive maintenance and engineering services for business and institutional electrical distribution systems. They emphasize preventative maintenance and 24/7 emergency service, and present themselves as a NETA-certified provider with decades of field experience in testing, inspection, repair, equipment rental and power system studies.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
-    "name": "Applied Engineering Concepts",
-    "domain": "aec-us.com",
-    "hq": "Pasadena, CA",
-    "rev": 6344000,
-    "emp": 38,
-    "own": "Bootstrapped",
-    "yr": 1994,
-    "url": "https://search.grata.com/c/QDVC7882",
-    "desc": "Applied Engineering Concepts provides electrical field-testing and power system engineering services to business and institutional customers such as hospitals, water treatment plants, utilities, and industrial facilities. They offer acceptance and maintenance testing, electrical commissioning, power system studies, and training using ANSI/NETA standards.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    },
    {
     "name": "Moses Electric",
@@ -128,20 +58,6 @@
     "note": "gate: residential -> \"...g, and repair/retrofit services for commercial projects and residential clients. They serve contractors and project owners and mark...\""
    },
    {
-    "name": "North Central Electric, Inc.",
-    "domain": "ncetest.com",
-    "hq": "Langhorne, PA",
-    "rev": 6911000,
-    "emp": 26,
-    "own": "Bootstrapped",
-    "yr": 1988,
-    "url": "https://search.grata.com/c/S6A3JVXK",
-    "desc": "North Central Electric, Inc. provides commercial and industrial electrical contracting focused on electrical testing, maintenance programs, engineering, and commissioning for businesses in power generation, utilities, manufacturing, industrial, and commercial facilities. They schedule regular testing and maintenance to prevent unplanned outages; certified veteran-owned small business.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
     "name": "Global Electronics Testing Services, LLC",
     "domain": "gets-usa.com",
     "hq": "Odessa, FL",
@@ -154,34 +70,6 @@
     "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
     "priority": "P2-candidate",
     "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
-    "name": "AMP Quality Energy Services",
-    "domain": "ampqes.com",
-    "hq": "Decatur, AL",
-    "rev": 5530000,
-    "emp": 34,
-    "own": "Bootstrapped",
-    "yr": 2009,
-    "url": "https://search.grata.com/c/9KDSYEDU",
-    "desc": "AMP Quality Energy Services provides on-site electrical testing and engineering services for business customers that operate electrical systems. They offer customized field testing and engineering studies (Arc Flash, Load, Device Coordination, Short Circuit Analysis) aimed at improving system safety, reliability, and compliance.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
-    "name": "Independent Testing Agency",
-    "domain": "independent-testing.com",
-    "hq": "Hanover, MD",
-    "rev": 3393000,
-    "emp": 19,
-    "own": "Bootstrapped",
-    "yr": 1993,
-    "url": "https://search.grata.com/c/36MU8RC2",
-    "desc": "Independent Testing Agency provides independent electrical testing, maintenance, and engineering services for industrial, commercial, and institutional clients. They perform diagnostic testing and maintenance on switchgear, transformers, feeder cables, and protection relays; NETA-accredited, woman-owned firm offering 24/7 emergency response.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. below $5M box"
    },
    {
     "name": "P&D Electric Inc.",
@@ -282,20 +170,6 @@
     "note": "model language present; Grata revenue est. below $5M box"
    },
    {
-    "name": "Praetorian Power Protection LLC",
-    "domain": "praetorianpower.com",
-    "hq": "Seattle, WA",
-    "rev": 69993000,
-    "emp": 228,
-    "own": "Bootstrapped",
-    "yr": 2014,
-    "url": "https://search.grata.com/c/JYKHCU57",
-    "desc": "Praetorian Power Protection provides power protection services for mission-critical electrical systems, focusing on certified electrical testing, commissioning, protection and controls, switchgear modernization, and UPS/battery testing. They serve business customers operating critical facilities and position themselves as NETA-certified specialists.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. above $50M box"
-   },
-   {
     "name": "SKF Electrical Corp.",
     "domain": "skfelectric.com",
     "hq": "New York, NY",
@@ -319,20 +193,6 @@
     "yr": 1994,
     "url": "https://search.grata.com/c/MJEGL9RG",
     "desc": "Aa Technology Inc provides contract manufacturing of printed circuit board assemblies, bare boards, wire harnesses and complete box-build assemblies for business customers, offering engineering services (scanning, reverse engineering), on-site electrical testing, and production from prototypes to large volumes.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
-    "name": "Tidal Power Services",
-    "domain": "tidalpowerservices.com",
-    "hq": "Rosharon, TX",
-    "rev": 38987000,
-    "emp": 128,
-    "own": "Bootstrapped",
-    "yr": 2011,
-    "url": "https://search.grata.com/c/RVG3ZPEU",
-    "desc": "Tidal Power Services provides field electrical testing, commissioning, maintenance, transformer and breaker services, and engineering support for low- through high-voltage power systems to commercial and industrial power owners and utilities. NETA-accredited provider with trained field personnel and a long safety record.",
     "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
     "priority": "P2-candidate",
     "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
@@ -436,34 +296,6 @@
     "note": "gate: manufacturer (self) -> \"...serves OEMs and R&D teams, and offers test-equipment design/manufacture and lab rental services.\""
    },
    {
-    "name": "Power Pros",
-    "domain": "powerpros.net",
-    "hq": "McClellan, CA",
-    "rev": 4350000,
-    "emp": 24,
-    "own": "Bootstrapped",
-    "yr": 2008,
-    "url": "https://search.grata.com/c/GLYZTR3R",
-    "desc": "Power Pros provides electrical engineering, commissioning, testing, inspection and consulting services for power generation, distribution and end-user electrical facilities. They serve utilities, power generators and industrial facility owners and deliver customized testing protocols while minimizing disruption to operations.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
-    "name": "Grubb Engineering, Inc.",
-    "domain": "grubbengineering.com",
-    "hq": "San Antonio, TX",
-    "rev": 4531000,
-    "emp": 25,
-    "own": "Bootstrapped",
-    "yr": 1981,
-    "url": "https://search.grata.com/c/PLR895ND",
-    "desc": "Grubb Engineering, Inc. provides electrical power systems engineering and technical testing services to utilities, industrial facilities, and contractors. They offer electrical system design, power system studies and power quality analysis, plus commissioning, acceptance and maintenance testing, drafting, and document management.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
     "name": "CBS Nuclear Service Inc.",
     "domain": "cbsnuclear.com",
     "hq": "Matthews, NC",
@@ -516,48 +348,6 @@
     "url": "https://search.grata.com/c/JRJGWFDV",
     "desc": "Bixby Electric, Inc. provides commercial and industrial electrical construction and maintenance services for business and institutional clients, including transmission and distribution work up to 115 kV and airfield/transportation electrical systems. They serve utilities, industrial plants, medical and water/wastewater facilities.",
     "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
-    "name": "Elect, P.C.",
-    "domain": "elect-pc.com",
-    "hq": "Wendell, NC",
-    "rev": 3036000,
-    "emp": 14,
-    "own": "Bootstrapped",
-    "yr": 1996,
-    "url": "https://search.grata.com/c/6LPZVE4D",
-    "desc": "Elect, P.C. provides electrical engineering consulting, power system analysis, field testing and commissioning, and classroom training for businesses that operate or maintain electrical power systems. Licensed engineering staff, 24/7 availability, protective relaying and generator interconnection capabilities.",
-    "source": "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
-    "name": "Tony Demaria Electric, Inc.",
-    "domain": "tdeinc.com",
-    "hq": "California, USA",
-    "rev": 12493000,
-    "emp": 47,
-    "own": "Bootstrapped",
-    "yr": 1995,
-    "url": "https://search.grata.com/c/W79WZG6C",
-    "desc": "Tony Demaria Electric, Inc. provides specialized medium- and high-voltage electrical services to industrial and commercial energy customers, including electrical testing, maintenance, repair, commissioning, engineering, power system studies, substation work.",
-    "source": "similar-to seeds: pdmaintenance.com, sopower.com, telexllc.com, elecpwr.com, lndts.com, ietspower.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
-    "name": "Vantix Electric",
-    "domain": "vantixelectric.com",
-    "hq": "Dallas, GA",
-    "rev": 10898000,
-    "emp": 45,
-    "own": "Bootstrapped",
-    "yr": 2014,
-    "url": "https://search.grata.com/c/2QKALZQ2",
-    "desc": "Vantix Electric provides commercial and industrial electrical contracting services for general contractors, facility managers, and building owners, focusing on installations, maintenance, and emergency response. They position themselves as a veteran-owned firm.",
-    "source": "similar-to seeds: pdmaintenance.com, sopower.com, telexllc.com, elecpwr.com, lndts.com, ietspower.com",
     "priority": "P2-candidate",
     "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    },
@@ -632,7 +422,7 @@
     "note": "model language present; Grata revenue est. below $5M box"
    }
   ],
-  "dropped_known": 21,
+  "dropped_known": 36,
   "sources": [
    "search: electrical acceptance testing / NETA testing / power system commissioning / relay testing and calibration / electrical testing services",
    "similar-to seeds: pdmaintenance.com, sopower.com, telexllc.com, elecpwr.com, lndts.com, ietspower.com"
@@ -737,20 +527,6 @@
     "source": "search: circuit breaker repair / switchgear service / transformer repair / electrical apparatus service / breaker rebuild",
     "priority": "P3-candidate",
     "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
-    "name": "Coastal Power Systems",
-    "domain": "coastalpowersystems.com",
-    "hq": "Tomball, TX",
-    "rev": 18524000,
-    "emp": 24,
-    "own": "Bootstrapped",
-    "yr": 1995,
-    "url": "https://search.grata.com/c/KMNRCFLW",
-    "desc": "Coastal Power Systems sells new and refurbished low- and medium-voltage circuit breakers and provides repair, retrofit/retrofill, switchgear and switchboard lineups, protective relay systems, on-site electrical testing, and in-house fabrication; fast turnaround, 24/7 availability.",
-    "source": "search: circuit breaker repair / switchgear service / transformer repair / electrical apparatus service / breaker rebuild",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    },
    {
     "name": "Integrity Electric",
@@ -1019,20 +795,6 @@
     "note": "model language present; Grata revenue est. below $5M box"
    },
    {
-    "name": "Colorado Powerline, Inc",
-    "domain": "coloradopowerline.com",
-    "hq": "Sedalia, CO",
-    "rev": 31954000,
-    "emp": 112,
-    "own": "Bootstrapped",
-    "yr": 2006,
-    "url": "https://search.grata.com/c/MFM2J3RA",
-    "desc": "Colorado Powerline, Inc provides electric powerline installation, repair, and maintenance services for utilities and industrial clients, handling overhead, underground, transmission, and substation projects using owned equipment and crews.",
-    "source": "similar-to seeds: transformer-svc.com, transformerservicesinc.com, southernswitch.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
     "name": "Bodine Electric of Danville Inc.",
     "domain": "bodinedanville.com",
     "hq": "Danville, IL",
@@ -1143,20 +905,6 @@
     "source": "similar-to seeds: transformer-svc.com, transformerservicesinc.com, southernswitch.com",
     "priority": "P3-candidate",
     "note": "trade fits; model signals absent from description"
-   },
-   {
-    "name": "Arizona Electrical Apparatus",
-    "domain": "arizonaelectricalapparatus.com",
-    "hq": "Tucson, AZ",
-    "rev": 4714000,
-    "emp": 52,
-    "own": "Bootstrapped",
-    "yr": 1996,
-    "url": "https://search.grata.com/c/DGJ4HSS7",
-    "desc": "Arizona Electrical Apparatus provides maintenance, testing, installation, reconditioning, and distribution of electrical power distribution and motor control equipment for industrial and commercial customers; they position themselves as a full-service shop.",
-    "source": "similar-to seeds: transformer-svc.com, transformerservicesinc.com, southernswitch.com",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. below $5M box"
    },
    {
     "name": "Karian Peterson Powerline Contracting, LLC",
@@ -1299,7 +1047,7 @@
     "note": "model language present; Grata revenue est. below $5M box"
    }
   ],
-  "dropped_known": 25,
+  "dropped_known": 28,
   "sources": [
    "search: circuit breaker repair / switchgear service / transformer repair / electrical apparatus service / breaker rebuild",
    "similar-to seeds: transformer-svc.com, transformerservicesinc.com, southernswitch.com"
@@ -1574,62 +1322,6 @@
     "note": "model language present; Grata revenue est. below $5M box"
    },
    {
-    "name": "Interstate Electrical Contractors Inc",
-    "domain": "interstateelectrical.net",
-    "hq": "Arvada, CO",
-    "rev": 24587000,
-    "emp": 83,
-    "own": "Bootstrapped",
-    "yr": 1984,
-    "url": "https://search.grata.com/c/MPYKFT6B",
-    "desc": "Interstate Electrical Contractors, Inc. provides electrical construction and design/build services for power substations and medium-voltage distribution systems, offering turnkey substation packages and underground distribution/transmission work.",
-    "source": "similar-to seeds: primaryus.com, scobeepowerline.com, powerlineconsultantsllc.com, couttsbros.com, jordanhighvoltage.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
-    "name": "Magnum Power",
-    "domain": "magnumpower.com",
-    "hq": "Ridgefield, WA",
-    "rev": 63854000,
-    "emp": 208,
-    "own": "Bootstrapped",
-    "yr": 2004,
-    "url": "https://search.grata.com/c/PY6AJQ7G",
-    "desc": "Magnum Power provides construction, maintenance, and emergency restoration for electric transmission, distribution, and substation infrastructure for utilities and utility-like organizations. They offer underground and directional drilling services.",
-    "source": "similar-to seeds: primaryus.com, scobeepowerline.com, powerlineconsultantsllc.com, couttsbros.com, jordanhighvoltage.com",
-    "priority": "P3-candidate",
-    "note": "model language present; Grata revenue est. above $50M box"
-   },
-   {
-    "name": "PB Electric, Inc.",
-    "domain": "pbelectricinc.com",
-    "hq": "Rancho Cordova, CA",
-    "rev": 7177000,
-    "emp": 27,
-    "own": "Bootstrapped",
-    "yr": 2000,
-    "url": "https://search.grata.com/c/FYWBZG7N",
-    "desc": "PB Electric, Inc. provides electrical contracting services for high-voltage, industrial, and commercial clients, offering installation, maintenance, emergency restoration and design-build work. They emphasize safety programs, around-the-clock service.",
-    "source": "similar-to seeds: primaryus.com, scobeepowerline.com, powerlineconsultantsllc.com, couttsbros.com, jordanhighvoltage.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
-    "name": "Altitude Energy, LLC",
-    "domain": "altitudeenergy.com",
-    "hq": "Keenesburg, CO",
-    "rev": 32810000,
-    "emp": 115,
-    "own": "Bootstrapped",
-    "yr": 2015,
-    "url": "https://search.grata.com/c/VVVMW2HX",
-    "desc": "Altitude Energy, LLC is a high-voltage power line contractor that provides transmission, substation, distribution and storm-restoration contracting services to utility and infrastructure clients. They emphasize client relationships, safety and craftsmanship.",
-    "source": "similar-to seeds: primaryus.com, scobeepowerline.com, powerlineconsultantsllc.com, couttsbros.com, jordanhighvoltage.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
     "name": "Schmidt Industrial",
     "domain": "schmidt-industrial.com",
     "hq": "Waller, TX",
@@ -1656,20 +1348,6 @@
     "source": "similar-to seeds: primaryus.com, scobeepowerline.com, powerlineconsultantsllc.com, couttsbros.com, jordanhighvoltage.com",
     "priority": "P3-candidate",
     "note": "model language present; Grata revenue est. above $50M box"
-   },
-   {
-    "name": "Mountain Power Construction Co",
-    "domain": "mountainpower.com",
-    "hq": "Post Falls, ID",
-    "rev": 39372000,
-    "emp": 138,
-    "own": "Bootstrapped",
-    "yr": 1985,
-    "url": "https://search.grata.com/c/QBSSCW3D",
-    "desc": "Mountain Power Construction Co provides comprehensive high-voltage powerline construction and design-build contracting services to electric utilities and transmission project owners, claiming decades of experience, an emphasis on safety, competitive bids.",
-    "source": "similar-to seeds: primaryus.com, scobeepowerline.com, powerlineconsultantsllc.com, couttsbros.com, jordanhighvoltage.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    },
    {
     "name": "PowerTek LLC",
@@ -1798,7 +1476,7 @@
     "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    }
   ],
-  "dropped_known": 28,
+  "dropped_known": 33,
   "sources": [
    "search: utility line contractor / substation construction and maintenance / distribution line construction / transmission line services / powerline maintenance",
    "similar-to seeds: primaryus.com, scobeepowerline.com, powerlineconsultantsllc.com, couttsbros.com, jordanhighvoltage.com"
@@ -2253,23 +1931,9 @@
     "source": "similar-to seeds: caldwellelectric.com, wjbe.com, dynamicelectric.com, california-electrical.com, coalmont.com",
     "priority": "P3-candidate",
     "note": "model language present; Grata revenue est. below $5M box"
-   },
-   {
-    "name": "Royal Electric Co. Inc",
-    "domain": "royal-electric.biz",
-    "hq": "Woodsville, NH",
-    "rev": 16205000,
-    "emp": 58,
-    "own": "Bootstrapped",
-    "yr": 1974,
-    "url": "https://search.grata.com/c/DCQPP3JW",
-    "desc": "ROYAL ELECTRIC provides electrical contracting, engineering, and design-build construction services for commercial, industrial, and specialty-industry clients, offering design through service for systems from primary power to communications.",
-    "source": "similar-to seeds: caldwellelectric.com, wjbe.com, dynamicelectric.com, california-electrical.com, coalmont.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    }
   ],
-  "dropped_known": 14,
+  "dropped_known": 15,
   "sources": [
    "search: industrial electrical services / plant electrical maintenance / industrial electrical contractor / electrical maintenance and troubleshooting",
    "similar-to seeds: caldwellelectric.com, wjbe.com, dynamicelectric.com, california-electrical.com, coalmont.com"
@@ -2988,20 +2652,6 @@
     "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    },
    {
-    "name": "EOLA A Critical Power Company",
-    "domain": "eolapower.com",
-    "hq": "Miami, FL",
-    "rev": 4032000,
-    "emp": 47,
-    "own": "Bootstrapped",
-    "yr": 2016,
-    "url": "https://search.grata.com/c/ZYCR2KSD",
-    "desc": "EOLA A Critical Power Company provides critical power services and products focused on UPS systems and supporting backup infrastructure. Preventive and emergency maintenance, battery testing and replacement, data center commissioning, and turnkey replacement of UPS, HVAC, and generators. Engineer-owned single-source provider.",
-    "source": "search: critical power services / data center electrical services / UPS maintenance / battery systems service / mission critical power",
-    "priority": "DQ-candidate",
-    "note": "gate: off-trade (plumbing/HVAC/roofing/tree) -> \"...data center commissioning, and turnkey replacement of UPS, HVAC, and generators. Engineer-owned single-source provider.\""
-   },
-   {
     "name": "Total Online Protection",
     "domain": "totalonlineprotection.com",
     "hq": "Temecula, CA",
@@ -3212,20 +2862,6 @@
     "note": "model language present; Grata revenue est. below $5M box"
    },
    {
-    "name": "Mission Critical Specialists",
-    "domain": "mcsups.com",
-    "hq": "Diamond Springs, CA",
-    "rev": 7708000,
-    "emp": 26,
-    "own": "Bootstrapped",
-    "yr": 2008,
-    "url": "https://search.grata.com/c/J7LLM99F",
-    "desc": "Mission Critical Specialists provides design, installation, proactive maintenance, and emergency response for critical power, backup generator, and thermal systems. They serve business customers that require always-on infrastructure, offering vendor-agnostic single-point solutions, in-house design and technician training, and rapid field response.",
-    "source": "similar-to seeds: blackmonservice.com, nationwidepower.com, echopower.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
     "name": "Tracey Mechanical Inc",
     "domain": "traceymechanical.com",
     "hq": "Newtown Square, PA",
@@ -3254,7 +2890,7 @@
     "note": "gate: off-trade (plumbing/HVAC/roofing/tree) -> \"Tradesmen of New England LLC delivers commercial HVAC installation, maintenance, repair, and building automation...\""
    }
   ],
-  "dropped_known": 4,
+  "dropped_known": 6,
   "sources": [
    "search: critical power services / data center electrical services / UPS maintenance / battery systems service / mission critical power",
    "similar-to seeds: blackmonservice.com, nationwidepower.com, echopower.com"
@@ -4042,20 +3678,6 @@
     "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    },
    {
-    "name": "Colvico, Inc.",
-    "domain": "colvicoinc.com",
-    "hq": "Spokane, WA",
-    "rev": 23210000,
-    "emp": 73,
-    "own": "Bootstrapped",
-    "yr": 1987,
-    "url": "https://search.grata.com/c/9MXGHY5K",
-    "desc": "Colvico, Inc. provides electrical contracting and installation services for commercial and industrial clients, focusing on industrial control applications, street lighting and traffic signals, underground utility/high-voltage work.",
-    "source": "similar-to seeds: lightingmaintenance.com, horsepowerelectric.com, dcelectricgroup.com, perryelectricsd.com, underpowercorp.com",
-    "priority": "P2-candidate",
-    "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
-   },
-   {
     "name": "All Service Electric, Inc.",
     "domain": "ase-ar.com",
     "hq": "Hot Springs, AR",
@@ -4084,7 +3706,7 @@
     "note": "service/maintenance/testing language; Grata revenue est. in $5-50M box"
    }
   ],
-  "dropped_known": 19,
+  "dropped_known": 20,
   "sources": [
    "search: traffic signal construction / traffic signal maintenance / street lighting maintenance / roadway lighting",
    "similar-to seeds: lightingmaintenance.com, horsepowerelectric.com, dcelectricgroup.com, perryelectricsd.com, underpowercorp.com"
@@ -4907,5 +4529,8 @@
   ],
   "dropped_offthesis": 13,
   "offthesis_note": "13 results from the similar-to pass were pure LED-lighting-retrofit / energy-services firms with no EV or electrical-infrastructure service line (Enerlight, Green Systems LED, Contemporary Energy Solutions, Pearl Street, Lumenal Lighting, Enercon Consultants, Aquila Environmental, WLS Lighting, Blue Planet Energy, Hemma Lighting, Southpoint Solutions, Energy Management Collaborative, Allied Electric). Dropped at triage as off-thesis rather than carried as DQ noise."
+ },
+ "_meta": {
+  "contacts_dedupe": "Outreach contacts CSV folded into the dedupe index after the initial run: 408 unique companies. Removed 27 candidates already on the outreach list. Contact names, titles and email addresses were used for matching only and are not stored in this file or in the workbook."
  }
 }

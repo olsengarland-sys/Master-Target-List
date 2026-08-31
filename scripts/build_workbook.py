@@ -106,6 +106,12 @@ gaps = [
   'Any residential language in a Grata description fires the gate, including firms that list residential alongside commercial and industrial. 32 of 64 DQ-candidates fired on this gate. Several are likely C&I-dominant and worth a human re-read before they enter the DQ log permanently — the quoted phrase is on the DQ tab so the mix can be judged.'),
  ('Unknown-revenue pool is effectively zero',
   'In every bucket the five revenue bands sum to the unfiltered bucket total (variance 0-2 companies), i.e. Grata carries a revenue estimate for essentially every company in these filter sets. The pool was derived arithmetically rather than by 50 extra revenue_include_unknown calls.'),
+ ('Outreach contacts list was added to dedupe AFTER the initial run',
+  'The outreach contacts CSV (408 unique companies already contacted) was not among the inputs when the searches ran; it was supplied '
+  'afterwards and folded into the dedupe index on a second pass. 27 candidates already on that outreach list were removed and are counted '
+  'in each bucket\'s dropped-as-known figure. Contact names, titles and email addresses were used for matching only and appear nowhere in '
+  'this workbook. Note also that 177 of the 408 outreach companies are in neither the master nor the screened log, so that list is itself '
+  'an untracked source of names worth reconciling into the master.'),
  ('Search depth was not uniform across buckets',
   'Every bucket got a keyword search_companies pass AND a find_similar_companies pass seeded with up to 5 master P1/P2 companies '
   '(Grata warns per-seed signal dilutes past ~5 seeds). Page depth varied by how fast results went off-thesis: T2 and T3 ran 2 pages '
