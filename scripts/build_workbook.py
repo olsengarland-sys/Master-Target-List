@@ -89,13 +89,38 @@ c = ws.cell(row=r, column=1, value=('Wave 2 method: per bucket, one Inven semant
     "Wave-2 'dropped as known' also counts within-wave cross-source duplicates, so it overstates prior-list overlap.") % (W2['crossDupes'], W2['_cleanup']['foreign_count']))
 c.alignment = WRAP; c.font = Font(italic=True, size=9)
 ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=9); ws.row_dimensions[r].height = 45
+r += 2
+W3 = json.load(open('scripts/xref/wave3_recovery.json'))
+ws.cell(row=r, column=1, value='WAVE 3 - REVENUE-ONLY RECOVERY (employee proxy removed per client rule)').font = TITLE; r += 1
+header(ws, r, ['Bucket','Bucket name','P2-candidate','P3-candidate','DQ-candidate','Total new','Revenue-only universe','In-box w/ employee filter (wave 1)','Hidden by proxy'])
+r += 1
+w3t = collections.Counter()
+for b in ORDER:
+    v3 = W3['perBucket'][b]
+    pc = collections.Counter(c['priority'] for c in v3['survivors'])
+    inbox = CUTS[b]['in_box_5_50M']
+    row = [b, NAMES[b], pc['P2-candidate'], pc['P3-candidate'], pc['DQ-candidate'], len(v3['survivors']),
+           v3.get('count_revenue_only'), inbox, (v3.get('count_revenue_only') or 0) - inbox]
+    for i,x in enumerate(row,1): ws.cell(row=r, column=i, value=x).alignment = TOP
+    for k in ('P2-candidate','P3-candidate','DQ-candidate'): w3t[k] += pc[k]
+    w3t['n'] += len(v3['survivors']); w3t['delta'] += (v3.get('count_revenue_only') or 0) - inbox
+    r += 1
+for i,x in enumerate(['TOTAL','', w3t['P2-candidate'], w3t['P3-candidate'], w3t['DQ-candidate'], w3t['n'], '', '', w3t['delta']],1):
+    ws.cell(row=r, column=i, value=x).font = BOLD
+r += 1
+c = ws.cell(row=r, column=1, value=('Wave 3 re-ran each bucket\'s wave-1 primary keyword search with revenue $5-50M and NO employee filter, per the client rule that '
+    'headcount is not an investment criterion (it was only a proxy). The proxy had been hiding ~%d in-box companies across buckets, concentrated in T6, T4 and S7. '
+    'Only the top 1-2 pages per bucket were pulled; the T6/T4 tails remain unexplored.') % w3t['delta'])
+c.alignment = WRAP; c.font = Font(italic=True, size=9)
+ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=9); ws.row_dimensions[r].height = 40
 r += 3
 
 ws.cell(row=r, column=1, value='GRATA TOKEN BALANCE').font = TITLE; r += 1
 for lab,val in [('Balance at start of run','5,743 of 7,000 remaining'),
                 ('Balance after wave 1','4,758 of 7,000 remaining'),
                 ('Balance after wave 2 (Inven x Grata cross-reference)','4,650 of 7,000 remaining'),
-                ('Consumed','985 tokens (wave 1) + 72 tokens (wave 2 Grata variants)'),
+                ('Balance after wave 3 (revenue-only recovery)','4,614 of 7,000 remaining'),
+                ('Consumed','985 (wave 1) + 72 (wave 2) + 36 (wave 3) Grata tokens'),
                 ('Billing period','2026-08-24 to 2027-08-23'),
                 ('Tools used','Grata: search_companies (3), find_similar_companies (3), get_public_comps (1), get_token_usage (0). Inven (wave 2): build_company_search, run_company_search, build_columns, get_lists - 31 visible screening credits total (1,452 -> 1,421) plus ~2,000 rows against the org export-volume quota (pool not visible via API). No contact, enrichment, CRM, list-write or export tool was called on either platform.')]:
     ws.cell(row=r, column=1, value=lab).font = BOLD
@@ -147,6 +172,8 @@ gaps = [
   'The S9 similar-to pass returned pure LED-lighting-retrofit and energy-services firms with no EV or electrical-infrastructure service '
   'line. These were dropped at triage rather than carried into the DQ tab as noise; the names are recorded in scripts/candidates.json '
   'under S9.offthesis_note. No other bucket needed an off-thesis drop.'),
+ ('WAVE 3: employee filter removed - proxy had hidden ~236 in-box companies',
+  'Per the client rule that headcount is not a criterion, wave 3 re-ran the primary searches on revenue only. 87 new rows surfaced (33 P2), best names at headcounts the proxy excluded (L&S Electric at 360 FTE, sub-10-FTE critical-power specialists). The T6 (+110) and T4 (+46) revenue-only deltas were only sampled at the top of relevance ranking - paging deeper there is the cheapest remaining recovery. Caveat: with no headcount floor, some wave-3 rows may be estimate artifacts; revenue/employee plausibility was not re-checked.'),
  ('WAVE 2: treat as a broader, lower-precision pool',
   'Wave 2 (Inven semantic search + fresh Grata angles) trades precision for reach. Every priority was adversarially verified per bucket, but the completeness critic still recommends a human read of P2s before outreach. The wave-2 DQ pool (~544) contains verified gate misfires and must NOT be ingested into the DQ log wholesale.'),
  ('WAVE 2: T3 and T2 counts are inflated by drift',
@@ -362,6 +389,28 @@ for b in ORDER:
         if c['priority'] == 'DQ-candidate':
             for i in range(1, len(W2COLS)+1): ws.cell(row=r, column=i).fill = RED
         elif 'REVIEW' in c.get('note','') or 'AGE FLAG' in c.get('note','') or c['priority'] == 'Nurture-candidate':
+            for i in range(1, len(W2COLS)+1): ws.cell(row=r, column=i).fill = AMBER
+        ws.row_dimensions[r].height = 52
+        r += 1
+widths(ws, [7,30,26,20,13,12,15,10,64,34,16,55,30])
+
+# ---------------------------------------------------------------- Wave 3 tab
+ws = wb.create_sheet('Wave 3 recovery')
+ws['A1'] = 'Wave 3 - revenue-only recovery: in-box companies the employee proxy hid'; ws['A1'].font = TITLE
+ws['A2'] = ('Same wave-1 primary keyword searches, revenue $5-50M, NO employee filter, deduped against every list and waves 1-2. '
+            'Headcount shown for information only - it is not a criterion. Red = DQ-candidate, amber = review/age flag.')
+ws['A2'].alignment = WRAP; ws['A2'].font = Font(italic=True, size=9)
+header(ws, 4, W2COLS)
+r = 5
+for b in ORDER:
+    for c in sorted(W3['perBucket'][b]['survivors'], key=lambda x: (PRI_ORDER.get(x['priority'],9), -(x.get('rev') or 0))):
+        row = [b, c['name'], c.get('domain') or '[unknown]', c.get('hq') or '[unknown]', money(c.get('rev')), num(c.get('emp')),
+               c.get('own') or '[unknown]', num(c.get('yr')), (c.get('desc') or '')[:300], c.get('source',''), c['priority'], c.get('note','')[:500], c.get('url','')]
+        for i,x in enumerate(row,1):
+            cell = ws.cell(row=r, column=i, value=x); cell.alignment = WRAP; cell.border = THIN
+        if c['priority'] == 'DQ-candidate':
+            for i in range(1, len(W2COLS)+1): ws.cell(row=r, column=i).fill = RED
+        elif 'REVIEW' in c.get('note','') or 'AGE FLAG' in c.get('note',''):
             for i in range(1, len(W2COLS)+1): ws.cell(row=r, column=i).fill = AMBER
         ws.row_dimensions[r].height = 52
         r += 1
