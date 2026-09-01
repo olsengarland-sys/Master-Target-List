@@ -2,14 +2,14 @@
  "generated": "2026-09-01",
  "platform": "inven get_company_contacts (owner-title filtered)",
  "policy": "inven contact-credit floor 6000; grata carries the remainder; 1200-company cap",
- "attempted": 844,
- "with_contacts": 472,
- "credits_used": 483,
- "companies_with_mobile": 395,
- "mobile_phones": 721,
- "direct_dial_phones": 411,
- "office_only_companies": 53,
- "verified_emails": 670,
+ "attempted": 868,
+ "with_contacts": 489,
+ "credits_used": 490,
+ "companies_with_mobile": 408,
+ "mobile_phones": 744,
+ "direct_dial_phones": 421,
+ "office_only_companies": 54,
+ "verified_emails": 695,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -12052,6 +12052,309 @@
     }
    ]
   },
+  "spikeelectric.com": {
+   "name": "Spike Electric Controls",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Robert Hodson",
+     "title": "President",
+     "emails": [
+      {
+       "email": "robert@spikeelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "bobhodson@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 281-687-4431",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 609-915-1092",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 713-354-9916",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "coastlinepowersolutions.com": {
+   "name": "Coastline Power Solutions",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no title match (22 contacts at domain)",
+   "contacts": []
+  },
+  "asesafety.com": {
+   "name": "Advanced Safety & Energy",
+   "bucket": "E12",
+   "campaign": "Power Systems Engineering",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Sandra Aulbrook",
+     "title": "CEO",
+     "emails": [
+      {
+       "email": "sandra.aubrook@asesafety.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "sandra333@mac.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 810-333-9033",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 810-417-0220",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 810-245-9333",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "ampsafe.com": {
+   "name": "Ampsafe, LLC.",
+   "bucket": "E12",
+   "campaign": "Power Systems Engineering",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Ruben Corvalan",
+     "title": "Managing Principal",
+     "emails": [
+      {
+       "email": "corvalan@ampsafe.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "rubencorvalan@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 210-241-4276",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 210-957-2663",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 210-481-0377",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "blakesleeelectric.com": {
+   "name": "Blakeslee Electric Inc",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jeff Blakeslee",
+     "title": "President",
+     "emails": [
+      {
+       "email": "jeffb@blakesleeelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "doxy2kp@aol.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 707-396-3842",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 707-396-3843",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 707-545-6393",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "g3electrical.com": {
+   "name": "G3 Electrical",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Thomas Moore",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "tmoore@g3electrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 970-948-4035",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 702-916-3355",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "terceroinc.com": {
+   "name": "Tercero INC.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "office line only",
+   "contacts": [
+    {
+     "name": "Freddie Tercero",
+     "title": "partner electric vehicle charging",
+     "emails": [
+      {
+       "email": "freddie@terceroinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 281-398-3918",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "excelltdinc.com": {
+   "name": "Excel Ltd. Inc.",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "only verified email is personal and name-mismatched (Andrew) - verify",
+   "contacts": [
+    {
+     "name": "Jim Bartus",
+     "title": "President and Owner",
+     "emails": [
+      {
+       "email": "andrewjbartus@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jim@excelltdinc.com",
+       "type": "professional",
+       "quality": "Very bad",
+       "is_verified": false
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 847-431-2199",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 847-722-2638",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 847-543-9230",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
   "schemmelectric.com": {
    "name": "Schemm Electric Co",
    "bucket": "T4",
@@ -20614,6 +20917,286 @@
     }
    ]
   },
+  "stenceelectric.com": {
+   "name": "Stence Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "named lookup: no contact found for Glenda Stence",
+   "contacts": []
+  },
+  "secucontrol.com": {
+   "name": "SecuControl",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "office line only; Germany-based contact",
+   "contacts": [
+    {
+     "name": "Frank Hergeroeder",
+     "title": "President",
+     "emails": [
+      {
+       "email": "frank.hergeroeder@secucontrol.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "frank.roeder@secucontrol.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+49 7038 387677",
+       "type": "other"
+      },
+      {
+       "number": "+1 703-838-7677",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "g-gelectricservice.com": {
+   "name": "G&G Electric Service Inc.",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Teresa Moore",
+     "title": "Owner and President",
+     "emails": [
+      {
+       "email": "mooreteri@hotmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 863-287-6092",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 407-617-3844",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 863-949-6181",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "anconacontrols.com": {
+   "name": "Ancona Controls",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Albert Ancona",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "albert@anconacontrols.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "abancona@comcast.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 248-672-8001",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 248-924-2747",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "houstonpumpandgear.com": {
+   "name": "Houston Pump and Gear",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Vincent Michaels",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "vmichaels@houstonpumpandgear.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 832-603-9663",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 614-519-7845",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 614-562-4100",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 281-903-7018",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 832-603-9663",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "sloanelectric.com": {
+   "name": "Sloan Electric",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jerry Gray",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "jgray001@san.rr.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 858-349-8386",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 949-212-0291",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 858-586-1554",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 619-239-5174",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "ats-inc.org": {
+   "name": "Advanced Technology Solutions, Inc.",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Debra Kiwala",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "debra.kiwala@ats-inc.org",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "dkiwala@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 319-310-0150",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 319-632-4282",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 319-845-5177",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "hummelelectric.com": {
+   "name": "Hummel Electric Inc",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "named lookup: no contact found for Wade Hummel",
+   "contacts": []
+  },
   "swetexas.com": {
    "name": "SW Electric, LLC",
    "bucket": "T5",
@@ -24653,6 +25236,197 @@
      ]
     }
    ]
+  },
+  "gravitienergy.com": {
+   "name": "Graviti",
+   "bucket": "S9",
+   "campaign": "EV Charging",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no phone; all emails unverified/low quality",
+   "contacts": [
+    {
+     "name": "Vidya A",
+     "title": "Co-Founder",
+     "emails": [
+      {
+       "email": "vidya@gravitienergy.com",
+       "type": "professional",
+       "quality": "Very bad",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "verdek.com": {
+   "name": "Verdek\u2122",
+   "bucket": "S9",
+   "campaign": "EV Charging",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Guy Mannino",
+     "title": "Founder CEO",
+     "emails": [
+      {
+       "email": "gmannino@verdek.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "guymannino@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 706-409-3995",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 770-401-2120",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 888-336-3734",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "futurefuelsenergy.com": {
+   "name": "Future Fuels",
+   "bucket": "S9",
+   "campaign": "EV Charging",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Austin Bowers",
+     "title": "Vice President Operations",
+     "emails": [
+      {
+       "email": "austinbowers@futurefuelsenergy.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "austinbowers@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 803-800-1664",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 803-996-1171",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "poweral.com": {
+   "name": "Poweral",
+   "bucket": "S9",
+   "campaign": "EV Charging",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jay Jaffa",
+     "title": "President and COO",
+     "emails": [
+      {
+       "email": "jay@poweral.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 917-746-5530",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "nationalbreakerservices.com": {
+   "name": "National Breaker Services",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "oriontechserv.com": {
+   "name": "Orion Technical Services LLC",
+   "bucket": "E12",
+   "campaign": "Power Systems Engineering",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-title match",
+   "contacts": []
+  },
+  "takuengineering.com": {
+   "name": "Taku Engineering llc",
+   "bucket": "E12",
+   "campaign": "Power Systems Engineering",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-title match",
+   "contacts": []
+  },
+  "trcinc.net": {
+   "name": "Technology Resource Center",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-title match",
+   "contacts": []
   }
  }
 }
