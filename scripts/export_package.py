@@ -157,6 +157,15 @@ if os.path.exists('scripts/contacts/mainline_resolved.json'):
     manifest.append(('13_held_phone_verdicts.csv', write_csv('13_held_phone_verdicts.csv', rows),
                      'Held phones tested against the company switchboard. ' + MR['note']))
 
+# 14. The call list: every owner reachable by mobile, with email and address
+import subprocess  # built by scripts/build_call_list.py
+if os.path.exists(f'{OUT}/14_owner_mobiles.csv'):
+    n = sum(1 for _ in open(f'{OUT}/14_owner_mobiles.csv')) - 1
+    manifest.append(('14_owner_mobiles.csv', n,
+                     'THE CALL LIST - every owner with a mobile, plus their email and mailing '
+                     'address. Sorted decision-makers first; check the verify_first column before '
+                     'dialling.'))
+
 with open(f'{OUT}/00_MANIFEST.csv', 'w', newline='') as f:
     w = csv.writer(f)
     w.writerow(['file', 'rows', 'what it is'])

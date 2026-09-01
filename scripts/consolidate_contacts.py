@@ -25,6 +25,11 @@ def read_jsonl(path):
 raw = read_jsonl(f'{S}/contacts_raw.jsonl')
 for p in sorted(glob.glob(f'{S}/contacts_slice_*.jsonl')):
     raw += read_jsonl(p)
+# The named-lookup recovery run: Inven results for companies Grata had already
+# covered. These carry the phones, so they must land in `raw` (which wins on
+# phones) rather than in the Grata merge below.
+for p in sorted(glob.glob(f'{S}/contacts_mob_*.jsonl')):
+    raw += read_jsonl(p)
 # Grata runs last and covers companies Inven already touched, so its rows are MERGED
 # into the Inven record rather than replacing it -- only Inven carries phone numbers,
 # and a straight overwrite would silently drop every mobile we paid for.
@@ -93,7 +98,7 @@ office_only = [v for v in with_contacts
 doc = {
     'generated': '2026-09-01',
     'platform': 'inven get_company_contacts (owner-title filtered)',
-    'policy': 'inven contact-credit floor 6000; grata carries the remainder; 1200-company cap',
+    'policy': 'inven contact-credit floor 5500 (lowered from 6000 by the client to fund the named-lookup recovery run); grata covers what inven cannot reach',
     'attempted': len(companies),
     'with_contacts': len(with_contacts),
     'credits_used': sum(v['credits_used'] for v in companies.values()),

@@ -2,6 +2,13 @@
  "generated": "2026-09-01",
  "verify_before_outreach": [
   {
+   "domain": "aerones.com",
+   "company": "Aerones Engineering",
+   "priority": "P2-candidate",
+   "campaign": null,
+   "reason": "contact located in LATVIA - non-US target, likely wrong match for a US electrical-services thesis; also titled CTO not Co-Founder"
+  },
+  {
    "domain": "petrellielectr.wpengine.com",
    "company": "Petrelli Electric, INC",
    "priority": "P3-candidate",
@@ -49,6 +56,13 @@
    "priority": "P3-candidate",
    "campaign": null,
    "reason": "Dominican Republic (Santo Domingo) - likely wrong match / non-US entity for a US target"
+  },
+  {
+   "domain": "challengerdrilling.com",
+   "company": "Challenger Drilling, Inc.",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "reason": "Kuwait - likely wrong match; also Night Manager not owner-level and office line only. Named lookup for Jeff Lutz (President/CEO) missed"
   },
   {
    "domain": "mossandmoss.com",
@@ -240,11 +254,165 @@
    "reason": "bad match - Panama-based profile, not the US owner"
   },
   {
+   "domain": "knightselectric.com",
+   "company": "Knights' Electric, Inc.",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "named lookup for Barbara Ragsdale (President/CEO) missed; fallback returned Art Knight, Owner - different person but plausible co-owner; no verified work email"
+  },
+  {
+   "domain": "emtelectric.com",
+   "company": "EMT Electric, Inc.",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "mobiles are Bay Area/LA area codes while company and person are Sacramento/Stockton (209) - verify mobile ownership"
+  },
+  {
+   "domain": "industrialfour.com",
+   "company": "Industrial Four Inc.",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "named lookup for Tom Hansen (Owner) missed; fallback returned Susan Turcotte, Co-Owner - different person, owner-level so usable"
+  },
+  {
+   "domain": "premierautomation.com",
+   "company": "Premier Automation LLC",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "same person also listed as owner of panelshop.com (row 182 of this slice) - premierautomation.com and panelshop.com are the same ownership, dedupe before outreach"
+  },
+  {
+   "domain": "gandptechnology.co.uk",
+   "company": "G&P Technology",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "UNITED KINGDOM - not a US target; .co.uk domain, UK phone numbers. Should not be on a US electrical-infrastructure list; DQ candidate, not a wrong match but a wrong company"
+  },
+  {
+   "domain": "bb-electric.com",
+   "company": "B&B Electric",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "CANADA - likely wrong match for a US target; also no phone and no verified email. Named lookup for James Ott (President) missed"
+  },
+  {
+   "domain": "mdavisinc.com",
+   "company": "M. Davis & Sons, Inc.",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "office line only; named lookup for Peggy Del Fabbro (CEO) missed and fallback returned a different person with no verified email"
+  },
+  {
+   "domain": "ledlightinginc.com",
+   "company": "LED Lighting Inc.",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "office line only; contact located Lahore, Pakistan and is not the listed Bri Claeys (CEO) - non-US, likely wrong match"
+  },
+  {
    "domain": "adc-electrical.co.uk",
    "company": "ADC Electrical Ltd",
    "priority": "master-DQ",
    "campaign": null,
-   "reason": "United Kingdom - non-US contact, verify entity"
+   "reason": "no contact found; note UK (.co.uk) domain on a US target list - company itself is likely out of scope"
+  },
+  {
+   "domain": "ceymglobal.com",
+   "company": "Ceym",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "office line only; contact located Ecuador and is not the listed Juan Torres (Owner) - non-US, likely wrong match"
+  },
+  {
+   "domain": "electriciansinc.com",
+   "company": "Electricians, Inc.",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "office line only; contact located Glasgow, United Kingdom and is not the listed Jimmy Yamada (CEO) - non-US, likely wrong match"
+  },
+  {
+   "domain": "aerosenelectrical.com",
+   "company": "AE Rosen Electrical",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "office line only; contact located Plymouth, United Kingdom vs listed Adam Rosen (President) - non-US, likely wrong match"
+  },
+  {
+   "domain": "stateelectricalcontractors.com",
+   "company": "State Electrical Contractors",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "named lookup for Colleen Reichsfeld found nothing; titled fallback returned Michael Bast (Part-Owner/President) - different person, no verified email"
+  },
+  {
+   "domain": "corbinelectric.com",
+   "company": "Corbin Electrical Services",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "contact resolved but provider returned no email and no phone; also a different person from the listed Steve Corbin (Owner)"
+  },
+  {
+   "domain": "powercommconstruction.com",
+   "company": "Powercomm Construction Inc",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "list named David Kwasnik (President); returned David Kwasnik Jr. (SVP) - possible generational mismatch, verify"
+  },
+  {
+   "domain": "alselectric.ca",
+   "company": "Al's Electric Services Ltd",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "Canada - non-US target, likely wrong match for a US mandate (.ca domain, contact in New Brunswick)"
+  },
+  {
+   "domain": "genesiselectric.com",
+   "company": "Genesis Electrical Service",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "only mobile is a UK +44 number on a US target - likely wrong match; no verified email"
+  },
+  {
+   "domain": "elmelec.com",
+   "company": "Elm Electrical, Inc.",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "UNITED KINGDOM contact returned for a US target - likely wrong match; also office line only, no verified email; named lookup for Robert Bacon found nothing"
+  },
+  {
+   "domain": "tpiengineering.com",
+   "company": "Tpi",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "CANADA contact returned for a US target - likely wrong match; office line only, no verified email; named lookup for Tom Cantor found nothing"
+  },
+  {
+   "domain": "kndelectric.com",
+   "company": "KND Electric",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "named lookup for Kenneth Duarte (Owner) found nothing; fallback returned Kristine Denapoli, President - different person but owner-level; no mobile"
+  },
+  {
+   "domain": "skytecpro.com",
+   "company": "Skytec",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "named lookup for Pankaj Chaturvedi found nothing; fallback returned Catherine Lasso, Founder/President - different person but owner-level; no phone"
+  },
+  {
+   "domain": "jrelectrical.com",
+   "company": "J.R. Electrical",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "named lookup for Jason Nieves (President) found nothing; fallback returned John Roda, Owner (emails on jrelectricalusa.com not jrelectrical.com - possible entity mismatch); no mobile"
+  },
+  {
+   "domain": "tmelectrical.ca",
+   "company": "T M Electric",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "named lookup for Jeff Tremblay found nothing; .ca domain - CANADIAN entity, out of scope for a US target list, titled-domain fallback deliberately not spent"
   },
   {
    "domain": "johnfordelectricalservices.co.uk",
@@ -261,48 +429,6 @@
    "reason": "grata matched wrong entity (Burford's Tree LLC / ourcareerpages.com) - not a company primary domain"
   },
   {
-   "domain": "specialtyengineering.net",
-   "company": "Specialty Engineering",
-   "priority": "master-DQ",
-   "campaign": null,
-   "reason": "Canada - non-US contact, verify entity"
-  },
-  {
-   "domain": "generatorsofhouston.com",
-   "company": "Generators of Houston A GENRG Power Solutions, LLC Company",
-   "priority": "master-DQ",
-   "campaign": null,
-   "reason": "resolved to Grata record genrg.net (Generators of Houston, A GENRG Power Solutions) - possible rollup/acquisition, verify ownership"
-  },
-  {
-   "domain": "allenelectric.com",
-   "company": "Splane Electric Supply Co",
-   "priority": "master-DQ",
-   "campaign": null,
-   "reason": "Grata resolved allenelectric.com to \"Splane Electric Supply Co\" - entity/name mismatch, verify before outreach"
-  },
-  {
-   "domain": "tmelectrical.ca",
-   "company": "T M Electric",
-   "priority": "master-DQ",
-   "campaign": null,
-   "reason": "Canada - non-US contact/entity, verify (T M Electric, Ottawa ON; Grata employer reads T & M Mechanical Ltd)"
-  },
-  {
-   "domain": "gandptechnology.co.uk",
-   "company": "G&P Technology",
-   "priority": "master-DQ",
-   "campaign": null,
-   "reason": "United Kingdom - non-US contact/entity, verify (G&P Technology, Chilton, England)"
-  },
-  {
-   "domain": "alselectric.ca",
-   "company": "Al's Electric Services Ltd",
-   "priority": "master-DQ",
-   "campaign": null,
-   "reason": "Canada - non-US contact, verify entity"
-  },
-  {
    "domain": "dynamicelectric.com",
    "company": "Dynamic Electric, Inc.",
    "priority": "master-P1",
@@ -314,7 +440,7 @@
    "company": "Van Haren Electric Inc.",
    "priority": "master-P1",
    "campaign": null,
-   "reason": "Netherlands - non-US contact, verify entity; Grata resolved vanharen.com to vanharen.nl (Van Haren, NL) - likely wrong entity"
+   "reason": "titled-domain lookup; returned Brian Vanharen (CEO) not the listed Krein Bons - different person, US-based, plausible principal"
   },
   {
    "domain": "ditrol.com",
@@ -331,39 +457,263 @@
    "reason": "UK (London), Chartered Accountant title - likely wrong match for US target; no phone; email unverified"
   },
   {
-   "domain": "cusaconsulting.com",
-   "company": "CUSA Consulting Corp",
-   "priority": "master-P3",
+   "domain": "roberthenrycorp.com",
+   "company": "The Robert Henry Corporation",
+   "priority": "master-P2",
    "campaign": null,
-   "reason": "Grata name/email mismatch: record name \"Virginia Thurston\" but email mthurston@ and LinkedIn is Mark Thurston - verify person before outreach"
+   "reason": "named lookup for Robert A. Henry (Founder) missed; fallback returned Brian Henry, President - different person (likely successor/family), verify"
   },
   {
-   "domain": "reeve-electric.com",
-   "company": "Reeve Electric Company Inc",
-   "priority": "master-P3",
+   "domain": "gigerich.net",
+   "company": "Gigerich Electrical Inc",
+   "priority": "master-P2",
    "campaign": null,
-   "reason": "Canada - Clark Reaves and Ken Reeve are located in Vancouver, British Columbia; non-US contacts, verify entity"
+   "reason": "Inven title is VP, our record said President - title mismatch on same person"
   },
   {
-   "domain": "versysgroup.com",
-   "company": "Versys Group",
+   "domain": "wlslighting.com",
+   "company": "WLS Lighting and Electrical",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Keith Drummond (COO/CEO/Owner) missed; fallback returned Brandon Scogins, CEO - different person than our record"
+  },
+  {
+   "domain": "superelec.com",
+   "company": "Super Electric",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "India - likely wrong match; also office line only and no verified email. Named lookup for Ryan Schult (President) missed"
+  },
+  {
+   "domain": "allphaseelectricfl.com",
+   "company": "All Phase Electric & Maintenance, Inc.",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Scott Nejeschleba (Owner) missed; fallback returned Michael Lott, Business Owner - different person; 10 mobiles returned, low confidence identity match"
+  },
+  {
+   "domain": "visionmo.com",
+   "company": "VISION Electric & Systems",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "office line only; contact located Toronto, ON Canada and is not the listed Douglas Brewer (President & CEO) - likely wrong match"
+  },
+  {
+   "domain": "killencontractors.com",
+   "company": "Killen Contractors, INC.",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Charles Killen (Founder) found nothing; titled-domain fallback returned Will Vaughan, President - different person"
+  },
+  {
+   "domain": "southlandelectricinc.com",
+   "company": "Southland Electric Inc.",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Leanne M Peterson found nothing; titled-domain fallback returned Dean Parsley (Owner) - different person but owner-level; no verified work email"
+  },
+  {
+   "domain": "bazenelectric.com",
+   "company": "Bazen Electric",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup matched a different John Bazen (Electrical Engineering Intern at progressiveae.com, Grand Rapids MI) - wrong person, no phones; titled-domain fallback found 15 contacts but no owner-level title"
+  },
+  {
+   "domain": "jbcontracting.com",
+   "company": "JB Contracting Corporation",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Jim Brady JR found nothing; titled fallback returned John Ziemian (Owner) - different person, no mobile and no verified email"
+  },
+  {
+   "domain": "centralvalleyelectric.com",
+   "company": "Central Valley Electric",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Troy Wells found nothing; titled fallback returned Brice Thorell, General Manager (NE) while office line is CA 209 - possible entity mismatch, no verified email"
+  },
+  {
+   "domain": "willenelectric.com",
+   "company": "Willen Electric Company",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "Inven records Dan Shine as Retired, not President; no phone returned"
+  },
+  {
+   "domain": "hinckelectric.com",
+   "company": "Hinck Electric",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Roy Hinck (Founder) found nothing; fallback returned John Buck, President and Owner - different person but owner-level"
+  },
+  {
+   "domain": "albarell.com",
+   "company": "Albarell Electric Inc.",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Michael Conkey (President) found nothing; fallback returned Mike Albarell, Owner - different person but owner-level"
+  },
+  {
+   "domain": "cynergy.com",
+   "company": "Cynergy Electric",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Cyndi Saiz (Owner) found nothing; fallback returned Zachary Ashburn, President - different person but owner-level"
+  },
+  {
+   "domain": "longhornelectrical.com",
+   "company": "Longhorn Electric",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "named lookup for Eric Villegas (President) found nothing; fallback returned Seth Strickland, Owner - different person but owner-level; no verified email"
+  },
+  {
+   "domain": "pssamerica.com",
+   "company": "Power System Solutions",
    "priority": "master-P3",
    "campaign": null,
-   "reason": "Canada (Edmonton, Alberta) - non-US contact, verify entity"
+   "reason": "SOUTH AFRICA - likely wrong match for a US target; office line only, no verified email. Named lookup for Lisa Crawford (Owner) missed"
+  },
+  {
+   "domain": "pcescorp.com",
+   "company": "Pces",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "BAHRAIN - likely wrong match for a US target; office line only, no verified email. Named lookup for Eldon Drake (CEO) missed"
   },
   {
    "domain": "bigskyelectric.com",
    "company": "Big Sky Electric",
    "priority": "master-P3",
    "campaign": null,
-   "reason": "title references a Nova Scotia (Canada) entity, location blank - non-US contact, verify entity"
+   "reason": "no mobile - direct dial/office only; named lookup for Daniel Blank (Owner) missed and fallback returned a different person; no verified work email"
   },
   {
-   "domain": "tigerelectric.com",
-   "company": "Tiger Electric",
+   "domain": "mtnpower.com",
+   "company": "Mountain Power Electrical Contractor, INC.",
    "priority": "master-P3",
    "campaign": null,
-   "reason": "Canada (Alex Hill - Abbotsford-Mission BC; Travis Horiachka - Edmonton AB) - non-US contact, verify entity"
+   "reason": "named lookup for Lou Pellatiro (President) missed; fallback returned Josh Beck, Owner - different person but owner-level, so usable; our stored owner name may be stale"
+  },
+  {
+   "domain": "airconmechanical.com",
+   "company": "Air-Con Mechanical Corporation/Air-Con Electric LLC",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "office line only; no verified email; named lookup for James Shaffer (Founder) missed and fallback returned a different person"
+  },
+  {
+   "domain": "decofsc.com",
+   "company": "Delta Electrical Contractors of SC, Inc.",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "ROMANIA - likely wrong match for a US target; office line only, no verified email. Named lookup for Michael H. Hudgins (President) missed"
+  },
+  {
+   "domain": "ivctechnologies.com",
+   "company": "IVC Technologies",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "list names Jeffrey Epperson (Founder/CEO); provider returned Pete Epperson, President and Owner - related but a different person"
+  },
+  {
+   "domain": "rubicontechservices.com",
+   "company": "Rubicon Technical Services - Rts",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "UK mobile (+44) for a Regional Manager in Dungannon, United Kingdom - not the listed William J Pirrone (Founding Partner); non-US, likely wrong match"
+  },
+  {
+   "domain": "shahpe.com",
+   "company": "Shah & Associates, Inc.",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "office line only; contact located India and is not the listed SK Shah (President) - non-US, likely wrong match"
+  },
+  {
+   "domain": "sselectrical.com",
+   "company": "S&S Electrical Services, Inc.",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "named lookup for Wesley Steigerwalt found nothing; titled fallback returned Irvin Sullivan (Owner) - different person, no verified work email"
+  },
+  {
+   "domain": "tripowerelectricinc.com",
+   "company": "Tri Power Electric",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "contact located in Canada (Winnipeg) on a US target - likely wrong match; no phone, unverified email; asked for Tim Heale (Owner)"
+  },
+  {
+   "domain": "senergyelectric.com",
+   "company": "Senergy Electric",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "record mixes in Venezuela (+58) and Mexico (+52) numbers - use the US +1 786 mobiles only"
+  },
+  {
+   "domain": "versysgroup.com",
+   "company": "Versys Group",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "Canada (Edmonton, versys.ca) on a US target - likely wrong match"
+  },
+  {
+   "domain": "diversitec.com",
+   "company": "Diversitec",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "office line only; list named Jerry Grothendick (President), got Theophilus P - possible wrong entity, no verified email"
+  },
+  {
+   "domain": "iecelectric.us",
+   "company": "Industrial Electric Company",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "India - contact located in Chennai on a US target, likely wrong match; office line only; asked for Barry Halajian (Owner)"
+  },
+  {
+   "domain": "brite.group",
+   "company": "Brite Electric",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "office line only; named lookup for David Walsh (President) found nothing, fallback returned Mike Torrech (email on briteelec.com) - different person, no verified email"
+  },
+  {
+   "domain": "sweneyelectric.com",
+   "company": "Sweney Electric Company, INC",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "named lookup for Phil Shikany (Owner) found nothing; fallback returned Eric Severson, President - different person but owner-level"
+  },
+  {
+   "domain": "sitewideps.com",
+   "company": "Sitewide Project Solutions",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "only mobile is an AUSTRALIAN +61 number on a Houston-located contact - likely wrong-entity phone, do not dial without verifying"
+  },
+  {
+   "domain": "alphaee.com",
+   "company": "Alpha Energy and Electric, Inc.",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "named lookup for Ike Nwabuonwu (Chairman/CEO) found nothing; fallback returned Gabriel Okafor, President - different person but owner-level"
+  },
+  {
+   "domain": "apexelectricgroup.com",
+   "company": "Apex Electrical Group LLC",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "named lookup for Dennis Wisk (Owner) found nothing; fallback returned Marcus Cola, CEO and Co-Owner - different person but owner-level"
+  },
+  {
+   "domain": "capcityelectric.com",
+   "company": "Capital City Electric",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "named lookup for Thomas Kessler (Owner) found nothing; fallback returned Eric Baker, President - different person but owner-level"
   },
   {
    "domain": "everywattmatters.com",
@@ -830,13 +1180,63 @@
    "campaign": null
   },
   {
-   "domain": "divtecs.com",
-   "company": "Diversified Technologies, Inc.",
-   "contact": "Brad Moser",
-   "title": "CEO",
-   "alt_email_domain": "liveoakconsultants.com",
-   "email": "csmith@liveoakconsultants.com",
+   "domain": "allsouthlightningprotection.com",
+   "company": "All South Lightning Protection Inc.",
+   "contact": "Ronald Poirier",
+   "title": "Founder & President",
+   "alt_email_domain": "aslp.net",
+   "email": "ron@aslp.net",
+   "priority": "master-P2",
+   "campaign": null
+  },
+  {
+   "domain": "allsouthlightningprotection.com",
+   "company": "All South Lightning Protection Inc.",
+   "contact": "Angela Reimer",
+   "title": "CFO",
+   "alt_email_domain": "aslp.net",
+   "email": "angie@aslp.net",
+   "priority": "master-P2",
+   "campaign": null
+  },
+  {
+   "domain": "premierautomation.com",
+   "company": "Premier Automation LLC",
+   "contact": "Mike Gunniers",
+   "title": "Owner",
+   "alt_email_domain": "panelshop.com",
+   "email": "mike.gunniers@panelshop.com",
+   "priority": "master-DQ",
+   "campaign": null
+  },
+  {
+   "domain": "panelshop.com",
+   "company": "PanelShop.com",
+   "contact": "Mike Gunniers",
+   "title": "Owner",
+   "alt_email_domain": "premierautomation.com",
+   "email": "mgunniers@premierautomation.com",
    "priority": "master-P3",
+   "campaign": null
+  },
+  {
+   "domain": "geflorida.com",
+   "company": "Gibson Electric",
+   "contact": "Louie Wise",
+   "title": "Chief Executive Officer",
+   "alt_email_domain": "intec360.com",
+   "email": "lwise@intec360.com",
+   "priority": "master-DQ",
+   "campaign": null
+  },
+  {
+   "domain": "geflorida.com",
+   "company": "Gibson Electric",
+   "contact": "Louie Wise",
+   "title": "Chief Executive Officer",
+   "alt_email_domain": "climatecontrolflorida.com",
+   "email": "lw3@climatecontrolflorida.com",
+   "priority": "master-DQ",
    "campaign": null
   },
   {
@@ -860,52 +1260,42 @@
    "campaign": null
   },
   {
+   "domain": "omahaelectric.com",
+   "company": "Omaha Electric Service, Inc.",
+   "contact": "John Lepak",
+   "title": "President and CEO",
+   "alt_email_domain": "oes-system.com",
+   "email": "jlepak@oes-system.com",
+   "priority": "master-P2",
+   "campaign": null
+  },
+  {
+   "domain": "solutionsbyapex.com",
+   "company": "APEX Controls",
+   "contact": "Andy Winkel",
+   "title": "Chief Executive Officer",
+   "alt_email_domain": "apexcontrols.cc",
+   "email": "awinkel@apexcontrols.cc",
+   "priority": "master-DQ",
+   "campaign": null
+  },
+  {
+   "domain": "cpteng.com",
+   "company": "ControlPoint Technologies, Inc.",
+   "contact": "Frank Barys",
+   "title": "Principal Engineer",
+   "alt_email_domain": "controlpointtech.com",
+   "email": "fbarys@controlpointtech.com",
+   "priority": "master-P3",
+   "campaign": null
+  },
+  {
    "domain": "westgaelectric.com",
    "company": "West Georgia Electric",
    "contact": "Dennis Jones",
    "title": "Founder",
    "alt_email_domain": "wge108.com",
    "email": "djones@wge108.com",
-   "priority": "master-P3",
-   "campaign": null
-  },
-  {
-   "domain": "directionaldrilling.com",
-   "company": "ClearPath Utility Solutions, LLC",
-   "contact": "Rodney Riley",
-   "title": "Owner",
-   "alt_email_domain": "cpusllc.com",
-   "email": "r.riley@cpusllc.com",
-   "priority": "master-DQ",
-   "campaign": null
-  },
-  {
-   "domain": "trcurlee.com",
-   "company": "T.R. Curlee Electric,Inc.",
-   "contact": "Tommy Curlee",
-   "title": "President",
-   "alt_email_domain": "trceinc.com",
-   "email": "tcurlee@trceinc.com",
-   "priority": "master-P3",
-   "campaign": null
-  },
-  {
-   "domain": "transportationsystemsinc.com",
-   "company": "Transportation Systems Inc",
-   "contact": "Eric Lesso",
-   "title": "Chief Executive Officer",
-   "alt_email_domain": "tsi-fl.com",
-   "email": "elesso@tsi-fl.com",
-   "priority": "master-P3",
-   "campaign": null
-  },
-  {
-   "domain": "powerconsultingassociates.com",
-   "company": "Power Consulting Associates",
-   "contact": "David Grooms",
-   "title": "President & CEO",
-   "alt_email_domain": "pca-llc.biz",
-   "email": "david.grooms@pca-llc.biz",
    "priority": "master-P3",
    "campaign": null
   },
@@ -920,53 +1310,63 @@
    "campaign": null
   },
   {
-   "domain": "focalpointpartners.com",
-   "company": "Focal Point Partners, Inc.",
-   "contact": "Matt Arends",
-   "title": "President",
-   "alt_email_domain": "fppmn.com",
-   "email": "matt@fppmn.com",
-   "priority": "master-P3",
-   "campaign": null
-  },
-  {
-   "domain": "wetsinc.net",
-   "company": "wetsinc.net",
-   "contact": "James McCasland",
+   "domain": "powerconsultingassociates.com",
+   "company": "Power Consulting Associates",
+   "contact": "David Grooms",
    "title": "President & CEO",
-   "alt_email_domain": "suddenlink.net",
-   "email": "jimm@suddenlink.net",
-   "priority": "valDQ-review",
-   "campaign": null
-  },
-  {
-   "domain": "powertemp.com",
-   "company": "Power Temp Systems",
-   "contact": "Brad Jenkins",
-   "title": "President",
-   "alt_email_domain": "grandmarketingsolutions.com",
-   "email": "brad@grandmarketingsolutions.com",
+   "alt_email_domain": "pca-llc.biz",
+   "email": "david.grooms@pca-llc.biz",
    "priority": "master-P3",
    "campaign": null
   },
   {
-   "domain": "graceport.com",
-   "company": "Grace Technologies",
-   "contact": "Drew Allen",
-   "title": "President and Chief Executive Officer",
-   "alt_email_domain": "gracetechnologies.com",
-   "email": "drewa@gracetechnologies.com",
+   "domain": "jeincmn.com",
+   "company": "Jackson Electric Inc.",
+   "contact": "Cody Jackson",
+   "title": "Vice President",
+   "alt_email_domain": "jacksonelectricwinthrop.com",
+   "email": "cody@jacksonelectricwinthrop.com",
    "priority": "master-P3",
    "campaign": null
   },
   {
-   "domain": "graceport.com",
-   "company": "Grace Technologies",
-   "contact": "Philip Allen",
-   "title": "Founder",
-   "alt_email_domain": "grace-eng.com",
-   "email": "philallen@grace-eng.com",
-   "priority": "master-P3",
+   "domain": "electricalservicesco.com",
+   "company": "Electrical Services Company",
+   "contact": "Cathy Simpson",
+   "title": "CFO and Owner",
+   "alt_email_domain": "pacbell.net",
+   "email": "catsimp@pacbell.net",
+   "priority": "master-P2",
+   "campaign": null
+  },
+  {
+   "domain": "jfcelectric.com",
+   "company": "JFC Electric LLC",
+   "contact": "Nicky Clark",
+   "title": "Chief Financial Officer",
+   "alt_email_domain": "jfcnetwork.com",
+   "email": "nclark@jfcnetwork.com",
+   "priority": "master-DQ",
+   "campaign": null
+  },
+  {
+   "domain": "directionaldrilling.com",
+   "company": "ClearPath Utility Solutions, LLC",
+   "contact": "Rodney Riley",
+   "title": "Owner",
+   "alt_email_domain": "cpusllc.com",
+   "email": "r.riley@cpusllc.com",
+   "priority": "master-DQ",
+   "campaign": null
+  },
+  {
+   "domain": "guardianmfg.com",
+   "company": "Guardian Manufacturing",
+   "contact": "Chuck Smith",
+   "title": "Owner",
+   "alt_email_domain": "pinnacleozone.com",
+   "email": "chuck.smith@pinnacleozone.com",
+   "priority": "master-DQ",
    "campaign": null
   },
   {
@@ -990,23 +1390,93 @@
    "campaign": null
   },
   {
-   "domain": "allsouthlightningprotection.com",
-   "company": "All South Lightning Protection Inc.",
-   "contact": "Ronald Poirier",
-   "title": "Founder & President",
-   "alt_email_domain": "aslp.net",
-   "email": "ron@aslp.net",
-   "priority": "master-P2",
+   "domain": "gyre9.com",
+   "company": "Gyre9",
+   "contact": "Ed Gilchrest",
+   "title": "President",
+   "alt_email_domain": "g9ev.com",
+   "email": "egilchrest@g9ev.com",
+   "priority": "master-P3",
    "campaign": null
   },
   {
-   "domain": "allsouthlightningprotection.com",
-   "company": "All South Lightning Protection Inc.",
-   "contact": "Angela Reimer",
-   "title": "CFO",
-   "alt_email_domain": "aslp.net",
-   "email": "angie@aslp.net",
-   "priority": "master-P2",
+   "domain": "bls-us.com",
+   "company": "Black Label Services, Inc",
+   "contact": "Dean Rucker",
+   "title": "Co-CEO",
+   "alt_email_domain": "blsoil.com",
+   "email": "drucker@blsoil.com",
+   "priority": "master-P3",
+   "campaign": null
+  },
+  {
+   "domain": "powertemp.com",
+   "company": "Power Temp Systems",
+   "contact": "Bret Adams",
+   "title": "Company Owner",
+   "alt_email_domain": "totalenergysolutions.com",
+   "email": "breta@totalenergysolutions.com",
+   "priority": "master-P3",
+   "campaign": null
+  },
+  {
+   "domain": "powertemp.com",
+   "company": "Power Temp Systems",
+   "contact": "Brad Jenkins",
+   "title": "President",
+   "alt_email_domain": "grandmarketingsolutions.com",
+   "email": "brad@grandmarketingsolutions.com",
+   "priority": "master-P3",
+   "campaign": null
+  },
+  {
+   "domain": "axxisbuildingsystems.com",
+   "company": "Axxis Building Systems, Inc.",
+   "contact": "Jasenko Alagic",
+   "title": "President and Managing Partner",
+   "alt_email_domain": "axxis-corp.com",
+   "email": "jalagic@axxis-corp.com",
+   "priority": "master-P3",
+   "campaign": null
+  },
+  {
+   "domain": "skytecpro.com",
+   "company": "Skytec",
+   "contact": "Catherine Lasso",
+   "title": "Founder and President",
+   "alt_email_domain": "usgllc811.com",
+   "email": "catherine.lasso@usgllc811.com",
+   "priority": "master-DQ",
+   "campaign": null
+  },
+  {
+   "domain": "transportationsystemsinc.com",
+   "company": "Transportation Systems Inc",
+   "contact": "Eric Lesso",
+   "title": "Chief Executive Officer",
+   "alt_email_domain": "tsi-fl.com",
+   "email": "elesso@tsi-fl.com",
+   "priority": "master-P3",
+   "campaign": null
+  },
+  {
+   "domain": "graceport.com",
+   "company": "Grace Technologies",
+   "contact": "Philip Allen",
+   "title": "Founder",
+   "alt_email_domain": "grace-eng.com",
+   "email": "philallen@grace-eng.com",
+   "priority": "master-P3",
+   "campaign": null
+  },
+  {
+   "domain": "wetsinc.net",
+   "company": "wetsinc.net",
+   "contact": "James McCasland",
+   "title": "President & CEO",
+   "alt_email_domain": "suddenlink.net",
+   "email": "jimm@suddenlink.net",
+   "priority": "valDQ-review",
    "campaign": null
   },
   {
@@ -1648,6 +2118,426 @@
    "priority": "master-P2"
   },
   {
+   "domain": "wjbe.com",
+   "contact": "Katie Buchert",
+   "title": "Chief Financial Officer",
+   "priority": "master-P1"
+  },
+  {
+   "domain": "gigerich.net",
+   "contact": "Scott Brown",
+   "title": "VP",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "westmorelandelectric.com",
+   "contact": "Mike Errett",
+   "title": "Superintendent",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "underpowercorp.com",
+   "contact": "Rafael Nin Jr",
+   "title": "Warehouse Supervisor",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "plc-inc.com",
+   "contact": "Garrett McGinnity",
+   "title": "General Foreman",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "allsouthlightningprotection.com",
+   "contact": "Angela Reimer",
+   "title": "CFO",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "challengerdrilling.com",
+   "contact": "Reynaldo Balbuena",
+   "title": "Night Manager",
+   "priority": "P3-candidate"
+  },
+  {
+   "domain": "challengerdrilling.com",
+   "contact": "Susan Lutz",
+   "title": "Director, CFO",
+   "priority": "P3-candidate"
+  },
+  {
+   "domain": "broncoelectric.com",
+   "contact": "Bret Smith",
+   "title": "Chief Operations Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "future-controls.com",
+   "contact": "Michael Hansen",
+   "title": "Mechanical contractor",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "hoekstraelectric.com",
+   "contact": "Alex Sale",
+   "title": "Director of Operations",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "emtelectric.com",
+   "contact": "Elizabeth Johnson",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "emtelectric.com",
+   "contact": "Brian Johnson",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "mmelectriccfl.com",
+   "contact": "Betty Gomez",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "bertke.com",
+   "contact": "Kathy Jewell",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "benfieldinc.com",
+   "contact": "Ken Arnold",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "bb-electric.com",
+   "contact": "Jon Blackstone",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "four-gen.com",
+   "contact": "Monique Ruiz",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "four-gen.com",
+   "contact": "Judy Evans",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "perreca.com",
+   "contact": "Charles Tallardy",
+   "title": "Chairman",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "thegarickgroup.com",
+   "contact": "Cesar Porras",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "zellerelectriccorp.com",
+   "contact": "Laura Jeam Zeller",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "utilityconstructionco.com",
+   "contact": "Jess Daniels",
+   "title": "Project Director",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "basselectric.net",
+   "contact": "Jeffrey Yee",
+   "title": "Project Manager",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "shelleyelectric.com",
+   "contact": "Greg Rowe",
+   "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "lbelectricco.com",
+   "contact": "Dena Baptiste",
+   "title": "CFO",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "ipcosc.com",
+   "contact": "Stephanie Byrd",
+   "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "atekelectric.com",
+   "contact": "Stephanie Ashby",
+   "title": "Customer Quality Engineer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "sturmelectric.com",
+   "contact": "Tim Kinman",
+   "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "pcescorp.com",
+   "contact": "Donrick Dejoshua",
+   "title": "G M",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "worchelectric.com",
+   "contact": "Ali Laino",
+   "title": "Assistant Manager",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "worchelectric.com",
+   "contact": "Andrea G. Lanzilotti",
+   "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "asfelectric.net",
+   "contact": "Andy Ferrari",
+   "title": "Chairman",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "astuteng.com",
+   "contact": "Vibha Jasani",
+   "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "rtfps.net",
+   "contact": "Cory Martin",
+   "title": "CFO",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "cciarkansas.net",
+   "contact": "Austin Rhine",
+   "title": "Warehouse Manager and Purchasing Agent",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "decofsc.com",
+   "contact": "Viorica Ristea",
+   "title": "Manager",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "bore-tech.net",
+   "contact": "Wendy Cabral",
+   "title": "Chief Financial Officer, Director",
+   "priority": "valDQ-review"
+  },
+  {
+   "domain": "westhueselectric.com",
+   "contact": "Andrew Westhues",
+   "title": "CFO",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "acelectricalsystems.com",
+   "contact": "Matt Burks",
+   "title": "Service Manager",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "totalenergysolutions.com",
+   "contact": "Ann Ledoux Hebert",
+   "title": "Chief Financial Officer",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "nai-ames.com",
+   "contact": "Chris Burkhart",
+   "title": "Project Manager",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "ceymglobal.com",
+   "contact": "Juan Eduardo Arevalo Mosquera",
+   "title": "autonomo",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "doctorelectric.net",
+   "contact": "Kayann B. Brookins",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "electriciansinc.com",
+   "contact": "Ka Tang",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "aerosenelectrical.com",
+   "contact": "Leon Rosen",
+   "title": "electrical contractor",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "prismecs.com",
+   "contact": "Patricia Waters",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "matcoelectric.com",
+   "contact": "Joshua Lupo",
+   "title": "General Foreman and Project Manager",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "matcoelectric.com",
+   "contact": "Santo Caracciolo",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "trustworthyelectric.net",
+   "contact": "Semira Jones",
+   "title": "Operations and Marketing Administrator",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "sparksinc.com",
+   "contact": "Hugh Johnson",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "hollandindustrial.com",
+   "contact": "Butch Holland",
+   "title": "Chairman",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "rubicontechservices.com",
+   "contact": "Christopher Donaghy",
+   "title": "Regional Manager",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "cpteng.com",
+   "contact": "Adam Weisel",
+   "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "bicelectrics.com",
+   "contact": "Osviel Cabrera",
+   "title": "Electrical Engineer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "mccroryelec.com",
+   "contact": "Tony Brandon",
+   "title": "General Foreman",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "pennohioelectric.com",
+   "contact": "Chris O'Brien",
+   "title": "Senior Project Engineer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "kullc.net",
+   "contact": "Shari D Crane",
+   "title": "CFO",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "asbenergy.com",
+   "contact": "Bobby Walters",
+   "title": "Director",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "asbenergy.com",
+   "contact": "Jamie J. Thompson",
+   "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "pcsbr.com",
+   "contact": "Joneah Johnson",
+   "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "starlinkconstruction.com",
+   "contact": "Mike Childers",
+   "title": "CFO",
+   "priority": "valDQ-review"
+  },
+  {
+   "domain": "allanbritewayutility.com",
+   "contact": "William Brown",
+   "title": "Chief Financial Officer",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "kellycos.com",
+   "contact": "Shawn Lewis",
+   "title": "Safety Director",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "kellycos.com",
+   "contact": "Kevin Trippe",
+   "title": "Pre Construction Director",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "sandjelectric.com",
+   "contact": "Sai Garela",
+   "title": "Chief Estimator and Project Executive",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "dubakelectrical.com",
+   "contact": "Peter Brennan",
+   "title": "Chief Financial Officer",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "4standardelectric.com",
+   "contact": "Paula Keen",
+   "title": "CFO",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "proelectricinc.net",
+   "contact": "Walter Walker",
+   "title": "Electrical Contractor",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "cirelectric.com",
+   "contact": "Ryan Short",
+   "title": "Foreman",
+   "priority": "master-P2"
+  },
+  {
    "domain": "ecahq.com",
    "contact": "Misty Lorton",
    "title": "Chief Financial Officer",
@@ -1672,45 +2562,9 @@
    "priority": "master-DQ"
   },
   {
-   "domain": "allanbritewayutility.com",
-   "contact": "William Brown",
-   "title": "Chief Financial Officer",
-   "priority": "master-P2"
-  },
-  {
-   "domain": "hollandindustrial.com",
-   "contact": "Butch Holland",
-   "title": "Chairman",
-   "priority": "master-P3"
-  },
-  {
    "domain": "allcomelectric.com",
    "contact": "Susan Neil",
    "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "broncoelectric.com",
-   "contact": "Bret Smith",
-   "title": "Chief Operations Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "doctorelectric.net",
-   "contact": "Kayann B. Brookins",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "hawkeye-electric.com",
-   "contact": "Liz Anderson",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "hoekstraelectric.com",
-   "contact": "Alex Sale",
-   "title": "Director of Operations",
    "priority": "master-DQ"
   },
   {
@@ -1720,39 +2574,75 @@
    "priority": "master-DQ"
   },
   {
-   "domain": "tri-mgroup.com",
-   "contact": "James T. Horn",
-   "title": "Chairman",
+   "domain": "guardianmfg.com",
+   "contact": "Kurt Mollnow",
+   "title": "Chief Financial Officer",
    "priority": "master-DQ"
   },
   {
-   "domain": "nabcoelectric.com",
-   "contact": "Eddie Davidson",
+   "domain": "revolt-electric.com",
+   "contact": "Jay Kats",
+   "title": "Executive Project Manager",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "powercommconstruction.com",
+   "contact": "Glenn Charlesworth",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "prometers.com",
+   "contact": "Chad Doerhoff",
    "title": "Chief Financial Officer",
-   "priority": "master-P2"
+   "priority": "master-DQ"
   },
   {
-   "domain": "kellycos.com",
-   "contact": "Shawn Lewis",
-   "title": "Safety Director",
-   "priority": "master-P2"
+   "domain": "custautocont.com",
+   "contact": "Mike Wattigny",
+   "title": "Division Manager",
+   "priority": "master-DQ"
   },
   {
-   "domain": "kellycos.com",
-   "contact": "Kevin Trippe",
-   "title": "Pre Construction Director",
-   "priority": "master-P2"
+   "domain": "jolmautilities.com",
+   "contact": "Benjamin Prissel",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
   },
   {
-   "domain": "swanelectric.com",
-   "contact": "Tim Stolicker",
-   "title": "Business Development Director",
-   "priority": "master-P3"
+   "domain": "rizzoelectric.com",
+   "contact": "Frank Rizzo",
+   "title": "boss",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "stfranciselectric.com",
+   "contact": "Michael Delgado",
+   "title": "Field Operations Manager",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "stfranciselectric.com",
+   "contact": "Karla Brauer",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "victorypowerlineservices.com",
+   "contact": "Brooks Boyle",
+   "title": "Job Site Manager",
+   "priority": "master-DQ"
   },
   {
    "domain": "lakewoodelectriccompany.com",
    "contact": "Douglas Aeschleman",
    "title": "Chief Financial Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "daley-electric.com",
+   "contact": "Sean Dunn",
+   "title": "Electrical Estimator and Project Manager",
    "priority": "master-P3"
   },
   {
@@ -1768,81 +2658,9 @@
    "priority": "master-P3"
   },
   {
-   "domain": "cpteng.com",
-   "contact": "Adam Weisel",
-   "title": "Chief Financial Officer",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "iriss.com",
-   "contact": "Peter Anderson",
-   "title": "CFO",
-   "priority": "master-P3"
-  },
-  {
    "domain": "volelectric.com",
    "contact": "Gene Carmichael",
    "title": "Chairman",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "emtelectric.com",
-   "contact": "Elizabeth Johnson",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "emtelectric.com",
-   "contact": "Brian Johnson",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "electriciansinc.com",
-   "contact": "Ka Tang",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "guardianmfg.com",
-   "contact": "Kurt Mollnow",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "mmelectriccfl.com",
-   "contact": "Betty Gomez",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "maddash.com",
-   "contact": "Karin Meining",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "wjbe.com",
-   "contact": "Katie Buchert",
-   "title": "Chief Financial Officer",
-   "priority": "master-P1"
-  },
-  {
-   "domain": "dubakelectrical.com",
-   "contact": "Peter Brennan",
-   "title": "Chief Financial Officer",
-   "priority": "master-P2"
-  },
-  {
-   "domain": "westhueselectric.com",
-   "contact": "Andrew Westhues",
-   "title": "CFO",
-   "priority": "master-P2"
-  },
-  {
-   "domain": "utilityconstructionco.com",
-   "contact": "Jess Daniels",
-   "title": "Project Director",
    "priority": "master-P3"
   },
   {
@@ -1852,34 +2670,10 @@
    "priority": "master-P3"
   },
   {
-   "domain": "aerones.com",
-   "contact": "Martins Vaivods",
-   "title": "CFO",
-   "priority": "P2-candidate"
-  },
-  {
-   "domain": "bryanelectricinc.com",
-   "contact": "Steve Morris",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "bertke.com",
-   "contact": "Kathy Jewell",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "powercommconstruction.com",
-   "contact": "Glenn Charlesworth",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "heicontractors.com",
-   "contact": "Gregg Nadess",
-   "title": "Chief Financial Officer",
-   "priority": "master-P2"
+   "domain": "omniinst.com",
+   "contact": "Stephen Tallo",
+   "title": "Project Manager",
+   "priority": "master-P3"
   },
   {
    "domain": "omniinst.com",
@@ -1888,33 +2682,9 @@
    "priority": "master-P3"
   },
   {
-   "domain": "shelleyelectric.com",
-   "contact": "Greg Rowe",
-   "title": "Chief Financial Officer",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "lbelectricco.com",
-   "contact": "Dena Baptiste",
-   "title": "CFO",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "ipcosc.com",
-   "contact": "Stephanie Byrd",
-   "title": "Chief Financial Officer",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "kaiserelectric.com",
-   "contact": "Mike Smegner",
-   "title": "Chief Financial Officer",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "sturmelectric.com",
-   "contact": "Tim Kinman",
-   "title": "Chief Financial Officer",
+   "domain": "avail-engineering.com",
+   "contact": "David Rangel",
+   "title": "General Foreman",
    "priority": "master-P3"
   },
   {
@@ -1924,172 +2694,10 @@
    "priority": "master-P3"
   },
   {
-   "domain": "worchelectric.com",
-   "contact": "Andrea G. Lanzilotti",
-   "title": "Chief Financial Officer",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "asfelectric.net",
-   "contact": "Andy Ferrari",
-   "title": "Chairman",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "starlinkconstruction.com",
-   "contact": "Mike Childers",
-   "title": "CFO",
-   "priority": "valDQ-review"
-  },
-  {
-   "domain": "benfieldinc.com",
-   "contact": "Ken Arnold",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "northlineutilitiesllc.com",
-   "contact": "Lori Mayott",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "prometers.com",
-   "contact": "Chad Doerhoff",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "universalblowerpac.com",
-   "contact": "Al Zinkovich",
-   "title": "Cfo",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "totalenergysolutions.com",
-   "contact": "Ann Ledoux Hebert",
-   "title": "Chief Financial Officer",
-   "priority": "master-P2"
-  },
-  {
-   "domain": "southwestelectric.com",
-   "contact": "Laura Malm",
-   "title": "CFO",
-   "priority": "master-P3"
-  },
-  {
    "domain": "powertemp.com",
    "contact": "Ann Ledoux Hebert",
    "title": "CFO",
    "priority": "master-P3"
-  },
-  {
-   "domain": "graceport.com",
-   "contact": "Scott Allen",
-   "title": "Director of Operations",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "astuteng.com",
-   "contact": "Vibha Jasani",
-   "title": "Chief Financial Officer",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "rtfps.net",
-   "contact": "Cory Martin",
-   "title": "CFO",
-   "priority": "master-P3"
-  },
-  {
-   "domain": "challengerdrilling.com",
-   "contact": "Susan Lutz",
-   "title": "Director, CFO",
-   "priority": "P3-candidate"
-  },
-  {
-   "domain": "bb-electric.com",
-   "contact": "Jon Blackstone",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "centripump.com",
-   "contact": "Paul Strouhal",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "four-gen.com",
-   "contact": "Monique Ruiz",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "four-gen.com",
-   "contact": "Judy Evans",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "jolmautilities.com",
-   "contact": "Benjamin Prissel",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "matcoelectric.com",
-   "contact": "Santo Caracciolo",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "prismecs.com",
-   "contact": "Patricia Waters",
-   "title": "CFO",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "sparksinc.com",
-   "contact": "Hugh Johnson",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "stfranciselectric.com",
-   "contact": "Karla Brauer",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "thegarickgroup.com",
-   "contact": "Cesar Porras",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "zellerelectriccorp.com",
-   "contact": "Laura Jeam Zeller",
-   "title": "Chief Financial Officer",
-   "priority": "master-DQ"
-  },
-  {
-   "domain": "4standardelectric.com",
-   "contact": "Paula Keen",
-   "title": "CFO",
-   "priority": "master-P2"
-  },
-  {
-   "domain": "hsitx.com",
-   "contact": "Jacob Mcneil",
-   "title": "Chief Financial Officer",
-   "priority": "master-P2"
-  },
-  {
-   "domain": "allsouthlightningprotection.com",
-   "contact": "Angela Reimer",
-   "title": "CFO",
-   "priority": "master-P2"
   },
   {
    "domain": "diversitec.com",
@@ -2104,21 +2712,243 @@
    "priority": "master-P3"
   },
   {
-   "domain": "kullc.net",
-   "contact": "Shari D Crane",
+   "domain": "heckerelectric.com",
+   "contact": "Grant Burke",
+   "title": "Project Manager",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "bonnerelectric.com",
+   "contact": "Brendan Marquis",
+   "title": "Service Manager",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "primaryus.com",
+   "contact": "Arthur Hernandez",
+   "title": "Manager",
+   "priority": "master-P1"
+  },
+  {
+   "domain": "nabcoelectric.com",
+   "contact": "Eddie Davidson",
+   "title": "Chief Financial Officer",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "hargroveelectric.com",
+   "contact": "Matt Powell",
+   "title": "Foreman",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "willenelectric.com",
+   "contact": "Dan Shine",
+   "title": "Retired",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "newdirectionutilities.com",
+   "contact": "Tyler Scott",
+   "title": "Director of Operations - UG Distribution and Civil Construction Divisions",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "heicontractors.com",
+   "contact": "Gregg Nadess",
+   "title": "Chief Financial Officer",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "leerelectric.com",
+   "contact": "Fred Miller",
+   "title": "General Superintendent",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "eeengineering.org",
+   "contact": "Thierry States (Thierry Julio Epassa)",
+   "title": "Director Of Electrical Engineering",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "hsitx.com",
+   "contact": "Jacob Mcneil",
+   "title": "Chief Financial Officer",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "aerones.com",
+   "contact": "Janis Putrams",
+   "title": "Chief Technology Officer",
+   "priority": "P2-candidate"
+  },
+  {
+   "domain": "aerones.com",
+   "contact": "Martins Vaivods",
+   "title": "CFO",
+   "priority": "P2-candidate"
+  },
+  {
+   "domain": "hawkeye-electric.com",
+   "contact": "Liz Anderson",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "palmierielectric.com",
+   "contact": "Raymond Palmieri",
+   "title": "Pres.",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "tri-mgroup.com",
+   "contact": "James T. Horn",
+   "title": "Chairman",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "maddash.com",
+   "contact": "Karin Meining",
+   "title": "CFO",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "cbehq.com",
+   "contact": "Michael Jury",
+   "title": "Division Manager",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "bryanelectricinc.com",
+   "contact": "Steve Morris",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "dseelectric.com",
+   "contact": "Carlos Estrada",
+   "title": "Warehouse Team Member",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "hickselectric.net",
+   "contact": "Nick Green",
+   "title": "Project and Purchasing and Permitting and Warehouse Manager",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "solarelectric.org",
+   "contact": "Gaetano Cuccio",
+   "title": "Electrical Superintendent",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "northlineutilitiesllc.com",
+   "contact": "Lori Mayott",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "universalblowerpac.com",
+   "contact": "Al Zinkovich",
+   "title": "Cfo",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "centripump.com",
+   "contact": "Paul Strouhal",
+   "title": "Chief Financial Officer",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "pvicm.com",
+   "contact": "Diane Gallagher",
+   "title": "Director of Administrative Operations",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "swanelectric.com",
+   "contact": "Tim Stolicker",
+   "title": "Business Development Director",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "westernmountaininc.com",
+   "contact": "Arika Phipps",
+   "title": "HBIC",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "allphasepl.com",
+   "contact": "Andrew Yetter",
+   "title": "Electrical Project Manager",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "iriss.com",
+   "contact": "Nyare Fauste",
+   "title": "Proprietaire",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "iriss.com",
+   "contact": "Peter Anderson",
    "title": "CFO",
    "priority": "master-P3"
   },
   {
-   "domain": "asbenergy.com",
-   "contact": "Jamie J. Thompson",
+   "domain": "coltinelectric.com",
+   "contact": "Alan Rodgers",
+   "title": "Project Engineer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "kaiserelectric.com",
+   "contact": "Mike Smegner",
    "title": "Chief Financial Officer",
    "priority": "master-P3"
   },
   {
-   "domain": "pcsbr.com",
-   "contact": "Joneah Johnson",
-   "title": "Chief Financial Officer",
+   "domain": "tomeyelectric.com",
+   "contact": "Jp Taylor",
+   "title": "Superintendent",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "southwestelectric.com",
+   "contact": "Laura Malm",
+   "title": "CFO",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "graceport.com",
+   "contact": "Drew Allen",
+   "title": "Learning Officer",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "graceport.com",
+   "contact": "Scott Allen",
+   "title": "Director of Operations",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "highmarkerectors.com",
+   "contact": "Shane Crawford",
+   "title": "Superintendent",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "mcinnisco.com",
+   "contact": "Kevin Harthcock",
+   "title": "Estimator and Project Manager",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "hinsdaleelectric.com",
+   "contact": "Steve Tagliere",
+   "title": "Project Manager",
    "priority": "master-P3"
   },
   {
@@ -2143,12 +2973,6 @@
    "domain": "thwindersllc.com",
    "contact": "Rolando Jaramillo",
    "title": "Chief Financial Officer",
-   "priority": "valDQ-review"
-  },
-  {
-   "domain": "bore-tech.net",
-   "contact": "Wendy Cabral",
-   "title": "Chief Financial Officer, Director",
    "priority": "valDQ-review"
   },
   {
@@ -2212,6 +3036,28 @@
  "us_only_note": "The mandate is a US company. .co was not treated as foreign - it is Colombia's TLD but reads as a US vanity domain here. Domain TLD alone misses the bigger problem, which is foreign contacts on .com targets; those are in verify_before_outreach.",
  "possible_duplicate_entities": [
   {
+   "phone": "2147890458",
+   "domains": [
+    "4c2electrical.com",
+    "diamondindustrialgroup.com"
+   ],
+   "names": [
+    "4C2 Electrical Associates, LLC",
+    "Diamond Industrial Group, LLC"
+   ]
+  },
+  {
+   "phone": "5027196615",
+   "domains": [
+    "cbehq.com",
+    "henderson-services.com"
+   ],
+   "names": [
+    "Comstock Brothers Electric",
+    "Henderson Services LLC"
+   ]
+  },
+  {
    "phone": "9549794061",
    "domains": [
     "maritimetechnicalservices.com",
@@ -2231,6 +3077,61 @@
    "names": [
     "Transformer Service Inc",
     "Transformer Services INC"
+   ]
+  },
+  {
+   "phone": "7244220428",
+   "domains": [
+    "panelshop.com",
+    "premierautomation.com"
+   ],
+   "names": [
+    "PanelShop.com",
+    "Premier Automation LLC"
+   ]
+  },
+  {
+   "phone": "4128177720",
+   "domains": [
+    "panelshop.com",
+    "premierautomation.com"
+   ],
+   "names": [
+    "PanelShop.com",
+    "Premier Automation LLC"
+   ]
+  },
+  {
+   "phone": "4123733700",
+   "domains": [
+    "panelshop.com",
+    "premierautomation.com"
+   ],
+   "names": [
+    "PanelShop.com",
+    "Premier Automation LLC"
+   ]
+  },
+  {
+   "phone": "7247418200",
+   "domains": [
+    "panelshop.com",
+    "premierautomation.com"
+   ],
+   "names": [
+    "PanelShop.com",
+    "Premier Automation LLC"
+   ]
+  },
+  {
+   "phone": "6093450151",
+   "domains": [
+    "calvielectric.com",
+    "currentmasterelectric.com"
+   ],
+   "names": [
+    "Calvi Electric Company",
+    "CurrentMaster Electric, LLC."
    ]
   }
  ],
@@ -2253,11 +3154,11 @@
  ],
  "bad_domain_note": "A website-builder or directory host is not a company domain. Enrichment can never resolve one, and dedupe keyed on it is unreliable, so the real domain has to be found before the row is usable.",
  "counts": {
-  "verify_before_outreach": 55,
-  "ownership_signals": 63,
-  "non_owner_titles": 189,
+  "verify_before_outreach": 105,
+  "ownership_signals": 75,
+  "non_owner_titles": 248,
   "us_only_violations": 6,
   "bad_domains": 2,
-  "possible_duplicate_entities": 2
+  "possible_duplicate_entities": 9
  }
 }
