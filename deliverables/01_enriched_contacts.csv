@@ -2740,107 +2740,108 @@ westernsystems-inc.com,westernsystems-inc.com,Michael C Smith,"President, CEO",,
 westernsystems-inc.com,westernsystems-inc.com,Ryan Ammarell,Owner,,,,ar@westernsystems-inc.com,yes,?,,valDQ-review,inven+grata,"common-name record - several out-of-state numbers dropped, WA numbers kept"
 magnaproducts.com,magnaproducts.com,Genevieve Morrow,Vice President,,,+1 585-647-2280,gmorrow@magnaproducts.com,yes,?,,valDQ-review,inven+grata,"office line only; named lookup for Kenneth Morrow (Founder/President) found nothing, fallback returned Genevieve Morrow, VP - family member, not the named owner"
 magnaproducts.com,magnaproducts.com,Kenneth Morrow,Founder & President,,,5856472280,kmorrow@magnaproducts.com,yes,?,,valDQ-review,inven+grata,"office line only; named lookup for Kenneth Morrow (Founder/President) found nothing, fallback returned Genevieve Morrow, VP - family member, not the named owner"
-"Summit Electric & Data, Inc.",summitelectricdata.com,,,,,,,,T5,,master-DQ,grata,no grata execs
-Parker Electric,parkerelectric.com,,,,,,,,T5,,master-P2,grata,no grata execs
-Power Connections Inc,powerconnections.com,,,,,,,,M13,,master-P3,grata,no grata execs
-Amex Electric Services DFW,amexelectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Lumen Electric INC.,lumenelectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-"Alpha Industries, LLC.",alphaindustries.pro,,,,,,,,T4,,master-DQ,grata,no grata execs
-Armor Electrical,armorelectrical.com,,,,,,,,T5,,master-DQ,grata,no grata execs
-Beaon Energy,gobeaon.com,,,,,,,,T5,,master-DQ,grata,no grata execs
-"Campbell & Dawes, LTD",campbellanddawes.com,,,,,,,,T5,,master-DQ,grata,no grata execs
-Commercial Electrician,johnfordelectricalservices.co.uk,,,,,,,,T4,,master-DQ,grata,"domain unresolvable in grata (404); UK domain - non-US, verify entity"
-Cte,cte-ca.com,,,,,,,,T5,,master-DQ,grata,no grata execs
-EV HookUp,evhookup.com,,,,,,,,S9,,master-DQ,grata,no grata execs
-Elevate360 Inc.,elevate360.com,,,,,,,,S9,,master-DQ,grata,no grata execs
-HB Utilities,hbutilities.com,,,,,,,,T3,,master-DQ,grata,no grata execs
-Main Line Charging,mainlinecharging.com,,,,,,,,S9,,master-DQ,grata,no grata execs
-Musgrove Construction,musgrove.ourcareerpages.com,,,,,,,,T3,,master-DQ,grata,grata matched wrong entity (Burford's Tree LLC / ourcareerpages.com) - not a company primary domain
-ProCal Lighting,procallighting.com,,,,,,,,T5,,master-DQ,grata,no grata execs; grata resolved requested domain to pro-cal.com (ProCal) - verify entity
-SPEED Wiring Products,speedwiringproducts.com,,,,,,,,M13,,master-DQ,grata,no grata execs
-"Northeast Electric, LLC",nellc.net,,,,,,,,T4,,master-P2,grata,no grata execs
-Unlimited Creativity,unlimitedelectricfl.com,,,,,,,,S8,,master-P2,grata,no grata execs
-Data Center Solutions Inc.,dcentersolutions.com,,,,,,,,T6,,master-P3,grata,no grata execs
-"Fox Systems, Inc.",foxsystemsinc.com,,,,,,,,T4,,master-P3,grata,no grata execs
-White Lightning Protection,whitelightningprotection.com,,,,,,,,S10,,master-P3,grata,domain unresolvable in grata (404)
-Morris Electric Inc.,morrisele.com,,,,,,,,T4,,master-P3,grata,no grata execs
-Jamison Electric,jamisonelectricinc.com,,,,,,,,T5,,master-P3,grata,no grata execs
-"Rex Collins Electric, INC.",rexcollinselectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-"ECHO Solutions USA, LLC>",echosolutionsusa.com,,,,,,,,S10,,master-P3,grata,no grata execs
-Ray's Electric,rayselectric.co,,,,,,,,S8,,master-P3,grata,no grata execs
-"Ample Electric, Inc.",ampleelectric.com,,,,,,,,T5,,master-P3,grata,no grata execs; grata resolved requested domain to ampleelectricinc.com - verify entity
-Artesia Pilar Electrical,artesiapilarelectrical.com,,,,,,,,T5,,master-P3,grata,no grata execs
-JMTJ Construction LLC,jmtjconstruction.com,,,,,,,,T3,,master-P3,grata,no grata execs
-QFS Electric Inc,qfselectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Dig Tech,digtechtexas.com,,,,,,,,T3,,master-P3,grata,no grata execs
-Berry Contracting Inc,jimberry.com,,,,,,,,T3,,master-P3,grata,no grata execs
-Gs2 Contractors,gs2contractors.com,,,,,,,,T4,,master-P3,grata,no grata execs
-Rise Electric LLC,riseelec.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Premier Power Company,premierpowercompany.com,,,,,,,,T3,,master-P3,grata,no grata execs
-Vsl Electrical Signing Lighting Llc,vslconstructors.com,,,,,,,,S8,,master-P3,grata,no grata execs
-Nexus Electrical Group PDX,nexuselectricalgroup.com,,,,,,,,T5,,master-P3,grata,no grata execs
-"A&H Industries, LLC",ahindllc.com,,,,,,,,S8,,master-DQ,grata,no grata company found for domain
-Bass Electrical Corporation,basselectricalnyc.com,,,,,,,,T5,,master-DQ,grata,no grata execs
-Sanders Services,sanderscomposites.com,,,,,,,,T5,,master-DQ,grata,no grata execs
-"Advanced Integration Technologies, Inc.",aitechfl.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Allied Services Group,alliedsg.com,,,,,,,,T5,,master-DQ,grata,no grata execs
-"Arc Power Services, LLC",arcpowersvc.com,,,,,,,,T3,,master-DQ,grata,no grata execs
-Celtic Power Group,celticpower.com,,,,,,,,T3,,master-DQ,grata,no grata execs
-Energy-Test Ingeniería Eléctrica,energy-test.com,,,,,,,,T1,,master-DQ,grata,no grata execs
-Formex Electrical Contractor Inc.,formex.us,,,,,,,,T4,,master-DQ,grata,no grata execs
-Lonestar Lightning,lonestarlightning.com,,,,,,,,S10,,master-DQ,grata,no grata execs
-"InChargeE, LLC",inchargee.com,,,,,,,,S9,,master-DQ,grata,no grata execs
-OMNI Electric,omnielectric.io,,,,,,,,S8,,master-DQ,grata,no grata execs
-Transition Power LLC,transitionpower.net,,,,,,,,T3,,master-DQ,grata,no grata company found for domain
-Utility Electric,utilityelectric.net,,,,,,,,T4,,master-DQ,grata,no grata execs
-North Kansas City Electric,nkce.com,,,,,,,,T5,,master-P2,grata,no grata execs
-Kentucky General INC Dba Norman King Electric,nkelectric.com,,,,,,,,T4,,master-P2,grata,no grata execs
-Phillips Southern Electric Co,phillips-southern.org,,,,,,,,S8,,master-P2,grata,no grata execs
-Midstream & Industrial Controls,micontrols.net,,,,,,,,T4,,master-P3,grata,no grata execs
-Morse Collins Inc,morse-collins.com,,,,,,,,S10,,master-P3,grata,no grata execs
-McGinnis Electrical Contracting Company,mcginnis-ecc.com,,,,,,,,T4,,master-P3,grata,no grata execs
-Civaeco Corp.,civaeco.com,,,,,,,,T3,,master-P3,grata,no grata execs
-"Walsh Electrical, Inc.",walshelectrical.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Greenway Electrical Services LLC,greenwayelecsvc.com,,,,,,,,T4,,master-P3,grata,no grata execs
-Guam Advance Enterprises Inc,guamadvance.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Castle Electric,castleelectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-H. K. Scholz Co.,hkscholz.com,,,,,,,,M13,,master-P3,grata,no grata execs
-Cariboo Industrial Electric,caribooindustrialelectric.com,,,,,,,,T4,,master-P3,grata,"no grata execs; name suggests Cariboo region, British Columbia - verify this is a US entity before outreach"
-Auto Charging Experts INC.,autochargingexperts.com,,,,,,,,S9,,master-P3,grata,no grata execs
-Nu-Trend EV and Electrical Services,nu-trendev.com,,,,,,,,S9,,master-P3,grata,no grata execs
-L9 Electric,l9electric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Millennium Electrical Services,millenes.com,,,,,,,,T5,,master-P3,grata,no grata execs
-JCE Inc,jceinc-us.com,,,,,,,,T5,,master-P3,grata,no grata execs
-E-TEC Electrical Services,e-tecinc.net,,,,,,,,T5,,master-P3,grata,no grata execs
-Direct Strike Lightning protection,directstrikelightningprotection.github.io,,,,,,,,S10,,master-DQ,grata,no grata execs
-wetsinc.net,wetsinc.net,James McCasland,President & CEO,,,,jimm@suddenlink.net,yes,?,,valDQ-review,grata,"work email is on suddenlink.net, a consumer ISP domain, not the company domain - verify"
-Elite Power Solutions,elitepowersolutions.io,,,,,,,,S9,,master-DQ,grata,no grata execs
-Analysis and Measurement Services (AMS) Corporation,ams-corp.com,,,,,,,,T1,,master-P3,grata,no grata execs
-Independent Lighting & Electrical,independentlighting.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Eagle Electric,eagleelect.com,,,,,,,,T5,,master-P3,grata,no grata execs
-"4Lp, LLC",4lp.com,,,,,,,,S10,,master-DQ,grata,no grata execs
-EV Chargers by AEFA,evchargersusa.com,,,,,,,,S9,,master-DQ,grata,no grata execs
-Electrical Innovations,electricalinnovations.net,,,,,,,,T5,,master-DQ,grata,no grata execs
-Harrison Electric INC,spina-enterprises.com,,,,,,,,S7,,master-DQ,grata,no grata execs
-Hmt,hmt-electric.com,,,,,,,,T1,,master-DQ,grata,no grata execs
-"Outback Contractors, Inc.",outback-inc.com,,,,,,,,T3,,master-DQ,grata,no grata execs
-R.W. Electric,rwelectric.com,,,,,,,,T4,,master-DQ,grata,no grata execs
-"Keares Electrical Contractor, Inc.",keareselectric.com,,,,,,,,T5,,master-P2,grata,no grata execs
-Mallory Electric,malloryelectric.com,,,,,,,,T5,,master-P2,grata,no grata execs
-Mass Bay Electrical,massbayelectric.com,,,,,,,,S8,,master-P2,grata,no grata execs
-"Sage Electric Solutions, LLC",sageelectric.org,,,,,,,,T4,,master-P3,grata,no grata execs
-"ADVANCED MOTOR SOLUTIONS, LLC.",advancemotorsolutions.com,,,,,,,,S7,,master-P3,grata,no grata execs
-Kuchar Electric,precisionelectriccolorado.com,,,,,,,,T4,,master-P3,grata,no grata execs
-East Texas Lightning Protection,easttexaslightningprotection.com,,,,,,,,S10,,master-P3,grata,no grata execs
-Diversified Substation Construction LLC,diversifiedsci.com,,,,,,,,T3,,master-P3,grata,no grata execs
-Glenn Horne Electrical,ghec.biz,,,,,,,,T5,,master-P3,grata,no grata execs
-"CLP Engineering, LLC",clp-engineering.com,,,,,,,,E12,,master-P3,grata,no grata execs
-Dave's Construction LLC,davesinc.com,,,,,,,,T3,,master-P3,grata,no grata execs
-SDI Electric Group,sdielectricgroupllc.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Peter and Sons Electric Company,peterandsonselectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-"True Compass, LLC",truecompassnw.com,,,,,,,,T5,,master-P3,grata,404 unresolved_domain - no Grata company found for this domain
-L E Ballance Electrical Service,ballanceelectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Mongoose Electric Incorporated,mongooseelectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Rondout Electric Inc,rondoutelectric.net,,,,,,,,T5,,master-P3,grata,no grata execs
-omirepair.com,omirepair.com,Amin Ghahari,CEO,,,,aghahari@omirepair.com,yes,?,,valDQ-review,grata,ok
-prowesteng.com,prowesteng.com,Josh Collins,Co-Owner,,,,joshc@prowesteng.com,yes,?,,valDQ-review,grata,ok
+wetsinc.net,wetsinc.net,James McCasland,President & CEO,,,,jimm@suddenlink.net,yes,?,,valDQ-review,inven+grata,named lookup for James McCasland found nothing; titled-domain fallback: 13 contacts at domain but none with an owner-level title
+omirepair.com,omirepair.com,Amin G.,President,,,+1 208-375-5710,,,?,,valDQ-review,inven+grata,"office line only, no verified email; record blends a southernwine.com identity - verify"
+omirepair.com,omirepair.com,Amin Ghahari,CEO,,,,aghahari@omirepair.com,yes,?,,valDQ-review,inven+grata,"office line only, no verified email; record blends a southernwine.com identity - verify"
+prowesteng.com,prowesteng.com,Josh Collins,Co-Owner,,,,joshc@prowesteng.com,yes,?,,valDQ-review,inven+grata,named lookup for Josh Collins found nothing; titled-domain fallback: 5 contacts at domain but none with an owner-level title
+Parker Electric,parkerelectric.com,Tim Parker,Owner,+1 405-408-3174,+1 512-836-9779,,tim@parkerelectric.com,yes,T5,,master-P2,inven,mobile area code 405 (OK) does not match company location Austin TX; direct dial 512 matches
+"Northeast Electric, LLC",nellc.net,,,,,,,,T4,,master-P2,inven,"no owner-level title match (2 contacts at domain, none matching title filter)"
+Unlimited Creativity,unlimitedelectricfl.com,,,,,,,,S8,,master-P2,inven,no owner-level title match (1 contact at domain)
+North Kansas City Electric,nkce.com,,,,,,,,T5,,master-P2,inven,no owner-level title match (4 contacts at domain)
+Kentucky General INC Dba Norman King Electric,nkelectric.com,,,,,,,,T4,,master-P2,inven,no provider coverage for domain
+Phillips Southern Electric Co,phillips-southern.org,Jarrod Divelbess,General Superintendent,+1 785-577-3082,,+1 316-265-4186,jarrod@phillips-southern.org,yes,S8,,master-P2,inven,"NON-OWNER TITLE: General Superintendent, not a decision maker; also phone contamination - 4 numbers across 785/712/316, dropped +1 712-644-3522 (Iowa) as out-of-state"
+"Keares Electrical Contractor, Inc.",keareselectric.com,Bob Keares,Owner,,,,bobk@keareselectric.com,yes,T5,,master-P2,inven,no phone returned (verified email only)
+Mallory Electric,malloryelectric.com,,,,,,,,T5,,master-P2,inven,no owner-level title match (4 contacts at domain)
+Mass Bay Electrical,massbayelectric.com,,,,,,,,S8,,master-P2,inven,no owner-level title match (4 contacts at domain)
+"Summit Electric & Data, Inc.",summitelectricdata.com,Ray Vasquez,President and Owner,"+1 626-926-0174, +1 949-310-0918",,,summitelec.data@gmail.com,yes,T5,,master-DQ,inven,"LOW CONFIDENCE PHONES: 6 numbers across 626/949/818/661/562 - all CA but scattered, kept top 2 mobiles only; all unverified professional emails were on summitelectservices.com not the target domain, dropped"
+"Alpha Industries, LLC.",alphaindustries.pro,,,,,,,,T4,,master-DQ,inven,no owner-level title match (3 contacts at domain)
+Armor Electrical,armorelectrical.com,,,,,,,,T5,,master-DQ,inven,no provider coverage for domain
+Beaon Energy,gobeaon.com,,,,,,,,T5,,master-DQ,inven,no provider coverage for domain
+"Campbell & Dawes, LTD",campbellanddawes.com,,,,,,,,T5,,master-DQ,inven,no owner-level title match (2 contacts at domain)
+Commercial Electrician,johnfordelectricalservices.co.uk,,,,,,,,T4,,master-DQ,inven,"no owner-level title match (6 contacts); also UK .co.uk domain - out of US-only mandate, likely wrong target entirely"
+Cte,cte-ca.com,Kris Mize,Store owner,+1 863-660-3978,,,kris@cte-ca.com,yes,T5,,master-DQ,inven,"VERIFY ENTITY: title 'Store owner' is retail-shaped for an electrical contractor, and contact is FL (863) while domain reads '-ca'; provider also offered a cte.gob.ec (Ecuador) email, dropped"
+EV HookUp,evhookup.com,,,,,,,,S9,,master-DQ,inven,no provider coverage for domain
+Elevate360 Inc.,elevate360.com,,,,,,,,S9,,master-DQ,inven,no provider coverage for domain
+HB Utilities,hbutilities.com,Christopher Adrian,Vice President,"+1 720-427-9479, +1 720-837-3778",,,christopher.adrian@hbutilities.com,yes,T3,,master-DQ,inven,"NON-OWNER TITLE: Vice President. PHONE CONTAMINATION: all 3 mobiles are Colorado (720/720/303) but contact is San Antonio TX - no number matches company state, treat phones as unconfirmed; emails are verified and on-domain"
+Main Line Charging,mainlinecharging.com,,,,,,,,S9,,master-DQ,inven,no provider coverage for domain
+Musgrove Construction,musgrove.ourcareerpages.com,,,,,,,,T3,,master-DQ,inven,"no provider coverage; domain is an ATS careers-page host, not the company's own domain - needs corrected domain before retry"
+ProCal Lighting,procallighting.com,,,,,,,,T5,,master-DQ,inven,no owner-level title match (2 contacts at domain)
+SPEED Wiring Products,speedwiringproducts.com,Steve Ivanov,Owner,,,,sivanov@speedwiringproducts.com,yes,M13,,master-DQ,inven,no phone returned (verified email only)
+"A&H Industries, LLC",ahindllc.com,Hamid Zamanian,Partner,+1 703-909-2448,,,hzamanian@ahindustriesllc.com,yes,S8,,master-DQ,inven,"verified email sits on ahindustriesllc.com not the queried ahindllc.com - confirm same entity; mobile 703 is DC-metro, consistent with Hyattsville MD"
+Bass Electrical Corporation,basselectricalnyc.com,Panagiotis Karakalpakidis,Owner,+1 917-417-0468,+1 718-274-6531,,basselectricalco@aol.com,yes,T5,,master-DQ,inven,no grata execs
+Sanders Services,sanderscomposites.com,Eric Sanders,Owner,,+1 714-521-9800,+1 562-354-2920,ericsanders@gmail.com,yes,T5,,master-DQ,inven,"no mobile - direct dial and office only; dropped +1 949-650-1666 (type 'other', third unrelated SoCal area code)"
+Allied Services Group,alliedsg.com,Marilee Hamby,Vice President Finance and Accounting,+1 281-684-4108,+1 713-346-7722,,mhamby@alliedsg.com,yes,T5,,master-DQ,inven,"NON-OWNER TITLE: VP Finance and Accounting, not the decision maker. LOW CONFIDENCE PHONES: 7 numbers returned, kept the 281 mobile and one 713 direct dial matching Houston; dropped 405 (OK) and the rest. Several 'personal' emails are under other surnames (sarahhamby@, marilee.kelso@) - record looks merged, use the on-domain email only"
+"Arc Power Services, LLC",arcpowersvc.com,,,,,,,,T3,,master-DQ,inven,no owner-level title match (3 contacts at domain)
+Celtic Power Group,celticpower.com,Daniel Halloran,President,"+1 954-952-7336, +1 561-516-2205",,,daniel@celticpower.com,yes,T3,,master-DQ,inven,"LIKELY WRONG MATCH - contact location Ireland, outside the US-only mandate. Phones span +353 (IE), +61 (AU x2), +1 902 (Nova Scotia) and +1 954/561 (FL): heavy contamination, kept only the two US numbers and even those are unconfirmed. Do not use before entity verification"
+Energy-Test Ingeniería Eléctrica,energy-test.com,,,,,,,,T1,,master-DQ,inven,no owner-level title match (1 contact at domain)
+Formex Electrical Contractor Inc.,formex.us,Mustafa A.,Executive Manager,,,,,,T4,,master-DQ,inven,"LIKELY WRONG MATCH - all candidate emails resolve to formex.com.tr (Turkey), none verified, none on formex.us; title 'Executive Manager' is not owner-level and no phone returned. Nothing usable"
+Lonestar Lightning,lonestarlightning.com,,,,,,,,S10,,master-DQ,inven,no provider coverage for domain
+"InChargeE, LLC",inchargee.com,,,,,,,,S9,,master-DQ,inven,no provider coverage for domain
+OMNI Electric,omnielectric.io,Alexander Diaz,Director of Operations,,,,alexander.diaz@omnielectric.io,yes,S8,,master-DQ,inven,NON-OWNER TITLE: Director of Operations. No phone returned (verified emails only)
+Transition Power LLC,transitionpower.net,,,,,,,,T3,,master-DQ,inven,no owner-level title match (1 contact at domain)
+Utility Electric,utilityelectric.net,,,,,,,,T4,,master-DQ,inven,no owner-level title match (2 contacts at domain)
+Direct Strike Lightning protection,directstrikelightningprotection.github.io,,,,,,,,S10,,master-DQ,inven,"no provider coverage; domain is a github.io page, not a company domain - needs a corrected domain before retry"
+Elite Power Solutions,elitepowersolutions.io,Payton T,Founder,+1 385-335-1039,,,paythomas19@gmail.com,yes,S9,,master-DQ,inven,only verified email is personal gmail; on-domain addresses are unverified guesses. Mobile 385 matches Orem UT
+"4Lp, LLC",4lp.com,,,,,,,,S10,,master-DQ,inven,no owner-level title match (4 contacts at domain)
+EV Chargers by AEFA,evchargersusa.com,,,,,,,,S9,,master-DQ,inven,no provider coverage for domain
+Electrical Innovations,electricalinnovations.net,,,,,,,,T5,,master-DQ,inven,no provider coverage for domain
+Harrison Electric INC,spina-enterprises.com,,,,,,,,S7,,master-DQ,inven,no provider coverage for domain
+Hmt,hmt-electric.com,,,,,,,,T1,,master-DQ,inven,no provider coverage for domain
+"Outback Contractors, Inc.",outback-inc.com,Mattie Bunting,President,"+1 530-200-6016, +1 530-737-3588",,,mattieb@outback-inc.com,yes,T3,,master-DQ,inven,no grata execs
+R.W. Electric,rwelectric.com,,,,,,,,T4,,master-DQ,inven,no owner-level title match (3 contacts at domain)
+Power Connections Inc,powerconnections.com,Scotty Touchette,Vice President,"+1 337-356-8940, +1 337-258-6554",,,scotty@powerconnections.com,yes,M13,,master-P3,inven,"NON-OWNER TITLE: Vice President. LOW CONFIDENCE PHONES: 11 numbers returned, kept the top 2 mobiles on 337 (matches Opelousas LA); dropped 918 (OK) and 334 (AL) as out-of-state"
+Amex Electric Services DFW,amexelectric.com,Samuel Alvarez,Owner and President,+1 214-991-5803,,+1 915-599-1207,samuel@amexelectric.com,yes,T5,,master-P3,inven,mobile 214 (Dallas) and office 915 (El Paso) are both TX but far apart - confirm which site is HQ
+Lumen Electric INC.,lumenelectric.com,Tom Sebastiano,General Manager,+1 847-540-6300,,,tom@lumenelectric.com,yes,T5,,master-P3,inven,title is General Manager - senior but confirm ownership before treating as decision maker
+Data Center Solutions Inc.,dcentersolutions.com,Juan Starkmann,Founder and CEO,,,+1 310-748-4429,juan.starkmann@dcentersolutions.com,yes,T6,,master-P3,inven,office line only - no mobile
+"Fox Systems, Inc.",foxsystemsinc.com,Brandon Coggins,Electrical Contractor,"+1 706-263-6575, +1 770-773-5284",,,,,T4,,master-P3,inven,"NON-OWNER TITLE: 'Electrical Contractor' is a trade role, not a decision maker. No verified email - all addresses are unverified pattern guesses. Phones on 706/770 are both GA, consistent"
+White Lightning Protection,whitelightningprotection.com,,,,,,,,S10,,master-P3,inven,no provider coverage for domain
+Morris Electric Inc.,morrisele.com,,,,,,,,T4,,master-P3,inven,no owner-level title match (2 contacts at domain)
+Jamison Electric,jamisonelectricinc.com,Jeremy Jamison,Proprietor,,,+1 540-345-3854,,,T5,,master-P3,inven,"office line only, and its 540 area code is Virginia while the contact is Louisville KY (502) - phone likely belongs to a different entity. No verified email; all addresses are unverified pattern guesses"
+"Rex Collins Electric, INC.",rexcollinselectric.com,,,,,,,,T5,,master-P3,inven,no owner-level title match (7 contacts at domain)
+"ECHO Solutions USA, LLC>",echosolutionsusa.com,,,,,,,,S10,,master-P3,inven,no provider coverage for domain
+Ray's Electric,rayselectric.co,,,,,,,,S8,,master-P3,inven,no provider coverage for domain
+"Ample Electric, Inc.",ampleelectric.com,Jose Diaz,CEO,"+1 530-219-5058, +1 530-979-6312",,,jdiaz@ampleelectric.com,yes,T5,,master-P3,inven,"SEVERE PHONE CONTAMINATION: 17 numbers spanning 530/707 (CA) plus 678 GA, 417 MO, 610 PA, 443 MD, 219 IN, 574 IN, 206 WA - provider record is clearly merged across multiple people. Kept only the two 530 mobiles matching Winters CA; treat as unconfirmed. Emails equally merged (multiple unrelated personal aliases, one FL rr.com address) - kept the on-domain verified address only"
+Artesia Pilar Electrical,artesiapilarelectrical.com,,,,,,,,T5,,master-P3,inven,no provider coverage for domain
+JMTJ Construction LLC,jmtjconstruction.com,Joel Coronado,Co-Owner,,,+1 318-623-9374,joel.coronado@gmail.com,yes,T3,,master-P3,inven,"office line only, and its 318 area code is Louisiana while the contact is Lubbock TX (806) - phone unconfirmed. Only verified email is personal gmail; on-domain addresses are unverified guesses"
+QFS Electric Inc,qfselectric.com,,,,,,,,T5,,master-P3,inven,no owner-level title match (3 contacts at domain)
+Dig Tech,digtechtexas.com,,,,,,,,T3,,master-P3,inven,no provider coverage for domain
+Berry Contracting Inc,jimberry.com,,,,,,,,T3,,master-P3,inven,no owner-level title match (3 contacts at domain)
+Gs2 Contractors,gs2contractors.com,,,,,,,,T4,,master-P3,inven,no provider coverage for domain
+Rise Electric LLC,riseelec.com,Jason Gilles,"Project Manager, Principal",+1 708-516-3920,,,jgilles@riseelec.com,yes,T5,,master-P3,inven,"title mixes Project Manager with Principal - confirm ownership stake before treating as decision maker. PHONE CONTAMINATION: 4 numbers, kept only the 708 mobile (Chicago area); dropped 989 (MI), 773 'other' and 603 (NH) office"
+Premier Power Company,premierpowercompany.com,Blake Melton,President,,,,blake@premierpowercompany.com,yes,T3,,master-P3,inven,no phone returned (verified email only)
+Vsl Electrical Signing Lighting Llc,vslconstructors.com,Jason Jenkins,Area Manager,,,,jason.jenkins.06@gmail.com,yes,S8,,master-P3,inven,"LIKELY WRONG MATCH: NON-OWNER TITLE (Area Manager) and every professional email is on laneconstruct.com, not vslconstructors.com; 4 phones span 510 (CA), 202 (DC) and 703 (VA x2) with none matching Charleston SC - all dropped. Nothing usable for this domain"
+Nexus Electrical Group PDX,nexuselectricalgroup.com,,,,,,,,T5,,master-P3,inven,no owner-level title match (2 contacts at domain)
+"Advanced Integration Technologies, Inc.",aitechfl.com,Sergio Salazar,Co-Founder and VP,+1 561-702-9010,,+1 561-990-1275,ssalazar@aitechfl.com,yes,T5,,master-P3,inven,"co-founder so owner-level despite VP in title; dropped +1 936-499-1410 (TX) as out-of-state, kept the 561 numbers matching Boca Raton FL"
+Midstream & Industrial Controls,micontrols.net,Angel Nava,President Of Operations,+1 832-629-0991,,+1 281-628-7395,angelnava@micontrols.net,yes,T4,,master-P3,inven,"title 'President Of Operations' reads as an ops role rather than the owner - confirm. Dropped +1 254-715-6857 (Waco TX, away from Houston) and a second unrelated personal email; kept 832/281 Houston-area numbers"
+Morse Collins Inc,morse-collins.com,,,,,,,,S10,,master-P3,inven,no provider coverage for domain
+McGinnis Electrical Contracting Company,mcginnis-ecc.com,Richard McGinnis,President and Owner,,,+1 412-331-8333,mcginnis@mcginnis-ecc.com,yes,T4,,master-P3,inven,"office line only (412, Pittsburgh) - no mobile"
+Civaeco Corp.,civaeco.com,,,,,,,,T3,,master-P3,inven,no provider coverage for domain
+"Walsh Electrical, Inc.",walshelectrical.com,Mike Walsh,Vice President,+1 570-840-5371,+1 570-969-2442,,mwalsh@walshelectrical.com,yes,T5,,master-P3,inven,"NON-OWNER TITLE: Vice President - though surname matches the company name and a mikesr@ address also exists, so likely family ownership; all phones 570 and consistent with Clarks Summit PA"
+Greenway Electrical Services LLC,greenwayelecsvc.com,,,,,,,,T4,,master-P3,inven,no owner-level title match (5 contacts at domain)
+Guam Advance Enterprises Inc,guamadvance.com,,,,,,,,T5,,master-P3,inven,"no owner-level title match (29 contacts at domain); also Guam-based, confirm it meets the US-mainland mandate"
+Castle Electric,castleelectric.com,,,,,,,,T5,,master-P3,inven,no provider coverage for domain
+H. K. Scholz Co.,hkscholz.com,,,,,,,,M13,,master-P3,inven,no owner-level title match (8 contacts at domain)
+Cariboo Industrial Electric,caribooindustrialelectric.com,,,,,,,,T4,,master-P3,inven,"no owner-level title match (4 contacts at domain); 'Cariboo' is a British Columbia region - check this is not a Canadian firm, which would be outside the US-only mandate"
+Auto Charging Experts INC.,autochargingexperts.com,,,,,,,,S9,,master-P3,inven,no provider coverage for domain
+Nu-Trend EV and Electrical Services,nu-trendev.com,,,,,,,,S9,,master-P3,inven,no provider coverage for domain
+L9 Electric,l9electric.com,Maximiliano Arauza,Owner and Operator,+1 661-617-0026,,,marauza@l9electric.com,yes,T5,,master-P3,inven,no grata execs
+Millennium Electrical Services,millenes.com,,,,,,,,T5,,master-P3,inven,no provider coverage for domain
+JCE Inc,jceinc-us.com,,,,,,,,T5,,master-P3,inven,no owner-level title match (1 contact at domain)
+E-TEC Electrical Services,e-tecinc.net,,,,,,,,T5,,master-P3,inven,no owner-level title match (1 contact at domain)
+Analysis and Measurement Services (AMS) Corporation,ams-corp.com,H.M. Hashemian,President and CEO,+1 865-567-6755,+1 865-691-1756,,hash@ams-corp.com,yes,T1,,master-P3,inven,dropped +1 631-392-0489 (NY) as out-of-state; kept 865 numbers matching Knoxville TN
+Independent Lighting & Electrical,independentlighting.com,Brian Strangways,President and Owner,"+1 757-876-8689, +1 757-407-8654",,,brian@independentlighting.com,yes,T5,,master-P3,inven,LOW CONFIDENCE PHONES: 11 numbers returned; kept the two 757 mobiles matching Virginia Beach and dropped 561 (FL) and 804 (Richmond VA) mobiles plus the direct-dial block
+Eagle Electric,eagleelect.com,Billy Brumm,Vice President,+1 925-783-0512,+1 925-455-1179,,billy@eagleelect.com,yes,T5,,master-P3,inven,"NON-OWNER TITLE: Vice President. PHONE CONTAMINATION: 9 numbers; kept the 925 mobile and one 925 direct dial matching Pleasanton CA, dropped 605 (SD), 707, 775 (NV) and 530. Personal emails belong to a different first name (Larry/Lawrence Brumm) - record looks merged across relatives, use the on-domain address only"
+"Sage Electric Solutions, LLC",sageelectric.org,,,,,,,,T4,,master-P3,inven,no owner-level title match (10 contacts at domain)
+"ADVANCED MOTOR SOLUTIONS, LLC.",advancemotorsolutions.com,,,,,,,,S7,,master-P3,inven,no provider coverage for domain
+Kuchar Electric,precisionelectriccolorado.com,,,,,,,,T4,,master-P3,inven,no provider coverage for domain
+East Texas Lightning Protection,easttexaslightningprotection.com,,,,,,,,S10,,master-P3,inven,no provider coverage for domain
+Diversified Substation Construction LLC,diversifiedsci.com,,,,,,,,T3,,master-P3,inven,no owner-level title match (1 contact at domain)
+Glenn Horne Electrical,ghec.biz,,,,,,,,T5,,master-P3,inven,no provider coverage for domain
+"CLP Engineering, LLC",clp-engineering.com,Erik Parsons,Principal Engineer,,"+1 720-353-4362, +1 303-766-9659",,,,E12,,master-P3,inven,"NON-OWNER TITLE: 'Principal Engineer' is a technical grade, not an ownership principal. No verified on-domain email (only a bellsouth.net and an aol.com personal address, which also read as merged). Dropped the 817 (Fort Worth TX) mobile as out-of-state; the two 720/303 direct dials match Denver but no mobile survives"
+Dave's Construction LLC,davesinc.com,,,,,,,,T3,,master-P3,inven,no owner-level title match (3 contacts at domain)
+SDI Electric Group,sdielectricgroupllc.com,,,,,,,,T5,,master-P3,inven,no provider coverage for domain
+Peter and Sons Electric Company,peterandsonselectric.com,,,,,,,,T5,,master-P3,inven,no provider coverage for domain
+"True Compass, LLC",truecompassnw.com,Douglas Wolfson,President,,,+1 253-833-9904,douglasw@true-compass.net,yes,T5,,master-P3,inven,"verified email is on true-compass.net not the queried truecompassnw.com - confirm same entity; provider also mixed in vandiencapital.com addresses. PHONE CONTAMINATION: only the 253 office line matches WA; dropped the 908 mobile and 201 direct dial (both New Jersey), so no usable mobile"
+L E Ballance Electrical Service,ballanceelectric.com,,,,,,,,T5,,master-P3,inven,no owner-level title match (2 contacts at domain)
+Mongoose Electric Incorporated,mongooseelectric.com,,,,,,,,T5,,master-P3,inven,no owner-level title match (1 contact at domain)
+Rondout Electric Inc,rondoutelectric.net,Ashley Dingee,Vice President,+1 845-249-5698,,+1 845-462-7700,ashleyd@rondout.net,yes,T5,,master-P3,inven,"NON-OWNER TITLE: Vice President. Verified email is on rondout.net rather than the queried rondoutelectric.net - likely the same group, confirm. All phones 845, consistent with Highland NY"

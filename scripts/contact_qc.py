@@ -62,7 +62,7 @@ for r in QUEUE:
 # resolve it, and domain-keyed dedupe against it is unreliable.
 JUNK_HOST = re.compile(r'(godaddysites|wixsite|squarespace|weebly|business\.site|blogspot|wpengine|'
                        r'wordpress\.com|facebook\.com|linkedin\.com|yelp\.|angi\.|houzz\.|'
-                       r'bbb\.org|indeed\.|sites\.google)', re.I)
+                       r'bbb\.org|indeed\.|sites\.google|ourcareerpages|github\.io|myshopify)', re.I)
 bad_domains = [{'domain': r['domain'], 'name': r.get('name'), 'priority': r.get('priority'),
                 'campaign': r.get('campaign'),
                 'note': 'not a company domain - website-builder/directory host'}

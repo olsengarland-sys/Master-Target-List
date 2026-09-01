@@ -1110,14 +1110,14 @@ Payne Electric Co. Inc.,payne-electric.com,T5,,master-P2,MASTER,,,yes,,inven+gra
 Gigerich Electrical Inc,gigerich.net,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"Inven title is VP, our record said President - title mismatch on same person"
 "H2E, Incorporated",h2einc.com,T4,,master-P2,MASTER,,,yes,yes,inven+grata,"named lookup for Neil Heckerman (CEO) missed; fallback returned Doug Lauer, Principal/Power Engineer - substitute, not the named CEO"
 LJS Electric,ljselectric.com,T5,,master-P2,MASTER,,,yes,,inven+grata,no phone of any type returned
-"Northeast Electric, LLC",nellc.net,T4,,master-P2,MASTER,,,,,grata,no grata execs
+"Northeast Electric, LLC",nellc.net,T4,,master-P2,MASTER,,,,,inven,"no owner-level title match (2 contacts at domain, none matching title filter)"
 Ac Electrical Systems,acelectricalsystems.com,T5,,master-P2,MASTER,,,yes,,inven+grata,"office line only; named lookup for Tim Oconnell (President) found nothing and titled fallback returned Matt Burks, Service Manager - not an owner"
 Central Valley Electric,centralvalleyelectric.com,T4,,master-P2,MASTER,,,yes,yes,inven+grata,"named lookup for Troy Wells found nothing; titled fallback returned Brice Thorell, General Manager (NE) while office line is CA 209 - possible entity mismatch, no verified email"
 "D.W. Evans Electric, INC.",dwevans.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"named lookup for Daniel W. Evans (Owner & Founder) found nothing; titled-domain fallback returned Joshua Evans, Vice President - family member, not the named owner"
 "LUDCO, Inc.",ludco.com,T5,,master-P2,MASTER,,,yes,,inven+grata,"named lookup for Lud Davis found nothing; titled-domain fallback: 1 contact at domain, no owner-level title"
 "M-W Electric, Inc.",mwecinc.com,T5,,master-P2,MASTER,,,yes,,inven+grata,no owner-titled contact at domain; named lookup for Mike V. Woods found nothing
 Mock Electric,mockelectric.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,ok
-North Kansas City Electric,nkce.com,T5,,master-P2,MASTER,,,,,grata,no grata execs
+North Kansas City Electric,nkce.com,T5,,master-P2,MASTER,,,,,inven,no owner-level title match (4 contacts at domain)
 Rowe Electric Inc,rowe-electric.com,T5,,master-P2,MASTER,yes,,yes,,inven+grata,named lookup for James Rowe found nothing; titled-domain fallback: 3 contacts at domain but none with an owner-level title
 "Tate & Hill, Inc.",tatehillinc.com,T5,,master-P2,MASTER,,,yes,,inven+grata,named lookup for Bill Phillips found nothing; titled-domain fallback: 6 contacts at domain but none with an owner-level title
 "Omaha Electric Service, Inc.",omahaelectric.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"titled-domain pass missed (16 contacts, no owner title); named lookup succeeded. Multiple mobiles incl. out-of-state 920 - prefer 402-215-4800"
@@ -1129,7 +1129,7 @@ Northern Valley,nvesi.com,T4,,master-P2,MASTER,,,yes,,inven+grata,no provider co
 "All Phase Electric & Maintenance, Inc.",allphaseelectricfl.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"named lookup for Scott Nejeschleba (Owner) missed; fallback returned Michael Lott, Business Owner - different person; 10 mobiles returned, low confidence identity match"
 Dorey Electric Company,doreyelectric.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"substitute contact - asked for Donald R Dorey (President), got Mark Rosenstock (VP)"
 Jessco Electric,jesscoelectric.com,T5,,master-P2,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Harry Goulder found nothing
-Kentucky General INC Dba Norman King Electric,nkelectric.com,T4,,master-P2,MASTER,,,,,grata,no grata execs
+Kentucky General INC Dba Norman King Electric,nkelectric.com,T4,,master-P2,MASTER,,,,,inven,no provider coverage for domain
 Sbc Instrument & Control,sbccontrol.com,T3,,master-P2,MASTER,,,yes,,inven+grata,named lookup for Angie Johnson found nothing; titled-domain fallback: no provider coverage for this domain
 "Hargrove Electric Company, Inc.",hargroveelectric.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"named lookup for Steve Hargrove (Owner/CEO) found nothing; titled-domain fallback returned Matt Powell, Foreman - NOT an owner-level contact"
 Super Electric,superelec.com,T5,,master-P2,MASTER,,,yes,,inven+grata,India - likely wrong match; also office line only and no verified email. Named lookup for Ryan Schult (President) missed
@@ -1142,7 +1142,7 @@ Clennon Electric Inc,clennonelectric.com,T4,,master-P2,MASTER,,,yes,,inven+grata
 CIR Electrical,cirelectric.com,T5,,master-P2,MASTER,,,yes,,inven+grata,"office line only; asked for Thomas Jachimowicz (CEO), got substitute Ryan Short (Foreman) - not an owner"
 "Blackhawk Neff, Inc.",blackhawkneff.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"substitute contact - asked for Robert W Neff (CEO), got Adam Neff (VP)"
 "Gatch Electrical Contractors, Inc.",gatchelectrical.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"titled-domain lookup returned Jason Meyer (CFO and Co-Owner), not the listed Jason Lamb (President)"
-"Keares Electrical Contractor, Inc.",keareselectric.com,T5,,master-P2,MASTER,,,,,grata,no grata execs
+"Keares Electrical Contractor, Inc.",keareselectric.com,T5,,master-P2,MASTER,,,yes,,inven,no phone returned (verified email only)
 Willen Electric Company,willenelectric.com,T5,,master-P2,MASTER,,,yes,,inven+grata,"Inven records Dan Shine as Retired, not President; no phone returned"
 Clouse Electric Inc,clouseelectric.com,T5,,master-P2,MASTER,,,yes,,inven+grata,named lookup for Charles Clouse found nothing; titled-domain fallback: 5 contacts at domain but none with an owner-level title
 Alaska Line Builders LLC,aklinebuilders.com,T3,,master-P2,MASTER,,,yes,,inven+grata,named lookup for Steve Foster found nothing; titled-domain fallback: 2 contacts at domain but none with an owner-level title
@@ -1151,7 +1151,7 @@ Higgins Electric Inc,higginselectric.com,T5,,master-P2,MASTER,,,yes,,inven+grata
 The Industrial Electric Company of Charlotte,industrialelec.net,T5,,master-P2,MASTER,,,yes,,inven+grata,"named lookup for Michael Woods missed; titled-domain fallback: 2 contacts, none owner-titled - no contact"
 JW FREW  Electric,jwfrew.com,T5,,master-P2,MASTER,yes,,yes,,inven+grata,named lookup for Jamie Frew found nothing; titled-domain fallback found 1 contact but no owner-level title
 "K & M Electric of Schofield, Inc.",kmelectricinc.com,T5,,master-P2,MASTER,,,yes,,inven+grata,no owner-titled contact at domain; named lookup for Patrick Palecek found nothing
-Mallory Electric,malloryelectric.com,T5,,master-P2,MASTER,,,,,grata,no grata execs
+Mallory Electric,malloryelectric.com,T5,,master-P2,MASTER,,,,,inven,no owner-level title match (4 contacts at domain)
 S&J Electrical Contractor Inc,sandjelectric.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,named lookup for Maria Irigaray (Co-Founder) found nothing; fallback returned substitute Sai Garela (Chief Estimator) - not an owner
 "Your Electrical Solution, Inc.",yourelectricalsolutions.com,T5,,master-P2,MASTER,,,yes,yes,inven+grata,"named lookup for Bruce Sylvester (Owner) found nothing; fallback returned substitute Ralph Bustamante - low email confidence, verify entity"
 "Cavanaugh Electrical Contracting, INC.",cavelect.com,T5,,master-P2,MASTER,,,yes,,inven+grata,no provider coverage for domain
@@ -1166,12 +1166,12 @@ Power Contracting Company,pcc-pgh.com,S8,,master-P2,MASTER,yes,,yes,yes,inven+gr
 All South Lightning Protection Inc.,allsouthlightningprotection.com,S10,,master-P2,MASTER,yes,,yes,,inven+grata,named lookup for Ronald Poirier missed; titled-domain fallback: no provider coverage for this domain
 "Coviello Electric & General Contracting CO., INC.",covielloelectricinc.com,S8,,master-P2,MASTER,yes,,yes,,inven+grata,named lookup for Sergio Coviello (President) found nothing; fallback returned substitute Jared Coviello (VP); no mobile
 Contractors West,contractorswest.com,S8,,master-P2,MASTER,,,yes,,inven+grata,named lookup for Evert L Farmer found nothing; titled-domain fallback found 2 contacts but no owner-level title
-Mass Bay Electrical,massbayelectric.com,S8,,master-P2,MASTER,,,,,grata,no grata execs
+Mass Bay Electrical,massbayelectric.com,S8,,master-P2,MASTER,,,,,inven,no owner-level title match (4 contacts at domain)
 Hinck Electric,hinckelectric.com,S8,,master-P2,MASTER,,,yes,yes,inven+grata,"named lookup for Roy Hinck (Founder) found nothing; fallback returned John Buck, President and Owner - different person but owner-level"
 Best Repair,bestrepair.net,S7,,master-P2,MASTER,,,yes,,inven+grata,"named lookup for John A. Staton missed; titled-domain fallback: 1 contact, not owner-titled - no contact"
 "Industrial Electric Motors, Inc.",iemcc.net,S7,,master-P2,MASTER,,,yes,,inven+grata,no provider coverage for domain (named lookup for Ryan Lee Lopez and titled fallback both empty)
-Unlimited Creativity,unlimitedelectricfl.com,S8,,master-P2,MASTER,,,,,grata,no grata execs
-Phillips Southern Electric Co,phillips-southern.org,S8,,master-P2,MASTER,,,,,grata,no grata execs
+Unlimited Creativity,unlimitedelectricfl.com,S8,,master-P2,MASTER,,,,,inven,no owner-level title match (1 contact at domain)
+Phillips Southern Electric Co,phillips-southern.org,S8,,master-P2,MASTER,,,yes,yes,inven,"NON-OWNER TITLE: General Superintendent, not a decision maker; also phone contamination - 4 numbers across 785/712/316, dropped +1 712-644-3522 (Iowa) as out-of-state"
 Sierra Pacific Electrical Contracting,sierrapacificelectrical.com,S8,,master-P2,MASTER,yes,,yes,,inven+grata,no owner-titled contact at domain; named lookup for Barry W. Loop found nothing
 Power Line Constructors,powerlineconstructors.com,S8,,master-P2,MASTER,,,yes,,inven+grata,named lookup for David L Critelli (CEO) missed; titled-domain fallback found 4 contacts but none owner-titled - no contact
 "EEEngineering, LLC",eeengineering.org,E12,,master-P2,MASTER,,,yes,yes,inven+grata,"matched via linkedin.com/in/epassa; Inven name reads 'Thierry States' and title Director of Electrical Engineering, not Founder - verify identity"
@@ -1196,7 +1196,7 @@ Master Electric,masterelectric.com,T5,,master-P2,MASTER,yes,yes,yes,yes,inven+gr
 Stone & Son’s Electrical Contractors Inc.,stoneandsons.com,T3,,master-P2,MASTER,yes,yes,yes,,inven+grata,no mobile - direct dial only
 Albarell Electric Inc.,albarell.com,T5,,master-P2,MASTER,yes,yes,yes,yes,inven+grata,"named lookup for Michael Conkey (President) found nothing; fallback returned Mike Albarell, Owner - different person but owner-level"
 Calvi Electric Company,calvielectric.com,T5,,master-P2,MASTER,yes,yes,yes,yes,inven+grata,"named lookup for George Brestle (President, CEO) found nothing; titled fallback returned Michael Brestle, Vice President - family member, not the named owner; record carries 6 mobiles, low confidence"
-Parker Electric,parkerelectric.com,T5,,master-P2,MASTER,yes,yes,,,grata,no grata execs
+Parker Electric,parkerelectric.com,T5,,master-P2,MASTER,yes,yes,yes,yes,inven,mobile area code 405 (OK) does not match company location Austin TX; direct dial 512 matches
 Petri Electric,petri-electric.com,T5,,master-P2,MASTER,yes,yes,yes,yes,inven+grata,ok
 Progressive Electric,progressiveelectric.net,T5,,master-P2,MASTER,yes,yes,yes,yes,inven+grata,"no verified work email; common-name match - many unrelated personal emails attached, verify before outreach"
 "Seahurst Electric, Inc.",seahurst.com,T5,,master-P2,MASTER,yes,yes,yes,yes,inven+grata,"title differs - asked Owner, returned Vice President (same person, Stephanie Southwick)"
@@ -1240,7 +1240,7 @@ chargetronix.com,chargetronix.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"no
 gravitytechnologies.com,gravitytechnologies.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"substitute contact - asked for Raafay Qazi (CEO), got Oz Nusem (Founding Engineer)"
 afi-systems.com,afi-systems.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"substitute contact - asked for Andrew Fleming (CEO/Founder), got Scott Rossi (GM)"
 magnaproducts.com,magnaproducts.com,?,,valDQ-review,VALQ,,,yes,,inven+grata,"office line only; named lookup for Kenneth Morrow (Founder/President) found nothing, fallback returned Genevieve Morrow, VP - family member, not the named owner"
-omirepair.com,omirepair.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
+omirepair.com,omirepair.com,?,,valDQ-review,VALQ,,,yes,,inven+grata,"office line only, no verified email; record blends a southernwine.com identity - verify"
 aesintl.com,aesintl.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
 clearwaterinc.net,clearwaterinc.net,?,,valDQ-review,VALQ,,,yes,,inven+grata,office line only; named lookup for Shad Stringfellow (President & Owner) found nothing and titled fallback returned a marketing staffer
 kaizenmech.com,kaizenmech.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
@@ -1248,11 +1248,11 @@ ludeca.com,ludeca.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
 padgettswann.com,padgettswann.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
 thwindersllc.com,thwindersllc.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"titled-domain lookup returned Emmanuel Salazar (Owner), not the listed Roman Jaramillo (CEO)"
 turbinepros.com,turbinepros.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
-wetsinc.net,wetsinc.net,?,,valDQ-review,VALQ,,,yes,,grata,"work email is on suddenlink.net, a consumer ISP domain, not the company domain - verify"
+wetsinc.net,wetsinc.net,?,,valDQ-review,VALQ,,,yes,,inven+grata,named lookup for James McCasland found nothing; titled-domain fallback: 13 contacts at domain but none with an owner-level title
 mccordeng.com,mccordeng.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,named lookup for Jimmy McCord (Owner/CEO) found nothing; fallback returned substitute David Witte (VP)
 klelectric.com,klelectric.com,?,,valDQ-review,VALQ,,,yes,,inven+grata,"office line only; asked for Justin Procyshen (Owner), got Kevin Parker; no verified email"
 relayingsolutions.com,relayingsolutions.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"title differs - list says Owner, provider says Electrical Engineering Partner"
-prowesteng.com,prowesteng.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
+prowesteng.com,prowesteng.com,?,,valDQ-review,VALQ,,,yes,,inven+grata,named lookup for Josh Collins found nothing; titled-domain fallback: 5 contacts at domain but none with an owner-level title
 westernsystems-inc.com,westernsystems-inc.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"common-name record - several out-of-state numbers dropped, WA numbers kept"
 acedig.net,acedig.net,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"4th exec Steven Hicks (CFO, shicks@acedig.net) dropped by 3-contact cap"
 bore-tech.net,bore-tech.net,?,,valDQ-review,VALQ,,,yes,,inven+grata,named lookup for Santy Fernandez missed; titled-domain fallback found 5 contacts but none owner-titled - no contact
@@ -1263,15 +1263,15 @@ Jackson Electric Inc.,jeincmn.com,T4,,master-P3,MASTER,,,yes,,inven+grata,"offic
 Power System Solutions,pssamerica.com,T1,,master-P3,MASTER,,,yes,,inven+grata,"SOUTH AFRICA - likely wrong match for a US target; office line only, no verified email. Named lookup for Lisa Crawford (Owner) missed"
 "Lynn Boyer, INC.",lynnboyerinc.com,T4,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Shawn Boyer missed; titled-domain fallback found 10 contacts but none owner-titled - no contact
 Versys Group,versysgroup.com,T1,,master-P3,MASTER,,,yes,yes,inven+grata,"Canada (Edmonton, versys.ca) on a US target - likely wrong match"
-Data Center Solutions Inc.,dcentersolutions.com,T6,,master-P3,MASTER,,,,,grata,no grata execs
+Data Center Solutions Inc.,dcentersolutions.com,T6,,master-P3,MASTER,,,yes,,inven,office line only - no mobile
 Martin Electric,martinelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 20 contacts but no owner-level title (listed Kendra Hart, President, not returned)"
 Triangle Electric Co,trielec.com,T4,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Roy Martin found nothing; titled-domain fallback: 10 contacts at domain but none with an owner-level title
 J Wesley Services Group,jwesleyservices.com,T1,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain
 BASS Electric,basselectric.net,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"Inven title is Project Manager, our record said President & CEO - title conflict, this may be a different Jeffrey Yee or a junior namesake; verify before treating as owner"
 Big Sky Electric,bigskyelectric.com,T4,,master-P3,MASTER,,,yes,,inven+grata,no mobile - direct dial/office only; named lookup for Daniel Blank (Owner) missed and fallback returned a different person; no verified work email
-"Fox Systems, Inc.",foxsystemsinc.com,T4,,master-P3,MASTER,,,,,grata,no grata execs
+"Fox Systems, Inc.",foxsystemsinc.com,T4,,master-P3,MASTER,,,yes,yes,inven,"NON-OWNER TITLE: 'Electrical Contractor' is a trade role, not a decision maker. No verified email - all addresses are unverified pattern guesses. Phones on 706/770 are both GA, consistent"
 Gulf Turbine Services,gulfturbineusa.com,T4,,master-P3,MASTER,,,yes,yes,inven+grata,no verified work email (personal only)
-"Sage Electric Solutions, LLC",sageelectric.org,T4,,master-P3,MASTER,,,,,grata,no grata execs
+"Sage Electric Solutions, LLC",sageelectric.org,T4,,master-P3,MASTER,,,,,inven,no owner-level title match (10 contacts at domain)
 "Source Power, LLC",sourcepowerllc.com,T3,,master-P3,MASTER,,,yes,yes,inven+grata,"substitute contact - asked for Delilah Palomino (Founder & Owner), got Javier Palomino (COO, Co-Owner)"
 "RTP Electrical Services, LLC",rtpelectricalservices.com,T1,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Lisa Pineiro found nothing; titled-domain fallback: no provider coverage for this domain
 Mccune Electrical Services LLC,mccuneelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
@@ -1279,7 +1279,7 @@ Mccune Electrical Services LLC,mccuneelectric.com,T5,,master-P3,MASTER,,,yes,yes
 Professional Electrical Construction Services,pecs.biz,T3,,master-P3,MASTER,,,yes,yes,inven+grata,no verified email (all guessed patterns); mobile present
 Permian Energy Services,permian-es.com,T4,,master-P3,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (2 contacts, none matching); named lookup for Cam Holson not attempted"
 "Amp Industrial Services, LLC",amp-ind.com,T1,,master-P3,MASTER,,,yes,yes,inven+grata,"Inven title is VP of Engineering, our record said Owner - title conflict, may not be the owner; no verified work email"
-Midstream & Industrial Controls,micontrols.net,T4,,master-P3,MASTER,,,,,grata,no grata execs
+Midstream & Industrial Controls,micontrols.net,T4,,master-P3,MASTER,,,yes,yes,inven,"title 'President Of Operations' reads as an ops role rather than the owner - confirm. Dropped +1 254-715-6857 (Waco TX, away from Houston) and a second unrelated personal email; kept 832/281 Houston-area numbers"
 BlueCore Power,bluecorepower.com,T6,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Matthew Blackburn found nothing; titled-domain fallback: 16 contacts at domain but none with an owner-level title
 Rubicon Technical Services - Rts,rubicontechservices.com,T6,,master-P3,MASTER,,,yes,yes,inven+grata,"UK mobile (+44) for a Regional Manager in Dungannon, United Kingdom - not the listed William J Pirrone (Founding Partner); non-US, likely wrong match"
 "4C2 Electrical Associates, LLC",4c2electrical.com,T4,,master-P3,MASTER,,,yes,yes,inven+grata,ok
@@ -1302,7 +1302,7 @@ Modern Electric Co,modernelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata
 Traffic Systems Inc.,trafficsystemsinc.net,S8,,master-P3,MASTER,yes,,yes,,inven+grata,"named lookup for Michelle Duncan found nothing; titled-domain fallback: 1 contact at domain, no owner-level title"
 Third Coast Services LLC,thirdcoastservices.com,S8,,master-P3,MASTER,yes,,yes,,inven+grata,"titled-domain lookup found 9 contacts but no owner-level title (listed Jim Giles, President, not returned)"
 R&D Electric,rdelectricinc.com,S8,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Rafael Echarri not attempted
-White Lightning Protection,whitelightningprotection.com,S10,,master-P3,MASTER,,,,,grata,domain unresolvable in grata (404)
+White Lightning Protection,whitelightningprotection.com,S10,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Lightning Master Corporation,lightningmaster.com,S10,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Bruce Kaiser (Founder/Chairman/CEO) found nothing; titled fallback returned Ramy Malaty, General Manager - no verified email"
 "Msl Electric, INC.",mslelectric.com,S8,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Warren Moore found nothing; titled-domain fallback: 7 contacts at domain but none with an owner-level title
 Thorne Electric Inc.,thorneelectricinc.com,S8,,master-P3,MASTER,,,yes,,inven+grata,named lookup for LuAnne Thorne missed; titled-domain fallback found 4 contacts but none owner-titled - no contact
@@ -1343,9 +1343,9 @@ Randy Walker Electrical,walkerelectricky.com,T5,,master-P3,MASTER,,,yes,,inven+g
 Valley Electrical Contracting,valleyec.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Frank Nurse found nothing; titled-domain fallback: 10 contacts at domain but none with an owner-level title
 Westfair Electric,west-fair.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Bruce Kelderhouse missed; titled-domain fallback: 2 contacts, none owner-titled - no contact"
 "Shaum Electric Co, Inc.",shaumelectric.com,T4,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Lucille Shaum found nothing; titled-domain fallback: 6 contacts at domain but none with an owner-level title
-"ADVANCED MOTOR SOLUTIONS, LLC.",advancemotorsolutions.com,S7,,master-P3,MASTER,,,,,grata,no grata execs
+"ADVANCED MOTOR SOLUTIONS, LLC.",advancemotorsolutions.com,S7,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Babylon Electric Motors,babylonem.com,S7,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain
-Morse Collins Inc,morse-collins.com,S10,,master-P3,MASTER,,,,,grata,no grata execs
+Morse Collins Inc,morse-collins.com,S10,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 NSK Lightning Protection,nsklp.com,S10,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Justin Kyle missed; titled-domain fallback: no provider coverage for this domain
 Western Lightning & Grounding,westernlg.com,S10,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Andrew Mcdaniel found nothing
 McCrory Electric Company,mccroryelec.com,S8,,master-P3,MASTER,,,yes,yes,inven+grata,"titled-domain lookup returned a General Foreman, not the listed Becky Mccrory (CEO); no verified work email"
@@ -1355,14 +1355,14 @@ Peak Contracting Group,peakcontractinggrp.com,T3,,master-P3,MASTER,,,yes,yes,inv
 ITC Electrical Technologies,itcet.com,T4,,master-P3,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (11 contacts, none matching); named lookup for Michael Carruth found nothing"
 "Reamco, LLC",reamco.com,T2,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 Industrial Power Corporation,ipcosc.com,T4,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Brian Adkins missed; titled-domain fallback found 4 contacts but none owner-titled - no contact
-Kuchar Electric,precisionelectriccolorado.com,T4,,master-P3,MASTER,,,,,grata,no grata execs
+Kuchar Electric,precisionelectriccolorado.com,T4,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Right Electric Inc,rightelectric.com,T4,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Mike Conroy found nothing; titled fallback found 4 contacts but no owner-level title
-McGinnis Electrical Contracting Company,mcginnis-ecc.com,T4,,master-P3,MASTER,yes,,,,grata,no grata execs
+McGinnis Electrical Contracting Company,mcginnis-ecc.com,T4,,master-P3,MASTER,yes,,yes,,inven,"office line only (412, Pittsburgh) - no mobile"
 "Highmark Erectors, Inc.",highmarkerectors.com,T3,,master-P3,MASTER,,,yes,yes,inven+grata,named lookup for Dale Schuelke (President) found nothing; fallback returned a Superintendent - NOT owner-level; no verified email
 New Venture Telecommunication Services,newventuretelecom.com,T6,,master-P3,MASTER,,,yes,yes,inven+grata,no verified work email (personal only); common name - verify
 "Barden Electric, Inc.",bardenelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 JFK Electric,jfkelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for John F. Krecek missed; titled-domain fallback found 6 contacts but none owner-titled - no contact
-Morris Electric Inc.,morrisele.com,T4,,master-P3,MASTER,,,,,grata,no grata execs
+Morris Electric Inc.,morrisele.com,T4,,master-P3,MASTER,,,,,inven,no owner-level title match (2 contacts at domain)
 Omega Electric Construction,omegavt.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Keith Letourneau found nothing; fallback returned Cheryl Cell, VP - substitute, and no phone and no verified email"
 Penn Ohio Electric Co,pennohioelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,office line only; provider title Senior Project Engineer vs list title President - verify seniority
 "Final Phase Electric Co., Inc.",finalphaseelectric.net,T4,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Brian Dickerson found nothing; titled-domain fallback: 6 contacts at domain but none with an owner-level title
@@ -1383,10 +1383,10 @@ Century Electric Inc,centuryelectricnj.com,T5,,master-P3,MASTER,,,yes,yes,inven+
 Commander Electric Inc,commanderelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 "Eii, Inc.",eiielectric.com,T4,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Richard G. Guempel found nothing; titled fallback found 11 contacts but no owner-level title
 Hinsdale Electric Company,hinsdaleelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"Inven title is Project Manager, list expected President - title conflict, verify seniority"
-Jamison Electric,jamisonelectricinc.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+Jamison Electric,jamisonelectricinc.com,T5,,master-P3,MASTER,,,yes,,inven,"office line only, and its 540 area code is Virginia while the contact is Louisville KY (502) - phone likely belongs to a different entity. No verified email; all addresses are unverified pattern guesses"
 Jordano Electric Co,jordanoelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Robert Sheehan (President) found nothing; fallback returned Vincent Lopiccolo, VP - substitute; record carries 10+ mobiles across many states, only the NJ 201 numbers kept"
 Manor Electric Inc.,manorelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Julie Loken missed; titled-domain fallback found 10 contacts but none owner-titled - no contact
-"Rex Collins Electric, INC.",rexcollinselectric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+"Rex Collins Electric, INC.",rexcollinselectric.com,T5,,master-P3,MASTER,,,,,inven,no owner-level title match (7 contacts at domain)
 "Black Label Services, Inc",bls-us.com,T4,,master-P3,MASTER,,,yes,yes,inven+grata,"substitute contact - list named Vance Ray (President), got Dean Rucker (Co-CEO); emails on blsoil.com - verify entity"
 "Kasparian Underground, LLC and H&B Contractors",kullc.net,T3,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 5 contacts but no owner-level title (listed Charlie Kasparian, Founder, not returned)"
 Inception Energy Solutions,inceptionsolutions.com,T3,,master-P3,MASTER,,,yes,yes,inven+grata,"6 mobiles on record - GA 404 numbers listed first, verify before dialing"
@@ -1399,8 +1399,8 @@ KT Power Systems,ktpowersystems.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,o
 "Carol Electric Company, Inc.",carolelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Brian Moffitt found nothing; titled fallback found 7 contacts but no owner-level title
 Cci of Arkansas,cciarkansas.net,T5,,master-P3,MASTER,,,yes,,inven+grata,office line only; NOT owner-level (warehouse manager); named lookup for Tony Lee (Owner) missed
 Studebaker Brown Electric,studebakerelectric.net,S8,,master-P3,MASTER,,,yes,,inven+grata,named lookup for David Studebaker missed; titled-domain fallback: no provider coverage for this domain
-"Walsh Electrical, Inc.",walshelectrical.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
-East Texas Lightning Protection,easttexaslightningprotection.com,S10,,master-P3,MASTER,,,,,grata,no grata execs
+"Walsh Electrical, Inc.",walshelectrical.com,T5,,master-P3,MASTER,,,yes,yes,inven,"NON-OWNER TITLE: Vice President - though surname matches the company name and a mikesr@ address also exists, so likely family ownership; all phones 570 and consistent with Clarks Summit PA"
+East Texas Lightning Protection,easttexaslightningprotection.com,S10,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Garnet Electric Co INC,garnetelectric.com,T4,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 8 contacts but no owner-level title (listed John Crow, CEO, not returned)"
 Kaiser Electric Inc.,kaiserelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Ken Naumann found nothing; titled-domain fallback: 4 contacts at domain but none with an owner-level title
 "ASB Energy Services, LLC",asbenergy.com,T3,,master-P3,MASTER,,,yes,,inven+grata,"office line only; titled-domain lookup returned a Director, not the listed Dwayne Hoving (CEO)"
@@ -1410,36 +1410,36 @@ Enterprise Electric Inc.,enterpriseelectric.net,T5,,master-P3,MASTER,,,yes,,inve
 "Hamer Electric, Inc.",hamerelectric.com,T4,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Cory Cole found nothing; titled-domain fallback: 6 contacts at domain but none with an owner-level title
 Heller Electric Co Inc,hellerelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 "RC Power, Inc.",rcpowerinc.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Ron Godinez found nothing; titled-domain fallback: 8 contacts at domain but none with an owner-level title
-"ECHO Solutions USA, LLC>",echosolutionsusa.com,S10,,master-P3,MASTER,,,,,grata,no grata execs
+"ECHO Solutions USA, LLC>",echosolutionsusa.com,S10,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Avail-Engineering,avail-engineering.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"office line only; named lookup for Mac Brey (Founder/President) found nothing, fallback returned substitute David Rangel (General Foreman)"
 Centrim Electric Inc,centrimelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for George Trimarche missed; titled-domain fallback found 4 contacts but none owner-titled - no contact
 "KolKay Electric, Inc.",kolkay.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Steve Richardson (Founder/Owner) missed; fallback returned Laura Richardson, Owner - co-owner/spouse, owner-level so usable"
 Global Electric,globalelectricusa.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Justin Spiering found nothing; titled-domain fallback: no provider coverage for this domain
 Mc4 Construction,mc4constructionnv.com,S8,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain
-Ray's Electric,rayselectric.co,S8,,master-P3,MASTER,yes,,,,grata,no grata execs
-Civaeco Corp.,civaeco.com,T3,,master-P3,MASTER,,,,,grata,no grata execs
+Ray's Electric,rayselectric.co,S8,,master-P3,MASTER,yes,,,,inven,no provider coverage for domain
+Civaeco Corp.,civaeco.com,T3,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Industrial Electric Company,iecelectric.us,T4,,master-P3,MASTER,,,yes,,inven+grata,"India - contact located in Chennai on a US target, likely wrong match; office line only; asked for Barry Halajian (Owner)"
 KOBO Utility Construction,koboutility.com,T3,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Kevin O'Neil found nothing; titled fallback found 1 contact but no owner-level title
 Paniagua'S Enterprises Development LLC,paniaguas.net,T3,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Jaime Paniagua (Founder/President/CEO) found nothing; fallback returned Robin Cornish-Paniagua, VP - family member, not the named owner"
 "American Energy, Inc.",ameninc.com,T3,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Dave Frame found nothing; titled-domain fallback: 2 contacts at domain but none with an owner-level title
-"Ample Electric, Inc.",ampleelectric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs; grata resolved requested domain to ampleelectricinc.com - verify entity
+"Ample Electric, Inc.",ampleelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven,"SEVERE PHONE CONTAMINATION: 17 numbers spanning 530/707 (CA) plus 678 GA, 417 MO, 610 PA, 443 MD, 219 IN, 574 IN, 206 WA - provider record is clearly merged across multiple people. Kept only the two 530 mobiles matching Winters CA; treat as unconfirmed. Emails equally merged (multiple unrelated personal aliases, one FL rr.com address) - kept the on-domain verified address only"
 Dinto Electrical Contractors Inc.,dintoelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (22 contacts, none matching); named lookup for Mike Pelosi found nothing"
-Diversified Substation Construction LLC,diversifiedsci.com,T3,,master-P3,MASTER,,,,,grata,no grata execs
+Diversified Substation Construction LLC,diversifiedsci.com,T3,,master-P3,MASTER,,,,,inven,no owner-level title match (1 contact at domain)
 "Egg Electric, Inc.",eggelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"substitute contact - list named Ellen Aschendorf (President), got Enna Sharma (VP Ops)"
-Guam Advance Enterprises Inc,guamadvance.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+Guam Advance Enterprises Inc,guamadvance.com,T5,,master-P3,MASTER,,,,,inven,"no owner-level title match (29 contacts at domain); also Guam-based, confirm it meets the US-mainland mandate"
 JMS Electric,jmselectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Pat Hyde (Owner) missed; fallback returned Chris Barth, VP Project Development - not owner-level"
 Waynes Electric,waynes-electric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Patricia Medlin found nothing; titled-domain fallback: 3 contacts at domain but none with an owner-level title
 "Fusion Electric, Inc.",fusionelectric-inc.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,no verified work email; provider emails resolve to fusionelectriconline.com rather than the listed domain - confirm entity
 "Clements Electrical, Inc.",clementselectrical.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Janet G Clements found nothing; titled fallback found 4 contacts but no owner-level title
 "Creek Electric, Inc.",creekelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Galen Schawe missed; titled-domain fallback found 4 contacts but none owner-titled - no contact
-Greenway Electrical Services LLC,greenwayelecsvc.com,T4,,master-P3,MASTER,,,,,grata,no grata execs
+Greenway Electrical Services LLC,greenwayelecsvc.com,T4,,master-P3,MASTER,,,,,inven,no owner-level title match (5 contacts at domain)
 Hecker and Company Inc.,heckerelectric.com,S8,,master-P3,MASTER,,,yes,yes,inven+grata,"substitute contact - asked for Robert R Burke (President), got Grant Burke (PM); no verified email"
 McGoldrick Electric,mcgoldrickelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 2 contacts but no owner-level title (listed Robert J. McGoldrick, Founder, not returned)"
 Metcalf Construction Services LLC,metcalfconstruction.com,T4,,master-P3,MASTER,,,yes,yes,inven+grata,WA-local mobiles are the 360 numbers; the 208/225/985 numbers look like unrelated record contamination
 Pro-Tech Electrical Contractors,pro-techsvc.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
-Artesia Pilar Electrical,artesiapilarelectrical.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
-Castle Electric,castleelectric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
-Glenn Horne Electrical,ghec.biz,T5,,master-P3,MASTER,,,,,grata,no grata execs
+Artesia Pilar Electrical,artesiapilarelectrical.com,T5,,master-P3,MASTER,,,,,inven,no provider coverage for domain
+Castle Electric,castleelectric.com,T5,,master-P3,MASTER,,,,,inven,no provider coverage for domain
+Glenn Horne Electrical,ghec.biz,T5,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 "B&J Electrical Company, Inc.",bjelectrical.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (4 contacts, none matching); named lookup for Gary Lee Janzen found nothing"
 Archiable Electric Company,archiableelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 "Elco Electric,Inc",elco-electric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
@@ -1455,13 +1455,13 @@ Libra Electric Company,libraelectric.net,T5,,master-P3,MASTER,,,yes,,inven+grata
 Studebaker Electric Co,studebakerelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,no verified work email (personal only)
 Transportation Systems Inc,transportationsystemsinc.com,S8,,master-P3,MASTER,yes,,yes,,inven+grata,"named lookup for Eric Lesso found nothing; titled-domain fallback: 1 contact at domain, no owner-level title"
 D&G Energy Corporation,dgenergycorp.com,S8,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Leandro Garcia missed; titled-domain fallback: 1 contact, not owner-titled - no contact"
-JMTJ Construction LLC,jmtjconstruction.com,T3,,master-P3,MASTER,,,,,grata,no grata execs
+JMTJ Construction LLC,jmtjconstruction.com,T3,,master-P3,MASTER,,,yes,,inven,"office line only, and its 318 area code is Louisiana while the contact is Lubbock TX (806) - phone unconfirmed. Only verified email is personal gmail; on-domain addresses are unverified guesses"
 Jensen Electric Co,jensenelectricnv.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Matt Jensen found nothing
 Motor Shop Electrical Construction Company,motorshopelectricalconstructionco.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for John A Banks found nothing; titled fallback found 1 contact but no owner-level title
-QFS Electric Inc,qfselectric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+QFS Electric Inc,qfselectric.com,T5,,master-P3,MASTER,,,,,inven,no owner-level title match (3 contacts at domain)
 "Sentry Electric, INC. of Central Florida",sentry.cc,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for John Muchard found nothing; titled fallback found 3 contacts but no owner-level title
 "Phase 3 Energy & Power Solutions, LLC",phase3eps.com,T4,,master-P3,MASTER,,,yes,,inven+grata,no phone returned
-Dig Tech,digtechtexas.com,T3,,master-P3,MASTER,,,,,grata,no grata execs
+Dig Tech,digtechtexas.com,T3,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 "Alpha Energy and Electric, Inc.",alphaee.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Ike Nwabuonwu (Chairman/CEO) found nothing; fallback returned Gabriel Okafor, President - different person but owner-level"
 Core Electrical Group,coretxllc.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Don Watson found nothing; titled-domain fallback: 17 contacts at domain but none with an owner-level title
 Electro Construction Corp,electroconstruction.com,T5,,master-P3,MASTER,,,yes,,inven+grata,office line only
@@ -1481,12 +1481,12 @@ Banks-EC,banks-ec.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"record blends 
 Concord Electric Corporation,concordelectriccorp.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 Electrical Power and Design,epd-mi.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Thomas J Donahue missed; titled-domain fallback found 3 contacts but none owner-titled - no contact
 Power Consulting Associates,powerconsultingassociates.com,E12,,master-P3,MASTER,,,yes,,inven+grata,office line only and no email; also not the listed David Grooms (President & CEO)
-"CLP Engineering, LLC",clp-engineering.com,E12,,master-P3,MASTER,,,,,grata,no grata execs
+"CLP Engineering, LLC",clp-engineering.com,E12,,master-P3,MASTER,,,yes,,inven,"NON-OWNER TITLE: 'Principal Engineer' is a technical grade, not an ownership principal. No verified on-domain email (only a bellsouth.net and an aol.com personal address, which also read as merged). Dropped the 817 (Fort Worth TX) mobile as out-of-state; the two 720/303 direct dials match Denver but no mobile survives"
 "ControlPoint Technologies, Inc.",cpteng.com,E12,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Jim Hall (President) found nothing; titled fallback returned Frank Barys, Principal Engineer with controlpointtech.com emails - confirm entity and role"
 "Shah & Associates, Inc.",shahpe.com,E12,,master-P3,MASTER,,,yes,,inven+grata,"office line only; contact located India and is not the listed SK Shah (President) - non-US, likely wrong match"
 "Power & Control Systems, Inc.",pcsbr.com,E12,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Michael Mcanelly found nothing; titled fallback found 18 contacts but no owner-level title
 "SubGrid Solutions, LLC",subgrid.com,E12,,master-P3,MASTER,,,yes,yes,inven+grata,"substitute contact - list named Brian Ladewig (Managing Partner), got Ross Sayre (Managing Partner)"
-H. K. Scholz Co.,hkscholz.com,M13,,master-P3,MASTER,,,,,grata,no grata execs
+H. K. Scholz Co.,hkscholz.com,M13,,master-P3,MASTER,,,,,inven,no owner-level title match (8 contacts at domain)
 "Dillengr, Inc.",dillengrinc.com,M13,,master-P3,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (6 contacts, none matching); named lookup for Brandon Dilley not attempted"
 IRISS,iriss.com,M13,,master-P3,MASTER,,,yes,,inven+grata,"GABON contact returned for a US target - clearly wrong match, discard; office line only, no email; named lookup for Martin Robinson (CEO) found nothing"
 Pces,pcescorp.com,E12,,master-P3,MASTER,,,yes,,inven+grata,"BAHRAIN - likely wrong match for a US target; office line only, no verified email. Named lookup for Eldon Drake (CEO) missed"
@@ -1498,8 +1498,8 @@ QTIB Engineers,qtib-engineers.com,E12,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 "S&S Electrical Services, Inc.",sselectrical.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Wesley Steigerwalt found nothing; titled fallback returned Irvin Sullivan (Owner) - different person, no verified work email"
 "THI Energy Consultants, LLC",thi-ec.com,T4,,master-P3,MASTER,,,yes,yes,inven+grata,"titled-domain lookup returned a VP, not the listed Thomas E Hind (Owner)"
 Volunteer Electric Inc,volelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (4 contacts, none matching); named lookup for John Pruitt found nothing"
-L9 Electric,l9electric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
-Dave's Construction LLC,davesinc.com,T3,,master-P3,MASTER,,,,,grata,no grata execs
+L9 Electric,l9electric.com,T5,,master-P3,MASTER,,,yes,yes,inven,no grata execs
+Dave's Construction LLC,davesinc.com,T3,,master-P3,MASTER,,,,,inven,no owner-level title match (3 contacts at domain)
 RP Companies,rpcompaniesinc.com,T3,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Dale Fry found nothing; titled-domain fallback: 5 contacts at domain but none with an owner-level title
 "Weber and Associates, Inc.",weber-corp.com,T6,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Joey Todd found nothing; titled-domain fallback: no provider coverage for this domain
 All Phase Electric Company Inc,allphaseelectric.net,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"substitute contact - asked for Gregory Zychowski (Founder), got Russ Cason (President); no verified email"
@@ -1513,18 +1513,18 @@ Northeast Lightning Protection,northeastlightning.com,S10,,master-P3,MASTER,,,ye
 "Peters Electric & Technology, Inc.",peterselectricil.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Melanie Peters missed; titled-domain fallback found 3 contacts but none owner-titled - no contact
 Polarity Electric Inc,polarityelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Jeff Smith found nothing; titled fallback found 4 contacts but no owner-level title
 Thorco INC,thorcocda.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"Inven title is Vice-President, list expected President"
-Auto Charging Experts INC.,autochargingexperts.com,S9,,master-P3,MASTER,,,,,grata,no grata execs
+Auto Charging Experts INC.,autochargingexperts.com,S9,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Industrial Electric Company of Detroit,industrialelectric.net,T5,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Dave Sharp found nothing
 Kleinberg Electric,kleinbergelectric.net,T5,,master-P3,MASTER,,,yes,,inven+grata,office line only
-Nu-Trend EV and Electrical Services,nu-trendev.com,S9,,master-P3,MASTER,,,,,grata,no grata execs
+Nu-Trend EV and Electrical Services,nu-trendev.com,S9,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Sosaya & Sons Construction,sosayaandsons.com,S8,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Robert Sosaya found nothing; titled-domain fallback: no provider coverage for this domain
 West Georgia Electric,westgaelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 18 contacts but no owner-level title (listed Dennis Jones, Founder, not returned)"
-Cariboo Industrial Electric,caribooindustrialelectric.com,T4,,master-P3,MASTER,,,,,grata,"no grata execs; name suggests Cariboo region, British Columbia - verify this is a US entity before outreach"
+Cariboo Industrial Electric,caribooindustrialelectric.com,T4,,master-P3,MASTER,,,,,inven,"no owner-level title match (4 contacts at domain); 'Cariboo' is a British Columbia region - check this is not a Canadian firm, which would be outside the US-only mandate"
 "Delta Electrical Contractors of SC, Inc.",decofsc.com,T4,,master-P3,MASTER,,,yes,,inven+grata,"ROMANIA - likely wrong match for a US target; office line only, no verified email. Named lookup for Michael H. Hudgins (President) missed"
 "Liffey Electric, Inc",liffey-electric.com,T4,,master-P3,MASTER,,,yes,yes,inven+grata,no verified email (all patterns unverified)
 Apex Electrical Group LLC,apexelectricgroup.com,T4,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Dennis Wisk (Owner) found nothing; fallback returned Marcus Cola, CEO and Co-Owner - different person but owner-level"
 "CurrentMaster Electric, LLC.",currentmasterelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"provider record is William Pickel Jr. (COO, Co-owner) vs list title Co-Founder - confirm generation"
-Berry Contracting Inc,jimberry.com,T3,,master-P3,MASTER,,,,,grata,no grata execs
+Berry Contracting Inc,jimberry.com,T3,,master-P3,MASTER,,,,,inven,no owner-level title match (3 contacts at domain)
 MOC Incorporated,mocincorporated.com,T3,,master-P3,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (2 contacts, none matching); named lookup for Matt Buren Owens found nothing"
 "Utility Systems Construction & Engineering, LLC",utilitysystems.com,T3,,master-P3,MASTER,,,yes,,inven+grata,no mobile - direct dial and office only
 All Trade Industries Llc,alltradeindustries.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Fran Mackmick found nothing; titled-domain fallback: 5 contacts at domain but none with an owner-level title
@@ -1535,22 +1535,22 @@ Cove Electric Inc.,cove-elec.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"nam
 NuuCo Electric,nuuco.com,S8,,master-P3,MASTER,,,yes,,inven+grata,no mobile - direct dial only
 TAG Companies LP,tagcompanies.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"titled-domain lookup returned Juanita Gonzales (General Partner), not the listed Goncalo Gloria (Owner); 5 mobiles on record - low confidence"
 MAC Electric,meisw.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain
-SDI Electric Group,sdielectricgroupllc.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
-Gs2 Contractors,gs2contractors.com,T4,,master-P3,MASTER,,,,,grata,no grata execs
+SDI Electric Group,sdielectricgroupllc.com,T5,,master-P3,MASTER,,,,,inven,no provider coverage for domain
+Gs2 Contractors,gs2contractors.com,T4,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 "Integrated Power Supplies International, Inc.",ipsi.net,S7,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for John Pschierer found nothing; titled-domain fallback: 1 contact at domain, no owner-level title"
 "Littleton Electric Service, Inc.",littletonelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 3 contacts but no owner-level title (listed Dallas Littleton, Founder, not returned)"
-Rise Electric LLC,riseelec.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+Rise Electric LLC,riseelec.com,T5,,master-P3,MASTER,,,yes,yes,inven,"title mixes Project Manager with Principal - confirm ownership stake before treating as decision maker. PHONE CONTAMINATION: 4 numbers, kept only the 708 mobile (Chicago area); dropped 989 (MI), 773 'other' and 603 (NH) office"
 Seven O Industrial LLC,seven-o.com,T4,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Wayne R Lacombe found nothing; titled-domain fallback: 1 contact at domain, no owner-level title"
 "McClintock Electric, Inc.",mcclintockelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"office line only; asked for Michael McClintock (President/Owner), got substitute Mark Moore (VP Ops); no verified email"
-Premier Power Company,premierpowercompany.com,T3,,master-P3,MASTER,,,,,grata,no grata execs
+Premier Power Company,premierpowercompany.com,T3,,master-P3,MASTER,,,yes,,inven,no phone returned (verified email only)
 Premier Power Electric,ppe-wa.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Jon Wood found nothing
 "Superior Electric of Lansing, Inc.",superiorelectricinc.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"office line only; Inven title is Electrician, list expected President - likely a different Michael Hull at the same firm"
 Bayview Electric,bvelectric.net,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
-JCE Inc,jceinc-us.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+JCE Inc,jceinc-us.com,T5,,master-P3,MASTER,,,,,inven,no owner-level title match (1 contact at domain)
 PanelShop.com,panelshop.com,M13,,master-P3,MASTER,,,yes,yes,inven+grata,DUPLICATE OWNER: resolved from the same premierautomation.com named lookup (0 extra credits); panelshop.com and premierautomation.com share owner Mike Gunniers
 "Wells & Tate Electric Co., Inc.",wellsandtate.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Madison Mob found nothing; titled-domain fallback: 2 contacts at domain but none with an owner-level title
-Millennium Electrical Services,millenes.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
-Peter and Sons Electric Company,peterandsonselectric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+Millennium Electrical Services,millenes.com,T5,,master-P3,MASTER,,,,,inven,no provider coverage for domain
+Peter and Sons Electric Company,peterandsonselectric.com,T5,,master-P3,MASTER,,,,,inven,no provider coverage for domain
 Weaver Electric Inc,weaverelectric.us,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Jeff Weaver missed; titled-domain fallback found 3 contacts but none owner-titled - no contact
 "Apex Electric Co., Inc.",apexelectriccompany.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,no verified work email (personal only)
 Dillon Lightning Protection,dillonlp.com,S10,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 1 contact but no owner-level title (listed Linda Dillion, CEO, not returned)"
@@ -1560,14 +1560,14 @@ Lightning Specialists,lsi-fl.com,S10,,master-P3,MASTER,yes,,yes,,inven+grata,no 
 Memphis Electric Co LLC,memphiselectricco.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no phone returned
 "Neshaminy Electrical Contractors, Inc.",neshaminyelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 3 contacts but no owner-level title (listed John W Lyons, President, not returned)"
 Roth Electric LLC,rothelectrical.net,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Tom Roth found nothing; titled-domain fallback: 4 contacts at domain but none with an owner-level title
-Vsl Electrical Signing Lighting Llc,vslconstructors.com,S8,,master-P3,MASTER,,,,,grata,no grata execs
+Vsl Electrical Signing Lighting Llc,vslconstructors.com,S8,,master-P3,MASTER,,,yes,,inven,"LIKELY WRONG MATCH: NON-OWNER TITLE (Area Manager) and every professional email is on laneconstruct.com, not vslconstructors.com; 4 phones span 510 (CA), 202 (DC) and 703 (VA x2) with none matching Charleston SC - all dropped. Nothing usable for this domain"
 "Worch Electric, Inc.",worchelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Chris Worch (President) missed; fallback returned Ali Laino, Assistant Manager - NOT owner-level and no email"
-"True Compass, LLC",truecompassnw.com,T5,,master-P3,MASTER,,,,,grata,404 unresolved_domain - no Grata company found for this domain
+"True Compass, LLC",truecompassnw.com,T5,,master-P3,MASTER,,,yes,,inven,"verified email is on true-compass.net not the queried truecompassnw.com - confirm same entity; provider also mixed in vandiencapital.com addresses. PHONE CONTAMINATION: only the 253 office line matches WA; dropped the 908 mobile and 201 direct dial (both New Jersey), so no usable mobile"
 Coltin Electric INC.,coltinelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"Inven title is Project Engineer, list expected Chief Executive Officer - title conflict, verify; no verified email"
 Core Electric Corp,coreelectric.us,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Gary Jones found nothing; titled fallback found 5 contacts but no owner-level title
-L E Ballance Electrical Service,ballanceelectric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+L E Ballance Electrical Service,ballanceelectric.com,T5,,master-P3,MASTER,,,,,inven,no owner-level title match (2 contacts at domain)
 "Urban Electric, Inc.",urbanelectric.net,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Carlos Tseng missed; titled-domain fallback found 4 contacts but none owner-titled - no contact
-E-TEC Electrical Services,e-tecinc.net,T5,,master-P3,MASTER,yes,,,,grata,no grata execs
+E-TEC Electrical Services,e-tecinc.net,T5,,master-P3,MASTER,yes,,,,inven,no owner-level title match (1 contact at domain)
 "Midwest Electrical Construction, Inc.",mecinc.biz,T5,,master-P3,MASTER,,,yes,yes,inven+grata,no verified email (all guessed patterns); mobile present
 "Star Electric Company, Inc.",starelectricmd.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Patrick Topper found nothing; titled fallback found 1 contact but no owner-level title
 "Twin City Electricians, Inc.",twincityelectricians.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Denice Flerchinger found nothing; titled fallback found 2 contacts but no owner-level title
@@ -1577,50 +1577,50 @@ BR Electrical,br-electrical.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lo
 H S Electric,hs-electric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Corey Hatch found nothing
 Kwasigroch Electric Inc,kei-inc.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"office line only; named lookup for Mike Kwasigroch (Owner) found nothing, fallback returned a General Manager - substitute"
 "Lighthouse Electric, INC.",lhetulsa.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (1 contact, not matching); named lookup for Scott Davis not attempted"
-Mongoose Electric Incorporated,mongooseelectric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
-Nexus Electrical Group PDX,nexuselectricalgroup.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
+Mongoose Electric Incorporated,mongooseelectric.com,T5,,master-P3,MASTER,,,,,inven,no owner-level title match (1 contact at domain)
+Nexus Electrical Group PDX,nexuselectricalgroup.com,T5,,master-P3,MASTER,,,,,inven,no owner-level title match (2 contacts at domain)
 "North Ridge Electric, INC.",northridgeelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Rodney Poole missed; titled-domain fallback: 2 contacts, none owner-titled - no contact"
 Power Pro Plus INC.,powerproplusinc.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Felipe Oliden found nothing; titled-domain fallback: no provider coverage for this domain
 Quick Electrical Contractors,quickelectric.net,T5,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Lisa L Quick missed; titled-domain fallback: 1 contact, not owner-titled - no contact"
 Reeve Electric Company Inc,reeve-electric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Robert Reeve found nothing
-Rondout Electric Inc,rondoutelectric.net,T5,,master-P3,MASTER,,,,,grata,no grata execs
+Rondout Electric Inc,rondoutelectric.net,T5,,master-P3,MASTER,,,yes,yes,inven,"NON-OWNER TITLE: Vice President. Verified email is on rondout.net rather than the queried rondoutelectric.net - likely the same group, confirm. All phones 845, consistent with Highland NY"
 "Prime Electric Group, LLC.",primeelectricgroup.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 3 contacts but no owner-level title (listed Kenny Williams, Owner/CEO, not returned)"
 "A.S.F. Electric, Inc.",asfelectric.net,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 Jitney Co Inc,jitneyco.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Robert Nichols missed; titled-domain fallback: 1 contact, not owner-titled - no contact"
 "Elite Electric Group, LLC",eliteelectricgroup.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,no verified work email; work-email patterns resolve to eliteelectricsd.com not eliteelectricgroup.com - verify entity
 Tomey Electric Inc,tomeyelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Marti Tomey (Owner) found nothing; fallback returned a Superintendent - NOT owner-level, no phone"
-"4Lp, LLC",4lp.com,S10,,master-DQ,MASTER,,,,,grata,no grata execs
+"4Lp, LLC",4lp.com,S10,,master-DQ,MASTER,,,,,inven,no owner-level title match (4 contacts at domain)
 ADC Electrical Ltd,adc-electrical.co.uk,S7,,master-DQ,MASTER,,,yes,,inven+grata,no contact found; note UK (.co.uk) domain on a US target list - company itself is likely out of scope
 AE Rosen Electrical,aerosenelectrical.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,"office line only; contact located Plymouth, United Kingdom vs listed Adam Rosen (President) - non-US, likely wrong match"
 ALBD Electric & Cable,albdinc.com,T5,,master-DQ,MASTER,yes,,yes,,inven+grata,no phone of any type returned
 "Allcom Electric, Inc.",allcomelectric.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,named lookup for Mike Neil (Founder/CEO) found nothing; fallback returned substitute Justin Flores (GM)
-Allied Services Group,alliedsg.com,T5,,master-DQ,MASTER,,,,,grata,no grata execs
+Allied Services Group,alliedsg.com,T5,,master-DQ,MASTER,,,yes,yes,inven,"NON-OWNER TITLE: VP Finance and Accounting, not the decision maker. LOW CONFIDENCE PHONES: 7 numbers returned, kept the 281 mobile and one 713 direct dial matching Houston; dropped 405 (OK) and the rest. Several 'personal' emails are under other surnames (sarahhamby@, marilee.kelso@) - record looks merged, use the on-domain email only"
 AllumiaX Engineering,allumiax.com,T1,,master-DQ,MASTER,,,yes,,inven+grata,"titled-domain lookup found 16 contacts but no owner-level title (listed Abdur Rehman, CEO and Co-Founder, not returned)"
-"Alpha Industries, LLC.",alphaindustries.pro,T4,,master-DQ,MASTER,,,,,grata,no grata execs
+"Alpha Industries, LLC.",alphaindustries.pro,T4,,master-DQ,MASTER,,,,,inven,no owner-level title match (3 contacts at domain)
 Alpha Power Group,alphapowergroup.com,T3,,master-DQ,MASTER,,,yes,yes,inven+grata,"2 further execs (Tim Hoyt, Mathew Smith - Directors, no email) dropped by 3-contact cap"
 American Power & Communications,americanpowercomm.net,T5,,master-DQ,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (3 contacts, none matching)"
 "Anmar Electrical Contractor, Inc",anmarcorporation.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Mark Rusden found nothing; titled-domain fallback: 3 contacts at domain but none with an owner-level title
-"Arc Power Services, LLC",arcpowersvc.com,T3,,master-DQ,MASTER,,,,,grata,no grata execs
+"Arc Power Services, LLC",arcpowersvc.com,T3,,master-DQ,MASTER,,,,,inven,no owner-level title match (3 contacts at domain)
 "Arcadia Electrical Co., Inc.",arcadiaelectrical.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,"named lookup for Stephen Gianotti (President) found nothing; fallback returned Thomas Amberger, VP - substitute; record mixes NY and CA numbers, verify before dialing"
-Armor Electrical,armorelectrical.com,T5,,master-DQ,MASTER,,,,,grata,no grata execs
+Armor Electrical,armorelectrical.com,T5,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
 Atlas Electric Construction,atlaselectricalconst.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,"named lookup for Justin Taibbi missed; titled-domain fallback: 1 contact, not owner-titled - no contact"
 B&B Electric,bb-electric.com,T5,,master-DQ,MASTER,yes,,yes,,inven+grata,CANADA - likely wrong match for a US target; also no phone and no verified email. Named lookup for James Ott (President) missed
-Beaon Energy,gobeaon.com,T5,,master-DQ,MASTER,yes,,,,grata,no grata execs
+Beaon Energy,gobeaon.com,T5,,master-DQ,MASTER,yes,,,,inven,no provider coverage for domain
 Bertke Electric,bertke.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,"named lookup for KA Bertke (Founder) missed; fallback returned Randy Nixon, General Manager - not the owner but owner-adjacent"
 "Bloomfield Electric Company, INC.",bloomfieldelectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Roger Baral found nothing; titled fallback found 3 contacts but no owner-level title
 "Bronco Electric, Inc.",broncoelectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Keith Brown missed; titled-domain fallback found 10 contacts but none owner-titled - no contact
 Bryan Electric Inc.,bryanelectricinc.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Jason Bryan found nothing; titled-domain fallback: 10 contacts at domain but none with an owner-level title
 CAC -Custom Automated Controls,custautocont.com,T4,,master-DQ,MASTER,,,yes,yes,inven+grata,named lookup for Mike Parich (Co-Owner) found nothing; fallback returned substitute Mike Wattigny (Division Manager)
-"Campbell & Dawes, LTD",campbellanddawes.com,T5,,master-DQ,MASTER,,,,,grata,no grata execs
-Celtic Power Group,celticpower.com,T3,,master-DQ,MASTER,,,,,grata,no grata execs
+"Campbell & Dawes, LTD",campbellanddawes.com,T5,,master-DQ,MASTER,,,,,inven,no owner-level title match (2 contacts at domain)
+Celtic Power Group,celticpower.com,T3,,master-DQ,MASTER,,,yes,yes,inven,"LIKELY WRONG MATCH - contact location Ireland, outside the US-only mandate. Phones span +353 (IE), +61 (AU x2), +1 902 (Nova Scotia) and +1 954/561 (FL): heavy contamination, kept only the two US numbers and even those are unconfirmed. Do not use before entity verification"
 "CentriPump, Inc.",centripump.com,S7,,master-DQ,MASTER,yes,,yes,,inven+grata,office line only
 Ceym,ceymglobal.com,T4,,master-DQ,MASTER,,,yes,,inven+grata,"office line only; contact located Ecuador and is not the listed Juan Torres (Owner) - non-US, likely wrong match"
 "Coastline Electric, Inc.",coastlineelectricri.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
 Coghlin Electrical Contractors,coghlin.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Sue Mailman (Owner) missed; titled-domain fallback found 5 contacts but none owner-titled - no contact
-Commercial Electrician,johnfordelectricalservices.co.uk,T4,,master-DQ,MASTER,,,,,grata,"domain unresolvable in grata (404); UK domain - non-US, verify entity"
+Commercial Electrician,johnfordelectricalservices.co.uk,T4,,master-DQ,MASTER,,,,,inven,"no owner-level title match (6 contacts); also UK .co.uk domain - out of US-only mandate, likely wrong target entirely"
 Comstock Brothers Electric,cbehq.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,"named lookup for Rick Bewley (President) found nothing; fallback returned Michael Jury, Division Manager - NOT owner-level"
 Corbin Electrical Services,corbinelectric.com,S7,,master-DQ,MASTER,yes,,yes,,inven+grata,contact resolved but provider returned no email and no phone; also a different person from the listed Steve Corbin (Owner)
-Cte,cte-ca.com,T5,,master-DQ,MASTER,,,,,grata,no grata execs
+Cte,cte-ca.com,T5,,master-DQ,MASTER,,,yes,yes,inven,"VERIFY ENTITY: title 'Store owner' is retail-shaped for an electrical contractor, and contact is FL (863) while domain reads '-ca'; provider also offered a cte.gob.ec (Ecuador) email, dropped"
 D A Boisvert Electric,boisvertelectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Daniel A. Boisvert found nothing; titled fallback found 3 contacts but no owner-level title
 "D.R.B. Electric, Inc.",drbelectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (5 contacts, none matching); Denise Baker named lookup not attempted"
 DEI Systems,deisystems.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,emails resolve to deisystems-ne.com not deisystems.com - confirm correct entity
@@ -1630,22 +1630,22 @@ Dane Electric,daneelectric.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
 Degraaf Systems Inc,degraafsystems.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,"titled-domain lookup found 8 contacts but no owner-level title (listed James Degraaf, President, not returned)"
 Denver Electrical Contractors Inc.,denverelectrical.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Dana J. Slifka (CEO) missed; titled-domain fallback found 9 contacts but none owner-titled - no contact
 Design Electric Company,designelectriccompany.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,"office line only; named lookup for Peter Nowak (Owner) missed and fallback returned an assistant, NOT owner-level"
-Direct Strike Lightning protection,directstrikelightningprotection.github.io,S10,,master-DQ,MASTER,,,,,grata,no grata execs
+Direct Strike Lightning protection,directstrikelightningprotection.github.io,S10,,master-DQ,MASTER,,,,,inven,"no provider coverage; domain is a github.io page, not a company domain - needs a corrected domain before retry"
 "Dk Electrical Contractors, INC.",dkelectricinc.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
 "Doctor Electric, Inc.",doctorelectric.net,T5,,master-DQ,MASTER,yes,,yes,,inven+grata,office line only
 EV Charger San Diego,evchargersd.com,S9,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for John Charles Betancourt found nothing; titled-domain fallback: no provider coverage for this domain
-EV Chargers by AEFA,evchargersusa.com,S9,,master-DQ,MASTER,,,,,grata,no grata execs
-EV HookUp,evhookup.com,S9,,master-DQ,MASTER,,,,,grata,no grata execs
+EV Chargers by AEFA,evchargersusa.com,S9,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
+EV HookUp,evhookup.com,S9,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
 "Electrical Dynamics, Inc.",electricaldynamics.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,"no mobile; substitute - list named Gregory Schick (President), got Frank Massiglia (Owner); no verified email"
-Electrical Innovations,electricalinnovations.net,T5,,master-DQ,MASTER,,,,,grata,no grata execs
-Elevate360 Inc.,elevate360.com,S9,,master-DQ,MASTER,,,,,grata,no grata execs
-Energy-Test Ingeniería Eléctrica,energy-test.com,T1,,master-DQ,MASTER,,,,,grata,no grata execs
+Electrical Innovations,electricalinnovations.net,T5,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
+Elevate360 Inc.,elevate360.com,S9,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
+Energy-Test Ingeniería Eléctrica,energy-test.com,T1,,master-DQ,MASTER,,,,,inven,no owner-level title match (1 contact at domain)
 "FRONTIER ELECTRIC of Washington, Inc.",frontiereow.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
 "Ferreira Power West, LLC",ferreirapw.com,T3,,master-DQ,MASTER,,,yes,yes,inven+grata,named lookup for Nelson Ferreira (President/CEO) found nothing; fallback returned substitute Charles Roper (VP Ops)
 "Ferrell Electric, Inc.",ferrellelectric.net,T5,,master-DQ,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (11 contacts, none matching owner titles)"
 "Florida Keys Electric, Inc.",flkeyselectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Raymond Vazquez found nothing; titled-domain fallback: no provider coverage for this domain
 Flowers Electric LLC,flowers-electric.com,S9,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Trey Flowers found nothing; titled-domain fallback: no provider coverage for this domain
-Formex Electrical Contractor Inc.,formex.us,T4,,master-DQ,MASTER,,,,,grata,no grata execs
+Formex Electrical Contractor Inc.,formex.us,T4,,master-DQ,MASTER,,,yes,,inven,"LIKELY WRONG MATCH - all candidate emails resolve to formex.com.tr (Turkey), none verified, none on formex.us; title 'Executive Manager' is not owner-level and no phone returned. Nothing usable"
 FourGen Holdings,four-gen.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,also holds a verified cecco.com address - possible dual role; IL mobile 847-344-9953 is the plausible one
 Future Controls inc.,future-controls.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,"named lookup for James Norman Nevitt (Founder) missed; fallback returned Michael Hansen, 'Mechanical contractor' - not owner-titled, substitute"
 G&P Technology,gandptechnology.co.uk,M13,,master-DQ,MASTER,yes,,yes,yes,inven+grata,"UNITED KINGDOM - not a US target; .co.uk domain, UK phone numbers. Should not be on a US electrical-infrastructure list; DQ candidate, not a wrong match but a wrong company"
@@ -1656,17 +1656,17 @@ Genesis Electrical Service,genesiselectric.com,T5,,master-DQ,MASTER,,,yes,yes,in
 Genmar Electric Corp,unitedgenmar.net,T5,,master-DQ,MASTER,,,yes,,inven+grata,no owner-titled contact at domain and named lookup for Gary Trovato (Owner) found nothing
 Gibson Electric,geflorida.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,no verified geflorida.com email - verified addresses are at intec360.com / climatecontrolflorida.com / base-3.com; confirm current role at GE Florida before outreach
 Giles Electric Company,gileselectriccompany.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Bradley S. Giles found nothing; titled-domain fallback: 12 contacts at domain but none with an owner-level title
-HB Utilities,hbutilities.com,T3,,master-DQ,MASTER,,,,,grata,no grata execs
+HB Utilities,hbutilities.com,T3,,master-DQ,MASTER,,,yes,yes,inven,"NON-OWNER TITLE: Vice President. PHONE CONTAMINATION: all 3 mobiles are Colorado (720/720/303) but contact is San Antonio TX - no number matches company state, treat phones as unconfirmed; emails are verified and on-domain"
 "Hardt Electric, Inc.",hardtelectric.com,T5,,master-DQ,MASTER,yes,,yes,,inven+grata,office line only; provider title VP vs list title Owner/President
-Harrison Electric INC,spina-enterprises.com,S7,,master-DQ,MASTER,,,,,grata,no grata execs
+Harrison Electric INC,spina-enterprises.com,S7,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
 Hawkeye Electric,hawkeye-electric.com,T5,,master-DQ,MASTER,yes,,yes,,inven+grata,no mobile - direct dial only
 "Hicks Electric, Inc.",hickselectric.net,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,"named lookup for Jim Hicks (President) found nothing; fallback returned Nick Green, a manager - NOT owner-level"
-Hmt,hmt-electric.com,T1,,master-DQ,MASTER,,,,,grata,no grata execs
+Hmt,hmt-electric.com,T1,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
 Hoekstra Electrical Services,hoekstraelectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,office line only
 "Howe Electric Construction, Inc.",howe-electric.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
 Hughes Electrical,hugheselectrical.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,"named lookup for Cindy Hughes (Founder) missed; fallback returned Gabe Hughes, VP - family member, not the named founder"
 In-Line Electrical Contractors Corp.,inline-corp.com,T3,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Giorgio Garcia found nothing; titled fallback found 1 contact but no owner-level title
-"InChargeE, LLC",inchargee.com,S9,,master-DQ,MASTER,,,,,grata,no grata execs
+"InChargeE, LLC",inchargee.com,S9,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
 Ion Electric Service LLC,ionelectric.org,T5,,master-DQ,MASTER,yes,,yes,,inven+grata,"titled-domain lookup found 10 contacts but no owner-level title (listed Matt Soave, Owner, not returned)"
 JFC Electric LLC,jfcelectric.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
 Jasper Thompson Lightning Protection,jtlpinc.com,S10,,master-DQ,MASTER,yes,,yes,,inven+grata,named lookup for Jasper Thompson found nothing; titled-domain fallback: 3 contacts at domain but none with an owner-level title
@@ -1675,17 +1675,17 @@ KND Electric,kndelectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,"named look
 Kiowa Line Builders,kiowalb.com,T3,,master-DQ,MASTER,,,yes,,inven+grata,"no owner-titled contact at domain (5 contacts, none matching); named lookup for Joel Hunsburger not attempted"
 Lampion Companies,lampioncompanies.com,S8,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Joyce Perram found nothing; titled-domain fallback: 2 contacts at domain but none with an owner-level title
 Live Electric Inc,liveelectric.vegas,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
-Lonestar Lightning,lonestarlightning.com,S10,,master-DQ,MASTER,,,,,grata,no grata execs
+Lonestar Lightning,lonestarlightning.com,S10,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
 "M. Davis & Sons, Inc.",mdavisinc.com,T4,,master-DQ,MASTER,,,yes,,inven+grata,office line only; named lookup for Peggy Del Fabbro (CEO) missed and fallback returned a different person with no verified email
-Main Line Charging,mainlinecharging.com,S9,,master-DQ,MASTER,,,,,grata,no grata execs
+Main Line Charging,mainlinecharging.com,S9,,master-DQ,MASTER,,,,,inven,no provider coverage for domain
 "Malstrom Electric, INC.",malstromelectric.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,record is Bill Malstrom Jr; separate Sr address exists - confirm which is the principal
 Matco Electric Corporation,matcoelectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,office line only; named lookup for Ken Elliott (CEO/Owner) found nothing and titled fallback returned a foreman - not an owner
 Mayberry Electric Inc.,mayberryelectric.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,"titled-domain lookup returned Lisa Hollingshed (President), not the listed Paul Mayberry (Founder); no verified work email, and first mobile duplicates the office line"
 Menco Electric Inc,mencoelectric.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,no verified email (all guessed patterns); mobile present
 Mundial Group Inc.,mundial-group.com,T1,,master-DQ,MASTER,yes,,yes,yes,inven+grata,named lookup for Nita Rudd (Owner/President) found nothing; fallback returned Ricky Rudd (VP Ops)
-Musgrove Construction,musgrove.ourcareerpages.com,T3,,master-DQ,MASTER,,,,,grata,grata matched wrong entity (Burford's Tree LLC / ourcareerpages.com) - not a company primary domain
-OMNI Electric,omnielectric.io,S8,,master-DQ,MASTER,,,,,grata,no grata execs
-"Outback Contractors, Inc.",outback-inc.com,T3,,master-DQ,MASTER,,,,,grata,no grata execs
+Musgrove Construction,musgrove.ourcareerpages.com,T3,,master-DQ,MASTER,,,,,inven,"no provider coverage; domain is an ATS careers-page host, not the company's own domain - needs corrected domain before retry"
+OMNI Electric,omnielectric.io,S8,,master-DQ,MASTER,,,yes,,inven,NON-OWNER TITLE: Director of Operations. No phone returned (verified emails only)
+"Outback Contractors, Inc.",outback-inc.com,T3,,master-DQ,MASTER,,,yes,yes,inven,no grata execs
 PCI Electric LLC,pci-electric.com,T4,,master-DQ,MASTER,,,yes,yes,inven+grata,"substitute contact - asked for John Steed (Owner), got Matthew Pullin (VP)"
 PNODE Inc.,pnodeinc.com,T1,,master-DQ,MASTER,,,yes,,inven+grata,"titled-domain lookup found 11 contacts but no owner-level title (listed Poorvi Patel, Owner & CEO, not returned)"
 PVI CM Inc,pvicm.com,T6,,master-DQ,MASTER,,,yes,yes,inven+grata,"named lookup for Stephen Adams (CEO) found nothing; fallback returned Diane Gallagher, Dir of Admin Ops - NOT owner-level"
@@ -1695,13 +1695,13 @@ Palmieri Electric,palmierielectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,n
 Player and Company,playercompany.com,T4,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Doug Suddeth missed; titled-domain fallback found 14 contacts but none owner-titled - no contact
 Powercomm Construction Inc,powercommconstruction.com,T3,,master-DQ,MASTER,,,yes,yes,inven+grata,"list named David Kwasnik (President); returned David Kwasnik Jr. (SVP) - possible generational mismatch, verify"
 Prismecs,prismecs.com,T4,,master-DQ,MASTER,,,yes,yes,inven+grata,top mobile 763-291-1333 duplicates the office line; TX 281 number listed first as likelier cell
-ProCal Lighting,procallighting.com,T5,,master-DQ,MASTER,,,,,grata,no grata execs; grata resolved requested domain to pro-cal.com (ProCal) - verify entity
+ProCal Lighting,procallighting.com,T5,,master-DQ,MASTER,,,,,inven,no owner-level title match (2 contacts at domain)
 R&R Electrical Inc.,rrelectricalinc.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
-R.W. Electric,rwelectric.com,T4,,master-DQ,MASTER,,,,,grata,no grata execs
+R.W. Electric,rwelectric.com,T4,,master-DQ,MASTER,,,,,inven,no owner-level title match (3 contacts at domain)
 Reed Electric INC,reedelectric.us,T5,,master-DQ,MASTER,yes,,yes,,inven+grata,named lookup for Lee Reed found nothing; titled fallback found 1 contact but no owner-level title
 Revolt Electric,revolt-electric.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,"title differs - list says Owner, provider says Executive Project Manager"
 Rizzo Electrical Contractors,rizzoelectric.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,"no phone; list named Anthony Rizzo (Founder), got Frank Rizzo; email unverified"
-SPEED Wiring Products,speedwiringproducts.com,M13,,master-DQ,MASTER,yes,,,,grata,no grata execs
+SPEED Wiring Products,speedwiringproducts.com,M13,,master-DQ,MASTER,yes,,yes,,inven,no phone returned (verified email only)
 STG Electric Services,stgelectricservices.com,S7,,master-DQ,MASTER,yes,,yes,yes,inven+grata,"named lookup for Chris Jaskiewicz (CEO) missed; fallback returned Jacob Jones, VP - not owner-level and no verified email"
 "Schultheis Electric, a Division of TSB Inc.",tsbinc.net,T4,,master-DQ,MASTER,,,yes,yes,inven+grata,"Inven title is Vice President (Tim Schultheis II), list expected President - may be the son, verify"
 Seco Electric,secoelectric.net,T5,,master-DQ,MASTER,,,yes,,inven+grata,no owner-titled contact at domain; named lookup for Joe Schamer found nothing
@@ -1720,10 +1720,10 @@ TJ|H2b Analytical Services,tjh2b.com,T1,,master-DQ,MASTER,,,yes,yes,inven+grata,
 Tempest Enterprises,thetempestco.com,T3,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for David C Tempest found nothing; titled fallback found 3 contacts but no owner-level title
 The Garick Group Inc.,thegarickgroup.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Gary Paul Porras missed; titled-domain fallback: no provider coverage for this domain
 "The Tri-M Group, LLC",tri-mgroup.com,T5,,master-DQ,MASTER,,,yes,yes,inven+grata,ok
-Transition Power LLC,transitionpower.net,T3,,master-DQ,MASTER,,,,,grata,no grata company found for domain
+Transition Power LLC,transitionpower.net,T3,,master-DQ,MASTER,,,,,inven,no owner-level title match (1 contact at domain)
 Trustworthy Electric,trustworthyelectric.net,T5,,master-DQ,MASTER,yes,,yes,yes,inven+grata,"titled-domain lookup returned an administrator, not the listed Randy Jones (President & Owner)"
 Universal Contracting Services,universalteam.net,S8,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Petar Bubalo missed; titled-domain fallback found 15 contacts but none owner-titled - no contact
-Utility Electric,utilityelectric.net,T4,,master-DQ,MASTER,,,,,grata,no grata execs
+Utility Electric,utilityelectric.net,T4,,master-DQ,MASTER,,,,,inven,no owner-level title match (2 contacts at domain)
 Victory Powerline Services,victorypowerlineservices.com,T3,,master-DQ,MASTER,,,yes,yes,inven+grata,named lookup for Adam Prosser (CEO) found nothing; fallback returned substitute Brooks Boyle (Job Site Manager) - not an owner
 Vilcon Inc,vilconinc.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Brian James found nothing; titled fallback found 8 contacts but no owner-level title
 "Wagner Technical Services, Inc.",wagnertech.com,T3,,master-DQ,MASTER,,,yes,yes,inven+grata,"matches listed Gerald L. Wagner (as Gerry Wagner); 4 mobiles incl. out-of-state 864/910 - NY numbers listed first, verify"
@@ -1731,7 +1731,7 @@ Vilcon Inc,vilconinc.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,named lookup fo
 Williams Electrical Mechanical Group,williamsemgroup.com,T5,,master-DQ,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Edmund Williams found nothing
 Willis Cable Construction,williscable.com,T3,,master-DQ,MASTER,,,yes,,inven+grata,no owner-titled contact at domain; named lookup for Dennis Willis found nothing
 Zeller Electric,zellerelectriccorp.com,T4,,master-DQ,MASTER,,,yes,,inven+grata,named lookup for Mark William Zeller missed; titled-domain fallback: no provider coverage for this domain
-Analysis and Measurement Services (AMS) Corporation,ams-corp.com,T1,,master-P3,MASTER,yes,yes,,,grata,no grata execs
+Analysis and Measurement Services (AMS) Corporation,ams-corp.com,T1,,master-P3,MASTER,yes,yes,yes,yes,inven,dropped +1 631-392-0489 (NY) as out-of-state; kept 865 numbers matching Knoxville TN
 IVC Technologies,ivctechnologies.com,T1,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,"list names Jeffrey Epperson (Founder/CEO); provider returned Pete Epperson, President and Owner - related but a different person"
 "Albrecht Engineering, LLC",albrechtellc.com,T3,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,"mobiles are NM/LA/IL area codes while person and company are Michigan (248) - none of the mobiles look local, verify before dialing"
 "Criterion Critical Systems, Inc.",criterioncriticalsystems.com,T6,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
@@ -1764,7 +1764,7 @@ R&D Electric,rdelectric.net,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Raygen Services, LLC",raygenservices.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Douglas Electric Co., Inc.",douglaselectric.us,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,no verified work email - personal hotmail only
 Cacy Electric,cacyelectric.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,"named lookup for Ryan Cacy (President) missed; fallback returned Nick Williams, VP - not owner-level, substitute contact"
-Independent Lighting & Electrical,independentlighting.com,T5,,master-P3,MASTER,yes,yes,,,grata,no grata execs
+Independent Lighting & Electrical,independentlighting.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven,LOW CONFIDENCE PHONES: 11 numbers returned; kept the two 757 mobiles matching Virginia Beach and dropped 561 (FL) and 804 (Richmond VA) mobiles plus the direct-dial block
 Jemby Electric Inc.,jemby.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,"named lookup for Benzie Craig (Owner/President) missed; fallback returned Shannon Tostado, VP - not owner-level"
 "Lywood Electric, Inc.",lywood.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,emails resolve on lywoodelectric.com not lywood.com - confirm the right domain
 "North Point Technology, LLC",northpointusa.com,T4,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
@@ -1782,14 +1782,14 @@ EC&M Integrated Solutions,ec-m.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+gr
 CE Electrical Contractors,ce-electrical.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Carey Electric, Inc.",careyelectricinc.com,T5,,master-P3,MASTER,yes,yes,yes,,inven+grata,no phone of any type on the record (matches listed Katie M. Carey)
 CUSA Consulting Corp,cusaconsulting.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,"titled-domain lookup returned Mark Thurston (Owner), not the listed Virginia Thurston (CEO) - spouse/co-owner, confirm which to approach"
-Eagle Electric,eagleelect.com,T5,,master-P3,MASTER,yes,yes,,,grata,no grata execs
+Eagle Electric,eagleelect.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven,"NON-OWNER TITLE: Vice President. PHONE CONTAMINATION: 9 numbers; kept the 925 mobile and one 925 direct dial matching Pleasanton CA, dropped 605 (SD), 707, 775 (NV) and 530. Personal emails belong to a different first name (Larry/Lawrence Brumm) - record looks merged across relatives, use the on-domain address only"
 "Montana Lines, Inc",mtlines.com,S8,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,"substitute contact - list named Roxanne Marshall (Co-Owner), got Trevor Livesay (President)"
 HTE Contractors,hitechelectric.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,"substitute contact - list named Barrett McMurtrey (President), got Joe Hunter (President); no verified email"
 Kilian Electrical Service / Kilian Power,kilianelectric.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Diversified Technologies, Inc.",divtecs.com,M13,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,no verified work email; phone area codes (MA/SC/NV) do not match a WA-located owner - verify before dialing
 Power Monitors,powermonitors.com,M13,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
 Power Temp Systems,powertemp.com,M13,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,verified emails resolve to totalenergysolutions.com not powertemp.com - confirm entity
-Power Connections Inc,powerconnections.com,M13,,master-P3,MASTER,yes,yes,,,grata,no grata execs
+Power Connections Inc,powerconnections.com,M13,,master-P3,MASTER,yes,yes,yes,yes,inven,"NON-OWNER TITLE: Vice President. LOW CONFIDENCE PHONES: 11 numbers returned, kept the top 2 mobiles on 337 (matches Opelousas LA); dropped 918 (OK) and 334 (AL) as out-of-state"
 "Root 3 Power, LLC",root3power.com,E12,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,common-name record blends in a marriotthotels.com identity - verify before dialing
 Grace Technologies,graceport.com,M13,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,"Inven title is 'Learning Officer' with ypoiowa.com emails, not President/CEO of Graceport - likely a different Drew Allen, verify; no verified work email"
 The H-J Family of Companies,h-j.com,M13,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
@@ -1816,13 +1816,13 @@ Design By Initiative,designbyinitiative.com,M13,,master-P3,MASTER,yes,yes,yes,ye
 Diamond -R- Electric,diamondrelectric.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Signature Electric, Inc.",signatureelectriccorp.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,3 mobiles on record - verify before dialing
 American Connectors,americanconnectors.com,M13,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
-Amex Electric Services DFW,amexelectric.com,T5,,master-P3,MASTER,yes,yes,,,grata,no grata execs
+Amex Electric Services DFW,amexelectric.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven,mobile 214 (Dallas) and office 915 (El Paso) are both TX but far apart - confirm which site is HQ
 Box Electric Company Inc,box-electric.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,ok
 "CruzElectric, LLC.",cruzelectricllc.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven+grata,5 mobiles across MS/VA/NY area codes - DC-area 571/540 numbers are the plausible ones; the rest look like namesake contamination
-Lumen Electric INC.,lumenelectric.com,T5,,master-P3,MASTER,yes,yes,,,grata,no grata execs
-"Advanced Integration Technologies, Inc.",aitechfl.com,T5,,master-P3,MASTER,yes,yes,,,grata,no grata execs
+Lumen Electric INC.,lumenelectric.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven,title is General Manager - senior but confirm ownership before treating as decision maker
+"Advanced Integration Technologies, Inc.",aitechfl.com,T5,,master-P3,MASTER,yes,yes,yes,yes,inven,"co-founder so owner-level despite VP in title; dropped +1 936-499-1410 (TX) as out-of-state, kept the 561 numbers matching Boca Raton FL"
 5 Star Directional Drilling Services INC,5stardrilling.com,T3,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
-"A&H Industries, LLC",ahindllc.com,S8,,master-DQ,MASTER,yes,yes,,,grata,no grata company found for domain
+"A&H Industries, LLC",ahindllc.com,S8,,master-DQ,MASTER,yes,yes,yes,yes,inven,"verified email sits on ahindustriesllc.com not the queried ahindllc.com - confirm same entity; mobile 703 is DC-metro, consistent with Hyattsville MD"
 APEX Controls,solutionsbyapex.com,T4,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,"titled-domain lookup returned Andy Winkel (CEO) with apexcontrols.cc emails, not the listed Michael TeBos (Owner) - confirm entity"
 Abstract Electric,abstractelectric.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Advanced Gas Engine Solutions, Inc",agesinc.us,S7,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
@@ -1831,7 +1831,7 @@ Allstar Electrical Services,allstarelectrical.com,T5,,master-DQ,MASTER,yes,yes,y
 "Altimate Electric, LLC.",altimateelectric.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Aubrey Silvey Enterprises, Inc.",silvey.com,T3,,master-DQ,MASTER,yes,yes,yes,,inven+grata,"office line only; named lookup for Vann Pelt (President) found nothing, fallback matched 'Principal' in a manager title - NOT owner-level"
 "B&J Electric of Poland, Inc.",bandjelectriconline.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,no verified work email - personal only
-Bass Electrical Corporation,basselectricalnyc.com,T5,,master-DQ,MASTER,yes,yes,,,grata,no grata execs
+Bass Electrical Corporation,basselectricalnyc.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven,no grata execs
 Benfield Electric,benfieldinc.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,"contact is CFO, not an owner/CEO; no verified email"
 "Bible Electric, Inc.",bibleelectric.com,T5,,master-DQ,MASTER,yes,yes,yes,,inven+grata,no mobile - direct dial and office only
 Bj Baldwin Electric Inc,bjbaldwin.com,T3,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,mobile is CA 818 area code while company is PA - verify
@@ -1850,7 +1850,7 @@ Degryse Electric Inc.,degryseelectric.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,i
 EZ EV Electric,ezevelectric.com,S9,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Electrical Corporation of America, Inc.",ecahq.com,T4,,master-DQ,MASTER,yes,yes,yes,,inven+grata,office line only
 "Electricians, Inc.",electriciansinc.com,T5,,master-DQ,MASTER,yes,yes,yes,,inven+grata,"office line only; contact located Glasgow, United Kingdom and is not the listed Jimmy Yamada (CEO) - non-US, likely wrong match"
-Elite Power Solutions,elitepowersolutions.io,S9,,master-DQ,MASTER,yes,yes,,,grata,no grata execs
+Elite Power Solutions,elitepowersolutions.io,S9,,master-DQ,MASTER,yes,yes,yes,yes,inven,only verified email is personal gmail; on-domain addresses are unverified guesses. Mobile 385 matches Orem UT
 "Elm Electrical, Inc.",elmelec.com,T4,,master-DQ,MASTER,yes,yes,yes,,inven+grata,"UNITED KINGDOM contact returned for a US target - likely wrong match; also office line only, no verified email; named lookup for Robert Bacon found nothing"
 "Generators of Houston A GENRG Power Solutions, LLC Company",generatorsofhouston.com,S7,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,"titled-domain lookup returned Rodney Page (Owner and Manager), not the listed Louis Giddens (President & Owner); no verified work email"
 Godfrey Electric Inc.,godfreyelectric.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
@@ -1894,12 +1894,12 @@ Quality Switchgear Inc,qualityswitchgear.com,T2,,master-DQ,MASTER,yes,yes,yes,ye
 Raven Electric Inc,ravenelectric.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 Rose City Electric Co.,rosecityelectricco.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 "S&W Electrical Contractors, Inc.",swelectricinc.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,"titled-domain lookup returned Matt Sylvia (Owner), not the listed Brian Washburn - owner-level, verify which is principal"
-Sanders Services,sanderscomposites.com,T5,,master-DQ,MASTER,yes,yes,,,grata,no grata execs
+Sanders Services,sanderscomposites.com,T5,,master-DQ,MASTER,yes,yes,yes,,inven,"no mobile - direct dial and office only; dropped +1 949-650-1666 (type 'other', third unrelated SoCal area code)"
 "Sentry Electric, Inc.",sentryelectric.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 "Specialty Service Group, LLC",specialtyservicegroup.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 Spectrum Electric,spectrumelectricinc.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 State Electrical Contractors,stateelectricalcontractors.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,"named lookup for Colleen Reichsfeld found nothing; titled fallback returned Michael Bast (Part-Owner/President) - different person, no verified email"
-"Summit Electric & Data, Inc.",summitelectricdata.com,T5,,master-DQ,MASTER,yes,yes,,,grata,no grata execs
+"Summit Electric & Data, Inc.",summitelectricdata.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven,"LOW CONFIDENCE PHONES: 6 numbers across 626/949/818/661/562 - all CA but scattered, kept top 2 mobiles only; all unverified professional emails were on summitelectservices.com not the target domain, dropped"
 "Sunshine State Electric of Florida, Inc.",sselectric.com,T5,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 Tower Generator,towergenerator.com,S7,,master-DQ,MASTER,yes,yes,yes,yes,inven+grata,ok
 Tpi,tpiengineering.com,T1,,master-DQ,MASTER,yes,yes,yes,,inven+grata,"CANADA contact returned for a US target - likely wrong match; office line only, no verified email; named lookup for Tom Cantor found nothing"

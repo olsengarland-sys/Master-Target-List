@@ -3,14 +3,14 @@
  "platform": "inven get_company_contacts (owner-title filtered)",
  "policy": "inven contact-credit floor 5500 (lowered from 6000 by the client to fund the named-lookup recovery run); grata covers what inven cannot reach",
  "attempted": 1908,
- "with_contacts": 1752,
- "credits_used": 901,
- "companies_with_mobile": 910,
- "contacts_with_mobile": 929,
- "mobile_phones": 1669,
- "direct_dial_phones": 969,
- "office_only_companies": 131,
- "verified_emails": 2552,
+ "with_contacts": 1789,
+ "credits_used": 923,
+ "companies_with_mobile": 934,
+ "contacts_with_mobile": 953,
+ "mobile_phones": 1701,
+ "direct_dial_phones": 977,
+ "office_only_companies": 136,
+ "verified_emails": 2598,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -75838,606 +75838,6 @@
    "error": "no owner-level title match (4 contacts at domain)",
    "contacts": []
   },
-  "summitelectricdata.com": {
-   "name": "Summit Electric & Data, Inc.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "powerconnections.com": {
-   "name": "Power Connections Inc",
-   "bucket": "M13",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "amexelectric.com": {
-   "name": "Amex Electric Services DFW",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "lumenelectric.com": {
-   "name": "Lumen Electric INC.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "alphaindustries.pro": {
-   "name": "Alpha Industries, LLC.",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "armorelectrical.com": {
-   "name": "Armor Electrical",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "gobeaon.com": {
-   "name": "Beaon Energy",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "campbellanddawes.com": {
-   "name": "Campbell & Dawes, LTD",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "johnfordelectricalservices.co.uk": {
-   "name": "Commercial Electrician",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "domain unresolvable in grata (404); UK domain - non-US, verify entity",
-   "contacts": []
-  },
-  "cte-ca.com": {
-   "name": "Cte",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "evhookup.com": {
-   "name": "EV HookUp",
-   "bucket": "S9",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "elevate360.com": {
-   "name": "Elevate360 Inc.",
-   "bucket": "S9",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "hbutilities.com": {
-   "name": "HB Utilities",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "mainlinecharging.com": {
-   "name": "Main Line Charging",
-   "bucket": "S9",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "musgrove.ourcareerpages.com": {
-   "name": "Musgrove Construction",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "grata matched wrong entity (Burford's Tree LLC / ourcareerpages.com) - not a company primary domain",
-   "contacts": []
-  },
-  "procallighting.com": {
-   "name": "ProCal Lighting",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs; grata resolved requested domain to pro-cal.com (ProCal) - verify entity",
-   "contacts": []
-  },
-  "speedwiringproducts.com": {
-   "name": "SPEED Wiring Products",
-   "bucket": "M13",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "dcentersolutions.com": {
-   "name": "Data Center Solutions Inc.",
-   "bucket": "T6",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "foxsystemsinc.com": {
-   "name": "Fox Systems, Inc.",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "whitelightningprotection.com": {
-   "name": "White Lightning Protection",
-   "bucket": "S10",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "domain unresolvable in grata (404)",
-   "contacts": []
-  },
-  "morrisele.com": {
-   "name": "Morris Electric Inc.",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "jamisonelectricinc.com": {
-   "name": "Jamison Electric",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "rexcollinselectric.com": {
-   "name": "Rex Collins Electric, INC.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "echosolutionsusa.com": {
-   "name": "ECHO Solutions USA, LLC>",
-   "bucket": "S10",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "rayselectric.co": {
-   "name": "Ray's Electric",
-   "bucket": "S8",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "ampleelectric.com": {
-   "name": "Ample Electric, Inc.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs; grata resolved requested domain to ampleelectricinc.com - verify entity",
-   "contacts": []
-  },
-  "artesiapilarelectrical.com": {
-   "name": "Artesia Pilar Electrical",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "jmtjconstruction.com": {
-   "name": "JMTJ Construction LLC",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "qfselectric.com": {
-   "name": "QFS Electric Inc",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "digtechtexas.com": {
-   "name": "Dig Tech",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "jimberry.com": {
-   "name": "Berry Contracting Inc",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "gs2contractors.com": {
-   "name": "Gs2 Contractors",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "riseelec.com": {
-   "name": "Rise Electric LLC",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "premierpowercompany.com": {
-   "name": "Premier Power Company",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "vslconstructors.com": {
-   "name": "Vsl Electrical Signing Lighting Llc",
-   "bucket": "S8",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "nexuselectricalgroup.com": {
-   "name": "Nexus Electrical Group PDX",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "ahindllc.com": {
-   "name": "A&H Industries, LLC",
-   "bucket": "S8",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata company found for domain",
-   "contacts": []
-  },
-  "basselectricalnyc.com": {
-   "name": "Bass Electrical Corporation",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "sanderscomposites.com": {
-   "name": "Sanders Services",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "aitechfl.com": {
-   "name": "Advanced Integration Technologies, Inc.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "alliedsg.com": {
-   "name": "Allied Services Group",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "arcpowersvc.com": {
-   "name": "Arc Power Services, LLC",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "celticpower.com": {
-   "name": "Celtic Power Group",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "energy-test.com": {
-   "name": "Energy-Test Ingenier\u00eda El\u00e9ctrica",
-   "bucket": "T1",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "formex.us": {
-   "name": "Formex Electrical Contractor Inc.",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "lonestarlightning.com": {
-   "name": "Lonestar Lightning",
-   "bucket": "S10",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "inchargee.com": {
-   "name": "InChargeE, LLC",
-   "bucket": "S9",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "omnielectric.io": {
-   "name": "OMNI Electric",
-   "bucket": "S8",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "transitionpower.net": {
-   "name": "Transition Power LLC",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata company found for domain",
-   "contacts": []
-  },
-  "utilityelectric.net": {
-   "name": "Utility Electric",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
   "nkelectric.com": {
    "name": "Kentucky General INC Dba Norman King Electric",
    "bucket": "T4",
@@ -76445,9 +75845,9 @@
    "priority": "master-P2",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no provider coverage for domain",
    "contacts": []
   },
   "phillips-southern.org": {
@@ -76457,346 +75857,34 @@
    "priority": "master-P2",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "micontrols.net": {
-   "name": "Midstream & Industrial Controls",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "morse-collins.com": {
-   "name": "Morse Collins Inc",
-   "bucket": "S10",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "mcginnis-ecc.com": {
-   "name": "McGinnis Electrical Contracting Company",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "civaeco.com": {
-   "name": "Civaeco Corp.",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "walshelectrical.com": {
-   "name": "Walsh Electrical, Inc.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "greenwayelecsvc.com": {
-   "name": "Greenway Electrical Services LLC",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "guamadvance.com": {
-   "name": "Guam Advance Enterprises Inc",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "castleelectric.com": {
-   "name": "Castle Electric",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "hkscholz.com": {
-   "name": "H. K. Scholz Co.",
-   "bucket": "M13",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "caribooindustrialelectric.com": {
-   "name": "Cariboo Industrial Electric",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs; name suggests Cariboo region, British Columbia - verify this is a US entity before outreach",
-   "contacts": []
-  },
-  "autochargingexperts.com": {
-   "name": "Auto Charging Experts INC.",
-   "bucket": "S9",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "nu-trendev.com": {
-   "name": "Nu-Trend EV and Electrical Services",
-   "bucket": "S9",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "l9electric.com": {
-   "name": "L9 Electric",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "millenes.com": {
-   "name": "Millennium Electrical Services",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "jceinc-us.com": {
-   "name": "JCE Inc",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "e-tecinc.net": {
-   "name": "E-TEC Electrical Services",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "directstrikelightningprotection.github.io": {
-   "name": "Direct Strike Lightning protection",
-   "bucket": "S10",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "elitepowersolutions.io": {
-   "name": "Elite Power Solutions",
-   "bucket": "S9",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "ams-corp.com": {
-   "name": "Analysis and Measurement Services (AMS) Corporation",
-   "bucket": "T1",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "independentlighting.com": {
-   "name": "Independent Lighting & Electrical",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "eagleelect.com": {
-   "name": "Eagle Electric",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "4lp.com": {
-   "name": "4Lp, LLC",
-   "bucket": "S10",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "evchargersusa.com": {
-   "name": "EV Chargers by AEFA",
-   "bucket": "S9",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "electricalinnovations.net": {
-   "name": "Electrical Innovations",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "spina-enterprises.com": {
-   "name": "Harrison Electric INC",
-   "bucket": "S7",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "hmt-electric.com": {
-   "name": "Hmt",
-   "bucket": "T1",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "outback-inc.com": {
-   "name": "Outback Contractors, Inc.",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "rwelectric.com": {
-   "name": "R.W. Electric",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "NON-OWNER TITLE: General Superintendent, not a decision maker; also phone contamination - 4 numbers across 785/712/316, dropped +1 712-644-3522 (Iowa) as out-of-state",
+   "contacts": [
+    {
+     "name": "Jarrod Divelbess",
+     "title": "General Superintendent",
+     "location": "Valley Center, KS, United States",
+     "emails": [
+      {
+       "email": "jarrod@phillips-southern.org",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 785-577-3082",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 316-265-4186",
+       "type": "office"
+      }
+     ]
+    }
+   ]
   },
   "keareselectric.com": {
    "name": "Keares Electrical Contractor, Inc.",
@@ -76805,10 +75893,25 @@
    "priority": "master-P2",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no phone returned (verified email only)",
+   "contacts": [
+    {
+     "name": "Bob Keares",
+     "title": "Owner",
+     "location": "Downingtown, Pennsylvania, US",
+     "emails": [
+      {
+       "email": "bobk@keareselectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
   },
   "malloryelectric.com": {
    "name": "Mallory Electric",
@@ -76817,9 +75920,9 @@
    "priority": "master-P2",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no owner-level title match (4 contacts at domain)",
    "contacts": []
   },
   "massbayelectric.com": {
@@ -76829,10 +75932,1680 @@
    "priority": "master-P2",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (4 contacts at domain)",
+   "contacts": []
+  },
+  "summitelectricdata.com": {
+   "name": "Summit Electric & Data, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "LOW CONFIDENCE PHONES: 6 numbers across 626/949/818/661/562 - all CA but scattered, kept top 2 mobiles only; all unverified professional emails were on summitelectservices.com not the target domain, dropped",
+   "contacts": [
+    {
+     "name": "Ray Vasquez",
+     "title": "President and Owner",
+     "location": "CA, United States",
+     "emails": [
+      {
+       "email": "summitelec.data@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 626-926-0174",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 949-310-0918",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "alphaindustries.pro": {
+   "name": "Alpha Industries, LLC.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (3 contacts at domain)",
+   "contacts": []
+  },
+  "armorelectrical.com": {
+   "name": "Armor Electrical",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "gobeaon.com": {
+   "name": "Beaon Energy",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "campbellanddawes.com": {
+   "name": "Campbell & Dawes, LTD",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (2 contacts at domain)",
+   "contacts": []
+  },
+  "johnfordelectricalservices.co.uk": {
+   "name": "Commercial Electrician",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (6 contacts); also UK .co.uk domain - out of US-only mandate, likely wrong target entirely",
+   "contacts": []
+  },
+  "cte-ca.com": {
+   "name": "Cte",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "VERIFY ENTITY: title 'Store owner' is retail-shaped for an electrical contractor, and contact is FL (863) while domain reads '-ca'; provider also offered a cte.gob.ec (Ecuador) email, dropped",
+   "contacts": [
+    {
+     "name": "Kris Mize",
+     "title": "Store owner",
+     "location": "Lakeland, FL, United States",
+     "emails": [
+      {
+       "email": "kris@cte-ca.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      },
+      {
+       "email": "kris.mize@cte-ca.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 863-660-3978",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "evhookup.com": {
+   "name": "EV HookUp",
+   "bucket": "S9",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "elevate360.com": {
+   "name": "Elevate360 Inc.",
+   "bucket": "S9",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "hbutilities.com": {
+   "name": "HB Utilities",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "NON-OWNER TITLE: Vice President. PHONE CONTAMINATION: all 3 mobiles are Colorado (720/720/303) but contact is San Antonio TX - no number matches company state, treat phones as unconfirmed; emails are verified and on-domain",
+   "contacts": [
+    {
+     "name": "Christopher Adrian",
+     "title": "Vice President",
+     "location": "San Antonio, TX, United States",
+     "emails": [
+      {
+       "email": "christopher.adrian@hbutilities.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "christopher.adrian@harperbro.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 720-427-9479",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 720-837-3778",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "mainlinecharging.com": {
+   "name": "Main Line Charging",
+   "bucket": "S9",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "musgrove.ourcareerpages.com": {
+   "name": "Musgrove Construction",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage; domain is an ATS careers-page host, not the company's own domain - needs corrected domain before retry",
+   "contacts": []
+  },
+  "procallighting.com": {
+   "name": "ProCal Lighting",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (2 contacts at domain)",
+   "contacts": []
+  },
+  "speedwiringproducts.com": {
+   "name": "SPEED Wiring Products",
+   "bucket": "M13",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no phone returned (verified email only)",
+   "contacts": [
+    {
+     "name": "Steve Ivanov",
+     "title": "Owner",
+     "location": "Raleigh-Durham-Chapel Hill, North Carolina, US",
+     "emails": [
+      {
+       "email": "sivanov@speedwiringproducts.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "ahindllc.com": {
+   "name": "A&H Industries, LLC",
+   "bucket": "S8",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "verified email sits on ahindustriesllc.com not the queried ahindllc.com - confirm same entity; mobile 703 is DC-metro, consistent with Hyattsville MD",
+   "contacts": [
+    {
+     "name": "Hamid Zamanian",
+     "title": "Partner",
+     "location": "Hyattsville, MD, United States",
+     "emails": [
+      {
+       "email": "hzamanian@ahindustriesllc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 703-909-2448",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "basselectricalnyc.com": {
+   "name": "Bass Electrical Corporation",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
    "credits_used": 0,
    "error": "no grata execs",
+   "contacts": [
+    {
+     "name": "Panagiotis Karakalpakidis",
+     "title": "Owner",
+     "location": "New York, NY, United States",
+     "emails": [
+      {
+       "email": "basselectricalco@aol.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "shishado@aol.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 917-417-0468",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 718-274-6531",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "sanderscomposites.com": {
+   "name": "Sanders Services",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no mobile - direct dial and office only; dropped +1 949-650-1666 (type 'other', third unrelated SoCal area code)",
+   "contacts": [
+    {
+     "name": "Eric Sanders",
+     "title": "Owner",
+     "location": "Lawndale, CA, United States",
+     "emails": [
+      {
+       "email": "ericsanders@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 714-521-9800",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 562-354-2920",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "alliedsg.com": {
+   "name": "Allied Services Group",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "NON-OWNER TITLE: VP Finance and Accounting, not the decision maker. LOW CONFIDENCE PHONES: 7 numbers returned, kept the 281 mobile and one 713 direct dial matching Houston; dropped 405 (OK) and the rest. Several 'personal' emails are under other surnames (sarahhamby@, marilee.kelso@) - record looks merged, use the on-domain email only",
+   "contacts": [
+    {
+     "name": "Marilee Hamby",
+     "title": "Vice President Finance and Accounting",
+     "location": "Houston, TX, United States",
+     "emails": [
+      {
+       "email": "mhamby@alliedsg.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 281-684-4108",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 713-346-7722",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "arcpowersvc.com": {
+   "name": "Arc Power Services, LLC",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (3 contacts at domain)",
    "contacts": []
+  },
+  "celticpower.com": {
+   "name": "Celtic Power Group",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "LIKELY WRONG MATCH - contact location Ireland, outside the US-only mandate. Phones span +353 (IE), +61 (AU x2), +1 902 (Nova Scotia) and +1 954/561 (FL): heavy contamination, kept only the two US numbers and even those are unconfirmed. Do not use before entity verification",
+   "contacts": [
+    {
+     "name": "Daniel Halloran",
+     "title": "President",
+     "location": "Ireland",
+     "emails": [
+      {
+       "email": "daniel@celticpower.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "celticpowerlines@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 954-952-7336",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 561-516-2205",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "energy-test.com": {
+   "name": "Energy-Test Ingenier\u00eda El\u00e9ctrica",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (1 contact at domain)",
+   "contacts": []
+  },
+  "formex.us": {
+   "name": "Formex Electrical Contractor Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "LIKELY WRONG MATCH - all candidate emails resolve to formex.com.tr (Turkey), none verified, none on formex.us; title 'Executive Manager' is not owner-level and no phone returned. Nothing usable",
+   "contacts": [
+    {
+     "name": "Mustafa A.",
+     "title": "Executive Manager",
+     "location": "Irvine, CA, United States",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "lonestarlightning.com": {
+   "name": "Lonestar Lightning",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "inchargee.com": {
+   "name": "InChargeE, LLC",
+   "bucket": "S9",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "omnielectric.io": {
+   "name": "OMNI Electric",
+   "bucket": "S8",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "NON-OWNER TITLE: Director of Operations. No phone returned (verified emails only)",
+   "contacts": [
+    {
+     "name": "Alexander Diaz",
+     "title": "Director of Operations",
+     "location": "Phoenix, AZ, United States",
+     "emails": [
+      {
+       "email": "alexander.diaz@omnielectric.io",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "adiaz@omnielectric.io",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "transitionpower.net": {
+   "name": "Transition Power LLC",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (1 contact at domain)",
+   "contacts": []
+  },
+  "utilityelectric.net": {
+   "name": "Utility Electric",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (2 contacts at domain)",
+   "contacts": []
+  },
+  "directstrikelightningprotection.github.io": {
+   "name": "Direct Strike Lightning protection",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage; domain is a github.io page, not a company domain - needs a corrected domain before retry",
+   "contacts": []
+  },
+  "elitepowersolutions.io": {
+   "name": "Elite Power Solutions",
+   "bucket": "S9",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "only verified email is personal gmail; on-domain addresses are unverified guesses. Mobile 385 matches Orem UT",
+   "contacts": [
+    {
+     "name": "Payton T",
+     "title": "Founder",
+     "location": "Orem, UT, United States",
+     "emails": [
+      {
+       "email": "paythomas19@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "payton.t@elitepowersolutions.io",
+       "type": "professional",
+       "quality": "Possible",
+       "is_verified": false
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 385-335-1039",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "4lp.com": {
+   "name": "4Lp, LLC",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (4 contacts at domain)",
+   "contacts": []
+  },
+  "evchargersusa.com": {
+   "name": "EV Chargers by AEFA",
+   "bucket": "S9",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "electricalinnovations.net": {
+   "name": "Electrical Innovations",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "spina-enterprises.com": {
+   "name": "Harrison Electric INC",
+   "bucket": "S7",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "hmt-electric.com": {
+   "name": "Hmt",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "outback-inc.com": {
+   "name": "Outback Contractors, Inc.",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no grata execs",
+   "contacts": [
+    {
+     "name": "Mattie Bunting",
+     "title": "President",
+     "location": "Red Bluff, CA, United States",
+     "emails": [
+      {
+       "email": "mattieb@outback-inc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "mbunting@outbackdvbe.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 530-200-6016",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 530-737-3588",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "rwelectric.com": {
+   "name": "R.W. Electric",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-DQ",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (3 contacts at domain)",
+   "contacts": []
+  },
+  "powerconnections.com": {
+   "name": "Power Connections Inc",
+   "bucket": "M13",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NON-OWNER TITLE: Vice President. LOW CONFIDENCE PHONES: 11 numbers returned, kept the top 2 mobiles on 337 (matches Opelousas LA); dropped 918 (OK) and 334 (AL) as out-of-state",
+   "contacts": [
+    {
+     "name": "Scotty Touchette",
+     "title": "Vice President",
+     "location": "Opelousas, LA, United States",
+     "emails": [
+      {
+       "email": "scotty@powerconnections.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 337-356-8940",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 337-258-6554",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "amexelectric.com": {
+   "name": "Amex Electric Services DFW",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "mobile 214 (Dallas) and office 915 (El Paso) are both TX but far apart - confirm which site is HQ",
+   "contacts": [
+    {
+     "name": "Samuel Alvarez",
+     "title": "Owner and President",
+     "location": "TX, United States",
+     "emails": [
+      {
+       "email": "samuel@amexelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "salvarezjr@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 214-991-5803",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 915-599-1207",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "lumenelectric.com": {
+   "name": "Lumen Electric INC.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title is General Manager - senior but confirm ownership before treating as decision maker",
+   "contacts": [
+    {
+     "name": "Tom Sebastiano",
+     "title": "General Manager",
+     "location": "Barrington Hills, IL, United States",
+     "emails": [
+      {
+       "email": "tom@lumenelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 847-540-6300",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "dcentersolutions.com": {
+   "name": "Data Center Solutions Inc.",
+   "bucket": "T6",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "office line only - no mobile",
+   "contacts": [
+    {
+     "name": "Juan Starkmann",
+     "title": "Founder and CEO",
+     "location": "Los Angeles, CA, United States",
+     "emails": [
+      {
+       "email": "juan.starkmann@dcentersolutions.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 310-748-4429",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "foxsystemsinc.com": {
+   "name": "Fox Systems, Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "NON-OWNER TITLE: 'Electrical Contractor' is a trade role, not a decision maker. No verified email - all addresses are unverified pattern guesses. Phones on 706/770 are both GA, consistent",
+   "contacts": [
+    {
+     "name": "Brandon Coggins",
+     "title": "Electrical Contractor",
+     "location": "Atlanta, GA, United States",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 706-263-6575",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 770-773-5284",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "whitelightningprotection.com": {
+   "name": "White Lightning Protection",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "morrisele.com": {
+   "name": "Morris Electric Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (2 contacts at domain)",
+   "contacts": []
+  },
+  "jamisonelectricinc.com": {
+   "name": "Jamison Electric",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "office line only, and its 540 area code is Virginia while the contact is Louisville KY (502) - phone likely belongs to a different entity. No verified email; all addresses are unverified pattern guesses",
+   "contacts": [
+    {
+     "name": "Jeremy Jamison",
+     "title": "Proprietor",
+     "location": "Louisville, KY, United States",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 540-345-3854",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "rexcollinselectric.com": {
+   "name": "Rex Collins Electric, INC.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (7 contacts at domain)",
+   "contacts": []
+  },
+  "echosolutionsusa.com": {
+   "name": "ECHO Solutions USA, LLC>",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "rayselectric.co": {
+   "name": "Ray's Electric",
+   "bucket": "S8",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "ampleelectric.com": {
+   "name": "Ample Electric, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "SEVERE PHONE CONTAMINATION: 17 numbers spanning 530/707 (CA) plus 678 GA, 417 MO, 610 PA, 443 MD, 219 IN, 574 IN, 206 WA - provider record is clearly merged across multiple people. Kept only the two 530 mobiles matching Winters CA; treat as unconfirmed. Emails equally merged (multiple unrelated personal aliases, one FL rr.com address) - kept the on-domain verified address only",
+   "contacts": [
+    {
+     "name": "Jose Diaz",
+     "title": "CEO",
+     "location": "Winters, CA, United States",
+     "emails": [
+      {
+       "email": "jdiaz@ampleelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 530-219-5058",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 530-979-6312",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "artesiapilarelectrical.com": {
+   "name": "Artesia Pilar Electrical",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "jmtjconstruction.com": {
+   "name": "JMTJ Construction LLC",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "office line only, and its 318 area code is Louisiana while the contact is Lubbock TX (806) - phone unconfirmed. Only verified email is personal gmail; on-domain addresses are unverified guesses",
+   "contacts": [
+    {
+     "name": "Joel Coronado",
+     "title": "Co-Owner",
+     "location": "Lubbock, TX, United States",
+     "emails": [
+      {
+       "email": "joel.coronado@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 318-623-9374",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "qfselectric.com": {
+   "name": "QFS Electric Inc",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (3 contacts at domain)",
+   "contacts": []
+  },
+  "digtechtexas.com": {
+   "name": "Dig Tech",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "jimberry.com": {
+   "name": "Berry Contracting Inc",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (3 contacts at domain)",
+   "contacts": []
+  },
+  "gs2contractors.com": {
+   "name": "Gs2 Contractors",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "riseelec.com": {
+   "name": "Rise Electric LLC",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "title mixes Project Manager with Principal - confirm ownership stake before treating as decision maker. PHONE CONTAMINATION: 4 numbers, kept only the 708 mobile (Chicago area); dropped 989 (MI), 773 'other' and 603 (NH) office",
+   "contacts": [
+    {
+     "name": "Jason Gilles",
+     "title": "Project Manager, Principal",
+     "location": "Chicago, IL, United States",
+     "emails": [
+      {
+       "email": "jgilles@riseelec.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jasongilles10@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 708-516-3920",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "premierpowercompany.com": {
+   "name": "Premier Power Company",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no phone returned (verified email only)",
+   "contacts": [
+    {
+     "name": "Blake Melton",
+     "title": "President",
+     "location": "Cullman, AL, United States",
+     "emails": [
+      {
+       "email": "blake@premierpowercompany.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "vslconstructors.com": {
+   "name": "Vsl Electrical Signing Lighting Llc",
+   "bucket": "S8",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "LIKELY WRONG MATCH: NON-OWNER TITLE (Area Manager) and every professional email is on laneconstruct.com, not vslconstructors.com; 4 phones span 510 (CA), 202 (DC) and 703 (VA x2) with none matching Charleston SC - all dropped. Nothing usable for this domain",
+   "contacts": [
+    {
+     "name": "Jason Jenkins",
+     "title": "Area Manager",
+     "location": "Charleston, SC, United States",
+     "emails": [
+      {
+       "email": "jason.jenkins.06@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "nexuselectricalgroup.com": {
+   "name": "Nexus Electrical Group PDX",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (2 contacts at domain)",
+   "contacts": []
+  },
+  "aitechfl.com": {
+   "name": "Advanced Integration Technologies, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "co-founder so owner-level despite VP in title; dropped +1 936-499-1410 (TX) as out-of-state, kept the 561 numbers matching Boca Raton FL",
+   "contacts": [
+    {
+     "name": "Sergio Salazar",
+     "title": "Co-Founder and VP",
+     "location": "Boca Raton, FL, United States",
+     "emails": [
+      {
+       "email": "ssalazar@aitechfl.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 561-702-9010",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 561-990-1275",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "micontrols.net": {
+   "name": "Midstream & Industrial Controls",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "title 'President Of Operations' reads as an ops role rather than the owner - confirm. Dropped +1 254-715-6857 (Waco TX, away from Houston) and a second unrelated personal email; kept 832/281 Houston-area numbers",
+   "contacts": [
+    {
+     "name": "Angel Nava",
+     "title": "President Of Operations",
+     "location": "Cypress, TX, United States",
+     "emails": [
+      {
+       "email": "angelnava@micontrols.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "angelnava82@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 832-629-0991",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 281-628-7395",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "morse-collins.com": {
+   "name": "Morse Collins Inc",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "mcginnis-ecc.com": {
+   "name": "McGinnis Electrical Contracting Company",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "office line only (412, Pittsburgh) - no mobile",
+   "contacts": [
+    {
+     "name": "Richard McGinnis",
+     "title": "President and Owner",
+     "location": "United States",
+     "emails": [
+      {
+       "email": "mcginnis@mcginnis-ecc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 412-331-8333",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "civaeco.com": {
+   "name": "Civaeco Corp.",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "walshelectrical.com": {
+   "name": "Walsh Electrical, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "NON-OWNER TITLE: Vice President - though surname matches the company name and a mikesr@ address also exists, so likely family ownership; all phones 570 and consistent with Clarks Summit PA",
+   "contacts": [
+    {
+     "name": "Mike Walsh",
+     "title": "Vice President",
+     "location": "Clarks Summit, PA, United States",
+     "emails": [
+      {
+       "email": "mwalsh@walshelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "mikejr@walshelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 570-840-5371",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 570-969-2442",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "greenwayelecsvc.com": {
+   "name": "Greenway Electrical Services LLC",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (5 contacts at domain)",
+   "contacts": []
+  },
+  "guamadvance.com": {
+   "name": "Guam Advance Enterprises Inc",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (29 contacts at domain); also Guam-based, confirm it meets the US-mainland mandate",
+   "contacts": []
+  },
+  "castleelectric.com": {
+   "name": "Castle Electric",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "hkscholz.com": {
+   "name": "H. K. Scholz Co.",
+   "bucket": "M13",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (8 contacts at domain)",
+   "contacts": []
+  },
+  "caribooindustrialelectric.com": {
+   "name": "Cariboo Industrial Electric",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (4 contacts at domain); 'Cariboo' is a British Columbia region - check this is not a Canadian firm, which would be outside the US-only mandate",
+   "contacts": []
+  },
+  "autochargingexperts.com": {
+   "name": "Auto Charging Experts INC.",
+   "bucket": "S9",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "nu-trendev.com": {
+   "name": "Nu-Trend EV and Electrical Services",
+   "bucket": "S9",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "l9electric.com": {
+   "name": "L9 Electric",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no grata execs",
+   "contacts": [
+    {
+     "name": "Maximiliano Arauza",
+     "title": "Owner and Operator",
+     "location": "Bakersfield, CA, United States",
+     "emails": [
+      {
+       "email": "marauza@l9electric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 661-617-0026",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "millenes.com": {
+   "name": "Millennium Electrical Services",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "jceinc-us.com": {
+   "name": "JCE Inc",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (1 contact at domain)",
+   "contacts": []
+  },
+  "e-tecinc.net": {
+   "name": "E-TEC Electrical Services",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (1 contact at domain)",
+   "contacts": []
+  },
+  "ams-corp.com": {
+   "name": "Analysis and Measurement Services (AMS) Corporation",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "dropped +1 631-392-0489 (NY) as out-of-state; kept 865 numbers matching Knoxville TN",
+   "contacts": [
+    {
+     "name": "H.M. Hashemian",
+     "title": "President and CEO",
+     "location": "Knoxville, TN, United States",
+     "emails": [
+      {
+       "email": "hash@ams-corp.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 865-567-6755",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 865-691-1756",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "independentlighting.com": {
+   "name": "Independent Lighting & Electrical",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "LOW CONFIDENCE PHONES: 11 numbers returned; kept the two 757 mobiles matching Virginia Beach and dropped 561 (FL) and 804 (Richmond VA) mobiles plus the direct-dial block",
+   "contacts": [
+    {
+     "name": "Brian Strangways",
+     "title": "President and Owner",
+     "location": "Virginia Beach, VA, United States",
+     "emails": [
+      {
+       "email": "brian@independentlighting.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "brianstrangways@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 757-876-8689",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 757-407-8654",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "eagleelect.com": {
+   "name": "Eagle Electric",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NON-OWNER TITLE: Vice President. PHONE CONTAMINATION: 9 numbers; kept the 925 mobile and one 925 direct dial matching Pleasanton CA, dropped 605 (SD), 707, 775 (NV) and 530. Personal emails belong to a different first name (Larry/Lawrence Brumm) - record looks merged across relatives, use the on-domain address only",
+   "contacts": [
+    {
+     "name": "Billy Brumm",
+     "title": "Vice President",
+     "location": "Pleasanton, CA, United States",
+     "emails": [
+      {
+       "email": "billy@eagleelect.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 925-783-0512",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 925-455-1179",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
   },
   "sageelectric.org": {
    "name": "Sage Electric Solutions, LLC",
@@ -76841,9 +77614,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no owner-level title match (10 contacts at domain)",
    "contacts": []
   },
   "advancemotorsolutions.com": {
@@ -76853,9 +77626,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no provider coverage for domain",
    "contacts": []
   },
   "precisionelectriccolorado.com": {
@@ -76865,9 +77638,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no provider coverage for domain",
    "contacts": []
   },
   "easttexaslightningprotection.com": {
@@ -76877,9 +77650,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no provider coverage for domain",
    "contacts": []
   },
   "diversifiedsci.com": {
@@ -76889,9 +77662,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no owner-level title match (1 contact at domain)",
    "contacts": []
   },
   "ghec.biz": {
@@ -76901,9 +77674,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no provider coverage for domain",
    "contacts": []
   },
   "clp-engineering.com": {
@@ -76913,10 +77686,27 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "NON-OWNER TITLE: 'Principal Engineer' is a technical grade, not an ownership principal. No verified on-domain email (only a bellsouth.net and an aol.com personal address, which also read as merged). Dropped the 817 (Fort Worth TX) mobile as out-of-state; the two 720/303 direct dials match Denver but no mobile survives",
+   "contacts": [
+    {
+     "name": "Erik Parsons",
+     "title": "Principal Engineer",
+     "location": "Denver, CO, United States",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 720-353-4362",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 303-766-9659",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
   },
   "davesinc.com": {
    "name": "Dave's Construction LLC",
@@ -76925,9 +77715,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no owner-level title match (3 contacts at domain)",
    "contacts": []
   },
   "sdielectricgroupllc.com": {
@@ -76937,9 +77727,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no provider coverage for domain",
    "contacts": []
   },
   "peterandsonselectric.com": {
@@ -76949,9 +77739,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no provider coverage for domain",
    "contacts": []
   },
   "truecompassnw.com": {
@@ -76961,10 +77751,36 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "404 unresolved_domain - no Grata company found for this domain",
-   "contacts": []
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "verified email is on true-compass.net not the queried truecompassnw.com - confirm same entity; provider also mixed in vandiencapital.com addresses. PHONE CONTAMINATION: only the 253 office line matches WA; dropped the 908 mobile and 201 direct dial (both New Jersey), so no usable mobile",
+   "contacts": [
+    {
+     "name": "Douglas Wolfson",
+     "title": "President",
+     "location": "Seattle, WA, United States",
+     "emails": [
+      {
+       "email": "douglasw@true-compass.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "douglas.wolfson@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 253-833-9904",
+       "type": "office"
+      }
+     ]
+    }
+   ]
   },
   "ballanceelectric.com": {
    "name": "L E Ballance Electrical Service",
@@ -76973,9 +77789,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no owner-level title match (2 contacts at domain)",
    "contacts": []
   },
   "mongooseelectric.com": {
@@ -76985,9 +77801,9 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven",
    "credits_used": 0,
-   "error": "no grata execs",
+   "error": "no owner-level title match (1 contact at domain)",
    "contacts": []
   },
   "rondoutelectric.net": {
@@ -76997,10 +77813,40 @@
    "priority": "master-P3",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "NON-OWNER TITLE: Vice President. Verified email is on rondout.net rather than the queried rondoutelectric.net - likely the same group, confirm. All phones 845, consistent with Highland NY",
+   "contacts": [
+    {
+     "name": "Ashley Dingee",
+     "title": "Vice President",
+     "location": "Highland, NY, United States",
+     "emails": [
+      {
+       "email": "ashleyd@rondout.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "ashleydingee@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 845-249-5698",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 845-462-7700",
+       "type": "office"
+      }
+     ]
+    }
+   ]
   }
  }
 }

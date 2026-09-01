@@ -419,14 +419,21 @@
    "company": "Commercial Electrician",
    "priority": "master-DQ",
    "campaign": null,
-   "reason": "domain unresolvable in grata (404); UK domain - non-US, verify entity"
+   "reason": "no owner-level title match (6 contacts); also UK .co.uk domain - out of US-only mandate, likely wrong target entirely"
   },
   {
-   "domain": "musgrove.ourcareerpages.com",
-   "company": "Musgrove Construction",
+   "domain": "celticpower.com",
+   "company": "Celtic Power Group",
    "priority": "master-DQ",
    "campaign": null,
-   "reason": "grata matched wrong entity (Burford's Tree LLC / ourcareerpages.com) - not a company primary domain"
+   "reason": "LIKELY WRONG MATCH - contact location Ireland, outside the US-only mandate. Phones span +353 (IE), +61 (AU x2), +1 902 (Nova Scotia) and +1 954/561 (FL): heavy contamination, kept only the two US numbers and even those are unconfirmed. Do not use before entity verification"
+  },
+  {
+   "domain": "formex.us",
+   "company": "Formex Electrical Contractor Inc.",
+   "priority": "master-DQ",
+   "campaign": null,
+   "reason": "LIKELY WRONG MATCH - all candidate emails resolve to formex.com.tr (Turkey), none verified, none on formex.us; title 'Executive Manager' is not owner-level and no phone returned. Nothing usable"
   },
   {
    "domain": "dynamicelectric.com",
@@ -721,6 +728,48 @@
    "priority": "master-P3",
    "campaign": null,
    "reason": "named lookup for Paul Guercio (Founder) found nothing; fallback returned Gar Hulslander, President - different person but owner-level; no verified email"
+  },
+  {
+   "domain": "lumenelectric.com",
+   "company": "Lumen Electric INC.",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "title is General Manager - senior but confirm ownership before treating as decision maker"
+  },
+  {
+   "domain": "riseelec.com",
+   "company": "Rise Electric LLC",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "title mixes Project Manager with Principal - confirm ownership stake before treating as decision maker. PHONE CONTAMINATION: 4 numbers, kept only the 708 mobile (Chicago area); dropped 989 (MI), 773 'other' and 603 (NH) office"
+  },
+  {
+   "domain": "vslconstructors.com",
+   "company": "Vsl Electrical Signing Lighting Llc",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "LIKELY WRONG MATCH: NON-OWNER TITLE (Area Manager) and every professional email is on laneconstruct.com, not vslconstructors.com; 4 phones span 510 (CA), 202 (DC) and 703 (VA x2) with none matching Charleston SC - all dropped. Nothing usable for this domain"
+  },
+  {
+   "domain": "walshelectrical.com",
+   "company": "Walsh Electrical, Inc.",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "NON-OWNER TITLE: Vice President - though surname matches the company name and a mikesr@ address also exists, so likely family ownership; all phones 570 and consistent with Clarks Summit PA"
+  },
+  {
+   "domain": "caribooindustrialelectric.com",
+   "company": "Cariboo Industrial Electric",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "no owner-level title match (4 contacts at domain); 'Cariboo' is a British Columbia region - check this is not a Canadian firm, which would be outside the US-only mandate"
+  },
+  {
+   "domain": "clp-engineering.com",
+   "company": "CLP Engineering, LLC",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "NON-OWNER TITLE: 'Principal Engineer' is a technical grade, not an ownership principal. No verified on-domain email (only a bellsouth.net and an aol.com personal address, which also read as merged). Dropped the 817 (Fort Worth TX) mobile as out-of-state; the two 720/303 direct dials match Denver but no mobile survives"
   },
   {
    "domain": "bg-technologies.com",
@@ -1480,6 +1529,36 @@
    "alt_email_domain": "suddenlink.net",
    "email": "jimm@suddenlink.net",
    "priority": "valDQ-review",
+   "campaign": null
+  },
+  {
+   "domain": "hbutilities.com",
+   "company": "HB Utilities",
+   "contact": "Christopher Adrian",
+   "title": "Vice President",
+   "alt_email_domain": "harperbro.com",
+   "email": "christopher.adrian@harperbro.com",
+   "priority": "master-DQ",
+   "campaign": null
+  },
+  {
+   "domain": "ahindllc.com",
+   "company": "A&H Industries, LLC",
+   "contact": "Hamid Zamanian",
+   "title": "Partner",
+   "alt_email_domain": "ahindustriesllc.com",
+   "email": "hzamanian@ahindustriesllc.com",
+   "priority": "master-DQ",
+   "campaign": null
+  },
+  {
+   "domain": "truecompassnw.com",
+   "company": "True Compass, LLC",
+   "contact": "Douglas Wolfson",
+   "title": "President",
+   "alt_email_domain": "true-compass.net",
+   "email": "douglasw@true-compass.net",
+   "priority": "master-P3",
    "campaign": null
   }
  ],
@@ -3003,6 +3082,36 @@
    "contact": "Sidney Feldman",
    "title": "Chief Financial Officer",
    "priority": "master-P3"
+  },
+  {
+   "domain": "phillips-southern.org",
+   "contact": "Jarrod Divelbess",
+   "title": "General Superintendent",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "formex.us",
+   "contact": "Mustafa A.",
+   "title": "Executive Manager",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "omnielectric.io",
+   "contact": "Alexander Diaz",
+   "title": "Director of Operations",
+   "priority": "master-DQ"
+  },
+  {
+   "domain": "foxsystemsinc.com",
+   "contact": "Brandon Coggins",
+   "title": "Electrical Contractor",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "vslconstructors.com",
+   "contact": "Jason Jenkins",
+   "title": "Area Manager",
+   "priority": "master-P3"
   }
  ],
  "non_owner_note": "Inven expands title keywords server-side and matches loosely, so managers and VPs come through an owner-title filter. Re-work or downgrade these rather than mailing them as owner contacts.",
@@ -3173,15 +3282,29 @@
    "priority": "P3-candidate",
    "campaign": null,
    "note": "not a company domain - website-builder/directory host"
+  },
+  {
+   "domain": "directstrikelightningprotection.github.io",
+   "name": "Direct Strike Lightning protection",
+   "priority": "master-DQ",
+   "campaign": null,
+   "note": "not a company domain - website-builder/directory host"
+  },
+  {
+   "domain": "musgrove.ourcareerpages.com",
+   "name": "Musgrove Construction",
+   "priority": "master-DQ",
+   "campaign": null,
+   "note": "not a company domain - website-builder/directory host"
   }
  ],
  "bad_domain_note": "A website-builder or directory host is not a company domain. Enrichment can never resolve one, and dedupe keyed on it is unreliable, so the real domain has to be found before the row is usable.",
  "counts": {
-  "verify_before_outreach": 104,
-  "ownership_signals": 75,
-  "non_owner_titles": 253,
+  "verify_before_outreach": 111,
+  "ownership_signals": 78,
+  "non_owner_titles": 258,
   "us_only_violations": 6,
-  "bad_domains": 2,
+  "bad_domains": 4,
   "possible_duplicate_entities": 9
  }
 }
