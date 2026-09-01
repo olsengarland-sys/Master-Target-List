@@ -1,0 +1,7720 @@
+{
+ "generated": "2026-09-01",
+ "platform": "inven get_company_contacts",
+ "floor_policy": "inven contact-credit floor 6000; grata carries remainder; 1200 company cap",
+ "attempted": 266,
+ "with_contacts": 128,
+ "credits_used": 149,
+ "mobile_phones": 237,
+ "direct_dial_phones": 141,
+ "office_only_companies": 9,
+ "verified_emails": 205,
+ "companies": {
+  "elemco.com": {
+   "name": "Elemco Services Inc.",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "gets-usa.com": {
+   "name": "Global Electronics Testing Services, LLC",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "P2-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Dan Tang",
+     "title": "President of Global Electronics Testing Services, LLC. Worldwide",
+     "emails": [
+      {
+       "email": "dan.tang@gets-usa.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "dantang@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      },
+      {
+       "email": "dan@gets-usa.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 727-543-2625",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 727-375-8893",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 212-420-1744",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 727-372-8494",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 727-807-7991",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "pdelectricinc.com": {
+   "name": "P&D Electric Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Deborah Thornburg",
+     "title": "President",
+     "emails": [
+      {
+       "email": "dthornburg@pdelectricinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "debbybaker10@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 573-248-5596",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 816-878-5551",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 570-237-0352",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 573-406-1231",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 360-795-0077",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 573-406-1231",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "skfelectric.com": {
+   "name": "SKF Electrical Corp.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Suleyman Kahyaoglu",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "skahya@skfelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "suleyman.kahyaoglu@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 917-428-7197",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 347-730-5101",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "aa-tech.com": {
+   "name": "Aa Technology Inc",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "P2-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 15 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "united-power.com": {
+   "name": "United Power Services, Inc.",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Adam Straub",
+     "title": "President of Field Services",
+     "emails": [
+      {
+       "email": "adam.straub@united-power.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "adam.straub1@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 845-430-8391",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 832-451-2907",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 845-430-6379",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 845-383-1812",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 615-255-3700",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "instelpower.com": {
+   "name": "Instel Inc",
+   "bucket": "T2",
+   "campaign": "Electrical Apparatus Servicing",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "William Jackson",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "wjackson@instelpower.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "momsnote@aol.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 864-380-6330",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 864-963-1856",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "bixbyelectric.com": {
+   "name": "Bixby Electric, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "James Smouse",
+     "title": "Principal Owner",
+     "emails": [
+      {
+       "email": "smouse@bixbyelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "james@bixbyelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 505-350-3079",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 970-581-2550",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 505-896-8852",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 505-842-5384",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Brian Pollock",
+     "title": "President",
+     "emails": [
+      {
+       "email": "brian.pollock@bixbyelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 505-382-5508",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 505-288-2045",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 303-790-7646",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 505-565-0507",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 505-842-5384",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "shorelinepowerservices.com": {
+   "name": "Shoreline Power Services, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Aaron Isenhart",
+     "title": "President",
+     "emails": [
+      {
+       "email": "aaroni@shorelinepowerservices.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "isenhart6@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 231-492-2138",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 231-264-5699",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 503-430-8662",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 616-224-7707",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 231-267-3267",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 231-267-3267",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "iiiphaseinc.com": {
+   "name": "III Phase, Inc",
+   "bucket": "T2",
+   "campaign": "Electrical Apparatus Servicing",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Joanna Guidi",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "joanna@iiiphaseinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "crowneram.com": {
+   "name": "Crown ERAM, LLC",
+   "bucket": "T2",
+   "campaign": "Electrical Apparatus Servicing",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 22 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "electricmotorshopnc.com": {
+   "name": "Electric Motor Shop of Wake Forest",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 15 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "cypriuminduction.com": {
+   "name": "Cyprium Induction, LLC",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "James Link",
+     "title": "President",
+     "emails": [
+      {
+       "email": "james_link@cypriuminduction.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jimezlink@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 586-747-4784",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 586-201-3797",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 248-977-0986",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 810-614-8144",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 586-580-2959",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 586-997-3602",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 586-884-4982",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 586-739-8460",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 586-469-8324",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "roberson-waite.com": {
+   "name": "Roberson Waite",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 20 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "americanscii.com": {
+   "name": "American System Controls & Integration Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Kevin Swier",
+     "title": "Engineering Manger and CFO",
+     "emails": [
+      {
+       "email": "kswier@americanscii.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "lswier@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 209-602-0711",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 209-505-2281",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 626-344-5847",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 626-344-4458",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 209-599-3374",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 209-847-7275",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 209-575-7672",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 209-847-4221",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 209-593-1176",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Jeffrey Miller",
+     "title": "Automation Manager",
+     "emails": [
+      {
+       "email": "jmiller@sconzacandy.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jmiller@sconza.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 702-233-6527",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 209-481-8066",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 209-593-1176",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "karianpeterson.com": {
+   "name": "Karian Peterson Powerline Contracting, LLC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "westside-electric.com": {
+   "name": "Westside Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "electricmotorservices.net": {
+   "name": "Electric Motor Services, Inc.",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Rande Livengood",
+     "title": "Plant Manager",
+     "emails": [
+      {
+       "email": "randelivengood@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "livengood1992@comcast.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 219-613-1362",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 219-384-6886",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 312-665-7231",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 219-931-2850",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "carolinapowerandsignalization.com": {
+   "name": "Carolina Power & Signalization",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "powerservetech.com": {
+   "name": "Powerserve Technologies",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Leonardo Velosa",
+     "title": "President",
+     "emails": [
+      {
+       "email": "lvelosa@powerservetech.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "levelg37@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 561-284-2520",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 786-512-1997",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 352-585-3508",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 305-987-3253",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 786-242-2383",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 786-242-4115",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 305-232-7265",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 407-233-4240",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 305-253-5625",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 561-840-1441",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "smsenergygroup.com": {
+   "name": "SMS Energy Group, Inc.",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "ucspower.com": {
+   "name": "Utility Construction Services, LLC",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "P2-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Lauren Doiron",
+     "title": "Business Manager",
+     "emails": [
+      {
+       "email": "led@ucspower.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "ckharrington.ckh@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 985-791-9676",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 985-492-1415",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Nestor Castellanos",
+     "title": "General Superintendent",
+     "emails": [
+      {
+       "email": "ncastellanos@ucspower.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 985-492-1415",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "mdrpowerline.com": {
+   "name": "MDR Construction, Inc.",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 30 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "mainliteelectric.com": {
+   "name": "Main Lite Electric CO",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "amppconstruction.com": {
+   "name": "AMPP Construction, LLC",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "P2-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "highlineconstructionmn.com": {
+   "name": "Highlines Construction Co",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "fbtimberline.com": {
+   "name": "FB Timberline",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "ohlines.net": {
+   "name": "Overhead Lines",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Michael Moriarty",
+     "title": "President",
+     "emails": [
+      {
+       "email": "mmoriarty@ohlines.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 248-891-5328",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 973-249-2963",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "kevcoelectrical.com": {
+   "name": "Kevco Electrical Construction, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 8 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "jakeselectric.net": {
+   "name": "Jake S Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "burns-electric.com": {
+   "name": "Burns Electric",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Travis Cram",
+     "title": "President",
+     "emails": [
+      {
+       "email": "travis@burns-electric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "kendalcram@hotmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 515-238-5080",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 515-229-9396",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 641-828-7435",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 816-474-9340",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "mainelectric.com": {
+   "name": "Main Electric Limited",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Trevor Tate",
+     "title": "Vice President and Director of Projects",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 719-821-1733",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 719-924-2887",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 719-542-4114",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "gavietri.com": {
+   "name": "Greg A Vietri Inc",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "pettyline.com": {
+   "name": "Petty Line Construction",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "canyonstateelectric.com": {
+   "name": "Canyon State Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Steven Maderazzo",
+     "title": "President and CEO",
+     "emails": [
+      {
+       "email": "smaderazzo@canyonstateelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "sdmaderazzo@canyonstateelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 602-980-2095",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 602-390-0235",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 602-421-5477",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 858-699-1729",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-905-0517",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 602-437-3088",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 602-437-3088",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Robert Hughes",
+     "title": "President",
+     "emails": [
+      {
+       "email": "rhughes@canyonstateelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 602-384-0800",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 512-657-6626",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-899-1170",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 602-903-7567",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 602-437-3088",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "jmelectrical.com": {
+   "name": "JM Electrical Company Inc",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Matthew Guarracino",
+     "title": "Principal and CEO",
+     "emails": [
+      {
+       "email": "mguarracino@jmelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "matthew.guarracino@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 781-316-5197",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 781-581-3328",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 781-581-3415",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 781-581-3328",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Paul Guarracino",
+     "title": "Founder",
+     "emails": [
+      {
+       "email": "pguarracino@jmelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 781-316-5200",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 781-718-5376",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 781-581-3328",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 617-670-1549",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 781-224-9623",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 781-581-3328",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "positivepwr.com": {
+   "name": "Positive Power LLC.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "akronelectric.net": {
+   "name": "Akron Electric Company Inc",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "meritelectriccompany.com": {
+   "name": "Merit Electric Company",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 9 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "aeelectricservice.com": {
+   "name": "Amprite Electric Company, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "durkinelectric.com": {
+   "name": "Durkin Electric Co Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jeremy Durkin",
+     "title": "Business Owner",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 470-471-3648",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "fivestarelectric.org": {
+   "name": "Five Star Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "boxsystemselectrical.com": {
+   "name": "Box Systems Electrical",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "allphasela.com": {
+   "name": "All Phase Electrical Service",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Robert Lemoine",
+     "title": "President",
+     "emails": [
+      {
+       "email": "bobby.lemoine@allphasela.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "robertlemoine@comcast.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 337-258-8766",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 337-280-2820",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 337-593-1307",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 337-304-1373",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 337-304-1372",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 337-981-5096",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 337-593-1307",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "twallaceinc.com": {
+   "name": "Tommy Wallace Electrical Inc",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "spectra-electrical.com": {
+   "name": "Spectra Electrical Services, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "John B",
+     "title": "President",
+     "emails": [
+      {
+       "email": "john.brunia@spectra-electrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 602-695-8766",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-446-7200",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 480-802-0375",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 480-446-7300",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 480-446-7200",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "a1eleco.com": {
+   "name": "A-1 Electrical Contractors, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Ryan Orgeron",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "ryan@a1eleco.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "orgeron.ryan@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 504-382-3038",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 504-810-1463",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 504-368-1575",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 504-368-3902",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 504-368-1575",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "innovatedenergycontrols.com": {
+   "name": "Innovated Energy Controls",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "icselectricalservices.com": {
+   "name": "ICS Electrical Services",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "pri-sys.com": {
+   "name": "Primary Systems, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Robert Jayne",
+     "title": "Principal",
+     "emails": [
+      {
+       "email": "rjayne@pri-sys.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 703-296-6089",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 703-257-3309",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "pagoda-electrical.com": {
+   "name": "Pagoda Electrical Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 8 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "lakeelectric.com": {
+   "name": "Lake Electric Company",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jonathan Doyle",
+     "title": "Business Owner",
+     "emails": [
+      {
+       "email": "jondice77@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 310-804-9812",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 704-483-4000",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "vasko.com": {
+   "name": "Vasko Electric, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Vasco Jones",
+     "title": "President",
+     "emails": [
+      {
+       "email": "vasco.jones@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 423-622-2530",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 916-568-7700",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "lydenelectric.com": {
+   "name": "Lyden Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Aestocia Ramirez",
+     "title": "President",
+     "emails": [
+      {
+       "email": "aestocia@lydenelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "aestocia@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 951-588-7242",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 951-817-1055",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 909-689-1159",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 800-852-9971",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "enertechelectrical.com": {
+   "name": "Enertech Electrical, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Lisa Donofrio",
+     "title": "Owner and Marketing and Sales",
+     "emails": [
+      {
+       "email": "ldonofrio@enertechelectrical.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      },
+      {
+       "email": "lisaannmarie63@sbcglobal.net",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 772-336-9341",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 330-536-2131",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 330-536-2131",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Ronald Zimmerly",
+     "title": "General Manager",
+     "emails": [
+      {
+       "email": "rzimmerly@enertechelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 330-536-2131",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "greerselectric.com": {
+   "name": "Greers Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "awjelectric.com": {
+   "name": "AWJ Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "aarowelectricalsolutions.com": {
+   "name": "Aarow Electrical Solutions",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Dave Bastain",
+     "title": "Vice President of Operations",
+     "emails": [
+      {
+       "email": "davebastain@aarow-llc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 301-345-1300",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 301-345-1562",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 301-290-0069",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "delcoelectric.com": {
+   "name": "Delco Electric, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "manadaelectric.com": {
+   "name": "Manada Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Troy Cupp",
+     "title": "President",
+     "emails": [
+      {
+       "email": "troy@manadaelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "troycupp@comcast.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 717-856-5978",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 717-554-5489",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 417-208-1330",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 717-798-9500",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "laketownelectric.com": {
+   "name": "Laketown Electric Corporation",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Matt Bergmann",
+     "title": "CEO",
+     "emails": [
+      {
+       "email": "mattb@laketownelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "mattybergmann@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 612-296-3024",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 952-239-4827",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 952-442-2740",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 320-295-9591",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 952-467-2116",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 952-442-2740",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Jake Radford",
+     "title": "Vice President - Division Manager",
+     "emails": [
+      {
+       "email": "jradford@laketownelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jaker@laketownelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 612-221-1076",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 507-388-3288",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 612-432-2512",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 952-758-2460",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 952-442-2740",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "k2-electric.com": {
+   "name": "K2 Electric Incorporated",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "afelectric.net": {
+   "name": "A & F Electric Construction Inc",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "mammothelectric.com": {
+   "name": "Mammoth Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Gil Rodriguez",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "gil@mammothelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "whatrodriguez0@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 714-470-4873",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 714-446-8880",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 210-437-4011",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 714-446-8880",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "javelinelectricinc.com": {
+   "name": "Javelin Electric, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "southern-ind.com": {
+   "name": "Southern Electrical Contractors, Inc",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Gray Johnston",
+     "title": "President",
+     "emails": [
+      {
+       "email": "gjohnston@southern-ind.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 205-601-9186",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 256-245-2777",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "cascadeelectrical.net": {
+   "name": "Cascade Electrical Contracting Corp",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "traud-electric.com": {
+   "name": "Traud Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "diamondbarelectric.com": {
+   "name": "Diamond Bar Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 17 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "sunstateenergy.com": {
+   "name": "Sunstate Energy LLC",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jason Barr",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "jbarr@sunstateenergy.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jasondouglasbarr@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 309-531-8818",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 623-225-2818",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 602-350-0690",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 602-334-1139",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "hertzlerelectric.com": {
+   "name": "Hertzler Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 5 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "pqsmc.com": {
+   "name": "PQS Mission Critical",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Kyle Gunn",
+     "title": "President",
+     "emails": [
+      {
+       "email": "kgunn1@pqsmc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "kgunn1@pqsgg.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 803-315-3402",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 803-758-5864",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 803-758-5865",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 980-298-6405",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 803-758-5864",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "airekoenergygroup.com": {
+   "name": "Aireko Energy Group",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 12 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "degraauwelectric.com": {
+   "name": "deGraauw Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jeffrey Degraauw",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "jdegraauw@degraauwelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jdegraauw@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 615-268-2187",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-305-7929",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-495-3133",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-830-4695",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-566-2776",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-309-0415",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 615-360-7445",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 615-873-4046",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 618-457-3371",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "mid-southelectric.net": {
+   "name": "Mid-South Electric Contractors",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Demario Leakes",
+     "title": "Service Manager",
+     "emails": [
+      {
+       "email": "dleakes@yahoo.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 901-461-1628",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 901-491-5106",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 901-366-5688",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 901-365-1818",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "jgblackmon.com": {
+   "name": "JG Blackmon & Associates",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "elliottelectric.net": {
+   "name": "Elliott Electric Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "fee-ups.com": {
+   "name": "Fakouri Electrical Engineering (FEE)",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "ueco.com": {
+   "name": "United Electric Company, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 9 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "titanpower.com": {
+   "name": "Titan Power Inc.",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Andrew Berney",
+     "title": "President",
+     "emails": [
+      {
+       "email": "aberney@titanpower.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 513-720-7775",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-861-1402",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-699-4126",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 480-968-3191",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 480-968-3191",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Stephen Berney",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "sberney@titanpower.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "stephenberney@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 602-380-3296",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 800-509-6170",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 602-957-2626",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 480-968-3191",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 480-968-3191",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "melvinelectric.com": {
+   "name": "Melvin Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "lorbel.com": {
+   "name": "Lorbel Inc.",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 15 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "aceelecservice.com": {
+   "name": "Ace Electric Service",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": true,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage (named_people mode denied by permission classifier; domain mode used)",
+   "contacts": []
+  },
+  "traviselectricinc.com": {
+   "name": "Travis Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": true,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts (named_people mode denied by permission classifier; domain mode used)",
+   "contacts": []
+  },
+  "aselectric.com": {
+   "name": "A&S Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage (named target Robert Allen not resolvable; domain mode used)",
+   "contacts": []
+  },
+  "alexander-electric.com": {
+   "name": "Alexander Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Jay Alexander (CEO) not returned; domain mode used",
+   "contacts": [
+    {
+     "name": "Robert Jones",
+     "title": "Vice President Human Resources",
+     "emails": [
+      {
+       "email": "robert@alexander-electric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "wjones4323@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 706-325-5243",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 334-887-9555",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 706-327-1502",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "blountelectrical.com": {
+   "name": "Blount Electrical",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 8 contacts (named target Stephen Blount/Member; named mode denied)",
+   "contacts": []
+  },
+  "boyetteelectric.com": {
+   "name": "Boyette Electric",
+   "bucket": "Motor & generator services",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts (named target Carl Boyette/Owner & President; named mode denied)",
+   "contacts": []
+  },
+  "cawtn.com": {
+   "name": "Chattanooga Armature Works",
+   "bucket": "Motor & generator services",
+   "campaign": "Motor & Generator Companies",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Starr Wilson (President) not returned; domain mode used",
+   "contacts": [
+    {
+     "name": "Kristie Firman",
+     "title": "Shop Manager",
+     "emails": [
+      {
+       "email": "kristie@cawtn.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "k.l.firman@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 865-318-7952",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 423-628-2728",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 423-267-7665",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "cowart-inc.net": {
+   "name": "Cowart Electric & Indl",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage (named target Keith Scarborough)",
+   "contacts": []
+  },
+  "hreconstruction.com": {
+   "name": "HRE Construction",
+   "bucket": "Testing & commissioning",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "James Hill",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "jameshill@hreconstruction.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 803-960-7271",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 864-509-6431",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 303-862-8689",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "its-sav.com": {
+   "name": "Industrial Technical Services Inc",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": "named target Spencer Tyson (Founder) not returned; domain mode used",
+   "contacts": [
+    {
+     "name": "John McAdams",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "jmcadams@its-sav.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "john.mcadams@its-sav.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 912-660-2780",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 214-709-6374",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 912-349-0245",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Tannie Anderson",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "tannie.anderson@its-sav.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "savandys@comcast.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 912-660-6639",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 912-721-4492",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 912-897-0900",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "irelandelectriccorp.com": {
+   "name": "Ireland Electric Corporation",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 11 contacts (named target Ralph Jr./Founder)",
+   "contacts": []
+  },
+  "wge108.com": {
+   "name": "Jones & Lanier Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage (named target Dennis Jones)",
+   "contacts": []
+  },
+  "kovarikelectrical.com": {
+   "name": "Kovarik Electrical",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage (named target Kristopher Kovarik)",
+   "contacts": []
+  },
+  "lawsonelectric.com": {
+   "name": "Lawson Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Tobe Lawson (Founder) not returned; got Co-Owner Kim Lawson",
+   "contacts": [
+    {
+     "name": "Kim Lawson",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "kiml@lawsonelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "klawson@lawsonelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 931-728-9511",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "prestonlinkelectric.com": {
+   "name": "Preston-Link Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Jay Linkenhelt (Founder) not returned; got President Debbie Gera",
+   "contacts": [
+    {
+     "name": "Debbie Gera",
+     "title": "President",
+     "emails": [
+      {
+       "email": "debbie@prestonlinkelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "dlinkenhel@aol.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 352-514-9283",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 352-442-7646",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 352-373-3516",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 352-373-3516",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "renfrowindustrial.com": {
+   "name": "Renfrow Brothers",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Thomas Renfrow",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "thomas.renfrow@renfrowindustrial.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "thomas.renfrow@renfrowbros.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 843-754-6484",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 270-259-2645",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 800-260-8412",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Scott Hudson",
+     "title": "General Manager",
+     "emails": [
+      {
+       "email": "scotthudson464@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "scott.hudson@renfrowindustrial.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 803-414-1102",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 803-429-4466",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 800-260-8412",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "s1inc.co": {
+   "name": "Service One",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 12 contacts (named target Joy Vaulton/President)",
+   "contacts": []
+  },
+  "shelbyelectric.net": {
+   "name": "Shelby Electric",
+   "bucket": "Traffic & street lighting",
+   "campaign": "Traffic Signals & Lighting Companies",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Cole Bryan (CEO) not returned",
+   "contacts": [
+    {
+     "name": "Jason Baker",
+     "title": "Vice President, Roadway Division",
+     "emails": [
+      {
+       "email": "jbaker@shelbyelectric.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 901-438-8781",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 901-947-7300",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "tibbetts-electric.com": {
+   "name": "Tibbetts Electrical Services",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Rich Ray matched as Richard Ray/President",
+   "contacts": [
+    {
+     "name": "Richard Ray",
+     "title": "President",
+     "emails": [
+      {
+       "email": "r.ray@tibbetts-electric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "tristateec.com": {
+   "name": "Tri-State Electrical Contractors",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-A",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target George Nelson (Owner) not returned",
+   "contacts": [
+    {
+     "name": "Joe Higdon",
+     "title": "Vice President Technologies Division",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 423-838-0158",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 423-800-2134",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "andrewelectric.com": {
+   "name": "Andrew Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 12 contacts (named target Joseph Andrew/CEO)",
+   "contacts": []
+  },
+  "bucyelectric.com": {
+   "name": "Bucy Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage (named target Jeff Large)",
+   "contacts": []
+  },
+  "crelectricservices.com": {
+   "name": "CR Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts (named target Chad Redmon/Owner-Founder)",
+   "contacts": []
+  },
+  "discipleelectric.com": {
+   "name": "Disciple Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts (named target Jonathan Guin/Founder)",
+   "contacts": []
+  },
+  "dixieelectric.net": {
+   "name": "Dixie Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": "named target K. Lake (President) not returned; Randy Lake VP Construction may be related",
+   "contacts": [
+    {
+     "name": "Russ Miller",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "rlmiller729@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 314-681-6008",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 314-560-0782",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 203-334-2716",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 770-663-8440",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Randy Lake",
+     "title": "Vice President Of Construction",
+     "emails": [
+      {
+       "email": "randylake@dixieelectric.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 678-409-5288",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 678-986-4300",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 470-253-7248",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 770-663-8440",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "guardianelectric.net": {
+   "name": "Guardian Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage (named target Steve Sears)",
+   "contacts": []
+  },
+  "hwelectrical.com": {
+   "name": "H&W Electrical",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Thomas Brew (President/COO) not returned",
+   "contacts": [
+    {
+     "name": "Charles Richmond",
+     "title": "Vice President Preconstruction and Business Development",
+     "emails": [
+      {
+       "email": "charlie@hwelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 864-303-1444",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 864-843-0932",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 864-277-9088",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "knoxcet.com": {
+   "name": "KnoxCET Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Ferris Jordan (Owner) not returned; got GM",
+   "contacts": [
+    {
+     "name": "Eman Alhyari",
+     "title": "General Manager at Knox CET LLC",
+     "emails": [
+      {
+       "email": "eman@knoxcet.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "emanalhyari@knoxcet.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 865-898-8040",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 865-748-4848",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "modcable.com": {
+   "name": "Modern Electrical Contracting",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": "named target Steven Leathers matched (CEO & Co-Owner per client; provider title Managing Partner)",
+   "contacts": [
+    {
+     "name": "Rachel Jones",
+     "title": "Managing Partner",
+     "emails": [
+      {
+       "email": "rjones@modcable.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jrachel1977@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 865-789-8722",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-714-4868",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 865-908-8096",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 615-256-3200",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 615-256-3200",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Steven Leathers",
+     "title": "Senior Account Executive and Managing Partner",
+     "emails": [
+      {
+       "email": "sleathers@modcable.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "sleathers23@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 931-703-1610",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 931-993-8564",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-256-3200",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 615-256-3200",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "mossandmoss.com": {
+   "name": "Moss Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "WARNING possible wrong company: provider returned Moss and Moss LLP law firm NY; named target Jeff Moss not returned",
+   "contacts": [
+    {
+     "name": "Dena Moss",
+     "title": "Founder and Partner at Moss and Moss LLP",
+     "emails": [
+      {
+       "email": "dsmoss@mossandmoss.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "dmoss@mossandmoss.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 203-858-3658",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 203-664-1477",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 212-644-1000",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "optivalighting.com": {
+   "name": "Optiva Lighting & Electrical Services",
+   "bucket": "Traffic & street lighting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts (named target Derick/Owner)",
+   "contacts": []
+  },
+  "powerdoctors.net": {
+   "name": "Power Doctors",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts (named target Cheryl Campbell/Owner)",
+   "contacts": []
+  },
+  "prolectric.us": {
+   "name": "Prolectric Electrical Contractors Inc",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts (named target Eric Shelton/President)",
+   "contacts": []
+  },
+  "swutilitysolutions.com": {
+   "name": "Southwest Utility Solutions",
+   "bucket": "Substation & T&D",
+   "campaign": "Substation & T&D",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Andrew Leach (President) not returned",
+   "contacts": [
+    {
+     "name": "Caroline Ferguson",
+     "title": "Senior Vice President of Revenue Operations",
+     "emails": [
+      {
+       "email": "cferguson@swutilitysolutions.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 832-260-5181",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 239-560-7009",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 239-471-7291",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 281-580-3444",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "traviselectricalservice.com": {
+   "name": "Travis Electrical Service",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Chris Travis (President) not returned",
+   "contacts": [
+    {
+     "name": "Reagan Thomas",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "reagan@traviselectricalservice.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "reaganethomas@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 931-221-9167",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-426-2769",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 931-542-2878",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 931-542-2878",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "utilityplantsolutions.com": {
+   "name": "Utility Plant Solutions",
+   "bucket": "Substation & T&D",
+   "campaign": "Substation & T&D",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 8 contacts (named target John Fidgeon/Founder & Owner)",
+   "contacts": []
+  },
+  "vankirkelectric.com": {
+   "name": "Vankirk Electric",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named target Loren Vankirk (CEO) not returned; got GM",
+   "contacts": [
+    {
+     "name": "Ephriam Goss",
+     "title": "General Manager Operations (Electrician)",
+     "emails": [
+      {
+       "email": "egoss@vankirkelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 469-456-8852",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 770-864-6845",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 678-425-9494",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "westsideelectricservice.com": {
+   "name": "West Side Electric Service",
+   "bucket": "Commercial & industrial contracting",
+   "campaign": "Commercial & Industrial Contractors",
+   "priority": "ben-B",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts (named target Jerry Bone/Owner)",
+   "contacts": []
+  },
+  "detroitpowersystems.com": {
+   "name": "Detroit Power Systems, LLC",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "mtmelectric.com": {
+   "name": "MTM Electrical Corp.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "owner found but no verified emails and no phones",
+   "contacts": [
+    {
+     "name": "Toby Martin",
+     "title": "Company Owner",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "mardantelectrical.com": {
+   "name": "Mardant Electrical Construction Company Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Roy Boone",
+     "title": "Vice President Operations",
+     "emails": [
+      {
+       "email": "royboone@mardantelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "rboone@mardantelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 904-401-8528",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 904-813-5731",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 904-737-7896",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 904-363-0200",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "phase2electric.com": {
+   "name": "Phase 2 Electric, INC.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "prenergy.com": {
+   "name": "Prenergy Services, LLC",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": "WARNING Venezuela-based contacts, likely wrong company match; no verified emails",
+   "contacts": [
+    {
+     "name": "Elbano Provenzali",
+     "title": "Gerente de Gestion de Proyectos",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "Carlos Rodriguez",
+     "title": "Project Manager",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+58 414-8237388",
+       "type": "mobile"
+      },
+      {
+       "number": "+58 414-0349848",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "clingerelectric.com": {
+   "name": "William H. Clinger Corporation",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "48electric.com": {
+   "name": "48 Electric LLC",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Coy Krisher",
+     "title": "Company Owner",
+     "emails": [
+      {
+       "email": "coy@48electric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "coykrisher@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 480-677-5412",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-677-5680",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-677-5889",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-782-1090",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "amelectricinc.com": {
+   "name": "AM Electric Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Armand Messina",
+     "title": "President",
+     "emails": [
+      {
+       "email": "damnexpensive@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 305-393-0971",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 305-292-1880",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 305-684-1081",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 305-743-0399",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 732-205-1507",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "advance-electrical.com": {
+   "name": "Advance Electrical Corporation",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Bob Groleau",
+     "title": "Senior Project Manager and Co-owner",
+     "emails": [
+      {
+       "email": "rmg@advance-electrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 401-374-3277",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 401-641-0008",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 401-330-6334",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 401-597-5689",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 401-333-9102",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Tony Hardy",
+     "title": "Owner",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "allstarie.com": {
+   "name": "All Star I & E, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Kenneth Stolte",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "kenstolte@allstarie.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 281-635-4621",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 830-774-7096",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 877-478-4605",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "David Carr",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "musclekidd07@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 281-797-2792",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 281-782-8464",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 877-478-4605",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "areawideelectric.com": {
+   "name": "Area Wide Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "current-electrical.com": {
+   "name": "Current Electrical Construction Company",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Kieran O'Brien",
+     "title": "President",
+     "emails": [
+      {
+       "email": "kieran@current-electrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 503-816-8406",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 347-901-1391",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 503-245-5997",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 503-245-2919",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "electricsupplyfsd.com": {
+   "name": "Electric Supply Co.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 6 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "faganelectricalservice.com": {
+   "name": "Fagan Electrical Services",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "frankartelectric.com": {
+   "name": "Frankart Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Tim Frankart",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "tim@frankartelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "pegfrankart@aol.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 419-208-2002",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 419-435-1935",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 419-937-4135",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 419-619-2840",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 419-435-4220",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 419-435-4220",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "freelandelectricllc.com": {
+   "name": "Freeland Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Chad Heaps",
+     "title": "President and Owner",
+     "emails": [
+      {
+       "email": "cheaps@freelandelectricllc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 443-324-1811",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 410-357-1900",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "John Simpson",
+     "title": "Executive Vice President",
+     "emails": [
+      {
+       "email": "jsimpson@freelandelectricllc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 717-495-3782",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "lairdelectrical.net": {
+   "name": "Laird Electrical Contracting, LLC",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "owner found, office line only, no verified emails",
+   "contacts": [
+    {
+     "name": "Avery Laird",
+     "title": "Company Owner",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 870-317-5794",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "multielectrical.com": {
+   "name": "Multi Electrical Services, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Bob McVay",
+     "title": "President GM",
+     "emails": [
+      {
+       "email": "mcvayb@multielectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "slsmcvay@multielectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 704-791-5213",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 704-576-0729",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 704-932-4651",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 704-932-4650",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "premierpowerpro.com": {
+   "name": "Premier Power Professionals, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "rscelectrical.com": {
+   "name": "RSC Electrical, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Mike Merantza",
+     "title": "Electrical Service Director",
+     "emails": [
+      {
+       "email": "mike.merantza@rscelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 248-331-7734",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 586-251-1300",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "starkelectric.com": {
+   "name": "Stark Electric INC",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "stricklandelectric-ok.com": {
+   "name": "Strickland Electric Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "tei-nm.com": {
+   "name": "Taft Electric, Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 5 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "chatham-electric.com": {
+   "name": "Chatham Electric Service LLC",
+   "bucket": "S9",
+   "campaign": "EV Charging",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "northstarpowerinc.com": {
+   "name": "North Star Power Inc.",
+   "bucket": "T2",
+   "campaign": "Electrical Apparatus Servicing",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner office manager returned",
+   "contacts": [
+    {
+     "name": "Ronna M.",
+     "title": "Business Office Manager",
+     "emails": [
+      {
+       "email": "ronna@northstarpowerinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "ronnaboettcher@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "a1lightning.com": {
+   "name": "A1 Lightning",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "bacalightningprotection.com": {
+   "name": "Baca Lightning Protection",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "hart-assoc.com": {
+   "name": "Hart & Associates Inc.",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "ohiostatelightning.com": {
+   "name": "OHIO STATE LIGHTNING PROTECTION",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "krispettlonlightningprotection.com": {
+   "name": "Pettlon Lightning Protection",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "sclightning.com": {
+   "name": "South Carolina Lighting Protection",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "teateslightning.com": {
+   "name": "Teates Lightning",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "tlpfl.com": {
+   "name": "Triangle Lightning Protection, INC.",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "westernreservelightningrod.com": {
+   "name": "Western Reserve Lightning Rod Company",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "missioncriticalelectric.com": {
+   "name": "Mission Critical Electric",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Alberto Flores",
+     "title": "Sr. Principal",
+     "emails": [
+      {
+       "email": "aflores@missioncriticalelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 602-388-9370",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 602-327-9856",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 602-819-4021",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "eachengineering.com": {
+   "name": "EACH Engineering",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "leppert-nutmeg.com": {
+   "name": "Leppert-Nutmeg, Inc.",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "servomd.com": {
+   "name": "Servo Motors and Drives, Inc",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "owner found, no verified emails",
+   "contacts": [
+    {
+     "name": "Joseph Keane",
+     "title": "Owner",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 414-617-9037",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 414-791-1223",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 414-281-9028",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 414-281-7700",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 414-281-7700",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "aawva.com": {
+   "name": "Alexandria Armature Works, INC.",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "completeelectricsrvc.com": {
+   "name": "Complete Electric Service",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "delawarelectricmotor.com": {
+   "name": "Delaware Electric",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "demotors.com": {
+   "name": "Dumbaugh Electric",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "e-mllc.com": {
+   "name": "E-Mechanical",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "ezelectricmotor.com": {
+   "name": "E-Z Electric Motor Service Company Corporation",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "hamiltonelec.com": {
+   "name": "Hamilton Electric Company",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "lenzelectricmotor.com": {
+   "name": "Lenz Electric Motor Repair",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "midkansaswinding.com": {
+   "name": "Mid Kansas Winding",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "valleyarmature.com": {
+   "name": "Valley Armature & Electric, INC.",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "wardenelectric.com": {
+   "name": "Warden Electric Co",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "gstpowerservice.com": {
+   "name": "GST Power Service Group, Inc.",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner business manager returned",
+   "contacts": [
+    {
+     "name": "Lori Haynes",
+     "title": "Business Manager",
+     "emails": [
+      {
+       "email": "lhaynes@gstpowerservice.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 317-361-0517",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 515-777-5251",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 515-442-9431",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 970-204-1279",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "libertypowerservice.com": {
+   "name": "Liberty Power Service INC",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "pgdservices.com": {
+   "name": "Power Generation & Distribution Services",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "WARNING India-based contact, likely wrong company match",
+   "contacts": [
+    {
+     "name": "Ca Garg",
+     "title": "Deputy General Manager",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "precisiontestinggroup.com": {
+   "name": "Precision Testing Group",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "scotttesting.com": {
+   "name": "Scott Testing Inc",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "capitolareatesting.com": {
+   "name": "Capitol Area Testing Inc.",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified emails",
+   "contacts": [
+    {
+     "name": "Gregg Hunter",
+     "title": "Vice President",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 301-980-7851",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 443-370-8584",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 301-254-9436",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 301-574-3746",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 443-370-8583",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "gdvoltage.net": {
+   "name": "Global Diversified Voltage",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "president found, no phones",
+   "contacts": [
+    {
+     "name": "David Collins",
+     "title": "President",
+     "emails": [
+      {
+       "email": "dcollins@gdvoltage.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "syncore-group.com": {
+   "name": "Syncore Group",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Nelson Lizazo",
+     "title": "President - EOR",
+     "emails": [
+      {
+       "email": "nlizazo@syncore-group.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "nlizazo@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 954-655-5308",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 954-990-9114",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 954-990-9113",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 954-437-9431",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "volttekusa.com": {
+   "name": "Volttek USA",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "centralmasssignal.com": {
+   "name": "Central Mass Signal",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "cmmsystemsar.com": {
+   "name": "Construction Management & Maintenance",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "independencetrafficservices.com": {
+   "name": "Independence Traffic Services",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "loopelectric.com": {
+   "name": "Loop Electric",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "southwestsignal.com": {
+   "name": "Southwest Signal Service",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "tcelectric.us": {
+   "name": "TC Electric",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "grattanline.com": {
+   "name": "Grattan Line Construction Co",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Scott Rubeski",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "srubeski@grattanline.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 978-670-7482",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 978-663-7723",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "grind-well.com": {
+   "name": "Grind-Well LLC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified emails, no phones",
+   "contacts": [
+    {
+     "name": "Ricardo Sosa",
+     "title": "CEO and President",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "mcnabbpowerline.com": {
+   "name": "McNabb Enterprises Powerline Construction LLC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Devlyn McNabb",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "devlyn.mcnabb@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 575-649-0825",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 505-527-8470",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 806-361-5132",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 575-527-8470",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "pgpower.net": {
+   "name": "P&G Power Co.",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Shayla Karlowsky",
+     "title": "Vice President Operations",
+     "emails": [
+      {
+       "email": "shayla@pgpower.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "shaylakarlowsky@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 219-863-5851",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 219-270-3376",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 305-563-9313",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "prolinepwr.com": {
+   "name": "Proline Power, LLC.",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jack Jurovaty",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "jack@prolinepwr.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jack_jurovaty@ibew.org",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 860-933-4342",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "thermavuesolutions.com": {
+   "name": "Thermavue Solutions",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "agostinoutilities.com": {
+   "name": "Agostino Utilities LLC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Albert Augustine Jr",
+     "title": "President and CEO",
+     "emails": [
+      {
+       "email": "aaugustine@agostinoutilities.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "albertaugustine@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 215-272-1873",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 267-718-7045",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "dandtpower.com": {
+   "name": "D & T Power",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Dustin Streich",
+     "title": "President",
+     "emails": [
+      {
+       "email": "dstreich@dandtpower.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "dustinstreich@live.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 989-600-7437",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 616-884-0605",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "deltaline.org": {
+   "name": "Delta Line Construction Co",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "ehvconstruction.com": {
+   "name": "EHV Construction LLC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner foreman, no verified data",
+   "contacts": [
+    {
+     "name": "Ty Gray",
+     "title": "General Foreman",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "electralines.com": {
+   "name": "Electra Lines",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Glenda Thomas",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "gthomas@electralines.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "gsthomas0419@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 205-249-2952",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 304-415-3932",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 334-750-1581",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 832-360-4210",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 205-428-6602",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "elmocarterconstruction.com": {
+   "name": "Elmo Carter Construction CO INC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "fuimuscompanies.com": {
+   "name": "Fuimus Companies, LLC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner construction manager",
+   "contacts": [
+    {
+     "name": "Jonathan Strickland",
+     "title": "Construction Manager",
+     "emails": [
+      {
+       "email": "jstrickland@fuimuscompanies.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 520-363-9529",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "hrsutilities.com": {
+   "name": "H. Richardson & Sons",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "ipatlantic.com": {
+   "name": "Integral Power Atlantic",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": "non-owner contacts only",
+   "contacts": [
+    {
+     "name": "Jeffry Cusatis",
+     "title": "General Foreman",
+     "emails": [
+      {
+       "email": "jeffry@ipatlantic.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Jimmie Olds",
+     "title": "Construction Manager",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "rpinterconnect.com": {
+   "name": "Interconnect Utility Services",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "polelinecontractorsinc.com": {
+   "name": "Pole Line Contractors",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "pegfl.com": {
+   "name": "Power Engineering Group Inc",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner VP ops, office line only",
+   "contacts": [
+    {
+     "name": "Adeel Mirza",
+     "title": "Vice President of Operations",
+     "emails": [
+      {
+       "email": "adeel.mirza@pegfl.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 407-277-3150",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "scottpoleline.com": {
+   "name": "Scott Pole Line, LLC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "owner-equivalent found, office line only",
+   "contacts": [
+    {
+     "name": "Jeff Scott",
+     "title": "Managing Member",
+     "emails": [
+      {
+       "email": "jscott@scottpoleline.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 254-965-0902",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "statelineusa.com": {
+   "name": "Stateline USA",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner foreman, no verified data",
+   "contacts": [
+    {
+     "name": "Greg Smith",
+     "title": "Foreman",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "sterlingutilities.com": {
+   "name": "Sterling Utilities",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "tbpowercreation.com": {
+   "name": "T.B Power Creation",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "taplineutilityservices.com": {
+   "name": "Tapline Utility Services LLC.",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 1 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "carroll-electric.net": {
+   "name": "Carroll Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "lucaelectric.com": {
+   "name": "Jim Luca Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner VP engineering",
+   "contacts": [
+    {
+     "name": "Drew Howard",
+     "title": "Vice President of Engineering",
+     "emails": [
+      {
+       "email": "drew@lucaelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 678-464-5840",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 404-456-4337",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "northstarelectrical.com": {
+   "name": "Northstar Electrical Services",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Bill Tuturice",
+     "title": "President and CEO",
+     "emails": [
+      {
+       "email": "bill@northstarelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "wtuturice@hotmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 610-633-5253",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 484-231-1115",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 610-308-5894",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 610-277-2711",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 610-539-2200",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 610-539-2200",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Robert Laplaca",
+     "title": "president",
+     "emails": [
+      {
+       "email": "jakelaplaca7281@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 516-369-8218",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 631-355-5901",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 610-539-2200",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "okcelectric.com": {
+   "name": "OKC Electrical Contractor",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "skylineelectrical.com": {
+   "name": "Skyline Electrical Contracting",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 2 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "ajgoulderelectric.com": {
+   "name": "A J Goulder Electric, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner estimator, office line only",
+   "contacts": [
+    {
+     "name": "Chris Carlson",
+     "title": "Electrical Estimator and Service Manager",
+     "emails": [
+      {
+       "email": "ccarlson@ajgoulderelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 440-942-4026",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "abecelectric.com": {
+   "name": "ABEC Electric Company, LLC",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Steve Bankston",
+     "title": "President",
+     "emails": [
+      {
+       "email": "steve@abecelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 615-456-6074",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 513-404-9877",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-255-1836",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Mike Pogreba",
+     "title": "Founder",
+     "emails": [
+      {
+       "email": "pogreba13@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "mpogreba@abecelectric.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 615-456-1836",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 262-420-6068",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-255-1836",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "acmeelectriccompany.com": {
+   "name": "ACME Electric Company",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 5 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "allproelectrical.com": {
+   "name": "ALL PRO Electrical Technology, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 8 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "acornelectrical.com": {
+   "name": "Acorn Electrical Specialists, INC.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 14 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "alltechllc.com": {
+   "name": "All Tech Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Michael O'Hara",
+     "title": "President",
+     "emails": [
+      {
+       "email": "mohara@alltechllc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 440-260-0364",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 859-885-9613",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Kelly Smith",
+     "title": "Managing Member, CEO",
+     "emails": [
+      {
+       "email": "ksmith@alltechllc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "kelsmith18@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 614-563-6274",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 317-430-4598",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 440-899-8114",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 214-842-6104",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 859-885-9613",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "alliedcontrol.com": {
+   "name": "Allied Control Services",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Matthew Mamzic",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "mmamzic@alliedcontrol.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "mattmamzic@alliedcontrol.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 215-520-0042",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 215-990-5514",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 215-699-2855",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 215-699-2855",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "aecinc.us": {
+   "name": "American Electrical Contractors, INC",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "austgen.com": {
+   "name": "Austgen Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 7 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "beelectricinc.com": {
+   "name": "B & E Electric INC.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Patrick Oens",
+     "title": "President",
+     "emails": [
+      {
+       "email": "patrick@beelectricinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "pwoens1@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 509-570-8537",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "bandhelectric.com": {
+   "name": "B & H Electric INC.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner contractor, office line only",
+   "contacts": [
+    {
+     "name": "Matthew Haney",
+     "title": "Electrical Contractor",
+     "emails": [
+      {
+       "email": "matthew@bandhelectric.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 951-404-9101",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "blsmithelectric.com": {
+   "name": "B.L. Smith Electric, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Brent Smith",
+     "title": "Vice President",
+     "emails": [
+      {
+       "email": "brent@blsmithelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 863-604-7672",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 863-602-9355",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 863-439-7401",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "bayouelectrical.net": {
+   "name": "Bayou Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "bigbearelectric.biz": {
+   "name": "Big Bear Electric Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 8 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "cse-ne.com": {
+   "name": "CSE Services, L.L.C.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jon Mislivec",
+     "title": "President",
+     "emails": [
+      {
+       "email": "jon.mislivec@cse-ne.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 402-212-1197",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 402-212-7024",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 402-330-2000",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 402-733-2100",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 402-733-2100",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "cates.com": {
+   "name": "Cates Control Systems",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jerry Smith",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "jerrysmith@i2r.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 214-680-5436",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 972-665-3217",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 972-943-1101",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 972-665-3200",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 972-665-3200",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Chris Smith",
+     "title": "President",
+     "emails": [
+      {
+       "email": "chrissmith@i2r.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "chrissmith@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 972-467-0027",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 972-679-9038",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 972-665-3242",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 972-665-3200",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 972-665-3200",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "challengeelectricltd.com": {
+   "name": "Challenge Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Andrew Rill",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "andrew@challengeelectricltd.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "arillohio@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 419-721-4436",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 419-422-0072",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 419-224-2290",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "conawayelectrical.com": {
+   "name": "Conaway Electrical Service Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 32 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "cpmelectric.com": {
+   "name": "Control Power Maintenance Electric, INC.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner administrator",
+   "contacts": [
+    {
+     "name": "Marjorie Sutherland",
+     "title": "Administrator",
+     "emails": [
+      {
+       "email": "msutherland@cpmelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 502-680-7288",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 859-255-7462",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "eecsi.com": {
+   "name": "Control Systems Integration LLC",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Steve Bagwell",
+     "title": "President",
+     "emails": [
+      {
+       "email": "sbagwell@eecsi.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 469-952-7304",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-655-6145",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "correctinc.com": {
+   "name": "Correct Electric Inc Houston",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Sean Gilstrap",
+     "title": "President",
+     "emails": [
+      {
+       "email": "sean@correctinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 281-924-3145",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 281-413-6509",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 281-827-2568",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 713-921-8008",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 713-921-8008",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "dselectric.us": {
+   "name": "D&S Electric Group Inc",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "dnesco.com": {
+   "name": "DNESCO Electric, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Gregg Schwister",
+     "title": "President",
+     "emails": [
+      {
+       "email": "gschwister@dnesco.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "4schwister4@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 414-801-8493",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 262-599-0402",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 414-649-9494",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 414-425-3700",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 414-425-3700",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "dancargroup.com": {
+   "name": "DanCar Industrial Group, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Chris Hall",
+     "title": "Managing Partner",
+     "emails": [
+      {
+       "email": "chrish@dancargroup.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "chris@dancargroup.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 214-455-5857",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 210-789-6252",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 972-686-5130",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 972-633-1200",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "deanbrothersinc.com": {
+   "name": "Dean Brothers Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 5 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "diamondindustrialgroup.com": {
+   "name": "Diamond Industrial Group, LLC",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Greg Jackson",
+     "title": "President and CEO",
+     "emails": [
+      {
+       "email": "gregj@diamondindustrialgroup.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jackman711@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 214-649-0611",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 214-789-0458",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "dixonelectrical.com": {
+   "name": "Dixon Electrical Systems & Contracting Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 8 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "doyleelectricinc.com": {
+   "name": "Doyle Electric, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Beau Leitner",
+     "title": "President",
+     "emails": [
+      {
+       "email": "bleitner@doyleelectricinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "beau@doyleelectricinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 973-610-9498",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 225-620-8330",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 225-769-7844",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Leo Doyle",
+     "title": "President",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 509-520-6897",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 509-525-7288",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "electricalsystemsinc.net": {
+   "name": "Electrical Systems Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Darin Myers",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "darin@electricalsystemsinc.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "d.myers@electricalsystemsinc.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 231-690-2983",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 817-313-1067",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 586-254-2463",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 586-254-2463",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "electricaltechniques.com": {
+   "name": "Electrical Techniques, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 4 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "electrical-work.com": {
+   "name": "Electrical Work, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jon Reuter",
+     "title": "President",
+     "emails": [
+      {
+       "email": "jon@electrical-work.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 951-852-9972",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 951-698-7758",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 951-698-7758",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "edeusa.com": {
+   "name": "Electro Design Engineering, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "owner found, no verified emails",
+   "contacts": [
+    {
+     "name": "Donald Arendt",
+     "title": "Owner",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 941-650-6789",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 813-621-0121",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "facilico.com": {
+   "name": "Facilico, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Paul Santangelo",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "psantangelo@facilico.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "psantangelo8459@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 617-201-4373",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 617-851-7185",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 617-480-6948",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 781-932-2500",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Bryan Regan",
+     "title": "President",
+     "emails": [
+      {
+       "email": "bregan@facilico.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 617-201-4372",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 781-305-5591",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 866-929-2100",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "fyi.solutions": {
+   "name": "Feed Yard Industrial Solutions",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 8 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "flemingtoninstrument.com": {
+   "name": "Flemington Instrument Co",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner service manager",
+   "contacts": [
+    {
+     "name": "Ron Falkenstein",
+     "title": "Service Manager",
+     "emails": [
+      {
+       "email": "ron.falkenstein@flemingtoninstrument.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "ron.falkenstein@comcast.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 908-310-3892",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 267-240-7166",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 908-782-4229",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 908-782-4229",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "fullfordelectric.com": {
+   "name": "Fullford Electric Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Lael Fullford",
+     "title": "President",
+     "emails": [
+      {
+       "email": "lael@fullfordelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 907-451-8105",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 907-456-7356",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 907-456-7356",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Andrew Biden",
+     "title": "Northern Sales Manager and Vice President",
+     "emails": [
+      {
+       "email": "abiden@fullfordelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 907-347-7768",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 907-456-7356",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 907-456-7356",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "gilmoreelectric.com": {
+   "name": "Gilmore Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified data",
+   "contacts": [
+    {
+     "name": "Stephen Rogers",
+     "title": "Vice President",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "graphicelectric.org": {
+   "name": "Graphic Electric Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Steve Navarro",
+     "title": "President",
+     "emails": [
+      {
+       "email": "steve@graphicelectric.org",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "stevenavarro12@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 213-257-5443",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 323-788-6878",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 818-790-1591",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 323-728-4277",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 323-728-4277",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Randall Turco",
+     "title": "President",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 323-728-4277",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "greenwayelectric.com": {
+   "name": "Greenway Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "gulfelec.com": {
+   "name": "Gulf Electric Co Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner foreman, office line only",
+   "contacts": [
+    {
+     "name": "Rick Sommer",
+     "title": "General Foreman",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 251-666-0654",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "icecontractors.net": {
+   "name": "I.C.E. Contractors, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Austin Smith",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "asmith@icecontractors.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 256-227-0893",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 256-351-6629",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 256-353-7828",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "impaxautomation.com": {
+   "name": "Impax Automation, LLC",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Tim McCorkle",
+     "title": "President",
+     "emails": [
+      {
+       "email": "tim@impaxautomation.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "tmccorkle@impaxautomation.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 661-391-8210",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "iecelko.com": {
+   "name": "Intermountain Electrical Contractors",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no coverage",
+   "contacts": []
+  },
+  "kmkellyinc.com": {
+   "name": "KM Kelly, Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 6 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "kansaselectric.com": {
+   "name": "Kansas Electric, Inc",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 2,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Justin McClarty",
+     "title": "President",
+     "emails": [
+      {
+       "email": "justinm@kansaselectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "justin.mcclarty@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 620-200-0239",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 316-799-5328",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 316-977-6532",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 316-283-4750",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Steve Vermillion",
+     "title": "President",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 316-650-2045",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 316-283-4750",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "kleinae.com": {
+   "name": "Klein Automation & Electric Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Cliff Emsoff",
+     "title": "Vice President Operations",
+     "emails": [
+      {
+       "email": "cliff@kleinae.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 806-206-7046",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 432-557-4798",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 575-393-3167",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "knightelectrical.com": {
+   "name": "Knight Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Ryan Lewis",
+     "title": "President",
+     "emails": [
+      {
+       "email": "rlewis34@live.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 515-371-6605",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 515-244-0445",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 212-989-2333",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "leedelectric.com": {
+   "name": "Leed Electric, INC.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "S.a. Jamali-Dinan",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "sdinan@leedelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jamali.ali@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 213-216-8088",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 310-266-0208",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 650-996-3311",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 562-270-9500",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 562-270-9500",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "lighthouseelec.com": {
+   "name": "Lighthouse Electrical",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "Liberia location, no verified emails, office line only",
+   "contacts": [
+    {
+     "name": "Raji Eid",
+     "title": "CEO and Founder",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 415-710-6490",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "lpmelectric.com": {
+   "name": "Lpm Electric",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 3 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "msiconst.com": {
+   "name": "MSI Construction Co",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title_filter_miss: 16 contacts, none matched owner titles",
+   "contacts": []
+  },
+  "meritelectrical.com": {
+   "name": "Merit Electrical, INC.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Tracy Hollier",
+     "title": "President",
+     "emails": [
+      {
+       "email": "thollier@meritelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "thollier@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 225-276-8487",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 225-936-8017",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 225-405-0986",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 225-673-8850",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 225-673-8850",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "muthelectric.com": {
+   "name": "Muth Electric, Inc.",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "David Muth",
+     "title": "President and CEO",
+     "emails": [
+      {
+       "email": "dmuth@muthelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "davidmuth@muthelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 605-770-2061",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 605-996-4826",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 605-338-6586",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "nelsonselectric.com": {
+   "name": "Nelson & Sons Electric",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Keith Nelson",
+     "title": "President, Owner",
+     "emails": [
+      {
+       "email": "keithn@nelsonselectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 209-620-2084",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 209-632-3431",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 209-850-9285",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
