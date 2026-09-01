@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Build artifact: regenerated from deliverables/ by scripts/export_package.py
+Hunter_Power_data_package.zip
