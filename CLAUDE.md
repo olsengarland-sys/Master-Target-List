@@ -102,11 +102,11 @@ these by assumption; they were measured.
    active subscription"; it now returns a fresh contract period). Contact
    phone data did NOT change - 24 contacts re-sampled across 13 companies
    returned exactly one number, the same Mid-Ohio office line seen before.
-   Caveat worth settling with Grata directly: each contact carries `emails`
-   and `phones` array fields that are null even when `work_email` is
-   populated, alongside `is_locked: false` / `unlocked_on: null`. If the
-   Grata UI shows a phone for a contact whose API record returns null, this
-   is an entitlement or API gap to raise with them, not absent data.
+   SETTLED 2026-09-01: the client checked two of these contacts in the Grata
+   web UI and neither shows a phone there either. So the null `phones` array
+   is absent data, not an API entitlement gap - there is nothing to raise
+   with Grata and no configuration that would surface numbers. Do not spend
+   time re-testing this.
    Note also that a Grata `verified_email.state` of "Unknown" does NOT mean
    there is no email — a populated `work_email` can sit under it; treat the
    state as a confidence label, not a presence flag.
