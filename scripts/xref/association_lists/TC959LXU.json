@@ -1,0 +1,346 @@
+{
+ "header": {
+  "list_id": "TC959LXU",
+  "name": "BBB Electrical Contractors Salt Lake City UT 2024",
+  "total_reported": 57,
+  "rows_fetched": 57,
+  "truncated": false,
+  "note": "Complete: single page returned all rows. Rows after the top 5 are id/name/domain stubs."
+ },
+ "companies": [
+  {
+   "id": "MQNH6DPQ",
+   "name": "American Residential Services, LLC",
+   "domain": "ars.com",
+   "ownership": "Private Equity Platform",
+   "headquarters_pretty": "Memphis, TN",
+   "year_founded": 1975,
+   "revenue": 3198721000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 8165,
+    "linkedin": 1966
+   },
+   "description": "American Residential Services, LLC is a provider of heating, ventilation, air conditioning (HVAC) and plumbing services intended for both residential and light commercial clients. The company offers a wide range of services including plumbing, drain cleaning, sewer line, radiant barrier, insulation and electrical contracting services, enabling clients to receive the required services at an affordable rate. Its typical customers are homeowners that require maintenance, repair, or installation services for HVAC, plumbing, and electrical systems."
+  },
+  {
+   "id": "AARR9YLJ",
+   "name": "Sturgeon Electric Company, Inc.",
+   "domain": "sturgeonelectric.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Henderson, CO",
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 4213,
+    "linkedin": 1023
+   },
+   "description": "Sturgeon Electric Company, Inc. is a full-service electrical contractor specializing in power and electrical construction for utilities, energy developers, industrial facilities and commercial clients. They offer engineering, design-build, prefabrication, substation and transmission/distribution construction, testing and maintenance, and outage support, and position themselves as an integrated provider able to manage complex electrical infrastructure projects from design through commissioning."
+  },
+  {
+   "id": "YPAMGLV2",
+   "name": "Empire Solar Group",
+   "domain": "empiresolargroup.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Salt Lake City, UT",
+   "year_founded": 2017,
+   "revenue": 41940000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 147,
+    "linkedin": 77
+   },
+   "funding_stage": "No Funding",
+   "description": "Empire Solar Group provides residential and commercial solar panel and battery installation plus electrical contracting and EPC services, serving homeowners, businesses, and dealer partners. They emphasize energy independence, fast project turnaround, multi-year service warranties, assigned master electricians/project coordinators, financing support, and a social-impact partnership."
+  },
+  {
+   "id": "U32H6C54",
+   "name": "Black Diamond Experts",
+   "domain": "bdexperts.com",
+   "ownership": "Private Subsidiary",
+   "headquarters_pretty": "Salt Lake City, UT",
+   "year_founded": 2009,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 113,
+    "linkedin": 49
+   },
+   "description": "Black Diamond Experts provides residential plumbing, HVAC, and electrical repair, installation, and maintenance services for homeowners and renters, and they market themselves as a local multi-trade provider offering 24/7 emergency service, upfront pricing, certified technicians, warranty coverage, financing, and a VIP maintenance plan."
+  },
+  {
+   "id": "ZYJF6H6U",
+   "name": "Winward Electrical Services, Inc.",
+   "domain": "winwardelectric.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Utah, USA",
+   "year_founded": 2014,
+   "revenue": 21793000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 77,
+    "linkedin": 32
+   },
+   "funding_stage": "No Funding",
+   "description": "Winward Electrical Services is a full-service commercial and industrial electrical contractor offering electrical installation, design-build, maintenance, and UL 508A panel fabrication for commercial, institutional, healthcare, and manufacturing clients. They target business customers and claim differentiation through experienced master electricians, commitments to safety, timeliness, accountability and industry association membership."
+  },
+  {
+   "id": "TV56EP8V",
+   "name": "Surge Electric, LLC",
+   "domain": "surgeutah.com"
+  },
+  {
+   "id": "89JWSBKD",
+   "name": "Heglar Creek Electric",
+   "domain": "heglarcreekelectric.com"
+  },
+  {
+   "id": "WD4TX3N6",
+   "name": "I D Electric Inc",
+   "domain": "idelect.com"
+  },
+  {
+   "id": "GJ3EPA9V",
+   "name": "Expert Services",
+   "domain": "expertservicesutah.com"
+  },
+  {
+   "id": "3B2Q77XZ",
+   "name": "Triple T Heating & Cooling",
+   "domain": "tripletheating.com"
+  },
+  {
+   "id": "LULR965L",
+   "name": "Connect Heating and Air",
+   "domain": "utahheatingandcooling.com"
+  },
+  {
+   "id": "DKKZJMTZ",
+   "name": "WordPress",
+   "domain": "wordpress.com"
+  },
+  {
+   "id": "MQQU6Y9M",
+   "name": "Vyvue",
+   "domain": "vyvue.com"
+  },
+  {
+   "id": "33C9NJHD",
+   "name": "Positive Power LLC.",
+   "domain": "positivepwr.com"
+  },
+  {
+   "id": "J7RNXR4M",
+   "name": "Downs Electric Inc",
+   "domain": "downselectric.net"
+  },
+  {
+   "id": "R6KYMSVE",
+   "name": "Marathon Electric, Llc",
+   "domain": "marathonelectricllc.com"
+  },
+  {
+   "id": "YHUSEXMX",
+   "name": "NeuWave Electric Company",
+   "domain": "neuwaveelectric.com"
+  },
+  {
+   "id": "276AX3VG",
+   "name": "Temporary Power Services",
+   "domain": "temporarypowerservices.com"
+  },
+  {
+   "id": "2QEMT569",
+   "name": "Natay Construction",
+   "domain": "natayconstruction.com"
+  },
+  {
+   "id": "LJ9CXFT7",
+   "name": "American Electric Company Inc",
+   "domain": "americanelectric.cc"
+  },
+  {
+   "id": "DGX7AVX5",
+   "name": "Advanced Maintenance Inc",
+   "domain": "advancedmaintenanceinc.com"
+  },
+  {
+   "id": "6GLQABTG",
+   "name": "J P Electricals",
+   "domain": "jpelectric.com"
+  },
+  {
+   "id": "CEAZ83RU",
+   "name": "Distinct Lighting & Electrical",
+   "domain": "distinctlightandsound.com"
+  },
+  {
+   "id": "NLQJBM58",
+   "name": "KMECO",
+   "domain": "kmecoutah.com"
+  },
+  {
+   "id": "FXJRMTZ7",
+   "name": "Ohmega",
+   "domain": "ohmegaelectricutah.com"
+  },
+  {
+   "id": "CALAEMMS",
+   "name": "Paul'S Electric Service, Inc.",
+   "domain": "paulselectricservice.com"
+  },
+  {
+   "id": "A32HF2W6",
+   "name": "Sugarhouse Electric",
+   "domain": "sugarhouseelectric.com"
+  },
+  {
+   "id": "ARZUPRX9",
+   "name": "STS Electric",
+   "domain": "sts-electric.com"
+  },
+  {
+   "id": "R5A2MFWV",
+   "name": "A+ Electric",
+   "domain": "apluselectricmanti.com"
+  },
+  {
+   "id": "24GH8CUS",
+   "name": "Denali Energy",
+   "domain": "denalinrg.com"
+  },
+  {
+   "id": "JP7CJ9VZ",
+   "name": "Next Level Electric, LLC",
+   "domain": "nextlevel-electric.com"
+  },
+  {
+   "id": "NWF8XV8S",
+   "name": "Budget Plumbing & Rooter",
+   "domain": "callbudget.com"
+  },
+  {
+   "id": "KZFGPURP",
+   "name": "Frandsen Technical Services",
+   "domain": "frandsentec.com"
+  },
+  {
+   "id": "W4K8CFES",
+   "name": "Parleys Electric",
+   "domain": "parleyselectric.com"
+  },
+  {
+   "id": "47J4DD9M",
+   "name": "Brightline Electric",
+   "domain": "callbrightline.com"
+  },
+  {
+   "id": "UHP2UT97",
+   "name": "Momentum Electric",
+   "domain": "momentumelectricslc.com"
+  },
+  {
+   "id": "CVN39XZ3",
+   "name": "King & Clark Electric LLC",
+   "domain": "kingandclarkelectric.com"
+  },
+  {
+   "id": "UWQL3JDY",
+   "name": "Aloha Electric",
+   "domain": "alohaelectric.us"
+  },
+  {
+   "id": "KK9BRGER",
+   "name": "Tactical Electrical Services, LLC",
+   "domain": "tacticalelectric.com"
+  },
+  {
+   "id": "LEPZNKRQ",
+   "name": "Fairway Electrical",
+   "domain": "fairwayelectric.net"
+  },
+  {
+   "id": "PPS4K236",
+   "name": "Timberline Electric",
+   "domain": "timberlineelectricut.com"
+  },
+  {
+   "id": "RQ4GGY5B",
+   "name": "High Country Electric",
+   "domain": "highcountryelectric.com"
+  },
+  {
+   "id": "HAQ55HF4",
+   "name": "Sego Builders",
+   "domain": "segobuilders.com"
+  },
+  {
+   "id": "W757A2FP",
+   "name": "Three Peaks Electric",
+   "domain": "threepeakselectric.com"
+  },
+  {
+   "id": "N23D5JB5",
+   "name": "Hoffmann Energy",
+   "domain": "hoffmannenergy.com"
+  },
+  {
+   "id": "ECNVMVX9",
+   "name": "Homestead Electric",
+   "domain": "homesteadelectric.net"
+  },
+  {
+   "id": "FEPHTRBE",
+   "name": "Snow Top Electric",
+   "domain": "snowtopelectric.com"
+  },
+  {
+   "id": "THH2BJUX",
+   "name": "Alpine Electric Services",
+   "domain": "alpineelectricutah.com"
+  },
+  {
+   "id": "THU69LHE",
+   "name": "Rogue Electric",
+   "domain": "roguelectric.com"
+  },
+  {
+   "id": "4Z6HAK2Z",
+   "name": "Dream Maker Electric",
+   "domain": "dreammakerelectric.com"
+  },
+  {
+   "id": "7F3ZR6QH",
+   "name": "Macks Builds LLC",
+   "domain": "macksbuildsllc.com"
+  },
+  {
+   "id": "SHVLXB3U",
+   "name": "Robertson Electric",
+   "domain": "robertsonelectricllc.com"
+  },
+  {
+   "id": "5PMPT6WN",
+   "name": "Same Day Electric",
+   "domain": "samedayelectric.com"
+  },
+  {
+   "id": "4V9LN68F",
+   "name": "Suntrica Ltd.",
+   "domain": "suntrica.com"
+  },
+  {
+   "id": "XS36JXXY",
+   "name": "Industrial Power & Controls",
+   "domain": "ipc.energy"
+  },
+  {
+   "id": "KZHE9YKA",
+   "name": "Alpha Electric",
+   "domain": "alpha-electric.com"
+  },
+  {
+   "id": "XP6BKEV7",
+   "name": "K7H Electric LLC",
+   "domain": "k7helectric.com"
+  }
+ ]
+}
