@@ -1,8 +1,8 @@
 file,rows,what it is
-01_enriched_contacts.csv,2585,"Every enriched contact: owner name, title, mobile / direct dial / office, email"
+01_enriched_contacts.csv,2628,"Every enriched contact: owner name, title, mobile / direct dial / office, email"
 02_direct_lines.csv,396,Desk numbers that bypass the switchboard
 03_postal_addresses.csv,711,HQ street addresses
-04_qc_flags.csv,185,Everything needing a human check before outreach
+04_qc_flags.csv,317,Everything needing a human check before outreach
 05_conference_rosters.csv,4684,"Every banked attendee record, flagged where it is one of our targets"
 06_conference_events.csv,32,Events ranked by how many of our targets attend
 07_conference_calendar_forward.csv,21,Forward 18-month conference calendar
@@ -11,3 +11,4 @@ file,rows,what it is
 10_bankers.csv,14,Advisors who sell these businesses - the intermediaries to be known by
 11_buyers_pe_and_strategic.csv,26,"Who you are bidding against. 132 PE sponsors and 4466 strategics active in the trade. 132 PE sponsors and 4,466 strategics have bought in or around this trade. Consolidator pressure is real and current (Veritas/Saber, Greenbelt/Bowe & Gant, TJC/Sunbelt Solomon all closed platform deals in July-Aug 2026). For an owner-operator this cuts both ways: competition for targets now, a deep exit market later."
 12_all_targets_status.csv,1908,Every target with its enrichment status
+13_held_phone_verdicts.csv,8,"Held phones tested against the company switchboard. The HQ/mainline check could not be run at scale: Inven company records carry no phone field and web egress is blocked, so the only source left was the ~2% of Grata contacts that carry a phone. That resolved 8 of 245 held companies (~3%). Of those, 1 hold the company switchboard and need a cell; the rest differ from the published office line and are likely already direct or personal numbers. The remaining 237 are still UNKNOWN - not cleared."

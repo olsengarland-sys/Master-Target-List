@@ -144,6 +144,15 @@ for r in q:
 manifest.append(('12_all_targets_status.csv', write_csv('12_all_targets_status.csv', rows),
                  'Every target with its enrichment status'))
 
+# 13. Held-phone verdicts
+if os.path.exists('scripts/contacts/mainline_resolved.json'):
+    MR = json.load(open('scripts/contacts/mainline_resolved.json'))
+    rows = [{'domain': r['domain'], 'company': r['company'], 'phone_on_file': r['phone_on_file'],
+             'company_switchboard': ', '.join(r['grata_office']), 'verdict': r['verdict']}
+            for r in MR['results']]
+    manifest.append(('13_held_phone_verdicts.csv', write_csv('13_held_phone_verdicts.csv', rows),
+                     'Held phones tested against the company switchboard. ' + MR['note']))
+
 with open(f'{OUT}/00_MANIFEST.csv', 'w', newline='') as f:
     w = csv.writer(f)
     w.writerow(['file', 'rows', 'what it is'])

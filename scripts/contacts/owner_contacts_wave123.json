@@ -2,15 +2,15 @@
  "generated": "2026-09-01",
  "platform": "inven get_company_contacts (owner-title filtered)",
  "policy": "inven contact-credit floor 6000; grata carries the remainder; 1200-company cap",
- "attempted": 1880,
- "with_contacts": 1729,
+ "attempted": 1908,
+ "with_contacts": 1751,
  "credits_used": 575,
  "companies_with_mobile": 486,
  "contacts_with_mobile": 505,
  "mobile_phones": 918,
  "direct_dial_phones": 495,
  "office_only_companies": 92,
- "verified_emails": 2100,
+ "verified_emails": 2125,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -64416,6 +64416,782 @@
      "name": "Jeffrey Konschak",
      "title": "President",
      "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "nuuco.com": {
+   "name": "NuuCo Electric",
+   "bucket": "S8",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Scott Wood",
+     "title": "President",
+     "emails": [
+      {
+       "email": "scott.wood@nuuco.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "sdielectricgroupllc.com": {
+   "name": "SDI Electric Group",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": "no grata execs",
+   "contacts": []
+  },
+  "littletonelectric.com": {
+   "name": "Littleton Electric Service, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Dallas Littleton",
+     "title": "Founder",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "David Littleton",
+     "title": "President",
+     "emails": [
+      {
+       "email": "david@littletonelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "mcclintockelectric.com": {
+   "name": "McClintock Electric, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Michael McClintock",
+     "title": "President and Owner",
+     "emails": [
+      {
+       "email": "mmcclintock@mcclintockelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "superiorelectricinc.com": {
+   "name": "Superior Electric of Lansing, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Michael Hull",
+     "title": "President",
+     "emails": [
+      {
+       "email": "m.hull@superiorelectricinc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Sidney Feldman",
+     "title": "Chief Financial Officer",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "panelshop.com": {
+   "name": "PanelShop.com",
+   "bucket": "M13",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Mike Gunniers",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "mgunniers@panelshop.com",
+       "type": "professional",
+       "quality": "Risky",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Walt Dollard",
+     "title": "Managing Partner",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "peterandsonselectric.com": {
+   "name": "Peter and Sons Electric Company",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": "no grata execs",
+   "contacts": []
+  },
+  "dillonlp.com": {
+   "name": "Dillon Lightning Protection",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Linda Dillion",
+     "title": "CEO",
+     "emails": [
+      {
+       "email": "linda@dillonlp.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Christopher Dillon",
+     "title": "President",
+     "emails": [
+      {
+       "email": "cdillon@dillonlp.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "lsi-fl.com": {
+   "name": "Lightning Specialists",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Charles Wilson",
+     "title": "President",
+     "emails": [
+      {
+       "email": "charlie@lsi-fl.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Allen Klostermeyer",
+     "title": "President",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "rothelectrical.net": {
+   "name": "Roth Electric LLC",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Tom Roth",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "info@rothelectrical.net",
+       "type": "personal",
+       "quality": "Unknown",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "truecompassnw.com": {
+   "name": "True Compass, LLC",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": "404 unresolved_domain - no Grata company found for this domain",
+   "contacts": []
+  },
+  "ballanceelectric.com": {
+   "name": "L E Ballance Electrical Service",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": "no grata execs",
+   "contacts": []
+  },
+  "mecinc.biz": {
+   "name": "Midwest Electrical Construction, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Dean Lackey",
+     "title": "President & Founder",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "guerreroelectrical.com": {
+   "name": "Guerrero Electrical Services",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Noah Guerrero",
+     "title": "Founder, Owner",
+     "emails": [
+      {
+       "email": "noah@guerreroelectrical.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Stevie Guerrero",
+     "title": "President",
+     "emails": [
+      {
+       "email": "guerreroelectrical@gmail.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "hs-electric.com": {
+   "name": "H S Electric",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": "Canada (Ken Stienstra - Norwich, Ontario) - non-US contact, verify entity",
+   "contacts": [
+    {
+     "name": "Corey Hatch",
+     "title": "President",
+     "emails": [
+      {
+       "email": "corey@hs-electric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Ken Stienstra",
+     "title": "President",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "mongooseelectric.com": {
+   "name": "Mongoose Electric Incorporated",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": "no grata execs",
+   "contacts": []
+  },
+  "powerproplusinc.com": {
+   "name": "Power Pro Plus INC.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Felipe Oliden",
+     "title": "President/ceo",
+     "emails": [
+      {
+       "email": "foliden@pppi.us",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "rondoutelectric.net": {
+   "name": "Rondout Electric Inc",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": "no grata execs",
+   "contacts": []
+  },
+  "jitneyco.com": {
+   "name": "Jitney Co Inc",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Robert Nichols",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "rnichols@jitneyco.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Don Nichols",
+     "title": "Owner",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "James Cunningham",
+     "title": "President",
+     "emails": [
+      {
+       "email": "jcunningham@jitneyco.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "bg-technologies.com": {
+   "name": "bg-technologies.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Linda Gibson",
+     "title": "Founder & President",
+     "emails": [
+      {
+       "email": "linda@bg-technologies.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "gravitytechnologies.com": {
+   "name": "gravitytechnologies.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Raafay Qazi",
+     "title": "Chief Executive Officer",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "Moshe Cohen",
+     "title": "Founder",
+     "emails": [
+      {
+       "email": "moshe@gravitymobility.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "omirepair.com": {
+   "name": "omirepair.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Amin Ghahari",
+     "title": "CEO",
+     "emails": [
+      {
+       "email": "aghahari@omirepair.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "kaizenmech.com": {
+   "name": "kaizenmech.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Tony Montgomery",
+     "title": "Founder & Ceo",
+     "emails": [
+      {
+       "email": "tony.montgomery@kaizenmech.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "thwindersllc.com": {
+   "name": "thwindersllc.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Roman Jaramillo",
+     "title": "Chief Executive Officer",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "Emmanuel Salazar",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "emmanuel.salazar@thwindersllc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Rolando Jaramillo",
+     "title": "Chief Financial Officer",
+     "emails": [
+      {
+       "email": "rolando.jaramillo@thwindersllc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "mccordeng.com": {
+   "name": "mccordeng.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jimmy McCord",
+     "title": "Owner and CEO",
+     "emails": [
+      {
+       "email": "jdmccord@mccordeng.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Rex Woods",
+     "title": "President & Co-Owner",
+     "emails": [
+      {
+       "email": "rwoods@mccordeng.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "prowesteng.com": {
+   "name": "prowesteng.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Josh Collins",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "joshc@prowesteng.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "bore-tech.net": {
+   "name": "bore-tech.net",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Santy Fern\u00e1ndez",
+     "title": "President, CEO & Co-Founder",
+     "emails": [
+      {
+       "email": "santyf@bore-tech.net",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Kleimer Cruz",
+     "title": "Co-Founder",
+     "emails": [
+      {
+       "email": "kleimerc@bore-tech.net",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Wendy Cabral",
+     "title": "Chief Financial Officer, Director",
+     "emails": [
+      {
+       "email": "wendyc@bore-tech.net",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "undergroundutilitiesinc.com": {
+   "name": "undergroundutilitiesinc.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Tom Mclaughlin",
+     "title": "Chief Financial Officer",
+     "emails": [
+      {
+       "email": "tmclaughlin@undergroundutilitiesinc.com",
+       "type": "professional",
+       "quality": "Pending",
+       "is_verified": false
+      }
+     ],
      "phones": []
     }
    ]
