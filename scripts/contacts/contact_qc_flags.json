@@ -1,5 +1,184 @@
 {
- "alt_domain_flags": [
+ "generated": "2026-09-01",
+ "verify_before_outreach": [
+  {
+   "domain": "mossandmoss.com",
+   "company": "Moss Electric",
+   "priority": "ben-B",
+   "campaign": "Commercial & Industrial Contractors",
+   "reason": "WARNING possible wrong company: provider returned Moss and Moss LLP law firm NY; named target Jeff Moss not returned"
+  },
+  {
+   "domain": "prenergy.com",
+   "company": "Prenergy Services, LLC",
+   "priority": "campaign-Nurture",
+   "campaign": "Commercial & Industrial Ctrs",
+   "reason": "WARNING Venezuela-based contacts, likely wrong company match; no verified emails"
+  },
+  {
+   "domain": "pgdservices.com",
+   "company": "Power Generation & Distribution Services",
+   "priority": "campaign-Nurture",
+   "campaign": "Testing & Commissioning",
+   "reason": "WARNING India-based contact, likely wrong company match"
+  },
+  {
+   "domain": "excelltdinc.com",
+   "company": "Excel Ltd. Inc.",
+   "priority": "campaign-Nurture",
+   "campaign": "Electrical Equipment Mfg",
+   "reason": "only verified email is personal and name-mismatched (Andrew) - verify"
+  },
+  {
+   "domain": "conreyelectric.com",
+   "company": "Conrey Electric",
+   "priority": "campaign-Nurture",
+   "campaign": "Motor & Generator Companies",
+   "reason": "OWNERSHIP FLAG: alt emails on teamshares.com - possible Teamshares acquisition, verify before outreach"
+  },
+  {
+   "domain": "flamtech-energy.com",
+   "company": "Flamtech Technologies",
+   "priority": "campaign-Nurture",
+   "campaign": "Mission critical power",
+   "reason": "no phone; non-owner title; contact in Venezuela - likely wrong match"
+  },
+  {
+   "domain": "avsengineering.net",
+   "company": "AVS Engineering",
+   "priority": "campaign-Nurture",
+   "campaign": "Motor & Generator Companies",
+   "reason": "likely wrong-person match (India-based, Self Employed)"
+  },
+  {
+   "domain": "escventura.com",
+   "company": "Electrical Solutions Corp",
+   "priority": "campaign-Nurture",
+   "campaign": "Commercial & Industrial Ctrs",
+   "reason": "named-mode mismatch: returned a UK Simon King at Arup, not the ESC Ventura owner; office line only"
+  },
+  {
+   "domain": "secucontrol.com",
+   "company": "SecuControl",
+   "priority": "campaign-Nurture",
+   "campaign": "Electrical Equipment Mfg",
+   "reason": "office line only; Germany-based contact"
+  },
+  {
+   "domain": "lighthouseelec.com",
+   "company": "Lighthouse Electrical",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs",
+   "reason": "Liberia location, no verified emails, office line only"
+  },
+  {
+   "domain": "rselectriccorp.com",
+   "company": "R/S Electric Corp.",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs",
+   "reason": "title says Retired - verify current role"
+  },
+  {
+   "domain": "rcgint.com",
+   "company": "RCG International",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs",
+   "reason": "office line only; Lebanon-based record, likely wrong entity"
+  },
+  {
+   "domain": "emc-co.com",
+   "company": "Electric Motor & Contracting Co., Inc",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies",
+   "reason": "office line only; Myanmar-located record, verify identity"
+  },
+  {
+   "domain": "jenkinselectric.com",
+   "company": "Jenkins Electric Company",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies",
+   "reason": "no phone, no verified email; LinkedIn record shows UK location - verify"
+  },
+  {
+   "domain": "ppultd.co.uk",
+   "company": "Premium Power Units Ltd.",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies",
+   "reason": "office line only; UK company - likely out of US thesis scope"
+  },
+  {
+   "domain": "ldpassociates.com",
+   "company": "LDP Associates",
+   "priority": "campaign-P2",
+   "campaign": "Mission critical power",
+   "reason": "office line only; India-located record, likely wrong entity"
+  },
+  {
+   "domain": "tlselectric.com",
+   "company": "Tls Electric",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs",
+   "reason": "no phone; contact located UK - possible wrong match"
+  },
+  {
+   "domain": "americanenergy.us",
+   "company": "North American Energy Services Company",
+   "priority": "campaign-P2",
+   "campaign": "Utility Line & Substation",
+   "reason": "no email or phone; non-owner title; contact in Mexico - likely wrong match"
+  },
+  {
+   "domain": "pointonwave.com",
+   "company": "Point On Wave",
+   "priority": "campaign-P2",
+   "campaign": "Testing & Commissioning",
+   "reason": "office line only; contact located Canada - verify US operations"
+  },
+  {
+   "domain": "djselectrical.com",
+   "company": "Dj Electrical",
+   "priority": "campaign-P2",
+   "campaign": "Utility Line & Substation",
+   "reason": "office line only; non-owner title (Administrator), likely wrong-person match (Australia)"
+  },
+  {
+   "domain": "moodyselectricinc.godaddysites.com",
+   "company": "Moody's Electric",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs",
+   "reason": "bad match - returned a GoDaddy employee, site is a godaddysites.com subdomain"
+  },
+  {
+   "domain": "iemsbr.com",
+   "company": "Industrial Electric Motor Service, Inc.",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies",
+   "reason": "bad match - returned an India-based self-employed profile, not the owner"
+  },
+  {
+   "domain": "janda.com",
+   "company": "Janda Motor Services",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies",
+   "reason": "bad match - returned an Indonesia-based profile, not the US company owner"
+  },
+  {
+   "domain": "alfatransformer.com",
+   "company": "Alfa Transformer",
+   "priority": "campaign-P3",
+   "campaign": "Electrical Equipment Mfg",
+   "reason": "office line only; contact located India - likely wrong match"
+  },
+  {
+   "domain": "castrejoninc.com",
+   "company": "Castrejon Incorporated",
+   "priority": "campaign-P3",
+   "campaign": "Utility Line & Substation",
+   "reason": "bad match - Panama-based profile, not the US owner"
+  }
+ ],
+ "verify_note": "The provider matched a person in another country to a US target - these contacts most likely belong to a different company that shares the name. Do not mail them without a human check; the contact, not the company, is suspect.",
+ "ownership_signals": [
   {
    "domain": "americanscii.com",
    "company": "American System Controls & Integration Inc.",
@@ -131,16 +310,6 @@
    "campaign": "Utility Line & Substation"
   },
   {
-   "domain": "emainc.net",
-   "company": "Electronic Maintenance Associates Inc.",
-   "contact": "Trey Mayfield",
-   "title": "President",
-   "alt_email_domain": "rocketmail.com",
-   "email": "tmayfield@rocketmail.com",
-   "priority": "campaign-Nurture",
-   "campaign": "Electrical Apparatus Servicing"
-  },
-  {
    "domain": "triunenc.com",
    "company": "Triune Electric, Inc.",
    "contact": "Justin Hunt",
@@ -158,6 +327,16 @@
    "alt_email_domain": "moleyinc.com",
    "email": "katie.hurley@moleyinc.com",
    "priority": "campaign-P3",
+   "campaign": "Motor & Generator Companies"
+  },
+  {
+   "domain": "sloanelectric.com",
+   "company": "Sloan Electric",
+   "contact": "Jerry Gray",
+   "title": "Co-Owner",
+   "alt_email_domain": "san.rr.com",
+   "email": "jgray001@san.rr.com",
+   "priority": "campaign-Nurture",
    "campaign": "Motor & Generator Companies"
   },
   {
@@ -181,336 +360,401 @@
    "campaign": "Motor & Generator Companies"
   }
  ],
- "multi_company_domains": {
-  "i2r.com": 2
- },
+ "possible_parent_domains": {},
+ "ownership_note": "An owner whose verified email sits on another corporate domain is a proxy for an undisclosed parent. Sister and rebrand domains are filtered out; what remains needs the acquisition check CLAUDE.md rule 6 requires before outreach.",
  "non_owner_titles": [
   {
    "domain": "americanscii.com",
    "contact": "Kevin Swier",
-   "title": "Engineering Manger and CFO"
+   "title": "Engineering Manger and CFO",
+   "priority": "campaign-P2"
   },
   {
    "domain": "americanscii.com",
    "contact": "Jeffrey Miller",
-   "title": "Automation Manager"
+   "title": "Automation Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "electricmotorservices.net",
    "contact": "Rande Livengood",
-   "title": "Plant Manager"
+   "title": "Plant Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "ucspower.com",
    "contact": "Lauren Doiron",
-   "title": "Business Manager"
+   "title": "Business Manager",
+   "priority": "P2-candidate"
   },
   {
    "domain": "ucspower.com",
    "contact": "Nestor Castellanos",
-   "title": "General Superintendent"
+   "title": "General Superintendent",
+   "priority": "P2-candidate"
   },
   {
    "domain": "mid-southelectric.net",
    "contact": "Demario Leakes",
-   "title": "Service Manager"
+   "title": "Service Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "cawtn.com",
    "contact": "Kristie Firman",
-   "title": "Shop Manager"
+   "title": "Shop Manager",
+   "priority": "ben-A"
   },
   {
    "domain": "prenergy.com",
    "contact": "Elbano Provenzali",
-   "title": "Gerente de Gestion de Proyectos"
+   "title": "Gerente de Gestion de Proyectos",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "prenergy.com",
    "contact": "Carlos Rodriguez",
-   "title": "Project Manager"
+   "title": "Project Manager",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "rscelectrical.com",
    "contact": "Mike Merantza",
-   "title": "Electrical Service Director"
+   "title": "Electrical Service Director",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "northstarpowerinc.com",
    "contact": "Ronna M.",
-   "title": "Business Office Manager"
+   "title": "Business Office Manager",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "gstpowerservice.com",
    "contact": "Lori Haynes",
-   "title": "Business Manager"
+   "title": "Business Manager",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "ehvconstruction.com",
    "contact": "Ty Gray",
-   "title": "General Foreman"
+   "title": "General Foreman",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "fuimuscompanies.com",
    "contact": "Jonathan Strickland",
-   "title": "Construction Manager"
+   "title": "Construction Manager",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "ipatlantic.com",
    "contact": "Jeffry Cusatis",
-   "title": "General Foreman"
+   "title": "General Foreman",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "ipatlantic.com",
    "contact": "Jimmie Olds",
-   "title": "Construction Manager"
+   "title": "Construction Manager",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "statelineusa.com",
    "contact": "Greg Smith",
-   "title": "Foreman"
+   "title": "Foreman",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "ajgoulderelectric.com",
    "contact": "Chris Carlson",
-   "title": "Electrical Estimator and Service Manager"
+   "title": "Electrical Estimator and Service Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "bandhelectric.com",
    "contact": "Matthew Haney",
-   "title": "Electrical Contractor"
+   "title": "Electrical Contractor",
+   "priority": "campaign-P2"
   },
   {
    "domain": "cpmelectric.com",
    "contact": "Marjorie Sutherland",
-   "title": "Administrator"
+   "title": "Administrator",
+   "priority": "campaign-P2"
   },
   {
    "domain": "flemingtoninstrument.com",
    "contact": "Ron Falkenstein",
-   "title": "Service Manager"
+   "title": "Service Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "gulfelec.com",
    "contact": "Rick Sommer",
-   "title": "General Foreman"
+   "title": "General Foreman",
+   "priority": "campaign-P3"
   },
   {
    "domain": "powertekllc.com",
    "contact": "David White",
-   "title": "General Superintendent"
+   "title": "General Superintendent",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "performanceelectricalllc.com",
    "contact": "Matei Cristea",
-   "title": "Warehouse Manager"
+   "title": "Warehouse Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "iegusa.com",
    "contact": "Josh Boling",
-   "title": "Branch Manager"
+   "title": "Branch Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "ppultd.co.uk",
    "contact": "Paul Elliott",
-   "title": "Branch Manager"
+   "title": "Branch Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "jsinspect.com",
    "contact": "Charles Hooks",
-   "title": "VP Marketing and Business Development"
+   "title": "VP Marketing and Business Development",
+   "priority": "campaign-P2"
   },
   {
    "domain": "ldpassociates.com",
    "contact": "Chalasani Mahidar",
-   "title": "M D"
+   "title": "M D",
+   "priority": "campaign-P2"
   },
   {
    "domain": "tlselectric.com",
    "contact": "Stephen Vaughan",
-   "title": "Director"
+   "title": "Director",
+   "priority": "campaign-P2"
   },
   {
    "domain": "pevarnik.com",
    "contact": "Matthew Dragan",
-   "title": "Construction Project Manager"
+   "title": "Construction Project Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "radec.com",
    "contact": "Dave Prosser",
-   "title": "Field manager"
+   "title": "Field manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "sconservices.com",
    "contact": "Scott Hendrickson",
-   "title": "Manager"
+   "title": "Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "sas-llc.net",
    "contact": "Eric Estle",
-   "title": "Division Manager"
+   "title": "Division Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "solutionservicescorp.com",
    "contact": "Jacob Black",
-   "title": "Project Manager"
+   "title": "Project Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "sytekelectric.com",
    "contact": "Jeremy Saintes",
-   "title": "Subsea Manager"
+   "title": "Subsea Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "precisionmachllc.com",
    "contact": "Israel Perez Jr",
-   "title": "Project Manager"
+   "title": "Project Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "singerelectric.com",
    "contact": "Durud Ahmed",
-   "title": "Marketing Manager"
+   "title": "Marketing Manager",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "mmpowerline.com",
    "contact": "Steve Adasiewicz",
-   "title": "Master electrician project manager"
+   "title": "Master electrician project manager",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "americanenergy.us",
    "contact": "Francisco Cabrera",
-   "title": "Gerente de planta"
+   "title": "Gerente de planta",
+   "priority": "campaign-P2"
   },
   {
    "domain": "utilitex.com",
    "contact": "Jimmy Richey",
-   "title": "General Management"
+   "title": "General Management",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "power-upllc.com",
    "contact": "Dawn Reynolds",
-   "title": "Operations Manager"
+   "title": "Operations Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "flamtech-energy.com",
    "contact": "Alejandra Colina",
-   "title": "Freelance graphic designer"
+   "title": "Freelance graphic designer",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "apspower.com",
    "contact": "Lisa Friedman",
-   "title": "Business Manager"
+   "title": "Business Manager",
+   "priority": "campaign-P3"
   },
   {
    "domain": "rudylhawkinselectrical.com",
    "contact": "Damon Parrish",
-   "title": "Project Manager"
+   "title": "Project Manager",
+   "priority": "campaign-P3"
   },
   {
    "domain": "telstarinc.com",
    "contact": "Martin Ruiz",
-   "title": "Project Manager and Engineer"
+   "title": "Project Manager and Engineer",
+   "priority": "campaign-P2"
   },
   {
    "domain": "triunenc.com",
    "contact": "Justin Hunt",
-   "title": "Shop Manager For Control Panel Fabrication Facility"
+   "title": "Shop Manager For Control Panel Fabrication Facility",
+   "priority": "campaign-P2"
   },
   {
    "domain": "fie-inc.com",
    "contact": "Bob Kingston",
-   "title": "Division Manager"
+   "title": "Division Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "harcrowelectric.com",
    "contact": "John Barnes",
-   "title": "Contractor"
+   "title": "Contractor",
+   "priority": "campaign-P2"
   },
   {
    "domain": "mojaveelectric.com",
    "contact": "Rodney McMurry",
-   "title": "General Forman"
+   "title": "General Forman",
+   "priority": "campaign-P2"
   },
   {
    "domain": "paloselectric.com",
    "contact": "Christopher Talbott",
-   "title": "Director of Operations - Wireless Division"
+   "title": "Director of Operations - Wireless Division",
+   "priority": "campaign-P2"
   },
   {
    "domain": "strianoelectric.com",
    "contact": "Jeff Amberger",
-   "title": "Project Manager"
+   "title": "Project Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "lascoelectrical.com",
    "contact": "Charles Fite",
-   "title": "Licensed Master and Operations Manager"
+   "title": "Licensed Master and Operations Manager",
+   "priority": "campaign-P3"
   },
   {
    "domain": "avsengineering.net",
    "contact": "Rajender Singh",
-   "title": "Self Employed"
+   "title": "Self Employed",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "djselectrical.com",
    "contact": "Melody McFarlane",
-   "title": "Administrator"
+   "title": "Administrator",
+   "priority": "campaign-P2"
   },
   {
    "domain": "geoforceutilitytech.com",
    "contact": "Hall Cummings",
-   "title": "General Foreman"
+   "title": "General Foreman",
+   "priority": "campaign-P2"
   },
   {
    "domain": "sigalutility.com",
    "contact": "Michelle Vance",
-   "title": "Electric Utility Construction Division Manager"
+   "title": "Electric Utility Construction Division Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "pinnaclepowersvcs.com",
    "contact": "Jason Keller",
-   "title": "Area Manager"
+   "title": "Area Manager",
+   "priority": "campaign-P3"
   },
   {
    "domain": "outsenelectric.com",
    "contact": "Greg Outsen",
-   "title": "Manager"
+   "title": "Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "halleyeng.com",
    "contact": "Christopher Halley",
-   "title": "Entrepreneur"
+   "title": "Entrepreneur",
+   "priority": "campaign-P3"
   },
   {
    "domain": "postelectric.net",
    "contact": "Kathy Shipp",
-   "title": "Secretary and Treasurer"
+   "title": "Secretary and Treasurer",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "clevelandpumprepair.com",
    "contact": "Mike Eisengart",
-   "title": "Branch Manager"
+   "title": "Branch Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "failureprevention.com",
    "contact": "Karl Hoffower",
-   "title": "Executive Director"
+   "title": "Executive Director",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "primeacdcmotors.com",
    "contact": "Umar Zaman",
-   "title": "Operations Manager"
+   "title": "Operations Manager",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "hibbsinc.com",
    "contact": "Greg Deahl",
-   "title": "Solutions Manager"
+   "title": "Solutions Manager",
+   "priority": "campaign-P2"
   },
   {
    "domain": "heartutilities.com",
    "contact": "Scott Barry",
-   "title": "Operation Manager"
+   "title": "Operation Manager",
+   "priority": "campaign-P2"
   }
  ],
+ "non_owner_note": "Inven expands title keywords server-side and matches loosely, so managers and VPs come through an owner-title filter. Re-work or downgrade these rather than mailing them as owner contacts.",
  "us_only_violations": [
   {
    "domain": "ppultd.co.uk",
@@ -518,8 +762,7 @@
    "bucket": "S7",
    "priority": "campaign-P2",
    "campaign": "Motor & Generator Companies",
-   "already_enriched": true,
-   "note": "non-US domain; mandate is US-only"
+   "already_enriched": true
   },
   {
    "domain": "adc-electrical.co.uk",
@@ -527,8 +770,7 @@
    "bucket": "S7",
    "priority": "master-DQ",
    "campaign": null,
-   "already_enriched": false,
-   "note": "non-US domain; mandate is US-only"
+   "already_enriched": false
   },
   {
    "domain": "johnfordelectricalservices.co.uk",
@@ -536,8 +778,7 @@
    "bucket": "T4",
    "priority": "master-DQ",
    "campaign": null,
-   "already_enriched": false,
-   "note": "non-US domain; mandate is US-only"
+   "already_enriched": false
   },
   {
    "domain": "gandptechnology.co.uk",
@@ -545,8 +786,7 @@
    "bucket": "M13",
    "priority": "master-DQ",
    "campaign": null,
-   "already_enriched": false,
-   "note": "non-US domain; mandate is US-only"
+   "already_enriched": false
   },
   {
    "domain": "tmelectrical.ca",
@@ -554,8 +794,7 @@
    "bucket": "T5",
    "priority": "master-DQ",
    "campaign": null,
-   "already_enriched": false,
-   "note": "non-US domain; mandate is US-only"
+   "already_enriched": false
   },
   {
    "domain": "alselectric.ca",
@@ -563,10 +802,14 @@
    "bucket": "T5",
    "priority": "master-DQ",
    "campaign": null,
-   "already_enriched": false,
-   "note": "non-US domain; mandate is US-only"
+   "already_enriched": false
   }
  ],
- "us_only_note": "Mandate is a US company. These carry non-US domains. .co was NOT treated as foreign (Colombian TLD, but widely used as a US vanity domain - s1inc.co and rayselectric.co read as US firms). ppultd.co.uk is the material one: it is filed as a campaign-P2, i.e. an active outreach target, and has already been enriched. It should be DQd. The remaining five are already master-DQ priority and sit in the queue tail, so the 1200-cap will not reach them.",
- "ownership_note": "Alt-domain email flags are a proxy for an undisclosed parent/acquirer (CLAUDE.md rule 6: platform ownership labels are unverified). Most resolve to sister or rebrand domains and are benign. cates.com is the one to check: two separate contacts there carry i2r.com addresses, which reads as a holding-company parent rather than a rebrand."
+ "us_only_note": "The mandate is a US company. .co was not treated as foreign - it is Colombia's TLD but reads as a US vanity domain here. Domain TLD alone misses the bigger problem, which is foreign contacts on .com targets; those are in verify_before_outreach.",
+ "counts": {
+  "verify_before_outreach": 25,
+  "ownership_signals": 18,
+  "non_owner_titles": 65,
+  "us_only_violations": 6
+ }
 }

@@ -2,14 +2,14 @@
  "generated": "2026-09-01",
  "platform": "inven get_company_contacts (owner-title filtered)",
  "policy": "inven contact-credit floor 6000; grata carries the remainder; 1200-company cap",
- "attempted": 868,
- "with_contacts": 489,
+ "attempted": 876,
+ "with_contacts": 496,
  "credits_used": 490,
- "companies_with_mobile": 408,
- "mobile_phones": 744,
- "direct_dial_phones": 421,
+ "companies_with_mobile": 415,
+ "mobile_phones": 760,
+ "direct_dial_phones": 428,
  "office_only_companies": 54,
- "verified_emails": 695,
+ "verified_emails": 705,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -21197,6 +21197,57 @@
    "error": "named lookup: no contact found for Wade Hummel",
    "contacts": []
   },
+  "excelunderground.com": {
+   "name": "Excel Underground, LLC",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Raymond Rock",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "rrock@excelunderground.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 920-205-4678",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 817-319-2362",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 920-574-2924",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "franklinengineering.com": {
+   "name": "Franklin Engineering",
+   "bucket": "Long tail / holding",
+   "campaign": "",
+   "priority": "ben-C",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "named lookup: no contact found for Bob Guest",
+   "contacts": []
+  },
   "swetexas.com": {
    "name": "SW Electric, LLC",
    "bucket": "T5",
@@ -25427,6 +25478,286 @@
    "credits_used": 0,
    "error": "no owner-title match",
    "contacts": []
+  },
+  "tdnelectric.com": {
+   "name": "TDN Electric, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Russ Walling",
+     "title": "President",
+     "emails": [
+      {
+       "email": "rwalling@tdnelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 480-678-1590",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 408-887-8170",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 408-541-9000",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "cookelectrical.com": {
+   "name": "Cook Electrical of Jacksonville, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Larry Blount",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "larry.blount@cookelectrical.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "lawrence.blount15@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "larry.blount@cox.net",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 904-759-1796",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 904-504-0667",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 201-914-5468",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 904-278-0317",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 904-696-1017",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "imperiallighting.com": {
+   "name": "Imperial Lighting",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Cary Mendelsohn",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "cary@imperiallighting.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 773-531-3222",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 708-945-4506",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 312-933-2264",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 847-945-4563",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 773-794-1150",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "teaysvalleyeng.com": {
+   "name": "Teays Valley Engineering",
+   "bucket": "T4",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Eric Bias",
+     "title": "Vice President and Principal Engineer",
+     "emails": [
+      {
+       "email": "ebias@teaysvalleyeng.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "tamtambias@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 304-549-6704",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 304-541-2788",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 504-722-3214",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 304-743-8163",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 304-755-9006",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "evrevolution.com": {
+   "name": "EV Revolution",
+   "bucket": "S9",
+   "campaign": "EV Charging",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Joel Bulpitt",
+     "title": "President",
+     "emails": [
+      {
+       "email": "joel@evrevolution.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 919-896-4305",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 503-886-9908",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 919-642-0408",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 919-535-3148",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "annunciator.com": {
+   "name": "Puleo Electronics, Inc",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jane Rivera",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "jpuleorivera@comcast.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 415-730-1303",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 415-383-9526",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 516-599-4875",
+       "type": "office"
+      }
+     ]
+    }
+   ]
   }
  }
 }

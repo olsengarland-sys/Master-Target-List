@@ -77,3 +77,40 @@ repeat those errors. Do not weaken them without the client's say-so.
   pass (system doc §3.6).
 - No Grata/Inven contact, enrichment, CRM, list-write or export tool without
   asking first. The workbook is the only artifact.
+
+## Contact enrichment — platform capabilities (verified 2026-09-01)
+
+Established by running both platforms over ~880 companies. Do not re-litigate
+these by assumption; they were measured.
+
+9. **Phone numbers come from Inven only.** Grata's contacts tool
+   (`contacts_companies_contacts_create`) returns `"phones": null` on every
+   contact — it carries executives, titles, verified work emails, LinkedIn
+   URLs and locations, but no phone data at all. Inven
+   `get_company_contacts` returns phones already TYPED as
+   `mobile` / `direct dial` / `office`, which is what makes an owner-cell
+   campaign possible. So "fall back to Grata for the cell number" cannot
+   work; Grata is the email/org-chart source, Inven the phone source.
+   Inven's *company* records (`get_company_info`) also carry no phone — 0 of
+   817 returned one — so there is no free HQ-mainline reference either.
+10. **Always pass the owner-title filter to Inven `get_company_contacts`.**
+   Title-filter misses and no-coverage both cost 0 credits, so the filter is
+   free protection; an unfiltered pull spends credits on office staff.
+   Measured economics with the filter: ~0.56 contact credits per company
+   attempted, ~55% yield, ~47% of attempts producing a mobile number.
+   Provider budget is ~8 units/call, and a titled domain costs
+   1 + max_contacts + 1, so 2 domains per call is the ceiling.
+11. **Inven `named_people` mode is free when the contact is already resolved**
+   and is the most accurate path. Run named lookups FIRST in any future wave,
+   not last — every named call in waves so far cost 0 credits.
+12. **Both platforms return wrong-entity matches for US targets** — a person in
+   the UK, India, Venezuela, Mexico, Canada or Germany attached to a US
+   company that shares the name. Check the contact's `location` before any
+   name reaches outreach; ~25 were caught this way. Foreign TLDs are the easy
+   case; foreign contacts on `.com` targets are the dangerous one.
+13. **Web egress is blocked in the remote session** (EGRESS_BLOCKED / HTTP 403
+   from the proxy, confirmed against control hosts). Any plan that depends on
+   fetching a company's own website — mainline-phone verification, site
+   scraping — cannot run there. Do not write a placeholder result file for a
+   check that never ran; an all-null file reads downstream as "checked, no
+   match" and silently clears the rows it was meant to question.
