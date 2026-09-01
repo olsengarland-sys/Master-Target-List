@@ -97,6 +97,16 @@ these by assumption; they were measured.
    817 returned one — so there is no free HQ-mainline reference either.
    Grata's stray office numbers are the one partial exception, and are worth a
    targeted re-pull if mainline numbers ever become useful.
+   RE-VERIFIED 2026-09-01 after a Grata outage was resolved: the outage was in
+   the billing/metering endpoint (`get_token_usage` had been returning "No
+   active subscription"; it now returns a fresh contract period). Contact
+   phone data did NOT change - 24 contacts re-sampled across 13 companies
+   returned exactly one number, the same Mid-Ohio office line seen before.
+   Caveat worth settling with Grata directly: each contact carries `emails`
+   and `phones` array fields that are null even when `work_email` is
+   populated, alongside `is_locked: false` / `unlocked_on: null`. If the
+   Grata UI shows a phone for a contact whose API record returns null, this
+   is an entitlement or API gap to raise with them, not absent data.
    Note also that a Grata `verified_email.state` of "Unknown" does NOT mean
    there is no email — a populated `work_email` can sit under it; treat the
    state as a confidence label, not a presence flag.
