@@ -1,0 +1,639 @@
+{
+"header": {
+"event_id": "F3GZG6XN",
+"name": "Transmission & Substation Design & Operation Symposium (TSDOS) 2023",
+"series": "Transmission & Substation Design & Operation Symposium (TSDOS)",
+"start_date": "2023-09-06",
+"end_date": "2023-09-08",
+"city": "Frisco",
+"state": "TX",
+"fetched_at": "2026-09-01",
+"total_reported": 95,
+"rows_fetched": 95,
+"truncated": false
+},
+"companies": [
+{
+"id": "HCPCNK7G",
+"year_founded": 1941,
+"ownership": "Public",
+"employees_estimate": {
+"grata": 129804,
+"linkedin": 42085
+},
+"headquarters_pretty": "Aghancon, Ireland",
+"description": "TE Connectivity designs and manufactures a wide range of connectivity and sensor solutions for various industries such as automotive, aerospace, defense, industrial, and telecommunications. Their products include connectors, sensors, antennas, relays, heat shrink tubing, and more. Their typical customers are original equipment manufacturers (OEMs) across various industries. TE Connectivity positions itself as a leader in connectivity and sensor solutions, claiming that their products enable smarter, faster, and better technologies. They emphasize their commitment to innovation, quality, and sustainability in their marketing efforts.",
+"domain": "te.com",
+"name": "TE Connectivity plc",
+"primary_business_model_name": "Manufacturer",
+"revenue": 19321999000.0,
+"profile_url": "https://search.grata.com/c/HCPCNK7G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UPCCE7SB",
+"year_founded": 1884,
+"ownership": "Bootstrapped",
+"employees_estimate": {
+"grata": 121330,
+"linkedin": 26727
+},
+"headquarters_pretty": "Omaha, NE",
+"description": "Kiewit Corp. is a leading construction and engineering company known for handling complex infrastructure, industrial, and energy projects. The company provides construction and design engineering services across markets such as transportation, power, building, mining, and water/wastewater. Its customers include government entities, private developers, and industrial companies seeking innovative and sustainable project solutions focused on safety, quality, and long-term collaboration.",
+"funding_stage": "No Funding",
+"domain": "kiewit.com",
+"name": "Kiewit Corp.",
+"primary_business_model_name": "Services",
+"revenue": 13700000000.0,
+"profile_url": "https://search.grata.com/c/UPCCE7SB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5CYNKEDG",
+"year_founded": 1997,
+"ownership": "Public",
+"employees_estimate": {
+"grata": 45059,
+"linkedin": 16762
+},
+"headquarters_pretty": "Stamford, CT",
+"description": "United Rentals, Inc. rents a broad portfolio of construction and industrial equipment and tools to businesses and some consumers, sells used equipment, and offers fleet maintenance, on-site services, safety training, and telematics/rental-management solutions. They primarily serve contractors, industrial and public-sector customers and market themselves as a single-source provider of rental equipment, fleet services, and technology-enabled rental management.",
+"domain": "unitedrentals.com",
+"name": "United Rentals, Inc.",
+"primary_business_model_name": "Services",
+"revenue": 16832000000.0,
+"profile_url": "https://search.grata.com/c/5CYNKEDG?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "54NGX8SF",
+"year_founded": 1969,
+"ownership": "Public",
+"employees_estimate": {
+"grata": 36531,
+"linkedin": 37443
+},
+"headquarters_pretty": "Reston, VA",
+"description": "Leidos, Inc. provides a range of products and services in the fields of defense, intelligence, homeland security, civil, and health markets. Their offerings include cybersecurity solutions, data analytics, logistics and mission support, and IT modernization. Their typical customers are government agencies, defense and intelligence organizations, as well as healthcare institutions. Leidos claims to differentiate itself through its technical expertise, innovation, and commitment to delivering solutions that solve complex challenges.",
+"domain": "leidos.com",
+"name": "Leidos, Inc.",
+"primary_business_model_name": "Services",
+"revenue": 17634000000.0,
+"profile_url": "https://search.grata.com/c/54NGX8SF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TKZ8LF39",
+"year_founded": 1917,
+"ownership": "Investor Backed",
+"employees_estimate": {
+"grata": 28986,
+"linkedin": 17853
+},
+"headquarters_pretty": "Omaha, NE",
+"description": "HDR Inc. is a multidisciplinary architecture, engineering, and environmental services firm that delivers design, planning, environmental assessment, and construction/program management primarily for public agencies, utilities, institutions, and private organizations. They emphasize integrated project delivery across infrastructure and facility sectors and offer technical and digital services to support complex projects.",
+"funding_stage": "Other Funding",
+"domain": "hdrinc.com",
+"name": "HDR Inc.",
+"primary_business_model_name": "Services",
+"revenue": 5592711000.0,
+"profile_url": "https://search.grata.com/c/TKZ8LF39?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Z2XHNWVD",
+"name": "Wesco International, Inc.",
+"domain": "wesco.com",
+"profile_url": "https://search.grata.com/c/Z2XHNWVD?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RHC26U2Y",
+"name": "Primoris Services Corp.",
+"domain": "prim.com",
+"profile_url": "https://search.grata.com/c/RHC26U2Y?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "79R3JR8E",
+"name": "Hubbell Incorporated",
+"domain": "hubbell.com",
+"profile_url": "https://search.grata.com/c/79R3JR8E?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QN85327W",
+"name": "General Electric Company",
+"domain": "ge.com",
+"profile_url": "https://search.grata.com/c/QN85327W?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "9W8XEGVJ",
+"name": "Black & Veatch",
+"domain": "bv.com",
+"profile_url": "https://search.grata.com/c/9W8XEGVJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NKDWDL8K",
+"name": "TRC",
+"domain": "trccompanies.com",
+"profile_url": "https://search.grata.com/c/NKDWDL8K?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "M3RGHKVG",
+"name": "Pike Corp.",
+"domain": "pike.com",
+"profile_url": "https://search.grata.com/c/M3RGHKVG?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VPE3XYDB",
+"name": "Terracon Consultants, Inc. (Terracon)",
+"domain": "terracon.com",
+"profile_url": "https://search.grata.com/c/VPE3XYDB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BFXM7X99",
+"name": "Valmont Industries, Inc.",
+"domain": "valmont.com",
+"profile_url": "https://search.grata.com/c/BFXM7X99?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "G3CF7TY2",
+"name": "Electrical Consultants, Inc. (ECI)",
+"domain": "eciusa.com",
+"profile_url": "https://search.grata.com/c/G3CF7TY2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4VPVCNKG",
+"name": "Sabre Industries, Inc.",
+"domain": "sabreindustries.com",
+"profile_url": "https://search.grata.com/c/4VPVCNKG?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "25GNTETV",
+"name": "Dashiell Corporation",
+"domain": "dashiell.com",
+"profile_url": "https://search.grata.com/c/25GNTETV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4NL2X8Y5",
+"name": "Vaisala",
+"domain": "vaisala.com",
+"profile_url": "https://search.grata.com/c/4NL2X8Y5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GUMKQ7TP",
+"name": "Custom Truck One Source, Inc.",
+"domain": "customtruck.com",
+"profile_url": "https://search.grata.com/c/GUMKQ7TP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PUE4JNRT",
+"name": "Surveying And Mapping, LLC (SAM)",
+"domain": "sam.biz",
+"profile_url": "https://search.grata.com/c/PUE4JNRT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "AXW7QFQH",
+"name": "Oncor Electric Delivery",
+"domain": "oncor.com",
+"profile_url": "https://search.grata.com/c/AXW7QFQH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "P5F3H86R",
+"name": "Olsson",
+"domain": "olsson.com",
+"profile_url": "https://search.grata.com/c/P5F3H86R?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2S8H8S6N",
+"name": "Michels Corporation",
+"domain": "michels.us",
+"profile_url": "https://search.grata.com/c/2S8H8S6N?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UYYWPYBB",
+"name": "Bowman Consulting Group, Ltd",
+"domain": "bowman.com",
+"profile_url": "https://search.grata.com/c/UYYWPYBB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HRQC9XX2",
+"name": "Megger Group Limited",
+"domain": "megger.com",
+"profile_url": "https://search.grata.com/c/HRQC9XX2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BV5RR33Z",
+"name": "Westwood Professional Services, Inc.",
+"domain": "westwoodps.com",
+"profile_url": "https://search.grata.com/c/BV5RR33Z?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "L9W56X9A",
+"name": "Ulteig Engineers, Inc.",
+"domain": "ulteig.com",
+"profile_url": "https://search.grata.com/c/L9W56X9A?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HKX48YTP",
+"name": "Saber Power, LLC",
+"domain": "saberpower.com",
+"profile_url": "https://search.grata.com/c/HKX48YTP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KXKKLBV4",
+"name": "Kinectrics",
+"domain": "kinectrics.com",
+"profile_url": "https://search.grata.com/c/KXKKLBV4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "C8JFYDDR",
+"name": "Preformed Line Products",
+"domain": "preformed.com",
+"profile_url": "https://search.grata.com/c/C8JFYDDR?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "T4LRGUX7",
+"name": "Great Southwestern Construction, Inc.",
+"domain": "gswc.us",
+"profile_url": "https://search.grata.com/c/T4LRGUX7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "99FXYU2G",
+"name": "Mesa Associates, Inc",
+"domain": "mesainc.com",
+"profile_url": "https://search.grata.com/c/99FXYU2G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2U9EGRUS",
+"name": "Chain Electric Company",
+"domain": "chainelectric.com",
+"profile_url": "https://search.grata.com/c/2U9EGRUS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RJWRTHFP",
+"name": "Electric Power Engineers, Inc",
+"domain": "epeconsulting.com",
+"profile_url": "https://search.grata.com/c/RJWRTHFP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5E3JV765",
+"name": "Stanley Consultants",
+"domain": "stanleyconsultants.com",
+"profile_url": "https://search.grata.com/c/5E3JV765?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YFTHMJFB",
+"name": "Bird Electric Enterprises, LLC",
+"domain": "birdelectricinc.com",
+"profile_url": "https://search.grata.com/c/YFTHMJFB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YYKG5CRJ",
+"name": "Sediver",
+"domain": "sediver.com",
+"profile_url": "https://search.grata.com/c/YYKG5CRJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "K57E9H3F",
+"name": "NPK International Inc.",
+"domain": "npki.com",
+"profile_url": "https://search.grata.com/c/K57E9H3F?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5GULCNFA",
+"name": "Crest Industries LLC",
+"domain": "crestoperations.com",
+"profile_url": "https://search.grata.com/c/5GULCNFA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NSQXSC5D",
+"name": "Parkline Inc",
+"domain": "parkline.com",
+"profile_url": "https://search.grata.com/c/NSQXSC5D?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "W55TJ6GF",
+"name": "TechServ",
+"domain": "techserv.com",
+"profile_url": "https://search.grata.com/c/W55TJ6GF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TF6JPRZ5",
+"name": "Threaded Fasteners, Inc.",
+"domain": "threadedfasteners.com",
+"profile_url": "https://search.grata.com/c/TF6JPRZ5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HL7DWBE5",
+"name": "kVP Energy Services",
+"domain": "kvpenergy.com",
+"profile_url": "https://search.grata.com/c/HL7DWBE5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6UHKB3VL",
+"name": "Bell Lumber and Pole Company",
+"domain": "blpole.com",
+"profile_url": "https://search.grata.com/c/6UHKB3VL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "LWRYVHHB",
+"name": "Mustang Extreme Environmental Services",
+"domain": "mustangextreme.com",
+"profile_url": "https://search.grata.com/c/LWRYVHHB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UBQZT68Q",
+"name": "MICA Steelworks",
+"domain": "micasteelworks.com",
+"profile_url": "https://search.grata.com/c/UBQZT68Q?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UV3N7CJP",
+"name": "Teague Nall and Perkins, Inc.",
+"domain": "tnpinc.com",
+"profile_url": "https://search.grata.com/c/UV3N7CJP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2B9FMUQC",
+"name": "Landpoint, LLC.",
+"domain": "landpoint.net",
+"profile_url": "https://search.grata.com/c/2B9FMUQC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "V5HCN8LP",
+"name": "All-Pro Fasteners Inc.",
+"domain": "apf.com",
+"profile_url": "https://search.grata.com/c/V5HCN8LP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5ACHDYY3",
+"name": "CEC",
+"domain": "connectcec.com",
+"profile_url": "https://search.grata.com/c/5ACHDYY3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DGNXLUB4",
+"name": "Campos EPC",
+"domain": "camposepc.com",
+"profile_url": "https://search.grata.com/c/DGNXLUB4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZU2MLSKF",
+"name": "Commonwealth Associates, Inc.",
+"domain": "cai-engr.com",
+"profile_url": "https://search.grata.com/c/ZU2MLSKF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "M8BY33J8",
+"name": "Austin Engineering Company Limited",
+"domain": "aec.com",
+"profile_url": "https://search.grata.com/c/M8BY33J8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FX7YQQCE",
+"name": "M&I Materials Limited",
+"domain": "mimaterials.com",
+"profile_url": "https://search.grata.com/c/FX7YQQCE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Y4WPFJVX",
+"name": "Crown Technical Systems",
+"domain": "crowntechnicalsystems.com",
+"profile_url": "https://search.grata.com/c/Y4WPFJVX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EUBTVK6V",
+"name": "Force Electrical Services, LLC",
+"domain": "forceelect.com",
+"profile_url": "https://search.grata.com/c/EUBTVK6V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TPGHW8YX",
+"name": "ExecuPOWER LLC",
+"domain": "execupower.com",
+"profile_url": "https://search.grata.com/c/TPGHW8YX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "P6QC9R6Z",
+"name": "Sterling Solutions",
+"domain": "sterlingsolutions.com",
+"profile_url": "https://search.grata.com/c/P6QC9R6Z?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QU6ZV59X",
+"name": "Exo Grouop",
+"domain": "exoinc.com",
+"profile_url": "https://search.grata.com/c/QU6ZV59X?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NUYD7LWS",
+"name": "TAPP, inc.",
+"domain": "tappinc.com",
+"profile_url": "https://search.grata.com/c/NUYD7LWS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NABDWC2H",
+"name": "SEnergy",
+"domain": "poweredbysenergy.com",
+"profile_url": "https://search.grata.com/c/NABDWC2H?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NKVPLKDL",
+"name": "CPP Wind Engineering Consultants",
+"domain": "cppwind.com",
+"profile_url": "https://search.grata.com/c/NKVPLKDL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CGBAVVAG",
+"name": "Techline, Inc.",
+"domain": "techline-inc.com",
+"profile_url": "https://search.grata.com/c/CGBAVVAG?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FHTG4V93",
+"name": "Southeast Power Corporation",
+"domain": "southeastpower.com",
+"profile_url": "https://search.grata.com/c/FHTG4V93?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6E4UYZLT",
+"name": "Pickett USA",
+"domain": "pickettusa.com",
+"profile_url": "https://search.grata.com/c/6E4UYZLT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MNFUDAWE",
+"name": "A-Rent Test Equipment",
+"domain": "a-rent.com",
+"profile_url": "https://search.grata.com/c/MNFUDAWE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "AHU7FMR7",
+"name": "Equagen Llc",
+"domain": "equagen.com",
+"profile_url": "https://search.grata.com/c/AHU7FMR7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "LGJ9SFEA",
+"name": "Incab America",
+"domain": "incabamerica.com",
+"profile_url": "https://search.grata.com/c/LGJ9SFEA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "329K3YER",
+"name": "Principleservices.Com",
+"domain": "principleservices.com",
+"profile_url": "https://search.grata.com/c/329K3YER?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MDNCYY7R",
+"name": "ASEC Engineers",
+"domain": "asec-engineers.com",
+"profile_url": "https://search.grata.com/c/MDNCYY7R?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Z59MF7CJ",
+"name": "Spartan Infrastructure, Inc.",
+"domain": "spartaninfra.com",
+"profile_url": "https://search.grata.com/c/Z59MF7CJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CJFNHVHS",
+"name": "McCord Engineering, Inc.",
+"domain": "mccordeng.com",
+"profile_url": "https://search.grata.com/c/CJFNHVHS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XXBG4ZLC",
+"name": "Watson Drill Rigs",
+"domain": "watsonusa.com",
+"profile_url": "https://search.grata.com/c/XXBG4ZLC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "V92MQNKR",
+"name": "Normandy Machine Company, Inc.",
+"domain": "normandymachine.com",
+"profile_url": "https://search.grata.com/c/V92MQNKR?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RBT79EFA",
+"name": "Knight Engineering & Construction",
+"domain": "kecinc.net",
+"profile_url": "https://search.grata.com/c/RBT79EFA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VBC5WMRA",
+"name": "Synchrogrid Limited, Llc",
+"domain": "synchrogrid.com",
+"profile_url": "https://search.grata.com/c/VBC5WMRA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S32C5EJ8",
+"name": "CHM Industries, Inc.",
+"domain": "chmindustries.com",
+"profile_url": "https://search.grata.com/c/S32C5EJ8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3WUBYMV9",
+"name": "Power Consulting Associates",
+"domain": "powerconsultingassociates.com",
+"profile_url": "https://search.grata.com/c/3WUBYMV9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "G37GQTMA",
+"name": "Energy Reps",
+"domain": "energyreps.com",
+"profile_url": "https://search.grata.com/c/G37GQTMA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZME4ZX7X",
+"name": "Butler & Land Inc",
+"domain": "butlerandland.com",
+"profile_url": "https://search.grata.com/c/ZME4ZX7X?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DP63HG5T",
+"name": "Ampjack Industries Ltd.",
+"domain": "ampjack.ca",
+"profile_url": "https://search.grata.com/c/DP63HG5T?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NUF2HFND",
+"name": "K D Johnson Inc",
+"domain": "kdjinc.com",
+"profile_url": "https://search.grata.com/c/NUF2HFND?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PVVKTTH4",
+"name": "J.H. Davidson & Associates, LLC",
+"domain": "jhdavidson.com",
+"profile_url": "https://search.grata.com/c/PVVKTTH4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RAN2W7A4",
+"name": "Sempco Surveying, Inc.",
+"domain": "sempcosurveying.com",
+"profile_url": "https://search.grata.com/c/RAN2W7A4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Q2TP44VP",
+"name": "3 Phase Technologies, LLC.",
+"domain": "3phasetech.com",
+"profile_url": "https://search.grata.com/c/Q2TP44VP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BXT5ETJY",
+"name": "EHV Solutions, LLC.",
+"domain": "ehvsolutions.com",
+"profile_url": "https://search.grata.com/c/BXT5ETJY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "W5MDH2KG",
+"name": "Center Phase Energy",
+"domain": "centerphaseenergy.com",
+"profile_url": "https://search.grata.com/c/W5MDH2KG?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4AKATT8P",
+"name": "Burns & McDonnell",
+"domain": "burnsmcd.com",
+"profile_url": "https://search.grata.com/c/4AKATT8P?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2V6VMB9G",
+"name": "O'Brien Realty Advisors LLC",
+"domain": "obrien-row.com",
+"profile_url": "https://search.grata.com/c/2V6VMB9G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GJCBEWFT",
+"name": "Laminated Wood Systems, Inc.",
+"domain": "lwsinc.com",
+"profile_url": "https://search.grata.com/c/GJCBEWFT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VZNJS4GU",
+"name": "POWER Engineers, Incorporated",
+"domain": "powereng.com",
+"profile_url": "https://search.grata.com/c/VZNJS4GU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7QQMHMV5",
+"name": "Keasler Associates",
+"domain": "keasler.com",
+"profile_url": "https://search.grata.com/c/7QQMHMV5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZJWH8Z6A",
+"name": "Utility Sales Agents of North Texas",
+"domain": "usantx.com",
+"profile_url": "https://search.grata.com/c/ZJWH8Z6A?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4A9WJRU5",
+"name": "Oberlender & Associates",
+"domain": "oberlender.com",
+"profile_url": "https://search.grata.com/c/4A9WJRU5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "82KEDUX6",
+"name": "Deloney Company",
+"domain": "deloney.com",
+"profile_url": "https://search.grata.com/c/82KEDUX6?utm_source=mcp&utm_medium=get_companies_in_list"
+}
+]
+}
