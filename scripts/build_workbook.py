@@ -416,6 +416,36 @@ for b in ORDER:
         r += 1
 widths(ws, [7,30,26,20,13,12,15,10,64,34,16,55,30])
 
+# ---------------------------------------------------------------- Conferences tab
+CONF = json.load(open('scripts/xref/conferences.json'))
+ws = wb.create_sheet('Conferences')
+ws['A1'] = 'Conference cross-reference - which events our targets attend (Grata event lists)'; ws['A1'].font = TITLE
+ws['A2'] = ('Built by feeding the P2-candidate Grata UIDs into search_conferences and intersecting each on-thesis event\'s full attendee list '
+            'with the P2 pool, all wave 1-3 candidates, and the 2,221-domain known universe (master + logs + outreach). '
+            'Attendance is corroborating trade evidence, never a bucket assignment (sourcing rule 1). '
+            'IEEE PES T&D 2024 and POWERGEN 2024 attendee lists were truncated by the API (200/1,155 and 100/595) - their intersections are understated.')
+ws['A2'].alignment = WRAP; ws['A2'].font = Font(italic=True, size=9)
+header(ws, 4, ['Event','Dates','Location','Total attending cos.','P2s attending','All-wave candidates','Master universe','P2 attendees (name, bucket, wave)','Event site','Grata attendee list'])
+r = 5
+for e in CONF['events']:
+    when = '%s to %s' % (e.get('start_date') or '?', e.get('end_date') or '?')
+    loc = ', '.join(x for x in [e.get('city'), e.get('state')] if x)
+    p2names = '; '.join('%s (%s, %s)' % (a['name'], a['bucket'], a['wave']) for a in e['p2_attending'])
+    row = [e['name'], when, loc, e.get('company_count'), len(e['p2_attending']), e.get('candidates_attending_count'),
+           e.get('master_attending_count'), p2names or '-', e.get('source_link') or '', e.get('grata_url') or '']
+    for i,x in enumerate(row,1):
+        cell = ws.cell(row=r, column=i, value=x); cell.alignment = WRAP; cell.border = THIN
+    if len(e['p2_attending']) >= 10:
+        for i in range(1, 11): ws.cell(row=r, column=i).fill = AMBER
+    ws.row_dimensions[r].height = 60
+    r += 1
+r += 1
+ws.cell(row=r, column=1, value='Discarded off-thesis events (%d - full reasons in scripts/xref/conferences.json): %s' % (
+    len(CONF['discarded_events']), '; '.join(x['name'] for x in CONF['discarded_events'][:20]) + (' ...' if len(CONF['discarded_events'])>20 else ''))).font = Font(italic=True, size=9)
+ws.cell(row=r, column=1).alignment = WRAP
+ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=10); ws.row_dimensions[r].height = 40
+widths(ws, [40,20,18,14,12,14,12,80,28,28])
+
 wb.save(OUT)
 print('wrote', OUT)
 print('DQ rows:', dq_n, '| new candidates:', tot['n'])
