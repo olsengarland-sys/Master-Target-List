@@ -552,3 +552,76 @@ widths(ws, [34,30,60,14,11,10,70,4])
 wb.save(OUT)
 print('wrote', OUT)
 print('DQ rows:', dq_n, '| new candidates:', tot['n'])
+
+# ---------------------------------------------------------------- Contacts
+# Owner-level contact enrichment (Inven get_company_contacts, Grata fallback).
+# Client needs three fields only: owner email, mobile phone, postal address.
+import os
+_CPATH = 'scripts/contacts/owner_contacts_wave123.json'
+_MPATH = 'scripts/contacts/mainline_map.json'
+if os.path.exists(_CPATH):
+    CON = json.load(open(_CPATH))
+    ADDR = json.load(open(_MPATH))['companies'] if os.path.exists(_MPATH) else {}
+
+    def _best_email(c):
+        # verified professional beats verified personal beats anything else
+        es = c.get('emails') or []
+        rank = lambda e: (not e.get('is_verified'), e.get('type') != 'professional')
+        es = sorted(es, key=rank)
+        return es[0]['email'] if es else None
+
+    def _phones_by_type(c, t):
+        return [p['number'] for p in (c.get('phones') or []) if p.get('type') == t]
+
+    rows = []
+    for dom, v in CON['companies'].items():
+        cs = v.get('contacts') or []
+        if not cs:
+            rows.append({'dom': dom, 'v': v, 'c': None, 'mob': [], 'dd': [], 'off': [], 'em': None})
+            continue
+        for c in cs:
+            rows.append({'dom': dom, 'v': v, 'c': c,
+                         'mob': _phones_by_type(c, 'mobile'),
+                         'dd':  _phones_by_type(c, 'direct dial'),
+                         'off': _phones_by_type(c, 'office'),
+                         'em':  _best_email(c)})
+    # most actionable first: has mobile, then direct dial, then email only
+    rows.sort(key=lambda r: (not r['mob'], not r['dd'], not r['em'],
+                             str(r['v'].get('priority') or 'P9'), r['dom']))
+
+    ws = wb.create_sheet('Contacts')
+    ws.cell(row=1, column=1, value='OWNER CONTACTS - enrichment output').font = TITLE
+    n_mob = sum(1 for r in rows if r['mob'])
+    ws.cell(row=2, column=1, value=(
+        '%d companies attempted, %d returned an owner-level contact, %d carry a MOBILE number. '
+        'Inven contact credits spent: %d. Phone types are as the provider labelled them - "mobile" is the '
+        'cell, "direct dial" is a personal desk line, "office" is the company mainline and is NOT a cell. '
+        'Misses cost nothing: a title-filter miss means the provider held only non-owner staff.'
+        % (CON['attempted'], CON['with_contacts'], n_mob, CON['credits_used'])
+    )).alignment = WRAP
+    ws.row_dimensions[2].height = 42
+    r = 4
+    header(ws, r, ['Company', 'Domain', 'Owner / contact', 'Title', 'MOBILE', 'Direct dial',
+                   'Office (mainline - not a cell)', 'Email', 'Postal address', 'Bucket',
+                   'Campaign', 'Priority', 'Status / note'])
+    r += 1
+    for x in rows:
+        v, c = x['v'], x['c']
+        addr = (ADDR.get(x['dom']) or {}).get('street_address') or '[unknown]'
+        vals = [v.get('name') or '[unknown]', x['dom'],
+                (c or {}).get('name') or '[unknown]', (c or {}).get('title') or '[unknown]',
+                ', '.join(x['mob']) or '[unknown]', ', '.join(x['dd']) or '[unknown]',
+                ', '.join(x['off']) or '', x['em'] or '[unknown]', addr,
+                v.get('bucket') or '', v.get('campaign') or '', v.get('priority') or '',
+                v.get('error') or ('REPLIED - active conversation' if v.get('replied') else 'contact found')]
+        for i, val in enumerate(vals, 1):
+            ws.cell(row=r, column=i, value=val).alignment = WRAP
+        if x['mob']:
+            ws.cell(row=r, column=5).fill = PatternFill('solid', fgColor='E2EFDA')  # green = actionable cell
+        elif x['off'] and not x['dd']:
+            for i in range(1, 14): ws.cell(row=r, column=i).fill = AMBER  # mainline only - needs cell pass
+        ws.row_dimensions[r].height = 26
+        r += 1
+    widths(ws, [30, 26, 20, 30, 18, 18, 20, 32, 44, 8, 22, 8, 34])
+    wb.save(OUT)
+    print('Contacts tab:', len(rows), 'rows |', n_mob, 'with mobile')
