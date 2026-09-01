@@ -40,6 +40,9 @@ GATES = [
   r'|((test|measurement) (equipment|instrument)s? (sales|rental|supplier))',
   'manufacturer (self)'),
  (r'dealership|retail .{0,20}dealer', 'vehicle dealership'),
+ (r'cathodic protection|corrosion control', 'cathodic/corrosion (validated off-thesis 2026-09-01)'),
+ (r'safety (products|training|consulting)|electrical safety training', 'safety products/training (validated DQ 2026-09-01)'),
+ (r'warranty recovery|repair management compan', 'warranty-recovery admin (validated DQ 2026-09-01)'),
  (r'\bplumbing\b|\bhvac\b|tree service|arboricultural|roofing', 'off-trade (plumbing/HVAC/roofing/tree)'),
 ]
 MODEL = r'(maintenance|service|testing|repair|commissioning|troubleshoot|preventive|preventative|predictive|emergency|24/7|24 hour|24-hour|rewind|retrofit|inspection|calibration|restoration)'
@@ -70,7 +73,15 @@ def triage(r):
     if emp is not None and isinstance(emp, (int, float)) and emp < 10 and not (rev and 5_000_000 <= rev <= 50_000_000):
         return 'Nurture-candidate', ('under ~10 employees with model language' if has_model else 'under ~10 employees') + ' (client rule: headcount only gates when revenue is undeterminable)' + flag
     if has_model and rev and 5_000_000 <= rev <= 50_000_000:
-        return 'P2-candidate', 'service/maintenance/testing language; revenue est. in $5-50M box' + flag
+        if emp:
+            implied_lo, implied_hi = emp * 200_000, emp * 350_000
+            if implied_lo > 50_000_000 or implied_hi < 5_000_000:
+                return 'P3-candidate', ('SIZE CONFLICT: revenue est. $%.1fM is in box but headcount %d implies $%.1f-%.1fM '
+                    '(sec-3.4 band $200-350K/emp). Validated 2026-09-01: revenue estimates cannot carry the size call alone; '
+                    'verify before promoting.' % (rev/1e6, emp, implied_lo/1e6, implied_hi/1e6)) + flag
+            if rev / emp > 700_000:
+                flag += ' | SIZE WARNING: implied $%.0fK revenue/employee exceeds $700K - estimate likely inflated' % (rev/emp/1e3)
+        return 'P2-candidate', 'service/maintenance/testing language; revenue est. in $5-50M box' + ('; headcount-implied band consistent' if emp else '; no headcount to cross-check') + flag
     if has_model:
         if rev and rev < 5_000_000: note = 'model language present; revenue est. below $5M box'
         elif rev and rev > 50_000_000: note = 'model language present; revenue est. above $50M box'
