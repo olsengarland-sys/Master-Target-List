@@ -425,7 +425,29 @@ ws['A2'] = ('Which upcoming events our targets attend. 2027 editions mostly have
             'NETA PowerTest, LPI, TSDOS and USMA 2027 editions are not yet in Grata\'s index (gap, not cancellation). '
             'Attendance is corroborating trade evidence, never a bucket assignment (sourcing rule 1).')
 ws['A2'].alignment = WRAP; ws['A2'].font = Font(italic=True, size=9)
-header(ws, 4, ['Event','Dates','Location','Roster size','P2s attending now','P2 names (bucket, wave)','Prior-edition evidence','Master targets','All-wave candidates','Event site','Grata attendee list'])
+AUDIT = json.load(open('scripts/xref/conference_roster_audit.json'))
+def _audit_for(name, grata_url):
+    import re as _re
+    # 1. match by event id embedded in the audit's future_event string
+    m = _re.search(r'/([A-Z0-9]{8})\?', grata_url or '') or _re.search(r'lists/([A-Z0-9]{8})', grata_url or '')
+    if m:
+        for a in AUDIT['events']:
+            if m.group(1) in a['future_event']: return a
+    # 2. fuzzy: squash to alphanumerics and test containment on distinctive stems
+    def sq(x): return _re.sub(r'[^a-z0-9]', '', x.lower())
+    key = sq(_re.sub(r'\(.*?\)|CURRENT roster|- .*$', '', name))
+    for a in AUDIT['events']:
+        ak = sq(_re.sub(r'\(.*?\)|- CURRENT roster.*$|, [A-Za-z ]+\(', '', a['future_event']))
+        if ak and key and (ak in key or key in ak or ak[:24] == key[:24]): return a
+    # 3. token overlap on year + one distinctive word
+    yr = _re.search(r'20\d\d', name)
+    words = set(w for w in _re.findall(r'[a-z]{5,}', name.lower()) if w not in ('conference','convention','trade','annual','association','exposition'))
+    for a in AUDIT['events']:
+        if yr and yr.group(0) not in a['future_event']: continue
+        aw = set(_re.findall(r'[a-z]{5,}', a['future_event'].lower()))
+        if len(words & aw) >= 2: return a
+    return None
+header(ws, 4, ['Event','Dates','Location','VERDICT (roster audit)','% target-profile in prior roster','Already-known in room','Net-new discoveries','P2s attending now','Prior-edition evidence','Audit caveat','Event site','Grata attendee list'])
 r = 5
 for e in CONF['events']:
     when = '%s to %s' % (e.get('start_date') or '?', e.get('end_date') or '?')
@@ -433,20 +455,37 @@ for e in CONF['events']:
     p2names = '; '.join('%s (%s, %s)' % (a['name'], a['bucket'], a['wave']) for a in e['p2_attending'])
     pe = e.get('prior_edition_evidence')
     petxt = ('%s: %s P2, %s master' % (pe.get('edition'), pe.get('p2_count'), pe.get('master_count'))) if pe else '-'
-    row = [e['name'], when, loc, e.get('company_count'), len(e['p2_attending']), p2names or '-', petxt,
-           e.get('master_attending_count'), e.get('candidates_attending_count'), e.get('source_link') or '', e.get('grata_url') or '']
+    a = _audit_for(e['name'], e.get('grata_url'))
+    comp = (a or {}).get('composition') or {}
+    tp = comp.get('target_profile'); rs = (a or {}).get('roster_size')
+    pct = ('%.0f%%' % (100.0*tp/rs)) if (tp is not None and rs) else '-'
+    row = [e['name'], when, loc, (a or {}).get('verdict') or '-', pct,
+           comp.get('already_known') if comp else '-', (a or {}).get('net_new_count') if a else '-',
+           len(e['p2_attending']), petxt, ('; '.join((a or {}).get('caveats') or [])[:200]) if a else '',
+           e.get('source_link') or '', e.get('grata_url') or '']
     for i2,x in enumerate(row,1):
         cell = ws.cell(row=r, column=i2, value=x); cell.alignment = WRAP; cell.border = THIN
-    if (len(e['p2_attending']) >= 2) or (pe and (pe.get('p2_count') or 0) >= 10):
-        for i2 in range(1, 12): ws.cell(row=r, column=i2).fill = AMBER
+    v = (a or {}).get('verdict') or ''
+    if v == 'STRONG GO':
+        for i2 in range(1, 13): ws.cell(row=r, column=i2).fill = AMBER
+    elif v.startswith('SKIP'):
+        for i2 in range(1, 13): ws.cell(row=r, column=i2).fill = RED
     ws.row_dimensions[r].height = 42
     r += 1
 r += 1
+ws.cell(row=r, column=1, value=('ROSTER AUDIT: prior-edition rosters were pulled in full (free) and every company classified. %d net-new target-profile companies were '
+    'discovered from rosters alone (largest hauls: EASA 54, NECA family ~45, NRECA/Expo ~25) - names with rationale in scripts/xref/conference_roster_audit.json; '
+    'they need description-driven triage before entering any list (rule 1) and are NOT deduped against the Dealbuff list (rule 7). '
+    'NECA rosters are exhibitor halls, so their low target-percent understates owner density on the floor. '
+    'Grata now hard-caps list reads at 500 rows (large-company-first), so mega-show tails are systematically unseen.') % AUDIT['net_new_total']).font = Font(size=9)
+ws.cell(row=r, column=1).alignment = WRAP; ws.cell(row=r, column=1).fill = AMBER
+ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=12); ws.row_dimensions[r].height = 60
+r += 2
 ws.cell(row=r, column=1, value='Discarded off-window or off-thesis events (%d - reasons in scripts/xref/conferences_forward.json): %s' % (
     len(CONF['discarded_events']), '; '.join(x['name'] for x in CONF['discarded_events'][:14]))).font = Font(italic=True, size=9)
 ws.cell(row=r, column=1).alignment = WRAP
-ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=11); ws.row_dimensions[r].height = 36
-widths(ws, [38,20,17,11,11,54,26,11,12,26,26])
+ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=12); ws.row_dimensions[r].height = 36
+widths(ws, [38,19,16,14,12,11,11,10,24,46,24,24])
 
 # ---------------------------------------------------------------- M&A intel tab
 MA = json.load(open('scripts/xref/ma_intel.json'))
