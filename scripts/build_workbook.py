@@ -446,6 +446,68 @@ ws.cell(row=r, column=1).alignment = WRAP
 ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=10); ws.row_dimensions[r].height = 40
 widths(ws, [40,20,18,14,12,14,12,80,28,28])
 
+# ---------------------------------------------------------------- M&A intel tab
+MA = json.load(open('scripts/xref/ma_intel.json'))
+ws = wb.create_sheet('M&A intel')
+ws['A1'] = 'M&A intelligence - transactions, live deals, bankers, buyers (Grata, as of %s)' % MA['as_of']; ws['A1'].font = TITLE
+r = 3
+def block(title):
+    global r
+    ws.cell(row=r, column=1, value=title).font = TITLE; r += 1
+def note(txt, fill=None, h=40):
+    global r
+    c = ws.cell(row=r, column=1, value=txt); c.alignment = WRAP; c.font = Font(size=9)
+    if fill: c.fill = fill
+    ws.merge_cells(start_row=r, start_column=1, end_row=r, end_column=8); ws.row_dimensions[r].height = h
+    r += 1
+
+block('1. CLOSED TRANSACTIONS')
+note('Universe: %d US electrical-contractor deals in 5 years; %d US industrial-repair deals in 3 years. %s'
+     % (MA['transactions']['universe']['electrical_contractors_5yr_US'], MA['transactions']['universe']['industrial_repair_3yr_US'], MA['transactions']['multiples_note']), AMBER, 55)
+header(ws, r, ['Target','Buyer','Date','EV','EV/EBITDA','EV/Rev','Note','']); r += 1
+for t in MA['transactions']['disclosed_multiples']:
+    row = [t['target'], t['buyer'], t['date'], '$%.1fM' % (t['ev']/1e6), t.get('ev_ebitda') or '', t.get('ev_rev') or '', t.get('note',''), '']
+    for i,x in enumerate(row,1): ws.cell(row=r, column=i, value=x).alignment = WRAP
+    r += 1
+r += 1
+ws.cell(row=r, column=1, value='Notable recent deals (consolidator activity):').font = BOLD; r += 1
+for t in MA['transactions']['notable_recent']:
+    note('%s <- %s (%s, %s): %s' % (t['target'], t['buyer'], t['date'], t['type'], t['note']), None, 26)
+r += 1
+block('2. LIVE DEALS - businesses on the market now')
+header(ws, r, ['Mandate','Revenue','EBITDA','Ask / multiple','Advisor','Verified','Read','']); r += 1
+for m in MA['live_deals']:
+    ask = ('$%.1fM' % (m['ask']/1e6) if m.get('ask') else '') + ((' / %.1fx' % m['ask_multiple']) if m.get('ask_multiple') else '')
+    row = [m['name'], '$%.1fM' % (m['rev']/1e6), '$%.2fM' % (m['ebitda']/1e6), ask or '[unknown]', m.get('advisor',''), 'yes' if m.get('verified') else '', m['read'], '']
+    for i,x in enumerate(row,1):
+        cell = ws.cell(row=r, column=i, value=x); cell.alignment = WRAP
+    if 'IN BOX' in m['read']:
+        for i in range(1,9): ws.cell(row=r, column=i).fill = AMBER
+    ws.row_dimensions[r].height = 40
+    r += 1
+note(MA['ask_multiple_read'], AMBER, 30)
+r += 1
+block('3. BANKERS - who sells these businesses')
+header(ws, r, ['Firm','Domain / evidence','Why relevant','','','','','']); r += 1
+for b in MA['bankers']['sector_specialists']:
+    for i,x in enumerate([b['name'], b['domain'] + ' (' + b['hq'] + ')', b['why'],'','','','',''],1): ws.cell(row=r, column=i, value=x).alignment = WRAP
+    ws.row_dimensions[r].height = 28; r += 1
+for b in MA['bankers']['deal_evidenced']:
+    for i,x in enumerate([b['name'], 'deal-evidenced', b['evidence'],'','','','',''],1): ws.cell(row=r, column=i, value=x).alignment = WRAP
+    ws.row_dimensions[r].height = 24; r += 1
+r += 1
+block('4. BUYERS - the consolidator map')
+note(MA['buyers']['read'], AMBER, 45)
+ws.cell(row=r, column=1, value='PE sponsors with LMM electrical mandates (%d total; top by matching portfolio cos):' % MA['buyers']['pe_universe_count']).font = BOLD; r += 1
+for b in MA['buyers']['pe_sponsors_lmm']:
+    for i,x in enumerate([b['name'], 'portfolio matches: %d' % b['matching_portfolio'], b.get('note',''),'','','','',''],1): ws.cell(row=r, column=i, value=x).alignment = WRAP
+    ws.row_dimensions[r].height = 22; r += 1
+ws.cell(row=r, column=1, value='Strategic acquirers (%d in universe; most active):' % MA['buyers']['strategic_universe_count']).font = BOLD; r += 1
+for b in MA['buyers']['strategics']:
+    for i,x in enumerate([b['name'], 'portfolio matches: %d' % b['matching_portfolio'], b.get('note',''),'','','','',''],1): ws.cell(row=r, column=i, value=x).alignment = WRAP
+    ws.row_dimensions[r].height = 22; r += 1
+widths(ws, [34,30,60,14,11,10,70,4])
+
 wb.save(OUT)
 print('wrote', OUT)
 print('DQ rows:', dq_n, '| new candidates:', tot['n'])
