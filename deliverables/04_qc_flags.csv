@@ -1,0 +1,186 @@
+flag,domain,company,contact,title,detail,priority,campaign
+WRONG-ENTITY / NON-US - do not call unverified,petrellielectr.wpengine.com,"Petrelli Electric, INC",,,likely wrong match - returned a marketing-agency founder at aclipsemarketing.net (Orlando FL); the wpengine.com staging domain is not the real company domain. Find Petrelli Electric real domain before retrying.,P3-candidate,
+WRONG-ENTITY / NON-US - do not call unverified,sls-us.com,"Scientific Lightning Solutions, LLC",,,caution: phone set includes Panama (+507) and Brazil (+55) numbers and slplighting.com email guesses - contact may span multiple entities; verify the US mobiles,P3-candidate,
+WRONG-ENTITY / NON-US - do not call unverified,powerquality.org,Power Quality Inc,,,likely wrong match / non-US: contact location Bangkok Thailand with a powerquality.co.th email and +66 line; may be a Thai affiliate rather than the US target. Verify.,P3-candidate,
+WRONG-ENTITY / NON-US - do not call unverified,conduxtesmec.com,"Condux Tesmec, Inc.",,,Italy (Bergamo) - likely wrong match for US entity; office line only; all emails unverified,P3-candidate,
+WRONG-ENTITY / NON-US - do not call unverified,tcongrp.com,Technical Consulting Group,,,"office line only; profile location Mannheim, Germany - verify entity match",P3-candidate,
+WRONG-ENTITY / NON-US - do not call unverified,e-hazard.com,e-Hazard,,,"Tunisia - likely wrong match, junk profile; office line only; all emails unverified. Also an electrical-safety training firm = repo DQ pattern",P3-candidate,
+WRONG-ENTITY / NON-US - do not call unverified,bxperts.com,bXperts,,,Dominican Republic (Santo Domingo) - likely wrong match / non-US entity for a US target,P3-candidate,
+WRONG-ENTITY / NON-US - do not call unverified,mossandmoss.com,Moss Electric,,,WARNING possible wrong company: provider returned Moss and Moss LLP law firm NY; named target Jeff Moss not returned,ben-B,Commercial & Industrial Contractors
+WRONG-ENTITY / NON-US - do not call unverified,prenergy.com,"Prenergy Services, LLC",,,"WARNING Venezuela-based contacts, likely wrong company match; no verified emails",campaign-Nurture,Commercial & Industrial Ctrs
+WRONG-ENTITY / NON-US - do not call unverified,pgdservices.com,Power Generation & Distribution Services,,,"WARNING India-based contact, likely wrong company match",campaign-Nurture,Testing & Commissioning
+WRONG-ENTITY / NON-US - do not call unverified,excelltdinc.com,Excel Ltd. Inc.,,,only verified email is personal and name-mismatched (Andrew) - verify,campaign-Nurture,Electrical Equipment Mfg
+WRONG-ENTITY / NON-US - do not call unverified,conreyelectric.com,Conrey Electric,,,"OWNERSHIP FLAG: alt emails on teamshares.com - possible Teamshares acquisition, verify before outreach",campaign-Nurture,Motor & Generator Companies
+WRONG-ENTITY / NON-US - do not call unverified,flamtech-energy.com,Flamtech Technologies,,,no phone; non-owner title; contact in Venezuela - likely wrong match,campaign-Nurture,Mission critical power
+WRONG-ENTITY / NON-US - do not call unverified,avsengineering.net,AVS Engineering,,,"likely wrong-person match (India-based, Self Employed)",campaign-Nurture,Motor & Generator Companies
+WRONG-ENTITY / NON-US - do not call unverified,escventura.com,Electrical Solutions Corp,,,"named-mode mismatch: returned a UK Simon King at Arup, not the ESC Ventura owner; office line only",campaign-Nurture,Commercial & Industrial Ctrs
+WRONG-ENTITY / NON-US - do not call unverified,secucontrol.com,SecuControl,,,office line only; Germany-based contact,campaign-Nurture,Electrical Equipment Mfg
+WRONG-ENTITY / NON-US - do not call unverified,aclightningprotection.com,"A/C Lightning Protection, Inc.",,,likely wrong match - returned person is a Scooters Coffee franchise owner in Omaha NE with all verified emails on scooterscoffee.com; only aclightningprotection.com email is unverified/Very bad. Do not use without web verification.,campaign-Nurture,Lightning Protection
+WRONG-ENTITY / NON-US - do not call unverified,ikpower.com,"IK Power System Solutions, Inc.",,,"title mismatch: provider returns Project Manager, work list had Owner; domain/initials/New Orleans location consistent so likely same person - verify title",campaign-Nurture,Power Systems Engineering
+WRONG-ENTITY / NON-US - do not call unverified,lighthouseelec.com,Lighthouse Electrical,,,"Liberia location, no verified emails, office line only",campaign-P2,Commercial & Industrial Ctrs
+WRONG-ENTITY / NON-US - do not call unverified,rselectriccorp.com,R/S Electric Corp.,,,title says Retired - verify current role,campaign-P2,Commercial & Industrial Ctrs
+WRONG-ENTITY / NON-US - do not call unverified,rcgint.com,RCG International,,,"office line only; Lebanon-based record, likely wrong entity",campaign-P2,Commercial & Industrial Ctrs
+WRONG-ENTITY / NON-US - do not call unverified,emc-co.com,"Electric Motor & Contracting Co., Inc",,,"office line only; Myanmar-located record, verify identity",campaign-P2,Motor & Generator Companies
+WRONG-ENTITY / NON-US - do not call unverified,jenkinselectric.com,Jenkins Electric Company,,,"no phone, no verified email; LinkedIn record shows UK location - verify",campaign-P2,Motor & Generator Companies
+WRONG-ENTITY / NON-US - do not call unverified,ppultd.co.uk,Premium Power Units Ltd.,,,office line only; UK company - likely out of US thesis scope,campaign-P2,Motor & Generator Companies
+WRONG-ENTITY / NON-US - do not call unverified,ldpassociates.com,LDP Associates,,,"office line only; India-located record, likely wrong entity",campaign-P2,Mission critical power
+WRONG-ENTITY / NON-US - do not call unverified,tlselectric.com,Tls Electric,,,no phone; contact located UK - possible wrong match,campaign-P2,Commercial & Industrial Ctrs
+WRONG-ENTITY / NON-US - do not call unverified,americanenergy.us,North American Energy Services Company,,,no email or phone; non-owner title; contact in Mexico - likely wrong match,campaign-P2,Utility Line & Substation
+WRONG-ENTITY / NON-US - do not call unverified,pointonwave.com,Point On Wave,,,office line only; contact located Canada - verify US operations,campaign-P2,Testing & Commissioning
+WRONG-ENTITY / NON-US - do not call unverified,djselectrical.com,Dj Electrical,,,"office line only; non-owner title (Administrator), likely wrong-person match (Australia)",campaign-P2,Utility Line & Substation
+WRONG-ENTITY / NON-US - do not call unverified,moodyselectricinc.godaddysites.com,Moody's Electric,,,"bad match - returned a GoDaddy employee, site is a godaddysites.com subdomain",campaign-P2,Commercial & Industrial Ctrs
+WRONG-ENTITY / NON-US - do not call unverified,iemsbr.com,"Industrial Electric Motor Service, Inc.",,,"bad match - returned an India-based self-employed profile, not the owner",campaign-P2,Motor & Generator Companies
+WRONG-ENTITY / NON-US - do not call unverified,janda.com,Janda Motor Services,,,"bad match - returned an Indonesia-based profile, not the US company owner",campaign-P2,Motor & Generator Companies
+WRONG-ENTITY / NON-US - do not call unverified,alfatransformer.com,Alfa Transformer,,,office line only; contact located India - likely wrong match,campaign-P3,Electrical Equipment Mfg
+WRONG-ENTITY / NON-US - do not call unverified,castrejoninc.com,Castrejon Incorporated,,,"bad match - Panama-based profile, not the US owner",campaign-P3,Utility Line & Substation
+WRONG-ENTITY / NON-US - do not call unverified,dynamicelectric.com,"Dynamic Electric, Inc.",,,"no verified company-domain email; contact in Greenville SC but office line is Illinois area code 708 - possible entity mismatch, verify",master-P1,
+WRONG-ENTITY / NON-US - do not call unverified,ditrol.com,Di-Trol Systems Inc.,,,NAME MISMATCH: contact is Bill Pugh (Owner) but the only email returned belongs to Lisa Schonefeld - do not use as Pugh's address; no phone,master-P2,
+WRONG-ENTITY / NON-US - do not call unverified,hvserviceinc.com,High Voltage Service,,,"UK (London), Chartered Accountant title - likely wrong match for US target; no phone; email unverified",master-P2,
+possible undisclosed parent,americanscii.com,American System Controls & Integration Inc.,Jeffrey Miller,Automation Manager,sconzacandy.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,americanscii.com,American System Controls & Integration Inc.,Jeffrey Miller,Automation Manager,sconza.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,aarowelectricalsolutions.com,Aarow Electrical Solutions,Dave Bastain,Vice President of Operations,aarow-llc.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,pqsmc.com,PQS Mission Critical,Kyle Gunn,President,pqsgg.com,campaign-P2,Mission critical power
+possible undisclosed parent,s1inc.co,Service One,Joy Brandon Vaulton,President,serviceonecontracting.com,ben-A,Commercial & Industrial Contractors
+possible undisclosed parent,prolinepwr.com,"Proline Power, LLC.",Jack Jurovaty,Chief Executive Officer,ibew.org,campaign-Nurture,Utility Line & Substation
+possible undisclosed parent,polelinecontractorsinc.com,Pole Line Contractors,Jeffrey Meyer,President,pioneertechsolutions.com,campaign-Nurture,Utility Line & Substation
+possible undisclosed parent,cates.com,Cates Control Systems,Jerry Smith,Owner,i2r.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,cates.com,Cates Control Systems,Chris Smith,President,i2r.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,aye-inc.com,"Allen Yoho Electrical, Inc.",John Morris,President,allenyoho.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,electricinnovations.com,Electric Innovations Inc.,Marc Catalano,Chief Financial Officer,energyinnovations.com,campaign-P3,Commercial & Industrial Ctrs
+possible undisclosed parent,scottarm.com,"Scott Armature, LLC",Scott Key,Owner & President,kencoil.com,campaign-P2,Motor & Generator Companies
+possible undisclosed parent,ppultd.co.uk,Premium Power Units Ltd.,Paul Elliott,Branch Manager,premiumpowerunits.co.uk,campaign-P2,Motor & Generator Companies
+possible undisclosed parent,ram-tek.com,RAMTEK - Mission Critical Solutions,Matthew Ramadanovic,Owner,yale.edu,campaign-P2,Mission critical power
+possible undisclosed parent,globalpowergroup.com,"Global Power Group, Inc.",Salvatore Martorana,President,gpgpower.com,campaign-P2,Mission critical power
+possible undisclosed parent,globalpowergroup.com,"Global Power Group, Inc.",Terry Mammen,Chief Executive Officer,gpgpower.com,campaign-P2,Mission critical power
+possible undisclosed parent,solutionservicescorp.com,Solution Services Corp.,Jacob Black,Project Manager,ss-mec.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,ipspumpservice.com,"IPS Pump Services, Inc.",Craig McBride,General Manager,ipsincusa.com,campaign-P2,Motor & Generator Companies
+possible undisclosed parent,greatplainstechnicalservices.com,Great Plains Technical Service,Bruce Schumaker,Owner,gptsinc.com,campaign-Nurture,Motor & Generator Companies
+possible undisclosed parent,ancoholdings.com,Anco,Mike Young,Founder and CEO,ancounderground.com,campaign-P3,Utility Line & Substation
+possible undisclosed parent,lionheartpower.com,LionHeart Critical Power Specialists,Mike Hunter,Owner,lhcps.com,campaign-P2,Mission critical power
+possible undisclosed parent,triunenc.com,"Triune Electric, Inc.",Justin Hunt,Shop Manager For Control Panel Fabrication Facility,ias-nc.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,sgiwv.com,"Specialty Groups, Inc",James Herron,President,specialtygroups.com,campaign-P3,Commercial & Industrial Ctrs
+possible undisclosed parent,lakecityelectric.net,Lake City Electric,Joe Frye,President,ftc-i.net,campaign-Nurture,Motor & Generator Companies
+possible undisclosed parent,darbyelectric.com,Darby Electric,Marc Darby,Owner & President,darbydfw.com,campaign-P2,Motor & Generator Companies
+possible undisclosed parent,moleymagneticsinc.com,"Moley Magnetics, Inc.",Katie Hurley,Chief Executive Officer,moleyinc.com,campaign-P3,Motor & Generator Companies
+possible undisclosed parent,sloanelectric.com,Sloan Electric,Jerry Gray,Co-Owner,san.rr.com,campaign-Nurture,Motor & Generator Companies
+possible undisclosed parent,angielecc.com,Angiel Electrical Construction,Zach Atkinson,Executive Vice President,csecre.com,campaign-P2,Commercial & Industrial Ctrs
+possible undisclosed parent,vibrationengineers.com,Vibration Engineers,Jon Thornham,Founder,flocycling.com,campaign-Nurture,Motor & Generator Companies
+possible undisclosed parent,automatedpower.com,"UPS Protection, Inc.",Dan Coffman,CEO,upsprotection.com,campaign-P3,Mission critical power
+possible undisclosed parent,trcinc.net,Technology Resource Center,Anthony Chavez,Chief Financial Officer,trcmail.net,P3-candidate,
+possible undisclosed parent,tidaltimesolutions.com,Tidal Time Solutions,Adam Freihofer,Founder,microsoft.com,campaign-P3,Mission critical power
+possible undisclosed parent,aclightningprotection.com,"A/C Lightning Protection, Inc.",Rusty Smith,Scooters Coffee Multi-Franchise Owner (NOT AC Lightning Protection),scooterscoffee.com,campaign-Nurture,Lightning Protection
+possible undisclosed parent,lpsnet.com,"Lightning Prevention Systems, Inc",Ian Fawthrop,President,worldnet.att.net,campaign-Nurture,Lightning Protection
+possible undisclosed parent,arrowheadline.com,Arrowhead Line,Josh Gresham,CEO,pinnacletransition.com,P3-candidate,
+possible undisclosed parent,petrellielectr.wpengine.com,"Petrelli Electric, INC",James Stillwell,Founder / SVP Events and Experiential Marketing,aclipsemarketing.net,P3-candidate,
+possible undisclosed parent,ev-edison.com,EV Edison,David Daly,President,milhouseinc.com,P3-candidate,
+possible undisclosed parent,rcswv.com,"Roberts Corrosion Services, LLC",Michael Roberts,Business Owner,robertscorrosionservices.com,P3-candidate,
+possible undisclosed parent,otmlocating.com,"On The Mark Utility Locating Services, Inc.",John Bryant,Partner and General Manager,rochester.rr.com,P3-candidate,
+possible undisclosed parent,nationalcarcharging.com,National Car Charging,Jim Burness,CEO and GM,alohacharge.com,campaign-Nurture,EV Charging
+contact is not a decision maker,crowneram.com,,Robert Spajer,Chief Financial Officer,,campaign-P2,
+contact is not a decision maker,americanscii.com,,Kevin Swier,Engineering Manger and CFO,,campaign-P2,
+contact is not a decision maker,americanscii.com,,Jeffrey Miller,Automation Manager,,campaign-P2,
+contact is not a decision maker,electricmotorservices.net,,Rande Livengood,Plant Manager,,campaign-P2,
+contact is not a decision maker,ucspower.com,,Lauren Doiron,Business Manager,,P2-candidate,
+contact is not a decision maker,ucspower.com,,Nestor Castellanos,General Superintendent,,P2-candidate,
+contact is not a decision maker,pagoda-electrical.com,,Marci Mayer,Chief Financial Officer,,campaign-P2,
+contact is not a decision maker,mid-southelectric.net,,Demario Leakes,Service Manager,,campaign-P2,
+contact is not a decision maker,blountelectrical.com,,Matt Marshall,CFO,,ben-A,
+contact is not a decision maker,cawtn.com,,Kristie Firman,Shop Manager,,ben-A,
+contact is not a decision maker,s1inc.co,,Tim Mounger,Chief Financial Officer,,ben-A,
+contact is not a decision maker,tristateec.com,,Scott McCoy,CFO,,ben-A,
+contact is not a decision maker,prenergy.com,,Elbano Provenzali,Gerente de Gestion de Proyectos,,campaign-Nurture,
+contact is not a decision maker,prenergy.com,,Carlos Rodriguez,Project Manager,,campaign-Nurture,
+contact is not a decision maker,rscelectrical.com,,Mike Merantza,Electrical Service Director,,campaign-Nurture,
+contact is not a decision maker,northstarpowerinc.com,,Ronna M.,Business Office Manager,,campaign-Nurture,
+contact is not a decision maker,gstpowerservice.com,,Lori Haynes,Business Manager,,campaign-Nurture,
+contact is not a decision maker,pgdservices.com,,Erica Irby,Chief Financial Officer,,campaign-Nurture,
+contact is not a decision maker,ehvconstruction.com,,Ty Gray,General Foreman,,campaign-Nurture,
+contact is not a decision maker,fuimuscompanies.com,,Jonathan Strickland,Construction Manager,,campaign-Nurture,
+contact is not a decision maker,ipatlantic.com,,Jeffry Cusatis,General Foreman,,campaign-Nurture,
+contact is not a decision maker,ipatlantic.com,,Jimmie Olds,Construction Manager,,campaign-Nurture,
+contact is not a decision maker,statelineusa.com,,Greg Smith,Foreman,,campaign-Nurture,
+contact is not a decision maker,ajgoulderelectric.com,,Chris Carlson,Electrical Estimator and Service Manager,,campaign-P2,
+contact is not a decision maker,bandhelectric.com,,Matthew Haney,Electrical Contractor,,campaign-P2,
+contact is not a decision maker,cpmelectric.com,,Marjorie Sutherland,Administrator,,campaign-P2,
+contact is not a decision maker,flemingtoninstrument.com,,Ron Falkenstein,Service Manager,,campaign-P2,
+contact is not a decision maker,gulfelec.com,,Rick Sommer,General Foreman,,campaign-P3,
+contact is not a decision maker,powertekllc.com,,David White,General Superintendent,,campaign-Nurture,
+contact is not a decision maker,electricinnovations.com,,Marc Catalano,Chief Financial Officer,,campaign-P3,
+contact is not a decision maker,groveselectric.com,,Maria Groves,Chief Financial Officer,,campaign-P2,
+contact is not a decision maker,performanceelectricalllc.com,,Matei Cristea,Warehouse Manager,,campaign-P2,
+contact is not a decision maker,iegusa.com,,Josh Boling,Branch Manager,,campaign-P2,
+contact is not a decision maker,ppultd.co.uk,,Paul Elliott,Branch Manager,,campaign-P2,
+contact is not a decision maker,jsinspect.com,,Charles Hooks,VP Marketing and Business Development,,campaign-P2,
+contact is not a decision maker,ldpassociates.com,,Chalasani Mahidar,M D,,campaign-P2,
+contact is not a decision maker,globalpowergroup.com,,Salvador Ceballos,Chief Financial Officer,,campaign-P2,
+contact is not a decision maker,coastlinepowersolutions.com,,Kevin Price,Chief Financial Officer,,campaign-P3,
+contact is not a decision maker,tlselectric.com,,Stephen Vaughan,Director,,campaign-P2,
+contact is not a decision maker,pevarnik.com,,Matthew Dragan,Construction Project Manager,,campaign-P2,
+contact is not a decision maker,radec.com,,Dave Prosser,Field manager,,campaign-P2,
+contact is not a decision maker,sconservices.com,,Scott Hendrickson,Manager,,campaign-P2,
+contact is not a decision maker,sas-llc.net,,Eric Estle,Division Manager,,campaign-P2,
+contact is not a decision maker,tclelectric.com,,Frank Cesarone,Chief Financial Officer,,campaign-P2,
+contact is not a decision maker,solutionservicescorp.com,,Jacob Black,Project Manager,,campaign-P2,
+contact is not a decision maker,craft-electric.com,,Heather White,CFO,,campaign-P2,
+contact is not a decision maker,sytekelectric.com,,Jeremy Saintes,Subsea Manager,,campaign-P2,
+contact is not a decision maker,precisionmachllc.com,,Israel Perez Jr,Project Manager,,campaign-P2,
+contact is not a decision maker,singerelectric.com,,Durud Ahmed,Marketing Manager,,campaign-Nurture,
+contact is not a decision maker,mmpowerline.com,,Steve Adasiewicz,Master electrician project manager,,campaign-Nurture,
+contact is not a decision maker,cobaltcivil.com,,Daniel Sheets,Chief Financial Officer,,campaign-P2,
+contact is not a decision maker,americanenergy.us,,Francisco Cabrera,Gerente de planta,,campaign-P2,
+contact is not a decision maker,utilitex.com,,Jimmy Richey,General Management,,campaign-Nurture,
+contact is not a decision maker,power-upllc.com,,Dawn Reynolds,Operations Manager,,campaign-P2,
+contact is not a decision maker,flamtech-energy.com,,Alejandra Colina,Freelance graphic designer,,campaign-Nurture,
+contact is not a decision maker,apspower.com,,Lisa Friedman,Business Manager,,campaign-P3,
+contact is not a decision maker,genelco-inc.com,,Chad Lund,CFO,,campaign-Nurture,
+contact is not a decision maker,rudylhawkinselectrical.com,,Damon Parrish,Project Manager,,campaign-P3,
+contact is not a decision maker,telstarinc.com,,Martin Ruiz,Project Manager and Engineer,,campaign-P2,
+contact is not a decision maker,triunenc.com,,Justin Hunt,Shop Manager For Control Panel Fabrication Facility,,campaign-P2,
+contact is not a decision maker,fie-inc.com,,Bob Kingston,Division Manager,,campaign-P2,
+contact is not a decision maker,harcrowelectric.com,,John Barnes,Contractor,,campaign-P2,
+contact is not a decision maker,mojaveelectric.com,,Rodney McMurry,General Forman,,campaign-P2,
+contact is not a decision maker,paloselectric.com,,Christopher Talbott,Director of Operations - Wireless Division,,campaign-P2,
+contact is not a decision maker,strianoelectric.com,,Jeff Amberger,Project Manager,,campaign-P2,
+contact is not a decision maker,oceancoastelectric.com,,Stan Tasev,CFO,,campaign-P2,
+contact is not a decision maker,lascoelectrical.com,,Charles Fite,Licensed Master and Operations Manager,,campaign-P3,
+contact is not a decision maker,avsengineering.net,,Rajender Singh,Self Employed,,campaign-Nurture,
+contact is not a decision maker,darbyelectric.com,,Michael S Darby,Chairperson,,campaign-P2,
+contact is not a decision maker,djselectrical.com,,Melody McFarlane,Administrator,,campaign-P2,
+contact is not a decision maker,geoforceutilitytech.com,,Hall Cummings,General Foreman,,campaign-P2,
+contact is not a decision maker,sigalutility.com,,Michelle Vance,Electric Utility Construction Division Manager,,campaign-P2,
+contact is not a decision maker,pinnaclepowersvcs.com,,Jason Keller,Area Manager,,campaign-P3,
+contact is not a decision maker,duthiepower.com,,Carlos Cestero,CFO,,campaign-P2,
+contact is not a decision maker,epowernetwork.com,,Mark Mccallick,CFO,,campaign-P2,
+contact is not a decision maker,outsenelectric.com,,Greg Outsen,Manager,,campaign-P2,
+contact is not a decision maker,halleyeng.com,,Christopher Halley,Entrepreneur,,campaign-P3,
+contact is not a decision maker,postelectric.net,,Kathy Shipp,Secretary and Treasurer,,campaign-Nurture,
+contact is not a decision maker,rileyelectricco.com,,Derek Riley,Chief Financial Officer,,campaign-P3,
+contact is not a decision maker,clevelandpumprepair.com,,Mike Eisengart,Branch Manager,,campaign-P2,
+contact is not a decision maker,failureprevention.com,,Karl Hoffower,Executive Director,,campaign-Nurture,
+contact is not a decision maker,primeacdcmotors.com,,Umar Zaman,Operations Manager,,campaign-Nurture,
+contact is not a decision maker,hibbsinc.com,,Greg Deahl,Solutions Manager,,campaign-P2,
+contact is not a decision maker,flolo.com,,David Flolo,Chief Financial Officer,,campaign-P2,
+contact is not a decision maker,heartutilities.com,,Scott Barry,Operation Manager,,campaign-P2,
+contact is not a decision maker,trcinc.net,,Anthony Chavez,Chief Financial Officer,,P3-candidate,
+contact is not a decision maker,solisusa.com,,Ron Gilcrease,VP Business Development,,P3-candidate,
+contact is not a decision maker,alcatex.com,,Blake Tennant,Shop Manager,,P3-candidate,
+contact is not a decision maker,maritimetechnicalservices.com,,Jenny Ratcliffe,Operations Manager,,P3-candidate,
+contact is not a decision maker,jdcpowersystems.com,,Benton Freeman,VP of Industrial Sales,,P2-candidate,
+contact is not a decision maker,doleac.com,,Pete Butera,Project Manager,,master-P2,
+contact is not a decision maker,jmschaefer.com,,Phillip Criswell,Field Service Supervisor and Project Manager,,campaign-P2,
+contact is not a decision maker,e-hazard.com,,Hb Design,Directeur general,,P3-candidate,
+contact is not a decision maker,startechmarine.com,,Cody Jackson,HVAC Service Manager,,P3-candidate,
+contact is not a decision maker,horsepowerelectric.com,,Cedrick D.,Superintendente de operaciones,,master-P1,
+contact is not a decision maker,elecpwr.com,,David Champine,Division Manager - Carolinas,,master-P2,
+contact is not a decision maker,transformerservicesinc.com,,Rocio Rus,Business Manager,,master-P2,
+contact is not a decision maker,vet-eps.com,,Sam Stone,San Diego Branch Manager,,master-P2,
+"non-US domain, mandate is US-only",ppultd.co.uk,Premium Power Units Ltd.,,,,campaign-P2,Motor & Generator Companies
+"non-US domain, mandate is US-only",adc-electrical.co.uk,ADC Electrical Ltd,,,,master-DQ,
+"non-US domain, mandate is US-only",johnfordelectricalservices.co.uk,Commercial Electrician,,,,master-DQ,
+"non-US domain, mandate is US-only",gandptechnology.co.uk,G&P Technology,,,,master-DQ,
+"non-US domain, mandate is US-only",tmelectrical.ca,T M Electric,,,,master-DQ,
+"non-US domain, mandate is US-only",alselectric.ca,Al's Electric Services Ltd,,,,master-DQ,
+not a real company domain,moodyselectricinc.godaddysites.com,Moody's Electric,,,not a company domain - website-builder/directory host,campaign-P2,Commercial & Industrial Ctrs
+not a real company domain,petrellielectr.wpengine.com,"Petrelli Electric, INC",,,not a company domain - website-builder/directory host,P3-candidate,
+same phone as another target - possible duplicate,"maritimetechnicalservices.com, rb-marine.com",,,,,,
+same phone as another target - possible duplicate,"transformer-svc.com, transformerservicesinc.com",,,,,,

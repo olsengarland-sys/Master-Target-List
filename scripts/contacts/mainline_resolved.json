@@ -1,0 +1,66 @@
+[
+ {
+  "domain": "cusaconsulting.com",
+  "our_phone": "+1 603-498-4549",
+  "grata_office": [
+   "6039265895"
+  ],
+  "is_mainline": false
+ },
+ {
+  "domain": "seahurst.com",
+  "our_phone": "+1 425-508-9740",
+  "grata_office": [
+   "4252581882"
+  ],
+  "is_mainline": false
+ },
+ {
+  "domain": "masterelectric.com",
+  "our_phone": "+1 952-890-3555",
+  "grata_office": [
+   "9528903555"
+  ],
+  "is_mainline": true
+ },
+ {
+  "domain": "rosecityelectricco.com",
+  "our_phone": "+1 503-867-4203",
+  "grata_office": [
+   "5032876164"
+  ],
+  "is_mainline": false
+ },
+ {
+  "domain": "sselectric.com",
+  "our_phone": "+1 954-444-6207",
+  "grata_office": [
+   "9545651153"
+  ],
+  "is_mainline": false
+ },
+ {
+  "domain": "swelectricinc.com",
+  "our_phone": "+1 508-294-1655",
+  "grata_office": [
+   "5086979680"
+  ],
+  "is_mainline": false
+ },
+ {
+  "domain": "bibleelectric.com",
+  "our_phone": "+1 719-264-9988",
+  "grata_office": [
+   "7192655066"
+  ],
+  "is_mainline": false
+ },
+ {
+  "domain": "abstractelectric.com",
+  "our_phone": "+1 920-889-1547",
+  "grata_office": [
+   "9208714014"
+  ],
+  "is_mainline": false
+ }
+]

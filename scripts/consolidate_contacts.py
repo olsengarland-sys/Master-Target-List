@@ -29,6 +29,8 @@ for p in sorted(glob.glob(f'{S}/contacts_slice_*.jsonl')):
 # into the Inven record rather than replacing it -- only Inven carries phone numbers,
 # and a straight overwrite would silently drop every mobile we paid for.
 grata = read_jsonl(f'{S}/contacts_grata.jsonl')
+for _p in sorted(glob.glob(f'{S}/contacts_grata_final*.jsonl')):
+    grata += read_jsonl(_p)
 
 def key(c):
     return (c.get('name') or '').strip().lower()
