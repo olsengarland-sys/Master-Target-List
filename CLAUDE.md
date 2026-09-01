@@ -83,16 +83,23 @@ repeat those errors. Do not weaken them without the client's say-so.
 Established by running both platforms over ~880 companies. Do not re-litigate
 these by assumption; they were measured.
 
-9. **Phone numbers come from Inven only.** Grata's contacts tool
-   (`contacts_companies_contacts_create`) returns `"phones": null` on every
-   contact — it carries executives, titles, verified work emails, LinkedIn
-   URLs and locations, but no phone data at all. Inven
+9. **Cell numbers come from Inven only.** Grata's contacts tool
+   (`contacts_companies_contacts_create`) carries executives, titles, verified
+   work emails, LinkedIn URLs and locations. `phones` is null on the large
+   majority of contacts; a handful (~9 of 548 measured) do carry a number, and
+   it arrives as a JSON *string* rather than a list — but those are office
+   lines, never mobiles. So Grata cannot supply an owner cell. Inven
    `get_company_contacts` returns phones already TYPED as
    `mobile` / `direct dial` / `office`, which is what makes an owner-cell
    campaign possible. So "fall back to Grata for the cell number" cannot
    work; Grata is the email/org-chart source, Inven the phone source.
    Inven's *company* records (`get_company_info`) also carry no phone — 0 of
    817 returned one — so there is no free HQ-mainline reference either.
+   Grata's stray office numbers are the one partial exception, and are worth a
+   targeted re-pull if mainline numbers ever become useful.
+   Note also that a Grata `verified_email.state` of "Unknown" does NOT mean
+   there is no email — a populated `work_email` can sit under it; treat the
+   state as a confidence label, not a presence flag.
 10. **Always pass the owner-title filter to Inven `get_company_contacts`.**
    Title-filter misses and no-coverage both cost 0 credits, so the filter is
    free protection; an unfiltered pull spends credits on office staff.

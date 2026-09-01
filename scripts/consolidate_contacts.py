@@ -25,6 +25,13 @@ def read_jsonl(path):
 raw = read_jsonl(f'{S}/contacts_raw.jsonl')
 for p in sorted(glob.glob(f'{S}/contacts_slice_*.jsonl')):
     raw += read_jsonl(p)
+# Grata runs last and covers companies Inven already touched, so its rows are MERGED
+# into the Inven record rather than replacing it -- only Inven carries phone numbers,
+# and a straight overwrite would silently drop every mobile we paid for.
+grata = read_jsonl(f'{S}/contacts_grata.jsonl')
+
+def key(c):
+    return (c.get('name') or '').strip().lower()
 
 companies = {}
 for r in raw:
@@ -38,6 +45,38 @@ for r in raw:
         'source_platform': r.get('source', 'inven'), 'credits_used': r.get('credits_used', 0),
         'error': r.get('error'), 'contacts': r.get('contacts') or [],
     }
+
+for r in grata:
+    d = r.get('domain')
+    if not d:
+        continue
+    gc = r.get('contacts') or []
+    if d not in companies:
+        m = META.get(d, {})
+        companies[d] = {
+            'name': m.get('name'), 'bucket': m.get('bucket'), 'campaign': m.get('campaign'),
+            'priority': m.get('priority'), 'wave': m.get('wave'), 'replied': m.get('replied', False),
+            'source_platform': 'grata', 'credits_used': 0,
+            'error': r.get('error'), 'contacts': gc,
+        }
+        continue
+    cur = companies[d]
+    seen = {key(c) for c in cur['contacts']}
+    added = []
+    for c in gc:
+        if key(c) in seen:
+            # same person from both providers: keep Inven's phones, take Grata's emails
+            for e in cur['contacts']:
+                if key(e) == key(c) and not e.get('emails') and c.get('emails'):
+                    e['emails'] = c['emails']
+        else:
+            added.append(c)
+            seen.add(key(c))
+    cur['contacts'] += added
+    if added or gc:
+        cur['source_platform'] = 'inven+grata' if cur['contacts'] else 'grata'
+    if r.get('error') and not cur.get('error'):
+        cur['error'] = r['error']
 
 def phones_of(t):
     return sum(1 for v in companies.values() for c in v['contacts']

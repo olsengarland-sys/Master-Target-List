@@ -2,11 +2,53 @@
  "generated": "2026-09-01",
  "verify_before_outreach": [
   {
+   "domain": "petrellielectr.wpengine.com",
+   "company": "Petrelli Electric, INC",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "reason": "likely wrong match - returned a marketing-agency founder at aclipsemarketing.net (Orlando FL); the wpengine.com staging domain is not the real company domain. Find Petrelli Electric real domain before retrying."
+  },
+  {
+   "domain": "sls-us.com",
+   "company": "Scientific Lightning Solutions, LLC",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "reason": "caution: phone set includes Panama (+507) and Brazil (+55) numbers and slplighting.com email guesses - contact may span multiple entities; verify the US mobiles"
+  },
+  {
+   "domain": "powerquality.org",
+   "company": "Power Quality Inc",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "reason": "likely wrong match / non-US: contact location Bangkok Thailand with a powerquality.co.th email and +66 line; may be a Thai affiliate rather than the US target. Verify."
+  },
+  {
    "domain": "conduxtesmec.com",
    "company": "Condux Tesmec, Inc.",
    "priority": "P3-candidate",
    "campaign": null,
    "reason": "Italy (Bergamo) - likely wrong match for US entity; office line only; all emails unverified"
+  },
+  {
+   "domain": "tcongrp.com",
+   "company": "Technical Consulting Group",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "reason": "office line only; profile location Mannheim, Germany - verify entity match"
+  },
+  {
+   "domain": "e-hazard.com",
+   "company": "e-Hazard",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "reason": "Tunisia - likely wrong match, junk profile; office line only; all emails unverified. Also an electrical-safety training firm = repo DQ pattern"
+  },
+  {
+   "domain": "bxperts.com",
+   "company": "bXperts",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "reason": "Dominican Republic (Santo Domingo) - likely wrong match / non-US entity for a US target"
   },
   {
    "domain": "mossandmoss.com",
@@ -77,6 +119,13 @@
    "priority": "campaign-Nurture",
    "campaign": "Lightning Protection",
    "reason": "likely wrong match - returned person is a Scooters Coffee franchise owner in Omaha NE with all verified emails on scooterscoffee.com; only aclightningprotection.com email is unverified/Very bad. Do not use without web verification."
+  },
+  {
+   "domain": "ikpower.com",
+   "company": "IK Power System Solutions, Inc.",
+   "priority": "campaign-Nurture",
+   "campaign": "Power Systems Engineering",
+   "reason": "title mismatch: provider returns Project Manager, work list had Owner; domain/initials/New Orleans location consistent so likely same person - verify title"
   },
   {
    "domain": "lighthouseelec.com",
@@ -234,12 +283,32 @@
    "campaign": "Mission critical power"
   },
   {
+   "domain": "s1inc.co",
+   "company": "Service One",
+   "contact": "Joy Brandon Vaulton",
+   "title": "President",
+   "alt_email_domain": "serviceonecontracting.com",
+   "email": "joyvaulton@serviceonecontracting.com",
+   "priority": "ben-A",
+   "campaign": "Commercial & Industrial Contractors"
+  },
+  {
    "domain": "prolinepwr.com",
    "company": "Proline Power, LLC.",
    "contact": "Jack Jurovaty",
    "title": "Chief Executive Officer",
    "alt_email_domain": "ibew.org",
    "email": "jack_jurovaty@ibew.org",
+   "priority": "campaign-Nurture",
+   "campaign": "Utility Line & Substation"
+  },
+  {
+   "domain": "polelinecontractorsinc.com",
+   "company": "Pole Line Contractors",
+   "contact": "Jeffrey Meyer",
+   "title": "President",
+   "alt_email_domain": "pioneertechsolutions.com",
+   "email": "jeff@pioneertechsolutions.com",
    "priority": "campaign-Nurture",
    "campaign": "Utility Line & Substation"
   },
@@ -274,6 +343,26 @@
    "campaign": "Commercial & Industrial Ctrs"
   },
   {
+   "domain": "electricinnovations.com",
+   "company": "Electric Innovations Inc.",
+   "contact": "Marc Catalano",
+   "title": "Chief Financial Officer",
+   "alt_email_domain": "energyinnovations.com",
+   "email": "marc@energyinnovations.com",
+   "priority": "campaign-P3",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "scottarm.com",
+   "company": "Scott Armature, LLC",
+   "contact": "Scott Key",
+   "title": "Owner & President",
+   "alt_email_domain": "kencoil.com",
+   "email": "skey@kencoil.com",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies"
+  },
+  {
    "domain": "ppultd.co.uk",
    "company": "Premium Power Units Ltd.",
    "contact": "Paul Elliott",
@@ -290,6 +379,26 @@
    "title": "Owner",
    "alt_email_domain": "yale.edu",
    "email": "matthew.ramadanovic@yale.edu",
+   "priority": "campaign-P2",
+   "campaign": "Mission critical power"
+  },
+  {
+   "domain": "globalpowergroup.com",
+   "company": "Global Power Group, Inc.",
+   "contact": "Salvatore Martorana",
+   "title": "President",
+   "alt_email_domain": "gpgpower.com",
+   "email": "smartorana@gpgpower.com",
+   "priority": "campaign-P2",
+   "campaign": "Mission critical power"
+  },
+  {
+   "domain": "globalpowergroup.com",
+   "company": "Global Power Group, Inc.",
+   "contact": "Terry Mammen",
+   "title": "Chief Executive Officer",
+   "alt_email_domain": "gpgpower.com",
+   "email": "tmammen@gpgpower.com",
    "priority": "campaign-P2",
    "campaign": "Mission critical power"
   },
@@ -314,6 +423,16 @@
    "campaign": "Motor & Generator Companies"
   },
   {
+   "domain": "greatplainstechnicalservices.com",
+   "company": "Great Plains Technical Service",
+   "contact": "Bruce Schumaker",
+   "title": "Owner",
+   "alt_email_domain": "gptsinc.com",
+   "email": "brucefield@gptsinc.com",
+   "priority": "campaign-Nurture",
+   "campaign": "Motor & Generator Companies"
+  },
+  {
    "domain": "ancoholdings.com",
    "company": "Anco",
    "contact": "Mike Young",
@@ -324,6 +443,16 @@
    "campaign": "Utility Line & Substation"
   },
   {
+   "domain": "lionheartpower.com",
+   "company": "LionHeart Critical Power Specialists",
+   "contact": "Mike Hunter",
+   "title": "Owner",
+   "alt_email_domain": "lhcps.com",
+   "email": "mike.hunter@lhcps.com",
+   "priority": "campaign-P2",
+   "campaign": "Mission critical power"
+  },
+  {
    "domain": "triunenc.com",
    "company": "Triune Electric, Inc.",
    "contact": "Justin Hunt",
@@ -332,6 +461,36 @@
    "email": "jhunt@ias-nc.com",
    "priority": "campaign-P2",
    "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "sgiwv.com",
+   "company": "Specialty Groups, Inc",
+   "contact": "James Herron",
+   "title": "President",
+   "alt_email_domain": "specialtygroups.com",
+   "email": "jherron@specialtygroups.com",
+   "priority": "campaign-P3",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "lakecityelectric.net",
+   "company": "Lake City Electric",
+   "contact": "Joe Frye",
+   "title": "President",
+   "alt_email_domain": "ftc-i.net",
+   "email": "joefrye@ftc-i.net",
+   "priority": "campaign-Nurture",
+   "campaign": "Motor & Generator Companies"
+  },
+  {
+   "domain": "darbyelectric.com",
+   "company": "Darby Electric",
+   "contact": "Marc Darby",
+   "title": "Owner & President",
+   "alt_email_domain": "darbydfw.com",
+   "email": "marc@darbydfw.com",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies"
   },
   {
    "domain": "moleymagneticsinc.com",
@@ -374,6 +533,26 @@
    "campaign": "Motor & Generator Companies"
   },
   {
+   "domain": "automatedpower.com",
+   "company": "UPS Protection, Inc.",
+   "contact": "Dan Coffman",
+   "title": "CEO",
+   "alt_email_domain": "upsprotection.com",
+   "email": "dan@upsprotection.com",
+   "priority": "campaign-P3",
+   "campaign": "Mission critical power"
+  },
+  {
+   "domain": "trcinc.net",
+   "company": "Technology Resource Center",
+   "contact": "Anthony Chavez",
+   "title": "Chief Financial Officer",
+   "alt_email_domain": "trcmail.net",
+   "email": "tonyc@trcmail.net",
+   "priority": "P3-candidate",
+   "campaign": null
+  },
+  {
    "domain": "tidaltimesolutions.com",
    "company": "Tidal Time Solutions",
    "contact": "Adam Freihofer",
@@ -404,6 +583,56 @@
    "campaign": "Lightning Protection"
   },
   {
+   "domain": "arrowheadline.com",
+   "company": "Arrowhead Line",
+   "contact": "Josh Gresham",
+   "title": "CEO",
+   "alt_email_domain": "pinnacletransition.com",
+   "email": "joshgresham@pinnacletransition.com",
+   "priority": "P3-candidate",
+   "campaign": null
+  },
+  {
+   "domain": "petrellielectr.wpengine.com",
+   "company": "Petrelli Electric, INC",
+   "contact": "James Stillwell",
+   "title": "Founder / SVP Events and Experiential Marketing",
+   "alt_email_domain": "aclipsemarketing.net",
+   "email": "jstillwell@aclipsemarketing.net",
+   "priority": "P3-candidate",
+   "campaign": null
+  },
+  {
+   "domain": "ev-edison.com",
+   "company": "EV Edison",
+   "contact": "David Daly",
+   "title": "President",
+   "alt_email_domain": "milhouseinc.com",
+   "email": "ddaly@milhouseinc.com",
+   "priority": "P3-candidate",
+   "campaign": null
+  },
+  {
+   "domain": "rcswv.com",
+   "company": "Roberts Corrosion Services, LLC",
+   "contact": "Michael Roberts",
+   "title": "Business Owner",
+   "alt_email_domain": "robertscorrosionservices.com",
+   "email": "mroberts@robertscorrosionservices.com",
+   "priority": "P3-candidate",
+   "campaign": null
+  },
+  {
+   "domain": "otmlocating.com",
+   "company": "On The Mark Utility Locating Services, Inc.",
+   "contact": "John Bryant",
+   "title": "Partner and General Manager",
+   "alt_email_domain": "rochester.rr.com",
+   "email": "mbryant2@rochester.rr.com",
+   "priority": "P3-candidate",
+   "campaign": null
+  },
+  {
    "domain": "nationalcarcharging.com",
    "company": "National Car Charging",
    "contact": "Jim Burness",
@@ -417,6 +646,12 @@
  "possible_parent_domains": {},
  "ownership_note": "An owner whose verified email sits on another corporate domain is a proxy for an undisclosed parent. Sister and rebrand domains are filtered out; what remains needs the acquisition check CLAUDE.md rule 6 requires before outreach.",
  "non_owner_titles": [
+  {
+   "domain": "crowneram.com",
+   "contact": "Robert Spajer",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
+  },
   {
    "domain": "americanscii.com",
    "contact": "Kevin Swier",
@@ -448,15 +683,39 @@
    "priority": "P2-candidate"
   },
   {
+   "domain": "pagoda-electrical.com",
+   "contact": "Marci Mayer",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "mid-southelectric.net",
    "contact": "Demario Leakes",
    "title": "Service Manager",
    "priority": "campaign-P2"
   },
   {
+   "domain": "blountelectrical.com",
+   "contact": "Matt Marshall",
+   "title": "CFO",
+   "priority": "ben-A"
+  },
+  {
    "domain": "cawtn.com",
    "contact": "Kristie Firman",
    "title": "Shop Manager",
+   "priority": "ben-A"
+  },
+  {
+   "domain": "s1inc.co",
+   "contact": "Tim Mounger",
+   "title": "Chief Financial Officer",
+   "priority": "ben-A"
+  },
+  {
+   "domain": "tristateec.com",
+   "contact": "Scott McCoy",
+   "title": "CFO",
    "priority": "ben-A"
   },
   {
@@ -487,6 +746,12 @@
    "domain": "gstpowerservice.com",
    "contact": "Lori Haynes",
    "title": "Business Manager",
+   "priority": "campaign-Nurture"
+  },
+  {
+   "domain": "pgdservices.com",
+   "contact": "Erica Irby",
+   "title": "Chief Financial Officer",
    "priority": "campaign-Nurture"
   },
   {
@@ -556,6 +821,18 @@
    "priority": "campaign-Nurture"
   },
   {
+   "domain": "electricinnovations.com",
+   "contact": "Marc Catalano",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P3"
+  },
+  {
+   "domain": "groveselectric.com",
+   "contact": "Maria Groves",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "performanceelectricalllc.com",
    "contact": "Matei Cristea",
    "title": "Warehouse Manager",
@@ -584,6 +861,18 @@
    "contact": "Chalasani Mahidar",
    "title": "M D",
    "priority": "campaign-P2"
+  },
+  {
+   "domain": "globalpowergroup.com",
+   "contact": "Salvador Ceballos",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
+  },
+  {
+   "domain": "coastlinepowersolutions.com",
+   "contact": "Kevin Price",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P3"
   },
   {
    "domain": "tlselectric.com",
@@ -616,9 +905,21 @@
    "priority": "campaign-P2"
   },
   {
+   "domain": "tclelectric.com",
+   "contact": "Frank Cesarone",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "solutionservicescorp.com",
    "contact": "Jacob Black",
    "title": "Project Manager",
+   "priority": "campaign-P2"
+  },
+  {
+   "domain": "craft-electric.com",
+   "contact": "Heather White",
+   "title": "CFO",
    "priority": "campaign-P2"
   },
   {
@@ -644,6 +945,12 @@
    "contact": "Steve Adasiewicz",
    "title": "Master electrician project manager",
    "priority": "campaign-Nurture"
+  },
+  {
+   "domain": "cobaltcivil.com",
+   "contact": "Daniel Sheets",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
   },
   {
    "domain": "americanenergy.us",
@@ -674,6 +981,12 @@
    "contact": "Lisa Friedman",
    "title": "Business Manager",
    "priority": "campaign-P3"
+  },
+  {
+   "domain": "genelco-inc.com",
+   "contact": "Chad Lund",
+   "title": "CFO",
+   "priority": "campaign-Nurture"
   },
   {
    "domain": "rudylhawkinselectrical.com",
@@ -724,6 +1037,12 @@
    "priority": "campaign-P2"
   },
   {
+   "domain": "oceancoastelectric.com",
+   "contact": "Stan Tasev",
+   "title": "CFO",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "lascoelectrical.com",
    "contact": "Charles Fite",
    "title": "Licensed Master and Operations Manager",
@@ -734,6 +1053,12 @@
    "contact": "Rajender Singh",
    "title": "Self Employed",
    "priority": "campaign-Nurture"
+  },
+  {
+   "domain": "darbyelectric.com",
+   "contact": "Michael S Darby",
+   "title": "Chairperson",
+   "priority": "campaign-P2"
   },
   {
    "domain": "djselectrical.com",
@@ -760,6 +1085,18 @@
    "priority": "campaign-P3"
   },
   {
+   "domain": "duthiepower.com",
+   "contact": "Carlos Cestero",
+   "title": "CFO",
+   "priority": "campaign-P2"
+  },
+  {
+   "domain": "epowernetwork.com",
+   "contact": "Mark Mccallick",
+   "title": "CFO",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "outsenelectric.com",
    "contact": "Greg Outsen",
    "title": "Manager",
@@ -776,6 +1113,12 @@
    "contact": "Kathy Shipp",
    "title": "Secretary and Treasurer",
    "priority": "campaign-Nurture"
+  },
+  {
+   "domain": "rileyelectricco.com",
+   "contact": "Derek Riley",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P3"
   },
   {
    "domain": "clevelandpumprepair.com",
@@ -802,22 +1145,76 @@
    "priority": "campaign-P2"
   },
   {
+   "domain": "flolo.com",
+   "contact": "David Flolo",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "heartutilities.com",
    "contact": "Scott Barry",
    "title": "Operation Manager",
    "priority": "campaign-P2"
   },
   {
-   "domain": "raxisengineering.com",
-   "contact": "Karla Casas",
-   "title": "Business Office Manager",
-   "priority": "ben-C"
+   "domain": "trcinc.net",
+   "contact": "Anthony Chavez",
+   "title": "Chief Financial Officer",
+   "priority": "P3-candidate"
+  },
+  {
+   "domain": "solisusa.com",
+   "contact": "Ron Gilcrease",
+   "title": "VP Business Development",
+   "priority": "P3-candidate"
+  },
+  {
+   "domain": "alcatex.com",
+   "contact": "Blake Tennant",
+   "title": "Shop Manager",
+   "priority": "P3-candidate"
+  },
+  {
+   "domain": "maritimetechnicalservices.com",
+   "contact": "Jenny Ratcliffe",
+   "title": "Operations Manager",
+   "priority": "P3-candidate"
+  },
+  {
+   "domain": "jdcpowersystems.com",
+   "contact": "Benton Freeman",
+   "title": "VP of Industrial Sales",
+   "priority": "P2-candidate"
   },
   {
    "domain": "jmschaefer.com",
    "contact": "Phillip Criswell",
    "title": "Field Service Supervisor and Project Manager",
    "priority": "campaign-P2"
+  },
+  {
+   "domain": "e-hazard.com",
+   "contact": "Hb Design",
+   "title": "Directeur general",
+   "priority": "P3-candidate"
+  },
+  {
+   "domain": "startechmarine.com",
+   "contact": "Cody Jackson",
+   "title": "HVAC Service Manager",
+   "priority": "P3-candidate"
+  },
+  {
+   "domain": "horsepowerelectric.com",
+   "contact": "Cedrick D.",
+   "title": "Superintendente de operaciones",
+   "priority": "master-P1"
+  },
+  {
+   "domain": "elecpwr.com",
+   "contact": "David Champine",
+   "title": "Division Manager - Carolinas",
+   "priority": "master-P2"
   }
  ],
  "non_owner_note": "Inven expands title keywords server-side and matches loosely, so managers and VPs come through an owner-title filter. Re-work or downgrade these rather than mailing them as owner contacts.",
@@ -883,9 +1280,9 @@
  ],
  "bad_domain_note": "A website-builder or directory host is not a company domain. Enrichment can never resolve one, and dedupe keyed on it is unreliable, so the real domain has to be found before the row is usable.",
  "counts": {
-  "verify_before_outreach": 27,
-  "ownership_signals": 22,
-  "non_owner_titles": 67,
+  "verify_before_outreach": 34,
+  "ownership_signals": 40,
+  "non_owner_titles": 95,
   "us_only_violations": 6,
   "bad_domains": 1
  }
