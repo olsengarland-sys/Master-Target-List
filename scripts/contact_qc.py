@@ -68,6 +68,19 @@ bad_domains = [{'domain': r['domain'], 'name': r.get('name'), 'priority': r.get(
                 'note': 'not a company domain - website-builder/directory host'}
                for r in QUEUE if JUNK_HOST.search(r['domain'])]
 
+# Two "separate" targets sharing an office number are usually one business counted
+# twice -- a real risk when the pipeline is sized by company count.
+by_phone = {}
+for dom, v in C.items():
+    for c in v.get('contacts') or []:
+        for ph in c.get('phones') or []:
+            n = re.sub(r'\D', '', str(ph.get('number') or ''))[-10:]
+            if len(n) == 10:
+                by_phone.setdefault(n, set()).add(dom)
+shared_phone = [{'phone': n, 'domains': sorted(ds),
+                 'names': [C[d].get('name') for d in sorted(ds)]}
+                for n, ds in by_phone.items() if len(ds) > 1]
+
 parents = {}
 for o in ownership:
     parents.setdefault(o['alt_email_domain'], []).append(o['domain'])
@@ -93,13 +106,18 @@ doc = {
                      'TLD but reads as a US vanity domain here. Domain TLD alone misses the bigger '
                      'problem, which is foreign contacts on .com targets; those are in '
                      'verify_before_outreach.'),
+    'possible_duplicate_entities': shared_phone,
+    'duplicate_note': ('Distinct target domains sharing a phone number are usually affiliated or '
+                       'the same business listed twice. Worth resolving before the pipeline is '
+                       'counted or two campaigns mail the same owner.'),
     'bad_domains': bad_domains,
     'bad_domain_note': ('A website-builder or directory host is not a company domain. Enrichment '
                         'can never resolve one, and dedupe keyed on it is unreliable, so the real '
                         'domain has to be found before the row is usable.'),
     'counts': {'verify_before_outreach': len(verify_first), 'ownership_signals': len(ownership),
                'non_owner_titles': len(non_owner), 'us_only_violations': len(us_only),
-               'bad_domains': len(bad_domains)},
+               'bad_domains': len(bad_domains),
+               'possible_duplicate_entities': len(shared_phone)},
 }
 json.dump(doc, open('scripts/contacts/contact_qc_flags.json', 'w'), indent=1)
 print(doc['counts'])

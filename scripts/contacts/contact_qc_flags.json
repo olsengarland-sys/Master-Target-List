@@ -1308,6 +1308,31 @@
   }
  ],
  "us_only_note": "The mandate is a US company. .co was not treated as foreign - it is Colombia's TLD but reads as a US vanity domain here. Domain TLD alone misses the bigger problem, which is foreign contacts on .com targets; those are in verify_before_outreach.",
+ "possible_duplicate_entities": [
+  {
+   "phone": "9549794061",
+   "domains": [
+    "maritimetechnicalservices.com",
+    "rb-marine.com"
+   ],
+   "names": [
+    "Maritime Technical Services Inc",
+    "RB Marine Power Engineering, Inc."
+   ]
+  },
+  {
+   "phone": "6032244006",
+   "domains": [
+    "transformer-svc.com",
+    "transformerservicesinc.com"
+   ],
+   "names": [
+    "Transformer Service Inc",
+    "Transformer Services INC"
+   ]
+  }
+ ],
+ "duplicate_note": "Distinct target domains sharing a phone number are usually affiliated or the same business listed twice. Worth resolving before the pipeline is counted or two campaigns mail the same owner.",
  "bad_domains": [
   {
    "domain": "moodyselectricinc.godaddysites.com",
@@ -1330,6 +1355,7 @@
   "ownership_signals": 40,
   "non_owner_titles": 98,
   "us_only_violations": 6,
-  "bad_domains": 2
+  "bad_domains": 2,
+  "possible_duplicate_entities": 2
  }
 }
