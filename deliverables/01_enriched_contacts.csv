@@ -2389,6 +2389,15 @@ afi-systems.com,afi-systems.com,Andrew Fleming,"CEO, Founder",,,,andy@afi-system
 chargetronix.com,chargetronix.com,Xavier Landavazo,[unknown],"+1 619-913-2222, +1 310-746-8004, +1 619-778-0841",+1 619-528-1938,,xavierlandavazo@gmail.com,yes,?,,valDQ-review,inven+grata,"no title returned and no work email - match confidence low, verify before outreach"
 klelectric.com,klelectric.com,Kevin Parker,Small Business Owner,,,+1 630-261-0025,kevinparker@klelectric.com,,?,,valDQ-review,inven+grata,"office line only; asked for Justin Procyshen (Owner), got Kevin Parker; no verified email"
 klelectric.com,klelectric.com,Justin Procyshen,Owner,,,,justin@klelectric.ca,,?,,valDQ-review,inven+grata,"office line only; asked for Justin Procyshen (Owner), got Kevin Parker; no verified email"
+relayingsolutions.com,relayingsolutions.com,Ken Melchior,Electrical Engineering Partner,"+1 704-307-5033, +1 704-960-3241, +1 980-875-8227, +1 828-302-7037",+1 704-665-1037,+1 704-307-5033,ken.melchior@relayingsolutions.com,yes,?,,valDQ-review,inven+grata,"title differs - list says Owner, provider says Electrical Engineering Partner"
+relayingsolutions.com,relayingsolutions.com,Zach Johnson,Owner,,,,zach.johnson@relayingsolutions.com,yes,?,,valDQ-review,inven+grata,"title differs - list says Owner, provider says Electrical Engineering Partner"
+relayingsolutions.com,relayingsolutions.com,William Rominger,Owner,,,,william.rominger@relayingsolutions.com,yes,?,,valDQ-review,inven+grata,"title differs - list says Owner, provider says Electrical Engineering Partner"
+gravitytechnologies.com,gravitytechnologies.com,Oz Nusem,"Founding Engineer, Head of Client and Platform Services",+1 415-630-3425,+1 650-838-9877,,oz@gravitytechnologies.com,yes,?,,valDQ-review,inven+grata,"substitute contact - asked for Raafay Qazi (CEO), got Oz Nusem (Founding Engineer)"
+gravitytechnologies.com,gravitytechnologies.com,Raafay Qazi,Chief Executive Officer,,,,,,?,,valDQ-review,inven+grata,"substitute contact - asked for Raafay Qazi (CEO), got Oz Nusem (Founding Engineer)"
+gravitytechnologies.com,gravitytechnologies.com,Moshe Cohen,Founder,,,,moshe@gravitymobility.com,yes,?,,valDQ-review,inven+grata,"substitute contact - asked for Raafay Qazi (CEO), got Oz Nusem (Founding Engineer)"
+mccordeng.com,mccordeng.com,David Witte,Vice President,+1 979-220-6639,+1 979-690-3707,+1 512-819-6841,david.witte@mccordeng.com,yes,?,,valDQ-review,inven+grata,named lookup for Jimmy McCord (Owner/CEO) found nothing; fallback returned substitute David Witte (VP)
+mccordeng.com,mccordeng.com,Jimmy McCord,Owner and CEO,,,,jdmccord@mccordeng.com,yes,?,,valDQ-review,inven+grata,named lookup for Jimmy McCord (Owner/CEO) found nothing; fallback returned substitute David Witte (VP)
+mccordeng.com,mccordeng.com,Rex Woods,President & Co-Owner,,,,rwoods@mccordeng.com,yes,?,,valDQ-review,inven+grata,named lookup for Jimmy McCord (Owner/CEO) found nothing; fallback returned substitute David Witte (VP)
 "Primary Utility Services, LLC",primaryus.com,Arthur Hernandez,Manager,"+1 325-207-9371, +1 325-575-1782, +1 575-703-7617","+1 325-574-1776, +1 806-744-1157, +1 325-573-1283",+1 325-574-1776,ahernandez@primaryus.com,yes,T3,,master-P1,inven+grata,ok
 Caldwell Electrical Contractors,caldwellelectric.com,Daniel Caldwell,President,"+1 678-316-6821, +1 702-682-5483","+1 770-531-7890, +1 770-531-7817, +1 770-531-7871",+1 770-531-7890,daniel.caldwell@caldwellelectric.com,yes,T4,,master-P1,inven+grata,ok
 Telex LLC,telexllc.com,Shania Evans,Chief Executive Officer,,,,sevans@telexllc.com,yes,T1,,master-P2,inven+grata,"named lookup for Joshua Miller (President) found nothing; titled-domain fallback returned Shania Evans (CEO) - NOT the person requested, no phone"
@@ -2716,6 +2725,21 @@ Every Watt Matters,everywattmatters.com,Leo Flores,UK Director,,,,,,M13,,master-
 Electrical Energy Systems Corporation,eesc-ct.com,John Taylor,Chairman,"+1 203-537-4059, +1 203-213-1835",+1 860-621-9657,+1 860-621-9657,jtaylor@eesc-ct.com,yes,T5,,master-P3,inven+grata,ok
 Electrical Energy Systems Corporation,eesc-ct.com,Paul Barber,Owner,,,,pbarber@eesc-ct.com,,T5,,master-P3,inven+grata,ok
 Sosaya & Sons Construction,sosayaandsons.com,Robert Sosaya,Owner,,,,rsosaya@sosayaandsons.com,yes,S8,,master-P3,inven+grata,named lookup for Robert Sosaya found nothing; titled-domain fallback: no provider coverage for this domain
+Cove Electric Inc.,cove-elec.com,Gar Hulslander,President,+1 626-827-3823,"+1 760-321-8593, +1 760-772-0740",,,,T5,,master-P3,inven+grata,"named lookup for Paul Guercio (Founder) found nothing; fallback returned Gar Hulslander, President - different person but owner-level; no verified email"
+Cove Electric Inc.,cove-elec.com,Paul Guercio,Founder,,,,,,T5,,master-P3,inven+grata,"named lookup for Paul Guercio (Founder) found nothing; fallback returned Gar Hulslander, President - different person but owner-level; no verified email"
+Cove Electric Inc.,cove-elec.com,Jeffrey Konschak,President,,,,,,T5,,master-P3,inven+grata,"named lookup for Paul Guercio (Founder) found nothing; fallback returned Gar Hulslander, President - different person but owner-level; no verified email"
+"Superior Electric of Lansing, Inc.",superiorelectricinc.com,Michael Hull,Electrician,,,+1 517-485-7125,m.hull@superiorelectricinc.com,yes,T5,,master-P3,inven+grata,"office line only; Inven title is Electrician, list expected President - likely a different Michael Hull at the same firm"
+"Superior Electric of Lansing, Inc.",superiorelectricinc.com,Sidney Feldman,Chief Financial Officer,,,,,,T5,,master-P3,inven+grata,"office line only; Inven title is Electrician, list expected President - likely a different Michael Hull at the same firm"
+Roth Electric LLC,rothelectrical.net,Tom Roth,Co-Owner,,,,info@rothelectrical.net,,T5,,master-P3,inven+grata,named lookup for Tom Roth found nothing; titled-domain fallback: 4 contacts at domain but none with an owner-level title
+Power Pro Plus INC.,powerproplusinc.com,Felipe Oliden,President/ceo,,,,foliden@pppi.us,yes,T5,,master-P3,inven+grata,named lookup for Felipe Oliden found nothing; titled-domain fallback: no provider coverage for this domain
+aesintl.com,aesintl.com,Nicholas Cooke,Chief Executive Officer,+1 336-648-7387,"+1 336-786-5466, +1 336-755-3895",+1 866-386-1001,ncooke@aesintl.com,yes,?,,valDQ-review,inven+grata,ok
+aesintl.com,aesintl.com,Leslie Cooke,Co-Founder,,,,lcooke@aesintl.com,yes,?,,valDQ-review,inven+grata,ok
+aesintl.com,aesintl.com,Steve Cooke,Co-Founder,,,,scooke@aesintl.com,yes,?,,valDQ-review,inven+grata,ok
+westernsystems-inc.com,westernsystems-inc.com,Michael Smith,"President, CEO Western Systems Inc","+1 425-238-7460, +1 425-438-1133, +1 425-347-6208, +1 425-252-3161",+1 425-338-1112,,msmith@westernsystems-inc.com,yes,?,,valDQ-review,inven+grata,"common-name record - several out-of-state numbers dropped, WA numbers kept"
+westernsystems-inc.com,westernsystems-inc.com,Michael C Smith,"President, CEO",,,,msmith@westernsystems-inc.com,yes,?,,valDQ-review,inven+grata,"common-name record - several out-of-state numbers dropped, WA numbers kept"
+westernsystems-inc.com,westernsystems-inc.com,Ryan Ammarell,Owner,,,,ar@westernsystems-inc.com,yes,?,,valDQ-review,inven+grata,"common-name record - several out-of-state numbers dropped, WA numbers kept"
+magnaproducts.com,magnaproducts.com,Genevieve Morrow,Vice President,,,+1 585-647-2280,gmorrow@magnaproducts.com,yes,?,,valDQ-review,inven+grata,"office line only; named lookup for Kenneth Morrow (Founder/President) found nothing, fallback returned Genevieve Morrow, VP - family member, not the named owner"
+magnaproducts.com,magnaproducts.com,Kenneth Morrow,Founder & President,,,5856472280,kmorrow@magnaproducts.com,yes,?,,valDQ-review,inven+grata,"office line only; named lookup for Kenneth Morrow (Founder/President) found nothing, fallback returned Genevieve Morrow, VP - family member, not the named owner"
 "Summit Electric & Data, Inc.",summitelectricdata.com,,,,,,,,T5,,master-DQ,grata,no grata execs
 Parker Electric,parkerelectric.com,,,,,,,,T5,,master-P2,grata,no grata execs
 Power Connections Inc,powerconnections.com,,,,,,,,M13,,master-P3,grata,no grata execs
@@ -2755,11 +2779,6 @@ Rise Electric LLC,riseelec.com,,,,,,,,T5,,master-P3,grata,no grata execs
 Premier Power Company,premierpowercompany.com,,,,,,,,T3,,master-P3,grata,no grata execs
 Vsl Electrical Signing Lighting Llc,vslconstructors.com,,,,,,,,S8,,master-P3,grata,no grata execs
 Nexus Electrical Group PDX,nexuselectricalgroup.com,,,,,,,,T5,,master-P3,grata,no grata execs
-aesintl.com,aesintl.com,Nicholas Cooke,Chief Executive Officer,,,,ncooke@aesintl.com,yes,?,,valDQ-review,grata,ok
-aesintl.com,aesintl.com,Leslie Cooke,Co-Founder,,,,lcooke@aesintl.com,yes,?,,valDQ-review,grata,ok
-aesintl.com,aesintl.com,Steve Cooke,Co-Founder,,,,scooke@aesintl.com,yes,?,,valDQ-review,grata,ok
-westernsystems-inc.com,westernsystems-inc.com,Michael C Smith,"President, CEO",,,,msmith@westernsystems-inc.com,yes,?,,valDQ-review,grata,ok
-westernsystems-inc.com,westernsystems-inc.com,Ryan Ammarell,Owner,,,,ar@westernsystems-inc.com,yes,?,,valDQ-review,grata,ok
 "A&H Industries, LLC",ahindllc.com,,,,,,,,S8,,master-DQ,grata,no grata company found for domain
 Bass Electrical Corporation,basselectricalnyc.com,,,,,,,,T5,,master-DQ,grata,no grata execs
 Sanders Services,sanderscomposites.com,,,,,,,,T5,,master-DQ,grata,no grata execs
@@ -2793,10 +2812,6 @@ L9 Electric,l9electric.com,,,,,,,,T5,,master-P3,grata,no grata execs
 Millennium Electrical Services,millenes.com,,,,,,,,T5,,master-P3,grata,no grata execs
 JCE Inc,jceinc-us.com,,,,,,,,T5,,master-P3,grata,no grata execs
 E-TEC Electrical Services,e-tecinc.net,,,,,,,,T5,,master-P3,grata,no grata execs
-magnaproducts.com,magnaproducts.com,Kenneth Morrow,Founder & President,,,5856472280,kmorrow@magnaproducts.com,yes,?,,valDQ-review,grata,ok
-relayingsolutions.com,relayingsolutions.com,Ken Melchior,Owner,,,,ken.melchior@relayingsolutions.com,yes,?,,valDQ-review,grata,ok
-relayingsolutions.com,relayingsolutions.com,Zach Johnson,Owner,,,,zach.johnson@relayingsolutions.com,yes,?,,valDQ-review,grata,ok
-relayingsolutions.com,relayingsolutions.com,William Rominger,Owner,,,,william.rominger@relayingsolutions.com,yes,?,,valDQ-review,grata,ok
 Direct Strike Lightning protection,directstrikelightningprotection.github.io,,,,,,,,S10,,master-DQ,grata,no grata execs
 wetsinc.net,wetsinc.net,James McCasland,President & CEO,,,,jimm@suddenlink.net,yes,?,,valDQ-review,grata,"work email is on suddenlink.net, a consumer ISP domain, not the company domain - verify"
 Elite Power Solutions,elitepowersolutions.io,,,,,,,,S9,,master-DQ,grata,no grata execs
@@ -2821,21 +2836,11 @@ Diversified Substation Construction LLC,diversifiedsci.com,,,,,,,,T3,,master-P3,
 Glenn Horne Electrical,ghec.biz,,,,,,,,T5,,master-P3,grata,no grata execs
 "CLP Engineering, LLC",clp-engineering.com,,,,,,,,E12,,master-P3,grata,no grata execs
 Dave's Construction LLC,davesinc.com,,,,,,,,T3,,master-P3,grata,no grata execs
-Cove Electric Inc.,cove-elec.com,Paul Guercio,Founder,,,,,,T5,,master-P3,grata,ok
-Cove Electric Inc.,cove-elec.com,Jeffrey Konschak,President,,,,,,T5,,master-P3,grata,ok
 SDI Electric Group,sdielectricgroupllc.com,,,,,,,,T5,,master-P3,grata,no grata execs
-"Superior Electric of Lansing, Inc.",superiorelectricinc.com,Michael Hull,President,,,,m.hull@superiorelectricinc.com,yes,T5,,master-P3,grata,ok
-"Superior Electric of Lansing, Inc.",superiorelectricinc.com,Sidney Feldman,Chief Financial Officer,,,,,,T5,,master-P3,grata,ok
 Peter and Sons Electric Company,peterandsonselectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Roth Electric LLC,rothelectrical.net,Tom Roth,Co-Owner,,,,info@rothelectrical.net,,T5,,master-P3,grata,ok
 "True Compass, LLC",truecompassnw.com,,,,,,,,T5,,master-P3,grata,404 unresolved_domain - no Grata company found for this domain
 L E Ballance Electrical Service,ballanceelectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
 Mongoose Electric Incorporated,mongooseelectric.com,,,,,,,,T5,,master-P3,grata,no grata execs
-Power Pro Plus INC.,powerproplusinc.com,Felipe Oliden,President/ceo,,,,foliden@pppi.us,yes,T5,,master-P3,grata,ok
 Rondout Electric Inc,rondoutelectric.net,,,,,,,,T5,,master-P3,grata,no grata execs
-gravitytechnologies.com,gravitytechnologies.com,Raafay Qazi,Chief Executive Officer,,,,,,?,,valDQ-review,grata,ok
-gravitytechnologies.com,gravitytechnologies.com,Moshe Cohen,Founder,,,,moshe@gravitymobility.com,yes,?,,valDQ-review,grata,ok
 omirepair.com,omirepair.com,Amin Ghahari,CEO,,,,aghahari@omirepair.com,yes,?,,valDQ-review,grata,ok
-mccordeng.com,mccordeng.com,Jimmy McCord,Owner and CEO,,,,jdmccord@mccordeng.com,yes,?,,valDQ-review,grata,ok
-mccordeng.com,mccordeng.com,Rex Woods,President & Co-Owner,,,,rwoods@mccordeng.com,yes,?,,valDQ-review,grata,ok
 prowesteng.com,prowesteng.com,Josh Collins,Co-Owner,,,,joshc@prowesteng.com,yes,?,,valDQ-review,grata,ok

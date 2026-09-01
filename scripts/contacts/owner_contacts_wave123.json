@@ -4,13 +4,13 @@
  "policy": "inven contact-credit floor 5500 (lowered from 6000 by the client to fund the named-lookup recovery run); grata covers what inven cannot reach",
  "attempted": 1908,
  "with_contacts": 1751,
- "credits_used": 892,
- "companies_with_mobile": 903,
- "contacts_with_mobile": 922,
- "mobile_phones": 1656,
- "direct_dial_phones": 960,
- "office_only_companies": 129,
- "verified_emails": 2542,
+ "credits_used": 900,
+ "companies_with_mobile": 909,
+ "contacts_with_mobile": 928,
+ "mobile_phones": 1668,
+ "direct_dial_phones": 968,
+ "office_only_companies": 130,
+ "verified_emails": 2551,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -66452,6 +66452,234 @@
     }
    ]
   },
+  "relayingsolutions.com": {
+   "name": "relayingsolutions.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "title differs - list says Owner, provider says Electrical Engineering Partner",
+   "contacts": [
+    {
+     "name": "Ken Melchior",
+     "title": "Electrical Engineering Partner",
+     "location": "Charlotte, NC, United States",
+     "linkedin_url": "https://www.linkedin.com/in/kenmelchior",
+     "emails": [
+      {
+       "email": "ken.melchior@relayingsolutions.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "ken.melchior@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 704-307-5033",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 704-960-3241",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 980-875-8227",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 828-302-7037",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 704-665-1037",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 704-307-5033",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Zach Johnson",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "zach.johnson@relayingsolutions.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      },
+      {
+       "email": "zrjohnso@gmail.com",
+       "type": "personal",
+       "quality": "Deliverable",
+       "is_verified": false
+      }
+     ],
+     "phones": [],
+     "location": "Charlotte, North Carolina, United States"
+    },
+    {
+     "name": "William Rominger",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "william.rominger@relayingsolutions.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": [],
+     "location": "Charlotte, North Carolina, United States"
+    }
+   ]
+  },
+  "gravitytechnologies.com": {
+   "name": "gravitytechnologies.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "substitute contact - asked for Raafay Qazi (CEO), got Oz Nusem (Founding Engineer)",
+   "contacts": [
+    {
+     "name": "Oz Nusem",
+     "title": "Founding Engineer, Head of Client and Platform Services",
+     "location": "San Diego, CA, United States",
+     "linkedin_url": "https://www.linkedin.com/in/oz-nusem-0b336a38",
+     "emails": [
+      {
+       "email": "oz@gravitytechnologies.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "oz.nusem@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 415-630-3425",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 650-838-9877",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Raafay Qazi",
+     "title": "Chief Executive Officer",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "Moshe Cohen",
+     "title": "Founder",
+     "emails": [
+      {
+       "email": "moshe@gravitymobility.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "mccordeng.com": {
+   "name": "mccordeng.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "named lookup for Jimmy McCord (Owner/CEO) found nothing; fallback returned substitute David Witte (VP)",
+   "contacts": [
+    {
+     "name": "David Witte",
+     "title": "Vice President",
+     "location": "College Station, TX, United States",
+     "linkedin_url": "https://www.linkedin.com/in/david-witte-5a9609158",
+     "emails": [
+      {
+       "email": "david.witte@mccordeng.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "dwitte@mccordeng.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 979-220-6639",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 979-690-3707",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 512-819-6841",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Jimmy McCord",
+     "title": "Owner and CEO",
+     "emails": [
+      {
+       "email": "jdmccord@mccordeng.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Rex Woods",
+     "title": "President & Co-Owner",
+     "emails": [
+      {
+       "email": "rwoods@mccordeng.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
   "primaryus.com": {
    "name": "Primary Utility Services, LLC",
    "bucket": "T3",
@@ -75093,6 +75321,348 @@
     }
    ]
   },
+  "cove-elec.com": {
+   "name": "Cove Electric Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "named lookup for Paul Guercio (Founder) found nothing; fallback returned Gar Hulslander, President - different person but owner-level; no verified email",
+   "contacts": [
+    {
+     "name": "Gar Hulslander",
+     "title": "President",
+     "location": "Palm Desert, CA, United States",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 626-827-3823",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 760-321-8593",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 760-772-0740",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Paul Guercio",
+     "title": "Founder",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "Jeffrey Konschak",
+     "title": "President",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "superiorelectricinc.com": {
+   "name": "Superior Electric of Lansing, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "office line only; Inven title is Electrician, list expected President - likely a different Michael Hull at the same firm",
+   "contacts": [
+    {
+     "name": "Michael Hull",
+     "title": "Electrician",
+     "location": "Eagle, MI, United States",
+     "emails": [
+      {
+       "email": "m.hull@superiorelectricinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 517-485-7125",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Sidney Feldman",
+     "title": "Chief Financial Officer",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "rothelectrical.net": {
+   "name": "Roth Electric LLC",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Tom Roth found nothing; titled-domain fallback: 4 contacts at domain but none with an owner-level title",
+   "contacts": [
+    {
+     "name": "Tom Roth",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "info@rothelectrical.net",
+       "type": "personal",
+       "quality": "Unknown",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "powerproplusinc.com": {
+   "name": "Power Pro Plus INC.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Felipe Oliden found nothing; titled-domain fallback: no provider coverage for this domain",
+   "contacts": [
+    {
+     "name": "Felipe Oliden",
+     "title": "President/ceo",
+     "emails": [
+      {
+       "email": "foliden@pppi.us",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "aesintl.com": {
+   "name": "aesintl.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Nicholas Cooke",
+     "title": "Chief Executive Officer",
+     "location": "Mount Airy, NC, United States",
+     "emails": [
+      {
+       "email": "ncooke@aesintl.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 336-648-7387",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 336-786-5466",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 336-755-3895",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 866-386-1001",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Leslie Cooke",
+     "title": "Co-Founder",
+     "emails": [
+      {
+       "email": "lcooke@aesintl.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Steve Cooke",
+     "title": "Co-Founder",
+     "emails": [
+      {
+       "email": "scooke@aesintl.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "westernsystems-inc.com": {
+   "name": "westernsystems-inc.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "common-name record - several out-of-state numbers dropped, WA numbers kept",
+   "contacts": [
+    {
+     "name": "Michael Smith",
+     "title": "President, CEO Western Systems Inc",
+     "location": "Everett, WA, United States",
+     "emails": [
+      {
+       "email": "msmith@westernsystems-inc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "msmith265@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 425-238-7460",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 425-438-1133",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 425-347-6208",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 425-252-3161",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 425-338-1112",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Michael C Smith",
+     "title": "President, CEO",
+     "emails": [
+      {
+       "email": "msmith@westernsystems-inc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Ryan Ammarell",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "ar@westernsystems-inc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "magnaproducts.com": {
+   "name": "magnaproducts.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "office line only; named lookup for Kenneth Morrow (Founder/President) found nothing, fallback returned Genevieve Morrow, VP - family member, not the named owner",
+   "contacts": [
+    {
+     "name": "Genevieve Morrow",
+     "title": "Vice President",
+     "location": "Rochester, NY, United States",
+     "emails": [
+      {
+       "email": "gmorrow@magnaproducts.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "gmorrow09@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 585-647-2280",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Kenneth Morrow",
+     "title": "Founder & President",
+     "emails": [
+      {
+       "email": "kmorrow@magnaproducts.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "5856472280",
+       "type": "office"
+      }
+     ],
+     "location": "Rochester, New York, United States"
+    }
+   ]
+  },
   "summitelectricdata.com": {
    "name": "Summit Electric & Data, Inc.",
    "bucket": "T5",
@@ -75561,97 +76131,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "aesintl.com": {
-   "name": "aesintl.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Nicholas Cooke",
-     "title": "Chief Executive Officer",
-     "emails": [
-      {
-       "email": "ncooke@aesintl.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Leslie Cooke",
-     "title": "Co-Founder",
-     "emails": [
-      {
-       "email": "lcooke@aesintl.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Steve Cooke",
-     "title": "Co-Founder",
-     "emails": [
-      {
-       "email": "scooke@aesintl.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "westernsystems-inc.com": {
-   "name": "westernsystems-inc.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Michael C Smith",
-     "title": "President, CEO",
-     "emails": [
-      {
-       "email": "msmith@westernsystems-inc.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Ryan Ammarell",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "ar@westernsystems-inc.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
   "ahindllc.com": {
    "name": "A&H Industries, LLC",
    "bucket": "S8",
@@ -76048,105 +76527,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "magnaproducts.com": {
-   "name": "magnaproducts.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Kenneth Morrow",
-     "title": "Founder & President",
-     "emails": [
-      {
-       "email": "kmorrow@magnaproducts.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": [
-      {
-       "number": "5856472280",
-       "type": "office"
-      }
-     ],
-     "location": "Rochester, New York, United States"
-    }
-   ]
-  },
-  "relayingsolutions.com": {
-   "name": "relayingsolutions.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Ken Melchior",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "ken.melchior@relayingsolutions.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      },
-      {
-       "email": "ken.melchior@gmail.com",
-       "type": "personal",
-       "quality": "Deliverable",
-       "is_verified": false
-      }
-     ],
-     "phones": [],
-     "location": "Charlotte, North Carolina, United States"
-    },
-    {
-     "name": "Zach Johnson",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "zach.johnson@relayingsolutions.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      },
-      {
-       "email": "zrjohnso@gmail.com",
-       "type": "personal",
-       "quality": "Deliverable",
-       "is_verified": false
-      }
-     ],
-     "phones": [],
-     "location": "Charlotte, North Carolina, United States"
-    },
-    {
-     "name": "William Rominger",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "william.rominger@relayingsolutions.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": [],
-     "location": "Charlotte, North Carolina, United States"
-    }
-   ]
-  },
   "directstrikelightningprotection.github.io": {
    "name": "Direct Strike Lightning protection",
    "bucket": "S10",
@@ -76456,31 +76836,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "cove-elec.com": {
-   "name": "Cove Electric Inc.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Paul Guercio",
-     "title": "Founder",
-     "emails": [],
-     "phones": []
-    },
-    {
-     "name": "Jeffrey Konschak",
-     "title": "President",
-     "emails": [],
-     "phones": []
-    }
-   ]
-  },
   "sdielectricgroupllc.com": {
    "name": "SDI Electric Group",
    "bucket": "T5",
@@ -76493,38 +76848,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "superiorelectricinc.com": {
-   "name": "Superior Electric of Lansing, Inc.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Michael Hull",
-     "title": "President",
-     "emails": [
-      {
-       "email": "m.hull@superiorelectricinc.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Sidney Feldman",
-     "title": "Chief Financial Officer",
-     "emails": [],
-     "phones": []
-    }
-   ]
-  },
   "peterandsonselectric.com": {
    "name": "Peter and Sons Electric Company",
    "bucket": "T5",
@@ -76536,32 +76859,6 @@
    "credits_used": 0,
    "error": "no grata execs",
    "contacts": []
-  },
-  "rothelectrical.net": {
-   "name": "Roth Electric LLC",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Tom Roth",
-     "title": "Co-Owner",
-     "emails": [
-      {
-       "email": "info@rothelectrical.net",
-       "type": "personal",
-       "quality": "Unknown",
-       "is_verified": false
-      }
-     ],
-     "phones": []
-    }
-   ]
   },
   "truecompassnw.com": {
    "name": "True Compass, LLC",
@@ -76599,32 +76896,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "powerproplusinc.com": {
-   "name": "Power Pro Plus INC.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Felipe Oliden",
-     "title": "President/ceo",
-     "emails": [
-      {
-       "email": "foliden@pppi.us",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
   "rondoutelectric.net": {
    "name": "Rondout Electric Inc",
    "bucket": "T5",
@@ -76636,38 +76907,6 @@
    "credits_used": 0,
    "error": "no grata execs",
    "contacts": []
-  },
-  "gravitytechnologies.com": {
-   "name": "gravitytechnologies.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Raafay Qazi",
-     "title": "Chief Executive Officer",
-     "emails": [],
-     "phones": []
-    },
-    {
-     "name": "Moshe Cohen",
-     "title": "Founder",
-     "emails": [
-      {
-       "email": "moshe@gravitymobility.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
   },
   "omirepair.com": {
    "name": "omirepair.com",
@@ -76686,45 +76925,6 @@
      "emails": [
       {
        "email": "aghahari@omirepair.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "mccordeng.com": {
-   "name": "mccordeng.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Jimmy McCord",
-     "title": "Owner and CEO",
-     "emails": [
-      {
-       "email": "jdmccord@mccordeng.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Rex Woods",
-     "title": "President & Co-Owner",
-     "emails": [
-      {
-       "email": "rwoods@mccordeng.com",
        "type": "professional",
        "quality": "Deliverable",
        "is_verified": true

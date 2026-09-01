@@ -716,6 +716,13 @@
    "reason": "named lookup for Thomas Kessler (Owner) found nothing; fallback returned Eric Baker, President - different person but owner-level"
   },
   {
+   "domain": "cove-elec.com",
+   "company": "Cove Electric Inc.",
+   "priority": "master-P3",
+   "campaign": null,
+   "reason": "named lookup for Paul Guercio (Founder) found nothing; fallback returned Gar Hulslander, President - different person but owner-level; no verified email"
+  },
+  {
    "domain": "bg-technologies.com",
    "company": "bg-technologies.com",
    "priority": "valDQ-review",
@@ -1456,16 +1463,6 @@
    "campaign": null
   },
   {
-   "domain": "wetsinc.net",
-   "company": "wetsinc.net",
-   "contact": "James McCasland",
-   "title": "President & CEO",
-   "alt_email_domain": "suddenlink.net",
-   "email": "jimm@suddenlink.net",
-   "priority": "valDQ-review",
-   "campaign": null
-  },
-  {
    "domain": "powerproplusinc.com",
    "company": "Power Pro Plus INC.",
    "contact": "Felipe Oliden",
@@ -1473,6 +1470,16 @@
    "alt_email_domain": "pppi.us",
    "email": "foliden@pppi.us",
    "priority": "master-P3",
+   "campaign": null
+  },
+  {
+   "domain": "wetsinc.net",
+   "company": "wetsinc.net",
+   "contact": "James McCasland",
+   "title": "President & CEO",
+   "alt_email_domain": "suddenlink.net",
+   "email": "jimm@suddenlink.net",
+   "priority": "valDQ-review",
    "campaign": null
   }
  ],
@@ -2734,6 +2741,12 @@
    "priority": "valDQ-review"
   },
   {
+   "domain": "gravitytechnologies.com",
+   "contact": "Oz Nusem",
+   "title": "Founding Engineer, Head of Client and Platform Services",
+   "priority": "valDQ-review"
+  },
+  {
    "domain": "primaryus.com",
    "contact": "Arthur Hernandez",
    "title": "Manager",
@@ -2981,6 +2994,12 @@
   },
   {
    "domain": "superiorelectricinc.com",
+   "contact": "Michael Hull",
+   "title": "Electrician",
+   "priority": "master-P3"
+  },
+  {
+   "domain": "superiorelectricinc.com",
    "contact": "Sidney Feldman",
    "title": "Chief Financial Officer",
    "priority": "master-P3"
@@ -3158,9 +3177,9 @@
  ],
  "bad_domain_note": "A website-builder or directory host is not a company domain. Enrichment can never resolve one, and dedupe keyed on it is unreliable, so the real domain has to be found before the row is usable.",
  "counts": {
-  "verify_before_outreach": 103,
+  "verify_before_outreach": 104,
   "ownership_signals": 75,
-  "non_owner_titles": 251,
+  "non_owner_titles": 253,
   "us_only_violations": 6,
   "bad_domains": 2,
   "possible_duplicate_entities": 9

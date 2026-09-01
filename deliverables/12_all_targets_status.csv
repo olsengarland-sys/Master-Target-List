@@ -1237,11 +1237,11 @@ Utility Relay Company,utilityrelay.com,M13,,master-P2,MASTER,yes,yes,yes,yes,inv
 bg-technologies.com,bg-technologies.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"contact located Vadodara, India (record also carries a +91 number) and is not the listed Linda Gibson (Founder & President) - non-US, likely wrong match"
 amfacpro.com,amfacpro.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,6 mobiles across several states on one record - MA 857 listed first to match location; verify before dialing
 chargetronix.com,chargetronix.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"no title returned and no work email - match confidence low, verify before outreach"
-gravitytechnologies.com,gravitytechnologies.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
+gravitytechnologies.com,gravitytechnologies.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"substitute contact - asked for Raafay Qazi (CEO), got Oz Nusem (Founding Engineer)"
 afi-systems.com,afi-systems.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"substitute contact - asked for Andrew Fleming (CEO/Founder), got Scott Rossi (GM)"
-magnaproducts.com,magnaproducts.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
+magnaproducts.com,magnaproducts.com,?,,valDQ-review,VALQ,,,yes,,inven+grata,"office line only; named lookup for Kenneth Morrow (Founder/President) found nothing, fallback returned Genevieve Morrow, VP - family member, not the named owner"
 omirepair.com,omirepair.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
-aesintl.com,aesintl.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
+aesintl.com,aesintl.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
 clearwaterinc.net,clearwaterinc.net,?,,valDQ-review,VALQ,,,yes,,inven+grata,office line only; named lookup for Shad Stringfellow (President & Owner) found nothing and titled fallback returned a marketing staffer
 kaizenmech.com,kaizenmech.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
 ludeca.com,ludeca.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
@@ -1249,11 +1249,11 @@ padgettswann.com,padgettswann.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
 thwindersllc.com,thwindersllc.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"titled-domain lookup returned Emmanuel Salazar (Owner), not the listed Roman Jaramillo (CEO)"
 turbinepros.com,turbinepros.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,ok
 wetsinc.net,wetsinc.net,?,,valDQ-review,VALQ,,,yes,,grata,"work email is on suddenlink.net, a consumer ISP domain, not the company domain - verify"
-mccordeng.com,mccordeng.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
+mccordeng.com,mccordeng.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,named lookup for Jimmy McCord (Owner/CEO) found nothing; fallback returned substitute David Witte (VP)
 klelectric.com,klelectric.com,?,,valDQ-review,VALQ,,,yes,,inven+grata,"office line only; asked for Justin Procyshen (Owner), got Kevin Parker; no verified email"
-relayingsolutions.com,relayingsolutions.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
+relayingsolutions.com,relayingsolutions.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"title differs - list says Owner, provider says Electrical Engineering Partner"
 prowesteng.com,prowesteng.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
-westernsystems-inc.com,westernsystems-inc.com,?,,valDQ-review,VALQ,,,yes,,grata,ok
+westernsystems-inc.com,westernsystems-inc.com,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"common-name record - several out-of-state numbers dropped, WA numbers kept"
 acedig.net,acedig.net,?,,valDQ-review,VALQ,,,yes,yes,inven+grata,"4th exec Steven Hicks (CFO, shicks@acedig.net) dropped by 3-contact cap"
 bore-tech.net,bore-tech.net,?,,valDQ-review,VALQ,,,yes,,inven+grata,named lookup for Santy Fernandez missed; titled-domain fallback found 5 contacts but none owner-titled - no contact
 julesmadisoninc.com,julesmadisoninc.com,?,,valDQ-review,VALQ,,,yes,,inven+grata,no phone of any type returned
@@ -1529,7 +1529,7 @@ MOC Incorporated,mocincorporated.com,T3,,master-P3,MASTER,,,yes,,inven+grata,"no
 "Utility Systems Construction & Engineering, LLC",utilitysystems.com,T3,,master-P3,MASTER,,,yes,,inven+grata,no mobile - direct dial and office only
 All Trade Industries Llc,alltradeindustries.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Fran Mackmick found nothing; titled-domain fallback: 5 contacts at domain but none with an owner-level title
 BTX Group,btxconstructiongroup.com,T4,,master-P3,MASTER,,,yes,yes,inven+grata,mobile is an Alabama 251 area code while contact is listed in TX - verify
-Cove Electric Inc.,cove-elec.com,T5,,master-P3,MASTER,,,yes,,grata,ok
+Cove Electric Inc.,cove-elec.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Paul Guercio (Founder) found nothing; fallback returned Gar Hulslander, President - different person but owner-level; no verified email"
 "Emerging Technologies, LLC",emergingtech-llc.com,M13,,master-P3,MASTER,yes,,yes,yes,inven+grata,no verified email; mobile is a South Carolina 843 area code while company is Wisconsin - verify
 "Focal Point Partners, Inc.",focalpointpartners.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,no verified email; email domain is focalpointllc.com not the listed focalpointpartners.com - confirm entity
 NuuCo Electric,nuuco.com,S8,,master-P3,MASTER,,,yes,,inven+grata,no mobile - direct dial only
@@ -1544,7 +1544,7 @@ Seven O Industrial LLC,seven-o.com,T4,,master-P3,MASTER,,,yes,,inven+grata,"name
 "McClintock Electric, Inc.",mcclintockelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"office line only; asked for Michael McClintock (President/Owner), got substitute Mark Moore (VP Ops); no verified email"
 Premier Power Company,premierpowercompany.com,T3,,master-P3,MASTER,,,,,grata,no grata execs
 Premier Power Electric,ppe-wa.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Jon Wood found nothing
-"Superior Electric of Lansing, Inc.",superiorelectricinc.com,T5,,master-P3,MASTER,,,yes,,grata,ok
+"Superior Electric of Lansing, Inc.",superiorelectricinc.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"office line only; Inven title is Electrician, list expected President - likely a different Michael Hull at the same firm"
 Bayview Electric,bvelectric.net,T5,,master-P3,MASTER,,,yes,yes,inven+grata,ok
 JCE Inc,jceinc-us.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
 PanelShop.com,panelshop.com,M13,,master-P3,MASTER,,,yes,yes,inven+grata,DUPLICATE OWNER: resolved from the same premierautomation.com named lookup (0 extra credits); panelshop.com and premierautomation.com share owner Mike Gunniers
@@ -1559,7 +1559,7 @@ Lauderdale Electric,lauderdale-electric.com,T5,,master-P3,MASTER,,,yes,yes,inven
 Lightning Specialists,lsi-fl.com,S10,,master-P3,MASTER,yes,,yes,,inven+grata,no provider coverage for domain; named lookup for Charles Wilson not attempted
 Memphis Electric Co LLC,memphiselectricco.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no phone returned
 "Neshaminy Electrical Contractors, Inc.",neshaminyelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"titled-domain lookup found 3 contacts but no owner-level title (listed John W Lyons, President, not returned)"
-Roth Electric LLC,rothelectrical.net,T5,,master-P3,MASTER,,,yes,,grata,ok
+Roth Electric LLC,rothelectrical.net,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Tom Roth found nothing; titled-domain fallback: 4 contacts at domain but none with an owner-level title
 Vsl Electrical Signing Lighting Llc,vslconstructors.com,S8,,master-P3,MASTER,,,,,grata,no grata execs
 "Worch Electric, Inc.",worchelectric.com,T5,,master-P3,MASTER,,,yes,yes,inven+grata,"named lookup for Chris Worch (President) missed; fallback returned Ali Laino, Assistant Manager - NOT owner-level and no email"
 "True Compass, LLC",truecompassnw.com,T5,,master-P3,MASTER,,,,,grata,404 unresolved_domain - no Grata company found for this domain
@@ -1580,7 +1580,7 @@ Kwasigroch Electric Inc,kei-inc.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"off
 Mongoose Electric Incorporated,mongooseelectric.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
 Nexus Electrical Group PDX,nexuselectricalgroup.com,T5,,master-P3,MASTER,,,,,grata,no grata execs
 "North Ridge Electric, INC.",northridgeelectric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Rodney Poole missed; titled-domain fallback: 2 contacts, none owner-titled - no contact"
-Power Pro Plus INC.,powerproplusinc.com,T5,,master-P3,MASTER,,,yes,,grata,ok
+Power Pro Plus INC.,powerproplusinc.com,T5,,master-P3,MASTER,,,yes,,inven+grata,named lookup for Felipe Oliden found nothing; titled-domain fallback: no provider coverage for this domain
 Quick Electrical Contractors,quickelectric.net,T5,,master-P3,MASTER,,,yes,,inven+grata,"named lookup for Lisa L Quick missed; titled-domain fallback: 1 contact, not owner-titled - no contact"
 Reeve Electric Company Inc,reeve-electric.com,T5,,master-P3,MASTER,,,yes,,inven+grata,no provider coverage for domain; named lookup for Robert Reeve found nothing
 Rondout Electric Inc,rondoutelectric.net,T5,,master-P3,MASTER,,,,,grata,no grata execs

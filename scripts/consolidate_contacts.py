@@ -28,7 +28,7 @@ for p in sorted(glob.glob(f'{S}/contacts_slice_*.jsonl')):
 # The named-lookup recovery run: Inven results for companies Grata had already
 # covered. These carry the phones, so they must land in `raw` (which wins on
 # phones) rather than in the Grata merge below.
-for p in sorted(glob.glob(f'{S}/contacts_mob_*.jsonl')):
+for p in sorted(glob.glob(f'{S}/contacts_mob_*.jsonl')) + sorted(glob.glob(f'{S}/contacts_mob_blind.jsonl')):
     raw += read_jsonl(p)
 # Grata runs last and covers companies Inven already touched, so its rows are MERGED
 # into the Inven record rather than replacing it -- only Inven carries phone numbers,

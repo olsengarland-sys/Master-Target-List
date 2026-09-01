@@ -101,6 +101,7 @@ WRONG-ENTITY / NON-US - do not call unverified,sitewideps.com,Sitewide Project S
 WRONG-ENTITY / NON-US - do not call unverified,alphaee.com,"Alpha Energy and Electric, Inc.",,,"named lookup for Ike Nwabuonwu (Chairman/CEO) found nothing; fallback returned Gabriel Okafor, President - different person but owner-level",master-P3,
 WRONG-ENTITY / NON-US - do not call unverified,apexelectricgroup.com,Apex Electrical Group LLC,,,"named lookup for Dennis Wisk (Owner) found nothing; fallback returned Marcus Cola, CEO and Co-Owner - different person but owner-level",master-P3,
 WRONG-ENTITY / NON-US - do not call unverified,capcityelectric.com,Capital City Electric,,,"named lookup for Thomas Kessler (Owner) found nothing; fallback returned Eric Baker, President - different person but owner-level",master-P3,
+WRONG-ENTITY / NON-US - do not call unverified,cove-elec.com,Cove Electric Inc.,,,"named lookup for Paul Guercio (Founder) found nothing; fallback returned Gar Hulslander, President - different person but owner-level; no verified email",master-P3,
 WRONG-ENTITY / NON-US - do not call unverified,bg-technologies.com,bg-technologies.com,,,"contact located Vadodara, India (record also carries a +91 number) and is not the listed Linda Gibson (Founder & President) - non-US, likely wrong match",valDQ-review,
 possible undisclosed parent,americanscii.com,American System Controls & Integration Inc.,Jeffrey Miller,Automation Manager,sconzacandy.com,campaign-P2,Commercial & Industrial Ctrs
 possible undisclosed parent,americanscii.com,American System Controls & Integration Inc.,Jeffrey Miller,Automation Manager,sconza.com,campaign-P2,Commercial & Industrial Ctrs
@@ -175,8 +176,8 @@ possible undisclosed parent,axxisbuildingsystems.com,"Axxis Building Systems, In
 possible undisclosed parent,skytecpro.com,Skytec,Catherine Lasso,Founder and President,usgllc811.com,master-DQ,
 possible undisclosed parent,transportationsystemsinc.com,Transportation Systems Inc,Eric Lesso,Chief Executive Officer,tsi-fl.com,master-P3,
 possible undisclosed parent,graceport.com,Grace Technologies,Philip Allen,Founder,grace-eng.com,master-P3,
-possible undisclosed parent,wetsinc.net,wetsinc.net,James McCasland,President & CEO,suddenlink.net,valDQ-review,
 possible undisclosed parent,powerproplusinc.com,Power Pro Plus INC.,Felipe Oliden,President/ceo,pppi.us,master-P3,
+possible undisclosed parent,wetsinc.net,wetsinc.net,James McCasland,President & CEO,suddenlink.net,valDQ-review,
 contact is not a decision maker,crowneram.com,,Robert Spajer,Chief Financial Officer,,campaign-P2,
 contact is not a decision maker,americanscii.com,,Kevin Swier,Engineering Manger and CFO,,campaign-P2,
 contact is not a decision maker,americanscii.com,,Jeffrey Miller,Automation Manager,,campaign-P2,
@@ -386,6 +387,7 @@ contact is not a decision maker,olsenelectric.net,,Greta Plourd,CFO,,master-P3,
 contact is not a decision maker,heckerelectric.com,,Grant Burke,Project Manager,,master-P3,
 contact is not a decision maker,bonnerelectric.com,,Brendan Marquis,Service Manager,,master-P3,
 contact is not a decision maker,chargetronix.com,,Xavier Landavazo,[unknown],,valDQ-review,
+contact is not a decision maker,gravitytechnologies.com,,Oz Nusem,"Founding Engineer, Head of Client and Platform Services",,valDQ-review,
 contact is not a decision maker,primaryus.com,,Arthur Hernandez,Manager,,master-P1,
 contact is not a decision maker,nabcoelectric.com,,Eddie Davidson,Chief Financial Officer,,master-P2,
 contact is not a decision maker,hargroveelectric.com,,Matt Powell,Foreman,,master-P2,
@@ -427,6 +429,7 @@ contact is not a decision maker,hinsdaleelectric.com,,Steve Tagliere,Project Man
 contact is not a decision maker,everywattmatters.com,,Gary Lenz,Director,,master-P3,
 contact is not a decision maker,everywattmatters.com,,Leo Flores,UK Director,,master-P3,
 contact is not a decision maker,eesc-ct.com,,John Taylor,Chairman,,master-P3,
+contact is not a decision maker,superiorelectricinc.com,,Michael Hull,Electrician,,master-P3,
 contact is not a decision maker,superiorelectricinc.com,,Sidney Feldman,Chief Financial Officer,,master-P3,
 "non-US domain, mandate is US-only",ppultd.co.uk,Premium Power Units Ltd.,,,,campaign-P2,Motor & Generator Companies
 "non-US domain, mandate is US-only",adc-electrical.co.uk,ADC Electrical Ltd,,,,master-DQ,
