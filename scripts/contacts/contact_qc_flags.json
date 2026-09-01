@@ -1,0 +1,572 @@
+{
+ "alt_domain_flags": [
+  {
+   "domain": "americanscii.com",
+   "company": "American System Controls & Integration Inc.",
+   "contact": "Jeffrey Miller",
+   "title": "Automation Manager",
+   "alt_email_domain": "sconzacandy.com",
+   "email": "jmiller@sconzacandy.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "americanscii.com",
+   "company": "American System Controls & Integration Inc.",
+   "contact": "Jeffrey Miller",
+   "title": "Automation Manager",
+   "alt_email_domain": "sconza.com",
+   "email": "jmiller@sconza.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "aarowelectricalsolutions.com",
+   "company": "Aarow Electrical Solutions",
+   "contact": "Dave Bastain",
+   "title": "Vice President of Operations",
+   "alt_email_domain": "aarow-llc.com",
+   "email": "davebastain@aarow-llc.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "pqsmc.com",
+   "company": "PQS Mission Critical",
+   "contact": "Kyle Gunn",
+   "title": "President",
+   "alt_email_domain": "pqsgg.com",
+   "email": "kgunn1@pqsgg.com",
+   "priority": "campaign-P2",
+   "campaign": "Mission critical power"
+  },
+  {
+   "domain": "prolinepwr.com",
+   "company": "Proline Power, LLC.",
+   "contact": "Jack Jurovaty",
+   "title": "Chief Executive Officer",
+   "alt_email_domain": "ibew.org",
+   "email": "jack_jurovaty@ibew.org",
+   "priority": "campaign-Nurture",
+   "campaign": "Utility Line & Substation"
+  },
+  {
+   "domain": "cates.com",
+   "company": "Cates Control Systems",
+   "contact": "Jerry Smith",
+   "title": "Owner",
+   "alt_email_domain": "i2r.com",
+   "email": "jerrysmith@i2r.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "cates.com",
+   "company": "Cates Control Systems",
+   "contact": "Chris Smith",
+   "title": "President",
+   "alt_email_domain": "i2r.com",
+   "email": "chrissmith@i2r.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "aye-inc.com",
+   "company": "Allen Yoho Electrical, Inc.",
+   "contact": "John Morris",
+   "title": "President",
+   "alt_email_domain": "allenyoho.com",
+   "email": "john.morris@allenyoho.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "ppultd.co.uk",
+   "company": "Premium Power Units Ltd.",
+   "contact": "Paul Elliott",
+   "title": "Branch Manager",
+   "alt_email_domain": "premiumpowerunits.co.uk",
+   "email": "paul@premiumpowerunits.co.uk",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies"
+  },
+  {
+   "domain": "ram-tek.com",
+   "company": "RAMTEK - Mission Critical Solutions",
+   "contact": "Matthew Ramadanovic",
+   "title": "Owner",
+   "alt_email_domain": "yale.edu",
+   "email": "matthew.ramadanovic@yale.edu",
+   "priority": "campaign-P2",
+   "campaign": "Mission critical power"
+  },
+  {
+   "domain": "solutionservicescorp.com",
+   "company": "Solution Services Corp.",
+   "contact": "Jacob Black",
+   "title": "Project Manager",
+   "alt_email_domain": "ss-mec.com",
+   "email": "jacobb@ss-mec.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "ipspumpservice.com",
+   "company": "IPS Pump Services, Inc.",
+   "contact": "Craig McBride",
+   "title": "General Manager",
+   "alt_email_domain": "ipsincusa.com",
+   "email": "craig.mcbride@ipsincusa.com",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies"
+  },
+  {
+   "domain": "ancoholdings.com",
+   "company": "Anco",
+   "contact": "Mike Young",
+   "title": "Founder and CEO",
+   "alt_email_domain": "ancounderground.com",
+   "email": "mike@ancounderground.com",
+   "priority": "campaign-P3",
+   "campaign": "Utility Line & Substation"
+  },
+  {
+   "domain": "emainc.net",
+   "company": "Electronic Maintenance Associates Inc.",
+   "contact": "Trey Mayfield",
+   "title": "President",
+   "alt_email_domain": "rocketmail.com",
+   "email": "tmayfield@rocketmail.com",
+   "priority": "campaign-Nurture",
+   "campaign": "Electrical Apparatus Servicing"
+  },
+  {
+   "domain": "triunenc.com",
+   "company": "Triune Electric, Inc.",
+   "contact": "Justin Hunt",
+   "title": "Shop Manager For Control Panel Fabrication Facility",
+   "alt_email_domain": "ias-nc.com",
+   "email": "jhunt@ias-nc.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "moleymagneticsinc.com",
+   "company": "Moley Magnetics, Inc.",
+   "contact": "Katie Hurley",
+   "title": "Chief Executive Officer",
+   "alt_email_domain": "moleyinc.com",
+   "email": "katie.hurley@moleyinc.com",
+   "priority": "campaign-P3",
+   "campaign": "Motor & Generator Companies"
+  },
+  {
+   "domain": "angielecc.com",
+   "company": "Angiel Electrical Construction",
+   "contact": "Zach Atkinson",
+   "title": "Executive Vice President",
+   "alt_email_domain": "csecre.com",
+   "email": "zach@csecre.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "vibrationengineers.com",
+   "company": "Vibration Engineers",
+   "contact": "Jon Thornham",
+   "title": "Founder",
+   "alt_email_domain": "flocycling.com",
+   "email": "jon@flocycling.com",
+   "priority": "campaign-Nurture",
+   "campaign": "Motor & Generator Companies"
+  }
+ ],
+ "multi_company_domains": {
+  "i2r.com": 2
+ },
+ "non_owner_titles": [
+  {
+   "domain": "americanscii.com",
+   "contact": "Kevin Swier",
+   "title": "Engineering Manger and CFO"
+  },
+  {
+   "domain": "americanscii.com",
+   "contact": "Jeffrey Miller",
+   "title": "Automation Manager"
+  },
+  {
+   "domain": "electricmotorservices.net",
+   "contact": "Rande Livengood",
+   "title": "Plant Manager"
+  },
+  {
+   "domain": "ucspower.com",
+   "contact": "Lauren Doiron",
+   "title": "Business Manager"
+  },
+  {
+   "domain": "ucspower.com",
+   "contact": "Nestor Castellanos",
+   "title": "General Superintendent"
+  },
+  {
+   "domain": "mid-southelectric.net",
+   "contact": "Demario Leakes",
+   "title": "Service Manager"
+  },
+  {
+   "domain": "cawtn.com",
+   "contact": "Kristie Firman",
+   "title": "Shop Manager"
+  },
+  {
+   "domain": "prenergy.com",
+   "contact": "Elbano Provenzali",
+   "title": "Gerente de Gestion de Proyectos"
+  },
+  {
+   "domain": "prenergy.com",
+   "contact": "Carlos Rodriguez",
+   "title": "Project Manager"
+  },
+  {
+   "domain": "rscelectrical.com",
+   "contact": "Mike Merantza",
+   "title": "Electrical Service Director"
+  },
+  {
+   "domain": "northstarpowerinc.com",
+   "contact": "Ronna M.",
+   "title": "Business Office Manager"
+  },
+  {
+   "domain": "gstpowerservice.com",
+   "contact": "Lori Haynes",
+   "title": "Business Manager"
+  },
+  {
+   "domain": "ehvconstruction.com",
+   "contact": "Ty Gray",
+   "title": "General Foreman"
+  },
+  {
+   "domain": "fuimuscompanies.com",
+   "contact": "Jonathan Strickland",
+   "title": "Construction Manager"
+  },
+  {
+   "domain": "ipatlantic.com",
+   "contact": "Jeffry Cusatis",
+   "title": "General Foreman"
+  },
+  {
+   "domain": "ipatlantic.com",
+   "contact": "Jimmie Olds",
+   "title": "Construction Manager"
+  },
+  {
+   "domain": "statelineusa.com",
+   "contact": "Greg Smith",
+   "title": "Foreman"
+  },
+  {
+   "domain": "ajgoulderelectric.com",
+   "contact": "Chris Carlson",
+   "title": "Electrical Estimator and Service Manager"
+  },
+  {
+   "domain": "bandhelectric.com",
+   "contact": "Matthew Haney",
+   "title": "Electrical Contractor"
+  },
+  {
+   "domain": "cpmelectric.com",
+   "contact": "Marjorie Sutherland",
+   "title": "Administrator"
+  },
+  {
+   "domain": "flemingtoninstrument.com",
+   "contact": "Ron Falkenstein",
+   "title": "Service Manager"
+  },
+  {
+   "domain": "gulfelec.com",
+   "contact": "Rick Sommer",
+   "title": "General Foreman"
+  },
+  {
+   "domain": "powertekllc.com",
+   "contact": "David White",
+   "title": "General Superintendent"
+  },
+  {
+   "domain": "performanceelectricalllc.com",
+   "contact": "Matei Cristea",
+   "title": "Warehouse Manager"
+  },
+  {
+   "domain": "iegusa.com",
+   "contact": "Josh Boling",
+   "title": "Branch Manager"
+  },
+  {
+   "domain": "ppultd.co.uk",
+   "contact": "Paul Elliott",
+   "title": "Branch Manager"
+  },
+  {
+   "domain": "jsinspect.com",
+   "contact": "Charles Hooks",
+   "title": "VP Marketing and Business Development"
+  },
+  {
+   "domain": "ldpassociates.com",
+   "contact": "Chalasani Mahidar",
+   "title": "M D"
+  },
+  {
+   "domain": "tlselectric.com",
+   "contact": "Stephen Vaughan",
+   "title": "Director"
+  },
+  {
+   "domain": "pevarnik.com",
+   "contact": "Matthew Dragan",
+   "title": "Construction Project Manager"
+  },
+  {
+   "domain": "radec.com",
+   "contact": "Dave Prosser",
+   "title": "Field manager"
+  },
+  {
+   "domain": "sconservices.com",
+   "contact": "Scott Hendrickson",
+   "title": "Manager"
+  },
+  {
+   "domain": "sas-llc.net",
+   "contact": "Eric Estle",
+   "title": "Division Manager"
+  },
+  {
+   "domain": "solutionservicescorp.com",
+   "contact": "Jacob Black",
+   "title": "Project Manager"
+  },
+  {
+   "domain": "sytekelectric.com",
+   "contact": "Jeremy Saintes",
+   "title": "Subsea Manager"
+  },
+  {
+   "domain": "precisionmachllc.com",
+   "contact": "Israel Perez Jr",
+   "title": "Project Manager"
+  },
+  {
+   "domain": "singerelectric.com",
+   "contact": "Durud Ahmed",
+   "title": "Marketing Manager"
+  },
+  {
+   "domain": "mmpowerline.com",
+   "contact": "Steve Adasiewicz",
+   "title": "Master electrician project manager"
+  },
+  {
+   "domain": "americanenergy.us",
+   "contact": "Francisco Cabrera",
+   "title": "Gerente de planta"
+  },
+  {
+   "domain": "utilitex.com",
+   "contact": "Jimmy Richey",
+   "title": "General Management"
+  },
+  {
+   "domain": "power-upllc.com",
+   "contact": "Dawn Reynolds",
+   "title": "Operations Manager"
+  },
+  {
+   "domain": "flamtech-energy.com",
+   "contact": "Alejandra Colina",
+   "title": "Freelance graphic designer"
+  },
+  {
+   "domain": "apspower.com",
+   "contact": "Lisa Friedman",
+   "title": "Business Manager"
+  },
+  {
+   "domain": "rudylhawkinselectrical.com",
+   "contact": "Damon Parrish",
+   "title": "Project Manager"
+  },
+  {
+   "domain": "telstarinc.com",
+   "contact": "Martin Ruiz",
+   "title": "Project Manager and Engineer"
+  },
+  {
+   "domain": "triunenc.com",
+   "contact": "Justin Hunt",
+   "title": "Shop Manager For Control Panel Fabrication Facility"
+  },
+  {
+   "domain": "fie-inc.com",
+   "contact": "Bob Kingston",
+   "title": "Division Manager"
+  },
+  {
+   "domain": "harcrowelectric.com",
+   "contact": "John Barnes",
+   "title": "Contractor"
+  },
+  {
+   "domain": "mojaveelectric.com",
+   "contact": "Rodney McMurry",
+   "title": "General Forman"
+  },
+  {
+   "domain": "paloselectric.com",
+   "contact": "Christopher Talbott",
+   "title": "Director of Operations - Wireless Division"
+  },
+  {
+   "domain": "strianoelectric.com",
+   "contact": "Jeff Amberger",
+   "title": "Project Manager"
+  },
+  {
+   "domain": "lascoelectrical.com",
+   "contact": "Charles Fite",
+   "title": "Licensed Master and Operations Manager"
+  },
+  {
+   "domain": "avsengineering.net",
+   "contact": "Rajender Singh",
+   "title": "Self Employed"
+  },
+  {
+   "domain": "djselectrical.com",
+   "contact": "Melody McFarlane",
+   "title": "Administrator"
+  },
+  {
+   "domain": "geoforceutilitytech.com",
+   "contact": "Hall Cummings",
+   "title": "General Foreman"
+  },
+  {
+   "domain": "sigalutility.com",
+   "contact": "Michelle Vance",
+   "title": "Electric Utility Construction Division Manager"
+  },
+  {
+   "domain": "pinnaclepowersvcs.com",
+   "contact": "Jason Keller",
+   "title": "Area Manager"
+  },
+  {
+   "domain": "outsenelectric.com",
+   "contact": "Greg Outsen",
+   "title": "Manager"
+  },
+  {
+   "domain": "halleyeng.com",
+   "contact": "Christopher Halley",
+   "title": "Entrepreneur"
+  },
+  {
+   "domain": "postelectric.net",
+   "contact": "Kathy Shipp",
+   "title": "Secretary and Treasurer"
+  },
+  {
+   "domain": "clevelandpumprepair.com",
+   "contact": "Mike Eisengart",
+   "title": "Branch Manager"
+  },
+  {
+   "domain": "failureprevention.com",
+   "contact": "Karl Hoffower",
+   "title": "Executive Director"
+  },
+  {
+   "domain": "primeacdcmotors.com",
+   "contact": "Umar Zaman",
+   "title": "Operations Manager"
+  },
+  {
+   "domain": "hibbsinc.com",
+   "contact": "Greg Deahl",
+   "title": "Solutions Manager"
+  },
+  {
+   "domain": "heartutilities.com",
+   "contact": "Scott Barry",
+   "title": "Operation Manager"
+  }
+ ],
+ "us_only_violations": [
+  {
+   "domain": "ppultd.co.uk",
+   "name": "Premium Power Units Ltd.",
+   "bucket": "S7",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies",
+   "already_enriched": true,
+   "note": "non-US domain; mandate is US-only"
+  },
+  {
+   "domain": "adc-electrical.co.uk",
+   "name": "ADC Electrical Ltd",
+   "bucket": "S7",
+   "priority": "master-DQ",
+   "campaign": null,
+   "already_enriched": false,
+   "note": "non-US domain; mandate is US-only"
+  },
+  {
+   "domain": "johnfordelectricalservices.co.uk",
+   "name": "Commercial Electrician",
+   "bucket": "T4",
+   "priority": "master-DQ",
+   "campaign": null,
+   "already_enriched": false,
+   "note": "non-US domain; mandate is US-only"
+  },
+  {
+   "domain": "gandptechnology.co.uk",
+   "name": "G&P Technology",
+   "bucket": "M13",
+   "priority": "master-DQ",
+   "campaign": null,
+   "already_enriched": false,
+   "note": "non-US domain; mandate is US-only"
+  },
+  {
+   "domain": "tmelectrical.ca",
+   "name": "T M Electric",
+   "bucket": "T5",
+   "priority": "master-DQ",
+   "campaign": null,
+   "already_enriched": false,
+   "note": "non-US domain; mandate is US-only"
+  },
+  {
+   "domain": "alselectric.ca",
+   "name": "Al's Electric Services Ltd",
+   "bucket": "T5",
+   "priority": "master-DQ",
+   "campaign": null,
+   "already_enriched": false,
+   "note": "non-US domain; mandate is US-only"
+  }
+ ],
+ "us_only_note": "Mandate is a US company. These carry non-US domains. .co was NOT treated as foreign (Colombian TLD, but widely used as a US vanity domain - s1inc.co and rayselectric.co read as US firms). ppultd.co.uk is the material one: it is filed as a campaign-P2, i.e. an active outreach target, and has already been enriched. It should be DQd. The remaining five are already master-DQ priority and sit in the queue tail, so the 1200-cap will not reach them.",
+ "ownership_note": "Alt-domain email flags are a proxy for an undisclosed parent/acquirer (CLAUDE.md rule 6: platform ownership labels are unverified). Most resolve to sister or rebrand domains and are benign. cates.com is the one to check: two separate contacts there carry i2r.com addresses, which reads as a holding-company parent rather than a rebrand."
+}
