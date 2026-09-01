@@ -60,7 +60,7 @@ for r in QUEUE:
 
 # A website-builder or directory host is not a company domain: enrichment can never
 # resolve it, and domain-keyed dedupe against it is unreliable.
-JUNK_HOST = re.compile(r'(godaddysites|wixsite|squarespace|weebly|business\.site|blogspot|'
+JUNK_HOST = re.compile(r'(godaddysites|wixsite|squarespace|weebly|business\.site|blogspot|wpengine|'
                        r'wordpress\.com|facebook\.com|linkedin\.com|yelp\.|angi\.|houzz\.|'
                        r'bbb\.org|indeed\.|sites\.google)', re.I)
 bad_domains = [{'domain': r['domain'], 'name': r.get('name'), 'priority': r.get('priority'),

@@ -2,14 +2,14 @@
  "generated": "2026-09-01",
  "platform": "inven get_company_contacts (owner-title filtered)",
  "policy": "inven contact-credit floor 6000; grata carries the remainder; 1200-company cap",
- "attempted": 999,
- "with_contacts": 908,
- "credits_used": 552,
- "companies_with_mobile": 484,
- "mobile_phones": 881,
- "direct_dial_phones": 483,
- "office_only_companies": 61,
- "verified_emails": 1175,
+ "attempted": 1045,
+ "with_contacts": 935,
+ "credits_used": 575,
+ "companies_with_mobile": 505,
+ "mobile_phones": 918,
+ "direct_dial_phones": 495,
+ "office_only_companies": 63,
+ "verified_emails": 1213,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -35326,6 +35326,683 @@
     }
    ]
   },
+  "acspecialists.us": {
+   "name": "ACS Inc.",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W2",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified company-domain email; only personal att.net verified",
+   "contacts": [
+    {
+     "name": "Terry Abercrombie",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "terryabercrombie@att.net",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 704-692-9595",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 704-487-8322",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 717-554-6578",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "thecotery.com": {
+   "name": "Cotery",
+   "bucket": "T2",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W3",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "cbhelos.com": {
+   "name": "Chesapeake Bay Helicopters Inc.",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "P2-candidate",
+   "wave": "W3",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Oleg Bulanov",
+     "title": "CEO and Owner",
+     "emails": [
+      {
+       "email": "olegbulanov@cbhelos.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 757-288-1149",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 757-675-5840",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 757-465-9946",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "weatherguardaero.com": {
+   "name": "Weather Guard Lightning Tech",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W3",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "pdmaintenance.com": {
+   "name": "Power Distribution Maintenance",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-P1",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified company-domain email; only personal yahoo verified",
+   "contacts": [
+    {
+     "name": "Thomas Reid",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "treid6@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 678-986-6227",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 512-945-4944",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 678-528-5036",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "dynamicelectric.com": {
+   "name": "Dynamic Electric, Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P1",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified company-domain email; contact in Greenville SC but office line is Illinois area code 708 - possible entity mismatch, verify",
+   "contacts": [
+    {
+     "name": "Joseph Bartram",
+     "title": "Owner and Operator",
+     "emails": [
+      {
+       "email": "joeyb1217@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "reddranger@charter.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 864-395-6925",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 708-597-6500",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "california-electrical.com": {
+   "name": "California Electrical Services",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P1",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "8 contacts at domain but none matched owner-level titles",
+   "contacts": []
+  },
+  "icreed.com": {
+   "name": "I.C. Reed & Sons",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P1",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "tn-associated.com": {
+   "name": "Tennessee Associated Electric",
+   "bucket": "S7",
+   "campaign": null,
+   "priority": "master-P1",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "16 contacts at domain but none matched owner-level titles",
+   "contacts": []
+  },
+  "deltausinc.com": {
+   "name": "Delta Utility Services, Inc",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified company-domain email; all professional guesses are on delta-utility.net not deltausinc.com - verify which entity she leads",
+   "contacts": [
+    {
+     "name": "Amy Burns",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "amy326204@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 443-240-0114",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 443-243-7798",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "electricalengineeringenterprises.com": {
+   "name": "Electrical Engineering Enterprises",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified company-domain email; only personal addresses verified",
+   "contacts": [
+    {
+     "name": "Joseph Cannella",
+     "title": "General Manager",
+     "emails": [
+      {
+       "email": "joseph.cannella@verizon.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "joseph.a.cannella@mac.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 630-889-8665",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 813-843-2218",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 630-574-0300",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "lndts.com": {
+   "name": "LND Technical Services, LLC",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "note: also holds a verified magnaiv.com email and a Vietnam (+84) mobile - possible second affiliation; verify entity",
+   "contacts": [
+    {
+     "name": "Nam Le",
+     "title": "President",
+     "emails": [
+      {
+       "email": "nam.le@lndts.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "namle0707@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 919-702-6086",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 615-299-6623",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 858-609-9837",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "northeasttexaspower.com": {
+   "name": "Northeast Texas Power Ltd",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "David Petty",
+     "title": "Company Owner",
+     "emails": [
+      {
+       "email": "petty@northeasttexaspower.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 903-746-3641",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 530-355-7802",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 903-994-4200",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "triangleelectric.net": {
+   "name": "Triangle Electric, Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no verified email (all guesses Very bad); no mobile - direct dial and office only",
+   "contacts": [
+    {
+     "name": "Curt Fitzpatrick",
+     "title": "Managing Partner",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 660-265-4028",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 701-572-6783",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "blackmonservice.com": {
+   "name": "Blackmon Service, Inc.",
+   "bucket": "T6",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "5 contacts at domain but none matched owner-level titles",
+   "contacts": []
+  },
+  "jacksonelect.com": {
+   "name": "Jackson Electrical Contractors",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "15 contacts at domain but none matched owner-level titles",
+   "contacts": []
+  },
+  "ruralelectric.com": {
+   "name": "Rural Electric, Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Brett Bieberdorf",
+     "title": "Principal",
+     "emails": [
+      {
+       "email": "brettb@ruralelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "brettbieberdorf@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 602-757-6198",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 602-689-4234",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-986-1488",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 888-220-7225",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "andersonandwood.com": {
+   "name": "Anderson & Wood Construction Co",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "VP Admin, not owner-level; no verified email (all guesses Very bad)",
+   "contacts": [
+    {
+     "name": "Pamela Hayes",
+     "title": "Vice President of Administration",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 208-250-9251",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 208-888-7917",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "ion-fs.com": {
+   "name": "Ion Field Services, LLC",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jay Buchl",
+     "title": "CEO",
+     "emails": [
+      {
+       "email": "jay.buchl@ion-fs.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jaybuchl@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 303-807-3010",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 701-483-2227",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "doleac.com": {
+   "name": "Doleac Electric Company, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "Project Manager, not owner-level",
+   "contacts": [
+    {
+     "name": "Pete Butera",
+     "title": "Project Manager",
+     "emails": [
+      {
+       "email": "pete@doleac.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      },
+      {
+       "email": "pete.butera@hotmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 228-806-8217",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 601-544-2052",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "awestenterprise.com": {
+   "name": "A. West Enterprise",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NOT ATTEMPTED - stopped at credit floor (balance 6018, stop line 6010)",
+   "contacts": []
+  },
+  "edgarelectricinc.com": {
+   "name": "Edgar Electric Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NOT ATTEMPTED - stopped at credit floor (balance 6018, stop line 6010)",
+   "contacts": []
+  },
+  "grayspowersupply.com": {
+   "name": "Grays Power Supply LLC",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NOT ATTEMPTED - stopped at credit floor (balance 6018, stop line 6010)",
+   "contacts": []
+  },
+  "florylineconstruction.com": {
+   "name": "Flory Line Construction",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NOT ATTEMPTED - stopped at credit floor (balance 6018, stop line 6010)",
+   "contacts": []
+  },
+  "siebertelectric.com": {
+   "name": "Siebert Electric",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NOT ATTEMPTED - stopped at credit floor (balance 6018, stop line 6010)",
+   "contacts": []
+  },
+  "nationalconductor.com": {
+   "name": "National Conductor Inc.",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NOT ATTEMPTED - stopped at credit floor (balance 6018, stop line 6010)",
+   "contacts": []
+  },
+  "westernlinebuilders.com": {
+   "name": "Western Line Builders Inc",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NOT ATTEMPTED - stopped at credit floor (balance 6018, stop line 6010)",
+   "contacts": []
+  },
   "jmschaefer.com": {
    "name": "J&M Schaefer, Inc.",
    "bucket": "T6",
@@ -37074,6 +37751,625 @@
       },
       {
        "number": "+1 804-778-7735",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "transformer-svc.com": {
+   "name": "Transformer Service Inc",
+   "bucket": "T2",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Stephen Booth",
+     "title": "President",
+     "emails": [
+      {
+       "email": "sbooth@transformer-svc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 603-496-8506",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 603-224-4006",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 603-228-1710",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "graves-electrical.com": {
+   "name": "Graves Electrical Services",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "5 contacts at domain but none owner-level titled",
+   "contacts": []
+  },
+  "transformerservicesinc.com": {
+   "name": "Transformer Services INC",
+   "bucket": "T2",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "office line only; non-owner title (Business Manager); office number matches transformer-svc.com (Concord NH) - possible shared/affiliated entity",
+   "contacts": [
+    {
+     "name": "Rocio Rus",
+     "title": "Business Manager",
+     "emails": [
+      {
+       "email": "rocio.rus@transformerservicesinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "rocio@transformerservicesinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 603-224-4006",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "eeu-inc.com": {
+   "name": "E. E. U., INC",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "4 contacts at domain but none owner-level titled",
+   "contacts": []
+  },
+  "ditrol.com": {
+   "name": "Di-Trol Systems Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "NAME MISMATCH: contact is Bill Pugh (Owner) but the only email returned belongs to Lisa Schonefeld - do not use as Pugh's address; no phone",
+   "contacts": [
+    {
+     "name": "Bill Pugh",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "lisa.schonefeld@ditrol.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "mjmelect.com": {
+   "name": "Mjm Electric, INC.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "10 contacts at domain but none owner-level titled",
+   "contacts": []
+  },
+  "hvserviceinc.com": {
+   "name": "High Voltage Service",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "UK (London), Chartered Accountant title - likely wrong match for US target; no phone; email unverified",
+   "contacts": [
+    {
+     "name": "Ben Warren",
+     "title": "Owner - Chartered Accountant",
+     "emails": [
+      {
+       "email": "ben.warren@hvserviceinc.com",
+       "type": "professional",
+       "quality": "Possible",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "chinchorelectric.com": {
+   "name": "Chinchor Electric, Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "all corporate emails unverified; only personal gmails verified",
+   "contacts": [
+    {
+     "name": "Tim Chinchor",
+     "title": "President",
+     "emails": [
+      {
+       "email": "tim.chinchor@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "madscientist669@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 386-804-2311",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 407-947-7498",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 954-401-2409",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 386-774-1020",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 386-774-1020",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "taylorelectricutility.com": {
+   "name": "Taylor Electric, Inc.",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "office line only",
+   "contacts": [
+    {
+     "name": "Todd Taylor",
+     "title": "President",
+     "emails": [
+      {
+       "email": "todd@taylorelectricutility.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "ttaylorelectric@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 256-895-0941",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "dukeelec.com": {
+   "name": "Duke Electric Co., Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no phone returned",
+   "contacts": [
+    {
+     "name": "Tracy Harlow",
+     "title": "President",
+     "emails": [
+      {
+       "email": "tharlow@dukeelec.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "dvorakllc.com": {
+   "name": "Dvorak LLC",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "no corporate email returned, only personal gmail",
+   "contacts": [
+    {
+     "name": "Tom Dvorak",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "tomdvorak@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 319-961-0586",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 410-686-8727",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 443-503-6400",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "dayandsonsinc.com": {
+   "name": "Day And Sons Inc",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Kevin Day",
+     "title": "President",
+     "emails": [
+      {
+       "email": "kday@dayandsonsinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "kevin@dayandsonsinc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 443-324-4088",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 443-891-4111",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 606-335-0285",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 410-762-5582",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 410-437-5500",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "crem-inc.com": {
+   "name": "Columbia River Electric Maintenance, Inc.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jim Medina",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "jim.medina@crem-inc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "james836@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 541-720-0739",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 541-922-5192",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 321-867-8753",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "southernisc.com": {
+   "name": "Southern Integrated Solutions & Consulting",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jed Lange",
+     "title": "President",
+     "emails": [
+      {
+       "email": "jed.lange@southernisc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jedelectricaltakeoff@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 337-303-4553",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 337-849-8999",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 337-322-5182",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 337-523-9097",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 337-523-9097",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "vet-eps.com": {
+   "name": "Veteran Electrical Power Systems, Inc.",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner title (Branch Manager)",
+   "contacts": [
+    {
+     "name": "Sam Stone",
+     "title": "San Diego Branch Manager",
+     "emails": [
+      {
+       "email": "sstone@vet-eps.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 760-420-3295",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 760-583-4277",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 818-861-7610",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "empowerconstruct.com": {
+   "name": "Empower Construction, LLC",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "William Bowie",
+     "title": "President and CEO",
+     "emails": [
+      {
+       "email": "wbowie@empowerconstruct.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "williambowie@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 267-221-4933",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "bayviewecci.com": {
+   "name": "Bayview Engineering & Construction Company, INC.",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "7 contacts at domain but none owner-level titled",
+   "contacts": []
+  },
+  "rwsheltonservices.com": {
+   "name": "R W Shelton Services, Inc",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W2",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "nismidwest.com": {
+   "name": "Northern Inspection Services, LLC",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W2",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Veronica Huckstorf",
+     "title": "President",
+     "emails": [
+      {
+       "email": "veronica.huckstorf@nismidwest.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "vfitzsimmons82@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 847-340-0217",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 773-398-1013",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 708-669-1916",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 847-844-0602",
        "type": "office"
       }
      ]

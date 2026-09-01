@@ -238,6 +238,27 @@
    "priority": "campaign-P3",
    "campaign": "Utility Line & Substation",
    "reason": "bad match - Panama-based profile, not the US owner"
+  },
+  {
+   "domain": "dynamicelectric.com",
+   "company": "Dynamic Electric, Inc.",
+   "priority": "master-P1",
+   "campaign": null,
+   "reason": "no verified company-domain email; contact in Greenville SC but office line is Illinois area code 708 - possible entity mismatch, verify"
+  },
+  {
+   "domain": "ditrol.com",
+   "company": "Di-Trol Systems Inc.",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "NAME MISMATCH: contact is Bill Pugh (Owner) but the only email returned belongs to Lisa Schonefeld - do not use as Pugh's address; no phone"
+  },
+  {
+   "domain": "hvserviceinc.com",
+   "company": "High Voltage Service",
+   "priority": "master-P2",
+   "campaign": null,
+   "reason": "UK (London), Chartered Accountant title - likely wrong match for US target; no phone; email unverified"
   }
  ],
  "verify_note": "The provider matched a person in another country to a US target - these contacts most likely belong to a different company that shares the name. Do not mail them without a human check; the contact, not the company, is suspect.",
@@ -1187,6 +1208,12 @@
    "priority": "P2-candidate"
   },
   {
+   "domain": "doleac.com",
+   "contact": "Pete Butera",
+   "title": "Project Manager",
+   "priority": "master-P2"
+  },
+  {
    "domain": "jmschaefer.com",
    "contact": "Phillip Criswell",
    "title": "Field Service Supervisor and Project Manager",
@@ -1214,6 +1241,18 @@
    "domain": "elecpwr.com",
    "contact": "David Champine",
    "title": "Division Manager - Carolinas",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "transformerservicesinc.com",
+   "contact": "Rocio Rus",
+   "title": "Business Manager",
+   "priority": "master-P2"
+  },
+  {
+   "domain": "vet-eps.com",
+   "contact": "Sam Stone",
+   "title": "San Diego Branch Manager",
    "priority": "master-P2"
   }
  ],
@@ -1276,14 +1315,21 @@
    "priority": "campaign-P2",
    "campaign": "Commercial & Industrial Ctrs",
    "note": "not a company domain - website-builder/directory host"
+  },
+  {
+   "domain": "petrellielectr.wpengine.com",
+   "name": "Petrelli Electric, INC",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "note": "not a company domain - website-builder/directory host"
   }
  ],
  "bad_domain_note": "A website-builder or directory host is not a company domain. Enrichment can never resolve one, and dedupe keyed on it is unreliable, so the real domain has to be found before the row is usable.",
  "counts": {
-  "verify_before_outreach": 34,
+  "verify_before_outreach": 37,
   "ownership_signals": 40,
-  "non_owner_titles": 95,
+  "non_owner_titles": 98,
   "us_only_violations": 6,
-  "bad_domains": 1
+  "bad_domains": 2
  }
 }
