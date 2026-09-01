@@ -625,3 +625,43 @@ if os.path.exists(_CPATH):
     widths(ws, [30, 26, 20, 30, 18, 18, 20, 32, 44, 8, 22, 8, 34])
     wb.save(OUT)
     print('Contacts tab:', len(rows), 'rows |', n_mob, 'with mobile')
+
+# ------------------------------------------------------------ Direct lines
+# A direct dial reaches the person at their desk without a switchboard. It is
+# not a cell, but it is not the mainline either - so it is the fallback when
+# no mobile exists, and a second shot at the ones where a mobile does.
+_DPATH = 'scripts/contacts/direct_lines.csv'
+if os.path.exists(_DPATH):
+    import csv as _csv
+    drows = list(_csv.DictReader(open(_DPATH)))
+    ws = wb.create_sheet('Direct lines')
+    ws.cell(row=1, column=1, value='DIRECT LINES - desk numbers that bypass the switchboard').font = TITLE
+    _nm = sum(1 for d in drows if not d['mobile'])
+    ws.cell(row=2, column=1, value=(
+        '%d contacts at %d companies have a direct dial. %d are owner-level. %d have a direct line '
+        'but NO mobile - for those this is the only way to reach the person directly. The other %d '
+        'already have a cell, so the direct line is a second attempt rather than new reach. '
+        'Rows marked in the verify column carry a QC flag (wrong-entity or non-US match) and must be '
+        'checked before dialling.' % (len(drows), len({d['domain'] for d in drows}),
+                                      sum(1 for d in drows if d['owner_level'] == 'yes'),
+                                      _nm, len(drows) - _nm))).alignment = WRAP
+    ws.row_dimensions[2].height = 42
+    r = 4
+    header(ws, r, ['Company', 'Domain', 'Contact', 'Title', 'DIRECT LINE', 'Other direct',
+                   'Mobile', 'Email', 'Postal address', 'Bucket', 'Campaign', 'Priority',
+                   'Owner level?', 'Verify first?'])
+    r += 1
+    for d in drows:
+        for i, k in enumerate(['company', 'domain', 'contact', 'title', 'direct_line', 'other_direct',
+                               'mobile', 'email', 'address', 'bucket', 'campaign', 'priority',
+                               'owner_level', 'verify_first'], 1):
+            ws.cell(row=r, column=i, value=d[k]).alignment = WRAP
+        if d['verify_first']:
+            for i in range(1, 15): ws.cell(row=r, column=i).fill = RED
+        elif not d['mobile']:
+            ws.cell(row=r, column=5).fill = PatternFill('solid', fgColor='E2EFDA')
+        ws.row_dimensions[r].height = 26
+        r += 1
+    widths(ws, [30, 26, 20, 30, 18, 18, 18, 32, 44, 8, 22, 8, 22, 18])
+    wb.save(OUT)
+    print('Direct lines tab:', len(drows), 'rows |', _nm, 'with no mobile')
