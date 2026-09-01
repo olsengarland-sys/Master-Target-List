@@ -1,0 +1,5756 @@
+[
+ {
+  "domain": "industrialelectrictesting.com",
+  "name": "Industrial Electric Testing",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "elemco.com",
+  "name": "Elemco Services Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "gigaelectricalca.com",
+  "name": "Giga Electrical",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "gets-usa.com",
+  "name": "Global Electronics Testing Services, LLC",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "pdelectricinc.com",
+  "name": "P&D Electric Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "gulfcoastcalibration.com",
+  "name": "Gulfcoast Calibration",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "tracetesting.com",
+  "name": "Trace Testing",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "skfelectric.com",
+  "name": "SKF Electrical Corp.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "aa-tech.com",
+  "name": "Aa Technology Inc",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "electrical-testing.com",
+  "name": "Southern New England Electrical Testing",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "united-power.com",
+  "name": "United Power Services, Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "jgelectricaltesting.com",
+  "name": "J.G. Electrical Testing Corporation",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "instelpower.com",
+  "name": "Instel Inc",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "cbsnuclear.com",
+  "name": "CBS Nuclear Service Inc.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "tru-amp.com",
+  "name": "Tru-Amp Engineering Services",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "poweranalysis.us",
+  "name": "Power Analysis",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "bixbyelectric.com",
+  "name": "Bixby Electric, Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "michiganswitchgear.com",
+  "name": "Michigan Switchgear Services",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "nhvsinc.com",
+  "name": "National High Voltage Services, Inc.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "qpsolutions.com",
+  "name": "Quality Power Solutions",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "shorelinepowerservices.com",
+  "name": "Shoreline Power Services, Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "deltapowerinc.com",
+  "name": "Delta Power Inc.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "aceelectricmotor.com",
+  "name": "Ace Electric Motor & Pump Co",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "armorelectricrepair.com",
+  "name": "Armor Electric Repair Svc",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "bbelectricmotor.com",
+  "name": "B & B Electric Motor CO",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "iiiphaseinc.com",
+  "name": "III Phase, Inc",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "remsausainc.com",
+  "name": "Remsa USA Inc",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "crowneram.com",
+  "name": "Crown ERAM, LLC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "bjemotors.com",
+  "name": "BJ Electric Motor Services",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "electricmotorshopnc.com",
+  "name": "Electric Motor Shop of Wake Forest",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "handhtransformer.com",
+  "name": "H&H Transformer, Inc.",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "setransformer.com",
+  "name": "Southeastern Transformer Co",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "emd-inc.org",
+  "name": "Electric Motors & Drives, Inc.",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "inmanelectric.com",
+  "name": "Inman Electric Motors",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "riemr.com",
+  "name": "riemr",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "cypriuminduction.com",
+  "name": "Cyprium Induction, LLC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "yss.us",
+  "name": "Youngstown Service Shop, Inc.",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "highsideelectric.com",
+  "name": "High Side Electric LLC",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "trservice.com",
+  "name": "T & R Service Company",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "bodinedanville.com",
+  "name": "Bodine Electric of Danville Inc.",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "741solutions.com",
+  "name": "741 solutions, LLC",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "traveridc.com",
+  "name": "Traver IDC",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "roberson-waite.com",
+  "name": "Roberson Waite",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "americanscii.com",
+  "name": "American System Controls & Integration Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "karianpeterson.com",
+  "name": "Karian Peterson Powerline Contracting, LLC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "leasorelectric.com",
+  "name": "Leasor Electric",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "westside-electric.com",
+  "name": "Westside Electric",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "electricmotorservices.net",
+  "name": "Electric Motor Services, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "tillsonindustrial.com",
+  "name": "Tillson Industrial Mechanics",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "aceviking.com",
+  "name": "Ace Viking Electric Motor Co",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "carolinapowerandsignalization.com",
+  "name": "Carolina Power & Signalization",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "powerservetech.com",
+  "name": "Powerserve Technologies",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "smsenergygroup.com",
+  "name": "SMS Energy Group, Inc.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "outbackpower.net",
+  "name": "Outback Power Company",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "trcinc.net",
+  "name": "Technology Resource Center",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ucspower.com",
+  "name": "Utility Construction Services, LLC",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mdrpowerline.com",
+  "name": "MDR Construction, Inc.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "arrowheadline.com",
+  "name": "Arrowhead Line",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mainliteelectric.com",
+  "name": "Main Lite Electric CO",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "conduxtesmec.com",
+  "name": "Condux Tesmec, Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "amppconstruction.com",
+  "name": "AMPP Construction, LLC",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "highlineconstructionmn.com",
+  "name": "Highlines Construction Co",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "fbtimberline.com",
+  "name": "FB Timberline",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ohlines.net",
+  "name": "Overhead Lines",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mmpowerline.com",
+  "name": "M&M Electrical Contractor, Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "schmidt-industrial.com",
+  "name": "Schmidt Industrial",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "petrellielectr.wpengine.com",
+  "name": "Petrelli Electric, INC",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "powertekllc.com",
+  "name": "PowerTek LLC",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "kevcoelectrical.com",
+  "name": "Kevco Electrical Construction, Inc.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "jakeselectric.net",
+  "name": "Jake S Electric",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "burns-electric.com",
+  "name": "Burns Electric",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mainelectric.com",
+  "name": "Main Electric Limited",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "gavietri.com",
+  "name": "Greg A Vietri Inc",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "pettyline.com",
+  "name": "Petty Line Construction",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "canyonstateelectric.com",
+  "name": "Canyon State Electric",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "jmelectrical.com",
+  "name": "JM Electrical Company Inc",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "positivepwr.com",
+  "name": "Positive Power LLC.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "akronelectric.net",
+  "name": "Akron Electric Company Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "meritelectriccompany.com",
+  "name": "Merit Electric Company",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "chicagopcinc.com",
+  "name": "Chicago Power Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "aeelectricservice.com",
+  "name": "Amprite Electric Company, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "durkinelectric.com",
+  "name": "Durkin Electric Co Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "fivestarelectric.org",
+  "name": "Five Star Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "boxsystemselectrical.com",
+  "name": "Box Systems Electrical",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "allphasela.com",
+  "name": "All Phase Electrical Service",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "twallaceinc.com",
+  "name": "Tommy Wallace Electrical Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "spectra-electrical.com",
+  "name": "Spectra Electrical Services, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "a1eleco.com",
+  "name": "A-1 Electrical Contractors, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "lucaelectric.com",
+  "name": "Jim Luca Electric",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "crownelectricinc.com",
+  "name": "Crown Electric, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "innovatedenergycontrols.com",
+  "name": "Innovated Energy Controls",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "icselectricalservices.com",
+  "name": "ICS Electrical Services",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "pri-sys.com",
+  "name": "Primary Systems, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "jltaylorcompany.com",
+  "name": "The J.L. Taylor Company Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "pagoda-electrical.com",
+  "name": "Pagoda Electrical Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ampelectricalinc.com",
+  "name": "Amp Electrical, Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "chapman-electric.com",
+  "name": "Chapman Electrical Contracting",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "lakeelectric.com",
+  "name": "Lake Electric Company",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "vasko.com",
+  "name": "Vasko Electric, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "lydenelectric.com",
+  "name": "Lyden Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "neutralcompanies.com",
+  "name": "Neutral Electric Company LLC",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "enertechelectrical.com",
+  "name": "Enertech Electrical, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "greerselectric.com",
+  "name": "Greers Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "kalishelectric.com",
+  "name": "Kalish Electric Co",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "awjelectric.com",
+  "name": "AWJ Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "aarowelectricalsolutions.com",
+  "name": "Aarow Electrical Solutions",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "delcoelectric.com",
+  "name": "Delco Electric, Inc.",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "alcanelectric.com",
+  "name": "Alcantel Division of Alcan Electric",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "manadaelectric.com",
+  "name": "Manada Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "laketownelectric.com",
+  "name": "Laketown Electric Corporation",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "k2-electric.com",
+  "name": "K2 Electric Incorporated",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "afelectric.net",
+  "name": "A & F Electric Construction Inc",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mammothelectric.com",
+  "name": "Mammoth Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "carroll-electric.net",
+  "name": "Carroll Electric",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "javelinelectricinc.com",
+  "name": "Javelin Electric, Inc.",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "cont-elec.com",
+  "name": "Contemporary Electrical Services, Inc.",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "northstarelectrical.com",
+  "name": "Northstar Electrical Services",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "skylineelectrical.com",
+  "name": "Skyline Electrical Contracting",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "southern-ind.com",
+  "name": "Southern Electrical Contractors, Inc",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "cascadeelectrical.net",
+  "name": "Cascade Electrical Contracting Corp",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "traud-electric.com",
+  "name": "Traud Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "diamondbarelectric.com",
+  "name": "Diamond Bar Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "sunstateenergy.com",
+  "name": "Sunstate Energy LLC",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "hertzlerelectric.com",
+  "name": "Hertzler Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "crelectriccompany.com",
+  "name": "CR Electric Company",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "onepwr.com",
+  "name": "One Power",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ecpwr.com",
+  "name": "EC Power",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "pqsmc.com",
+  "name": "PQS Mission Critical",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "airekoenergygroup.com",
+  "name": "Aireko Energy Group",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mc.services",
+  "name": "Mission Critical Services, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "degraauwelectric.com",
+  "name": "deGraauw Electric LLC",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "powerresources.net",
+  "name": "Power Resources, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mid-southelectric.net",
+  "name": "Mid-South Electric Contractors",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "jgblackmon.com",
+  "name": "JG Blackmon & Associates",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "jdgaddiselectric.com",
+  "name": "Jdgaddis Electrical Contractors Inc",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "exbatt.com",
+  "name": "Exbatt Llc",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "elliottelectric.net",
+  "name": "Elliott Electric Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "totalonlineprotection.com",
+  "name": "Total Online Protection",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "fee-ups.com",
+  "name": "Fakouri Electrical Engineering (FEE)",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ueco.com",
+  "name": "United Electric Company, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "acdc-sg.com",
+  "name": "AC/DC Synergy Group, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "titanpower.com",
+  "name": "Titan Power Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "melvinelectric.com",
+  "name": "Melvin Electric",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "lorbel.com",
+  "name": "Lorbel Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "calselectric.com",
+  "name": "Cal's Electrical Service, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "electricmotorrewindofrupert.com",
+  "name": "Electric Motor Rewind Of Rupert, Id. Inc",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "lewismotorrepair.com",
+  "name": "Lewis Electric Motor Repair",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "precision-psi.com",
+  "name": "Precision P.S.I. LLC.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ime-corp.com",
+  "name": "Industrial Maintenance and Engineering",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "powerrepair.net",
+  "name": "Power Repair Service, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "iemsavannah.com",
+  "name": "Industrial Electro Mechanics",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "rmemnc.com",
+  "name": "Rocky Mount Electric Motor, LLC",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mohler.com",
+  "name": "Mohler Technology, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "greatplainstechnicalservices.com",
+  "name": "Great Plains Technical Service",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "eurtonelectric.com",
+  "name": "Eurton Electric Company, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "whelco.com",
+  "name": "Whelco Industrial",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "romeelectric.com",
+  "name": "Rome Electric Motor Works Inc",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "porterselectric.com",
+  "name": "Porters Electric Motor Service Inc",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "yorkrepair.com",
+  "name": "York Repair Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "pursercentral.com",
+  "name": "Purser Central Rewinding Co",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "iemsbr.com",
+  "name": "Industrial Electric Motor Service, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "lsatx.com",
+  "name": "Lonestar Armature, LLC",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "goemc.com",
+  "name": "Energy Management Corporation",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "whitearmatureworks.com",
+  "name": "White Armature Works",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "owensboroelectricmotor.com",
+  "name": "Owensboro Electric Motor",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "coleelectricms.com",
+  "name": "Cole Tech, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "dietzelectric.com",
+  "name": "Dietz Electric Co Inc",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "palmelectric.com",
+  "name": "Palm Electric",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "wylieelectric.com",
+  "name": "Wylie Electric Motor Service",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "cdelectricmotors.com",
+  "name": "C+D Electric Motors",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "lakecityelectric.net",
+  "name": "Lake City Electric",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "gcemsinc.com",
+  "name": "Gulf Coast Electric Motor Service, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "conreyelectric.com",
+  "name": "Conrey Electric",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "aemservices.com",
+  "name": "Associated Electro-Mechanics",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "bemotors.net",
+  "name": "Beaudry Electric Motors & Controls, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "traf-tex.com",
+  "name": "Traf-Tex, Inc.",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "statewidetrafficsignals.com",
+  "name": "Statewide Traffic Signal Company",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "atscc.com",
+  "name": "Austin Traffic Signal Constr",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "creacominc.com",
+  "name": "Creacom Inc",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ventureelectricva.com",
+  "name": "Venture Electric Company",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ksalighting.com",
+  "name": "KSA Lighting & Controls",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "outsenelectric.com",
+  "name": "Outsen Electric Inc.",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "michianacontracting.com",
+  "name": "Michiana Contracting, Inc",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "carrconstruction.org",
+  "name": "Carr Construction",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "tjwengineering.com",
+  "name": "TJW Engineering, Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "tllelectric.com",
+  "name": "TLL Electric",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "rosselectric.com",
+  "name": "Ross Electric-Enterprise, Inc.",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "progressionelectric.com",
+  "name": "Progression Electric",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "electricalexcellence.com",
+  "name": "Electrical Excellence",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mchelectric.com",
+  "name": "MCH Electric, Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "caccamiseelectric.com",
+  "name": "M. L. Caccamise Electric Corp.",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ncelectrical.com",
+  "name": "North Cherokee Electrical, Inc",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "selectelectricinc.com",
+  "name": "Select Electric, Inc.",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "ase-ar.com",
+  "name": "All Service Electric, Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "windemuller.com",
+  "name": "Windemuller Technical Services",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "sls-us.com",
+  "name": "Scientific Lightning Solutions, LLC",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "tcongrp.com",
+  "name": "Technical Consulting Group",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "bonuselectric.com",
+  "name": "Bonus Electric Co., LLC",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "mvs-tech.com",
+  "name": "MVS Technologies",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "rlwiley.com",
+  "name": "R L Wiley Electrical Contractors Inc",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "wellsglobal.com",
+  "name": "Wells Global",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "flamtech-energy.com",
+  "name": "Flamtech Technologies",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "junctionone.com",
+  "name": "Junction One Technologies",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "okcelectric.com",
+  "name": "OKC Electrical Contractor",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "seomofmi.com",
+  "name": "Service Electric of Michigan",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "psuc.net",
+  "name": "Pacific States Utility Company",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "encoreenergygroup.com",
+  "name": "Encore Energy Group",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "universalevcharging.com",
+  "name": "Universal EV Chargers",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "pecnw.com",
+  "name": "Pacific Energy Concepts (PEC)",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "solisusa.com",
+  "name": "Solis USA",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "nationalesolutions.com",
+  "name": "National E Solutions",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "donovanenergy.com",
+  "name": "Donovan Energy",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "evolvedle.com",
+  "name": "Evolved Lighting Solutions",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "lowe-north.com",
+  "name": "Lowe North Construction",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W1"
+ },
+ {
+  "domain": "highvoltageelectric.com",
+  "name": "High Voltage Electric",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "linearelec.com",
+  "name": "Linear Electric INC",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "oriontechserv.com",
+  "name": "Orion Technical Services LLC",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "harcrowelectric.com",
+  "name": "Harcrow Electric, LLC",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pointonwave.com",
+  "name": "Point On Wave",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rileyelectricco.com",
+  "name": "Riley Electric Company, INC.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "helioselectric.net",
+  "name": "Helios Electric",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electrexindustrial.com",
+  "name": "Electrex Industrial Solutions",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "amptekcontractors.com",
+  "name": "Amptek, Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "texaseliteelectrical.com",
+  "name": "Texas Elite Electrical Services",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "paulsonelectric.com",
+  "name": "Paulson Electric Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "accesstopower.com",
+  "name": "Access Electric",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "powerelectronicsus.com",
+  "name": "Power Electronics",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "iegusa.com",
+  "name": "iEG - Industrial Electrical Group",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sentinelelectricinc.com",
+  "name": "Sentinel Electric, Inc",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kiemlehankins.com",
+  "name": "Kiemle-Hankins",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "barthelectric.com",
+  "name": "Barth Electric Company, Inc.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "votawelectric.com",
+  "name": "Votaw Electric Inc",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ajielectric.com",
+  "name": "Andrew-Jordan Industrial, LLC",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bridgefieldelectric.com",
+  "name": "Bridgefield Electrical Services, Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "midamserv.com",
+  "name": "Mid-America Services",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "heyelectric.com",
+  "name": "Hey Electric",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "strianoelectric.com",
+  "name": "Striano Electric CO INC",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "espohio.com",
+  "name": "Electrical Service Professionals, Inc",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bantaelectric.com",
+  "name": "Banta",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "moodyselectricinc.godaddysites.com",
+  "name": "Moody's Electric",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "beckerle.us",
+  "name": "Beckerle",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "laibe.com",
+  "name": "Laibe Electric/Technology",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "weinsteinelec.com",
+  "name": "Weinstein Electric Co",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sas-llc.net",
+  "name": "Specialized Automation Services, LLC",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "centerline-electric.com",
+  "name": "Centerline Electric, INC.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "americanenergy.us",
+  "name": "North American Energy Services Company",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "powersubservices.com",
+  "name": "Power Substation Services",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sconservices.com",
+  "name": "S-Con Services, Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "joyceelectrical.com",
+  "name": "Joyce Electrical Inc",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mecofl.com",
+  "name": "Maddox Electric Company, LLC",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sigalutility.com",
+  "name": "Vince Sigal Electric",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "nativesons.org",
+  "name": "Native Sons LTD.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dlsteiner.com",
+  "name": "D.L. Steiner, Inc.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "powerquality.org",
+  "name": "Power Quality Inc",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "asesafety.com",
+  "name": "Advanced Safety & Energy",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lpmelectric.com",
+  "name": "Lpm Electric",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "icgroup-ca.com",
+  "name": "Industrial Controls Group",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "arcflashpro.com",
+  "name": "Electrical Safety Specialists, LLC",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "e-hazard.com",
+  "name": "e-Hazard",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rb-marine.com",
+  "name": "RB Marine Power Engineering, Inc.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "amwestcontrol.com",
+  "name": "AmWest Control Inc.",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "genelco-inc.com",
+  "name": "Genelco Inc.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alpinecr.com",
+  "name": "Alpine Restoration",
+  "bucket": "T1",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "argo-sys.com",
+  "name": "ARGO Systems, LLC",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "is-international.com",
+  "name": "IS International",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mikewill.com",
+  "name": "Mikewill Inc",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mcroilandgas.com",
+  "name": "MCR Oil and Gas",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "espatl.com",
+  "name": "Engineered Software Products, Inc.",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hydroscience.com",
+  "name": "HydroScience Engineers",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "edi-dolejs.com",
+  "name": "Engineering Design Initiative, Ltd",
+  "bucket": "T1",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electricmotorshop.com",
+  "name": "Electric Motor Shop",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hannonelectric.com",
+  "name": "The Hannon Company",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dreisilker.com",
+  "name": "Dreisilker Electric Motors Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "a-harmature.com",
+  "name": "A & H Armature Works, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "burfordinc.com",
+  "name": "Burford Electric Service, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "iemco.com",
+  "name": "Independent Electric Machinery Company",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eemsco.com",
+  "name": "Eemsco, INC.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "industrialelectricalco.com",
+  "name": "Industrial Electrical Company",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "westernindustrialmotor.com",
+  "name": "Western Industrial Motor & Machine",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rapaelectric.com",
+  "name": "Rapa Electric, Inc.  (Electric Motor Repair Services and New Motor Sales)",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "scottarm.com",
+  "name": "Scott Armature, LLC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ljwalch.com",
+  "name": "L. J. Walch Co., Inc.",
+  "bucket": "T2",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "flolo.com",
+  "name": "The Flolo Corporation",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eliteindustrialllc.com",
+  "name": "Elite Industrial, LLC.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "vaughnelectric.com",
+  "name": "Vaughn Electric Company, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bradleysmotors.com",
+  "name": "Bradleys, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eecmotor.com",
+  "name": "Etheredge Industrial Services",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "emsindustrial.com",
+  "name": "EMS Industrial, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "southernwinding.com",
+  "name": "Southern Winding Service, INC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "decaturindustrial.com",
+  "name": "Decatur Industrial Electric, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "aandwelectric.com",
+  "name": "A&W Electric, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "darbyelectric.com",
+  "name": "Darby Electric",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hibbsinc.com",
+  "name": "Hibbs ElectroMechanical, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "freedomaeroservice.com",
+  "name": "Freedom Aero Service Inc.",
+  "bucket": "T2",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jenkinselectric.com",
+  "name": "Jenkins Electric Company",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "naswgr.com",
+  "name": "North American Switchgear",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "volland.com",
+  "name": "Volland Electric Equipment Corp.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sytekelectric.com",
+  "name": "Sytek Electric Corporation",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cecmotoru.com",
+  "name": "Cec Motor & Utility Services, LLC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "southwindaviation.com",
+  "name": "Southwind Aviation",
+  "bucket": "T2",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "texasoilelectric.com",
+  "name": "Texas Oil Electric",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "applied-dynamics.com",
+  "name": "Applied Dynamics Corporation",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "garbaindustrial.com",
+  "name": "Garba Industrial Service",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "southernapparatus.com",
+  "name": "Southern Apparatus Services, INC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "clarkfowlerelectric.com",
+  "name": "Clark-Fowler Electric",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "naasco.com",
+  "name": "Naasco",
+  "bucket": "T2",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "allenselectricmotors.com",
+  "name": "Allen's Electric Motors Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "skyteam.cc",
+  "name": "SkyTeam International, Co.",
+  "bucket": "T2",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ouachitaelectric.com",
+  "name": "Ouachita Electric Service",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "premcoinc.net",
+  "name": "Premco, INC.",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "matlockelectric.com",
+  "name": "Matlock Electric Co., Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "uigcorp.com",
+  "name": "United Industrial Group, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pylmanpower.com",
+  "name": "Pylman Power Inc",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hillsindustrial.com",
+  "name": "Hill's Industrial",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bennettelectric.com",
+  "name": "Bennett Electrical Contractor",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electricalrepairserviceco.com",
+  "name": "Electrical Repair Service CO, INC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "imsnation.com",
+  "name": "Industrial Maintenance Solutions",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dixieemsi.com",
+  "name": "Dixie Electro Mechanical Services Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sheppardsvs.com",
+  "name": "Sheppard Services, LLC.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "qualityelectromechanical.com",
+  "name": "Quality Industrial Services",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "littlejohn-reuland.com",
+  "name": "Littlejohn-Reuland Corporation",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "maderelectricmotors.com",
+  "name": "Mader Electric Motors",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "maltonelectric.com",
+  "name": "Malton Electric Company",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "skileselectric.com",
+  "name": "Skiles Electric",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "airsaviation.com",
+  "name": "a.I.R.S.",
+  "bucket": "T2",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electricmotorsinc.com",
+  "name": "Electric Motors Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "nelsonele.com",
+  "name": "G. Nelson Electric Motors, Inc. dba Nelson Electric Motor Service / Nelson Electric Motors",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mielkeelectric.com",
+  "name": "Mielke Electric",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ireland-electric.com",
+  "name": "Ireland Electric Company",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bolt-electric.com",
+  "name": "Bolt Electric",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pfeifferelectric.com",
+  "name": "Pfeiffer Electric Company, Inc",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alaelectric.com",
+  "name": "Alabama Electric Company, Inc. of Dothan",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tessllc.us",
+  "name": "TESS Electrical Sales & Service",
+  "bucket": "T2",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "northwestmotor.com",
+  "name": "Northwest Electric Motor Company",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eliteelectrical.net",
+  "name": "Elite Elctrical Contractors INC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bxperts.com",
+  "name": "bXperts",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sqone.com",
+  "name": "Square One Electric Motors and Pumps",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "masterrig.com",
+  "name": "Master Rig International",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "remisi.com",
+  "name": "Rem Industrial",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bestwayelectric.com",
+  "name": "Bestway Electric Motor Service Co., Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bei-sc.com",
+  "name": "Brad's Electric, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "henderson-services.com",
+  "name": "Henderson Services LLC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lcelectricinc.com",
+  "name": "Lc Electric Inc",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "horizonlightinginc.com",
+  "name": "Horizon Lighting Inc.",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rmselectricalinc.com",
+  "name": "RMS Electrical Services, Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "baxterelectricllc.com",
+  "name": "Baxter Electric",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rodickelectric.com",
+  "name": "Rodick Electrical Services Corp.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "emiofkc.com",
+  "name": "EMI of KC",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "islandmarineelectric.com",
+  "name": "Island Marine Electric",
+  "bucket": "T2",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alvahgroup.com",
+  "name": "Alvah Group, Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mtvsolutions.com",
+  "name": "Mtv Solutions, INC.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "solpowerlines.com",
+  "name": "SolPowerlines",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "everhartandhoover.com",
+  "name": "Everhart & Hoover Power Line Construction INC",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "djselectrical.com",
+  "name": "Dj Electrical",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "watersandbugbee.com",
+  "name": "Waters & Bugbee, Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "onesourcerestorationllc.com",
+  "name": "OneSource Restoration",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "energygroupusa.com",
+  "name": "Energy Group, Inc.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pinnaclepowersvcs.com",
+  "name": "Pinnacle Power Services Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "battag.com",
+  "name": "Battaglia Electric, Inc.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "egmiddleton.com",
+  "name": "E. G. Middleton Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cobaltcivil.com",
+  "name": "Cobalt Civil, LLC",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "synergypowerlineconstruction.com",
+  "name": "Synergy Powerline Construction",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ancoholdings.com",
+  "name": "Anco",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "undergroundcontractors.com",
+  "name": "Underground Contractors Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dynamic2016.com",
+  "name": "Dynamic Utility Solutions, LLC",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "moulison.com",
+  "name": "Moulison Heavy Electrical",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "royerbrothers.com",
+  "name": "Royer Brothers",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "utiligi.com",
+  "name": "Utiligi",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "daleoinc.com",
+  "name": "Daleo Inc",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "glenelgconstruction.com",
+  "name": "Glenelg Construction",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "missionsiteservices.com",
+  "name": "Mission Site Services LLC.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "piercepowerline.com",
+  "name": "Pierce Powerline Co",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "wearepositiveenergy.com",
+  "name": "Positive Energy, LLC.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ratliffelectric.com",
+  "name": "Ratliff Electric Co",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gerstnerelectric.com",
+  "name": "Gerstner Electric, Inc.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "taudeltainc.com",
+  "name": "Tau Delta Industries, Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "crossdiscipline.com",
+  "name": "Cross Discipline Engineering, LLC",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "agiconstruction.com",
+  "name": "AGI Construction, Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electricinnovations.com",
+  "name": "Electric Innovations Inc.",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "terrazongroup.com",
+  "name": "Terrazon Group",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "preferredelectric.net",
+  "name": "Preferred Electric, Inc.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "geoforceutilitytech.com",
+  "name": "GeoForce Utility Technologies",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "castrejoninc.com",
+  "name": "Castrejon Incorporated",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "csaconstructorstx.com",
+  "name": "CSA Constructors",
+  "bucket": "T3",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "heartutilities.com",
+  "name": "Heart Utilities",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jsinspect.com",
+  "name": "J&S Inspections Company",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "firstpowergroupllc.com",
+  "name": "FirstPower Group LLC",
+  "bucket": "T3",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "muthelectric.com",
+  "name": "Muth Electric, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rudylhawkinselectrical.com",
+  "name": "Rudy L. Hawkins Electrical",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "prolectric.com",
+  "name": "Pro-Lectric Industrial Contractors, INC",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "brandonclark.com",
+  "name": "Brandon & Clark, Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "meritelectrical.com",
+  "name": "Merit Electrical, INC.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dixonelectrical.com",
+  "name": "Dixon Electrical Systems & Contracting Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gulfelec.com",
+  "name": "Gulf Electric Co Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "icecontractors.net",
+  "name": "I.C.E. Contractors, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "conawayelectrical.com",
+  "name": "Conaway Electrical Service Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "its-sav.com",
+  "name": "Industrial Technical Services, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rcdelectric.com",
+  "name": "RCD Inc. Electrical Services",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "texanelectric.com",
+  "name": "Texan Electric Co Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alltechllc.com",
+  "name": "All Tech Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electrical-work.com",
+  "name": "Electrical Work, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "abecelectric.com",
+  "name": "ABEC Electric Company, LLC",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kansaselectric.com",
+  "name": "Kansas Electric, Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rselectriccorp.com",
+  "name": "R/S Electric Corp.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "summitelectrical.com",
+  "name": "Summit Electrical Contractors, Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "greenwayelectric.com",
+  "name": "Greenway Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "primeelectrical.net",
+  "name": "Prime Electrical Services, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "wuestelectric.com",
+  "name": "Wuest Electric Co",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "graphicelectric.org",
+  "name": "Graphic Electric Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "radec.com",
+  "name": "Radec Corp",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "allproelectrical.com",
+  "name": "ALL PRO Electrical Technology, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lighthouseelec.com",
+  "name": "Lighthouse Electrical",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cates.com",
+  "name": "Cates Control Systems",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "blsmithelectric.com",
+  "name": "B.L. Smith Electric, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pqci.net",
+  "name": "Pacific Quality Controls Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "leedelectric.com",
+  "name": "Leed Electric, INC.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "impaxautomation.com",
+  "name": "Impax Automation, LLC",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "triunenc.com",
+  "name": "Triune Electric, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electricaltechniques.com",
+  "name": "Electrical Techniques, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jcdriskill.com",
+  "name": "J C Driskill Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "universalelectrical.com",
+  "name": "Universal Electrical Service, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cpmelectric.com",
+  "name": "Control Power Maintenance Electric, INC.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "edeusa.com",
+  "name": "Electro Design Engineering, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "almanelec.com",
+  "name": "Alman Electric Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "atlas-pellizzari.com",
+  "name": "Atlas/Pellizzari Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "telstarinc.com",
+  "name": "Telstar Instruments",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "peak-ind.com",
+  "name": "Peak Industries LLC",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eecsi.com",
+  "name": "Control Systems Integration LLC",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "schaffhouser.com",
+  "name": "Schaffhouser Electric Company, LLC.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cse-ne.com",
+  "name": "CSE Services, L.L.C.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "challengeelectricltd.com",
+  "name": "Challenge Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "acmeelectriccompany.com",
+  "name": "ACME Electric Company",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "nelsonselectric.com",
+  "name": "Nelson & Sons Electric",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "groupgdc.com",
+  "name": "GDC Industrial, Inc *",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kleinae.com",
+  "name": "Klein Automation & Electric Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tec-electric.com",
+  "name": "TEC Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "triadpowerandcontrols.com",
+  "name": "Triad Power and Controls",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pei-electric.com",
+  "name": "Precision Electric Inc. Las Vegas",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sesiec.com",
+  "name": "Shenandoah Electrical Services, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dnesco.com",
+  "name": "DNESCO Electric, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "aecinc.us",
+  "name": "American Electrical Contractors, INC",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dancargroup.com",
+  "name": "DanCar Industrial Group, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "correctinc.com",
+  "name": "Correct Electric Inc Houston",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "fyi.solutions",
+  "name": "Feed Yard Industrial Solutions",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "fullfordelectric.com",
+  "name": "Fullford Electric Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "easternelectricllc.com",
+  "name": "Eastern Group, LLC.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "schemmelectric.com",
+  "name": "Schemm Electric Co",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "preferredelectrical.com",
+  "name": "Preferred Electrical",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bigbearelectric.biz",
+  "name": "Big Bear Electric Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bayouelectrical.net",
+  "name": "Bayou Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "msiconst.com",
+  "name": "MSI Construction Co",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gilmoreelectric.com",
+  "name": "Gilmore Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "prizmelectrical.com",
+  "name": "Prizm Electrical Solutions, Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lbelectric.net",
+  "name": "L & B Electrical Contractors, INC.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "flemingtoninstrument.com",
+  "name": "Flemington Instrument Co",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "longchampselectric.com",
+  "name": "Longchamps Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "phillipselectrical.com",
+  "name": "Phillips Electrical / Mechanical",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "aye-inc.com",
+  "name": "Allen Yoho Electrical, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "southerncontracting.com",
+  "name": "Southern Contracting Company",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "wvelectric.com",
+  "name": "West Virginia Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electricalsystemsinc.net",
+  "name": "Electrical Systems Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kentelectricinc.com",
+  "name": "Kent Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lascoelectrical.com",
+  "name": "Lasco Electrical Services, LLC",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "smartelectriccompanyinc.com",
+  "name": "Smart Electric Company Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "csetx.com",
+  "name": "CSE Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "crawford-electric.com",
+  "name": "Crawford Electric LLC",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cannon-wendt.com",
+  "name": "Cannon & Wendt Electric",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kmkellyinc.com",
+  "name": "KM Kelly, Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "danfreitaselectric.com",
+  "name": "Dan Freitas Electric Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "beelectricinc.com",
+  "name": "B & E Electric INC.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "austgen.com",
+  "name": "Austgen Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "acornelectrical.com",
+  "name": "Acorn Electrical Specialists, INC.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "diamondindustrialgroup.com",
+  "name": "Diamond Industrial Group, LLC",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "globalpowergroup.com",
+  "name": "Global Power Group, Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ordeselectric.com",
+  "name": "Ordes Electric Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "watermarkelectric.com",
+  "name": "Watermark Electric",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "deanbrothersinc.com",
+  "name": "Dean Brothers Inc",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "iecelko.com",
+  "name": "Intermountain Electrical Contractors",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "el-hy-mec.com",
+  "name": "El-Hy-Mec",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "carmelelectric.com",
+  "name": "Carmel Electric Co",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tiscontrols.com",
+  "name": "Tucker Industrial Solutions",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "accbr.com",
+  "name": "Automation Control Company, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "emainc.net",
+  "name": "Electronic Maintenance Associates Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "variablespeedsolutions.com",
+  "name": "Variable Speed Solutions Inc.",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "moleymagneticsinc.com",
+  "name": "Moley Magnetics, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "precisionelectronics.net",
+  "name": "Precision Electronics, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "firstelectricmotor.com",
+  "name": "First Electric Motor Service",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hopeelectric.com",
+  "name": "Hope Electric Inc",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "delectricmotors.com",
+  "name": "\"D\" Electric Motors, Inc.",
+  "bucket": "T4",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alliedcontrol.com",
+  "name": "Allied Control Services",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gohispeed.com",
+  "name": "Hi-Speed Industrial Service",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "knightelectrical.com",
+  "name": "Knight Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "coreelectric.net",
+  "name": "Core Electric | Michigan Pump",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ridgeview-mc.com",
+  "name": "Ridgeview Mission Critical",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bandhelectric.com",
+  "name": "B & H Electric INC.",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cascade-machinery.com",
+  "name": "Cascade Machinery & Electric, Inc.",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "semw.net",
+  "name": "Stewart's Electric Motor Works, Inc.",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "twinelectricltd.com",
+  "name": "Twin Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "msenergy.com",
+  "name": "MidStates Energy Co, LLC",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "litcoautomation.com",
+  "name": "Litco Automation, INC.",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "360energysolutions.net",
+  "name": "360 Energy Solutions LLC",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jwelectric.com",
+  "name": "Jw Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ivsincorporated.com",
+  "name": "IVS Incorporated",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kgpowersystems.com",
+  "name": "K&G Power Systems",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "qdelectrical.com",
+  "name": "Qd Electrical Services",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "swetexas.com",
+  "name": "SW Electric, LLC",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ridgelineei.com",
+  "name": "Ridgeline Electrical Industries",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "vesdfw.com",
+  "name": "Vanguard Electrical Services, LLC",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ajgoulderelectric.com",
+  "name": "A J Goulder Electric, Inc.",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dselectric.us",
+  "name": "D&S Electric Group Inc",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sunelectricnd.com",
+  "name": "Sun Electric",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tomcoelectric.com",
+  "name": "Tomco Electric Inc",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "doyleelectricinc.com",
+  "name": "Doyle Electric, Inc.",
+  "bucket": "T5",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "viaelectric.com",
+  "name": "Via Electric CO",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "computersites.net",
+  "name": "Computer Sites, INC.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "systatnow.com",
+  "name": "Systat",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "acdcpowertechnologies.com",
+  "name": "AC & DC Power Technologies",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "facilitygateway.com",
+  "name": "Facility Gateway Critical Services",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "zonatherm.com",
+  "name": "Zonatherm Products, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bgasales.com",
+  "name": "Bud Griffin & Associates, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sure-power.com",
+  "name": "Sure Power, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dvlnet.com",
+  "name": "DVL Group, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "epowernetwork.com",
+  "name": "ePower Network",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "penndelmar.com",
+  "name": "Penn-Delmar Power",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ccpower.com",
+  "name": "C&C Power, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hmcragg.com",
+  "name": "HM Cragg",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "evolveincorporated.com",
+  "name": "Evolve",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ram-tek.com",
+  "name": "RAMTEK - Mission Critical Solutions",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "duthiepower.com",
+  "name": "Duthie Power Services",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "poweritny.com",
+  "name": "PowerIT",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "facilityitgroup.com",
+  "name": "Facility IT Group",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ecsintl.com",
+  "name": "Energy Control Systems, International",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "uspwr.com",
+  "name": "Universal Power",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cigroup-us.com",
+  "name": "Critical Infrastructure Group, LLC",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "camalicorp.com",
+  "name": "Camali CORP",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "usa-svc.com",
+  "name": "Ultimate Service Associates, LLC",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pureenw.com",
+  "name": "Pure Energy",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bittingelectric.com",
+  "name": "Bitting Electric Inc",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "weldpower.com",
+  "name": "Weld Power Generator Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "twegen.com",
+  "name": "TW Enterprises, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jmschaefer.com",
+  "name": "J&M Schaefer, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jsfleming.com",
+  "name": "JS Fleming Associates",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bescoelec.com",
+  "name": "BESCO Building Electrical Systems, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eps-stl.com",
+  "name": "Engineered Power Systems, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "paloselectric.com",
+  "name": "Palos Electric Co",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "psihq.com",
+  "name": "Power & Systems Innovations",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "norcalbattery.com",
+  "name": "NorCal Battery Co.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "angielecc.com",
+  "name": "Angiel Electrical Construction",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "coresupportsys.com",
+  "name": "CORE Support Systems",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "empower-electric.com",
+  "name": "Empower Electric, LLC",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tidaltimesolutions.com",
+  "name": "Tidal Time Solutions",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "craft-electric.com",
+  "name": "Craft Electric Co., Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "power-upllc.com",
+  "name": "Power Up LLC",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "automatedpower.com",
+  "name": "UPS Protection, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "optimalpwr.com",
+  "name": "Optimal Power Solutions",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sacpower.com",
+  "name": "Sacramento Computer Power, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "charlesequipment.com",
+  "name": "Charles Equipment Energy Systems",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "advancedpowering.com",
+  "name": "Advanced Powering Services, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lionheartpower.com",
+  "name": "LionHeart Critical Power Specialists",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jamesfvolpe.com",
+  "name": "James F Volpe Electrical Contg",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "fcps-electric.com",
+  "name": "FCPS Electric",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pwrstoragesolutions.com",
+  "name": "Power Storage Solutions",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "amberelectrical.com",
+  "name": "Amber Electrical Contractors, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "makpower.com",
+  "name": "Makpower",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ldpassociates.com",
+  "name": "LDP Associates",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cjspower.com",
+  "name": "CJ's Power Systems",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "apspower.com",
+  "name": "Applied Power Systems",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "airpowerconsultants.com",
+  "name": "Air Power Consultants, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "currentelectricalservices.com",
+  "name": "Current Electrical Services",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "westpointelectricinc.com",
+  "name": "Westpoint Electric, INC.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "coastlinepowersolutions.com",
+  "name": "Coastline Power Solutions",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pergravis.com",
+  "name": "Pergravis",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cps-corp.net",
+  "name": "Critical Power Solutions, Inc (CPS)",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eesystemsusa.com",
+  "name": "Engineered Electrical Systems (EES)",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "echoedcorp.com",
+  "name": "Echo ED Corp",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tclelectric.com",
+  "name": "TCL Electrical & Lighting, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "geminielectric.net",
+  "name": "Gemini Electric Company Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "performanceelectricalllc.com",
+  "name": "Performance Electrical",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alcatex.com",
+  "name": "Alcatex, Inc. - Data Center Services",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "macleanriggins.com",
+  "name": "MacLean-Riggins, Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sandhillsutility.com",
+  "name": "Sandhills Utility Services, LLC",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gensolutionsllc.com",
+  "name": "GenSolutions LLC",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "startechmarine.com",
+  "name": "Star Tech Marine Electronics, LLC",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mnidiesel.com",
+  "name": "MNI Diesel, LLC",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "maritimetechnicalservices.com",
+  "name": "Maritime Technical Services Inc",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "relres.com",
+  "name": "Reliable Resources Inc",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "webuilddatacenters.com",
+  "name": "Data Specialties Inc.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "techsiteplan.com",
+  "name": "TechSite",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bruns-pak.com",
+  "name": "BRUNS-PAK Data Center Solutions",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "fulcrumreliability.com",
+  "name": "Fulcrum Reliability Systems",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jdcpowersystems.com",
+  "name": "JDC Power Systems",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "teamsilverback.com",
+  "name": "Silverback Data Center Solutions, Inc",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "feace.com",
+  "name": "Facilities Engineering Associates, P.C.",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "karbonengineering.com",
+  "name": "Karbon Engineering",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "theantaragroup.com",
+  "name": "ANTARA Group",
+  "bucket": "T6",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bennett-electric.com",
+  "name": "Bennett Electrical Inc",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "turbinedoctor.com",
+  "name": "Turbine Diagnostic Services, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mcelectricinc.com",
+  "name": "M.C. Electric LLC",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sidewindersllc.com",
+  "name": "Sidewinders, LLC",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "balancevibration.com",
+  "name": "Balance Vibration Technologies Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "shoemakerindustrial.com",
+  "name": "Shoemaker Industrial Solutions",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "amesolutions.com",
+  "name": "Advanced Mechanical Enterprises/AME",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "balco.com",
+  "name": "The Balancing Company, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "propumpservices.com",
+  "name": "ProPump Services",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "precisionmachllc.com",
+  "name": "Precision Machinery Contractors LLC",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pro-pump.com",
+  "name": "Pro-Pump, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "specialtyrer.com",
+  "name": "Specialty Rotating Equipment Repair, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "avsengineering.net",
+  "name": "AVS Engineering",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rotatingequip.com",
+  "name": "Rotating Equipment Specialists, LLC",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "vibra-analysis.com",
+  "name": "Vibra-Analysis, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tremorvibration.com",
+  "name": "Tremor Vibration Services, LLC.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "electricalapparatus.net",
+  "name": "Electrical Apparatus & Machine",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "vibrationengineers.com",
+  "name": "Vibration Engineers",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "envibe.com",
+  "name": "EnVibe, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "damanindustrial.com",
+  "name": "Daman Industrial Services, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mtillc.com",
+  "name": "Maintenance Technologies International, LLC",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "solutionservicescorp.com",
+  "name": "Solution Services Corp.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "industrialtechnicalservices.com",
+  "name": "Industrial Technical Services, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "shamrockservices.net",
+  "name": "Shamrock Services, LLC Dublin, GA",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "energyresourcesgroup.us",
+  "name": "Energy Resources Group, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cascademvs.com",
+  "name": "Cascade MVS",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cmtcompanies.com",
+  "name": "City Machine Technologies",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "erwinsc.com",
+  "name": "Erwin Services Corporation",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "fullcircleindustrial.com",
+  "name": "Full Circle Industrial",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "troyindustrialsolutions.com",
+  "name": "Troy Industrial Solutions",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "raykermechanicalservices.com",
+  "name": "Rayker Mechanical Services, LLC.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "failureprevention.com",
+  "name": "Failure Prevention Associates, LLC",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "krauthelectric.com",
+  "name": "Krauth Electric Co., Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "coastalmandm.com",
+  "name": "Coastal Machine and Mechanical LLC",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "aboutmmc.com",
+  "name": "MMC Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ipspumpservice.com",
+  "name": "IPS Pump Services, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "enyartelectric.com",
+  "name": "Enyart Electric Motor Repair",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "reinhartassoc.com",
+  "name": "Reinhart & Associates, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "emc-co.com",
+  "name": "Electric Motor & Contracting Co., Inc",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "industrialpumpandmotor.com",
+  "name": "Industrial Pump and Motor Repair, Ltd.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "motorgearengineer.com",
+  "name": "Motor and Gear Engineering",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "osresource.net",
+  "name": "Outage Support Resource",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bulldogonsite.com",
+  "name": "Bulldog On-Site Solutions",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "janda.com",
+  "name": "Janda Motor Services",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "houstondynamic.com",
+  "name": "Houston Dynamic Service",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "walcokip.com",
+  "name": "Walco Electric",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alertanalytical.com",
+  "name": "Alert Analytical",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dynamicsresearch.net",
+  "name": "Dynamics Research Corp",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "reedserv.com",
+  "name": "Reeds Cleaning Service Inc",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mid-ohioelectric.com",
+  "name": "Mid-Ohio Electric CO INC",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "clevelandpumprepair.com",
+  "name": "Cleveland Pump Repair & Services, LLC.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eastcoastvalve.com",
+  "name": "East Coast Valve Services, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "enduro-ts.com",
+  "name": "ENDURO Technical Services of North America, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "5starengineering.com",
+  "name": "5 Star Engineering and Maintenance, LLC",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kineticwind.tech",
+  "name": "Kinetic Wind",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "baseloadfirst.com",
+  "name": "Baseload Power",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ildpower.com",
+  "name": "ILD, Incorporated",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "agtservices.com",
+  "name": "AGTServices Inc",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "elevatormotor.com",
+  "name": "Electrical Motor Repair Co",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mts-nw.com",
+  "name": "Machine Tool Services",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "waveforceelectrical.com",
+  "name": "Waveforce Electrical, LLC",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mmrservice.com",
+  "name": "Machinery Maintenance Rebuilders, Inc.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "flyingxelectric.com",
+  "name": "Flying X Electric",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "innova-es.com",
+  "name": "Innova Energy Services",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hitekbalancing.com",
+  "name": "HI-TEK Balancing",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dynomill-us.com",
+  "name": "Dynomill Incorporated",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mikesmicroparts.net",
+  "name": "Mike's Micro Parts",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "vitech-us.com",
+  "name": "Vi-Tech",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "dynamicmotions.com",
+  "name": "Dynamic Motions Inc",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "smithelectricmotors.com",
+  "name": "Smith Electric Motor Service",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lloydelectric.net",
+  "name": "Lloyd Electric Co. Inc",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "wildeelectricmotors.com",
+  "name": "Wilde Electric Motors",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "imworksinc.com",
+  "name": "Industrial Machine Works, Inc.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "metzgermachine.com",
+  "name": "Metzger Machine Co.",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "coastalindustrialservice.com",
+  "name": "Coastal Industrial Service",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lewiselectricmotors.com",
+  "name": "Lewis Electric Motors Inc",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "anchorelectricmotors.com",
+  "name": "Anchor Electric Motors",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "singerelectric.com",
+  "name": "Singer Electric Motors-Generators",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "primeacdcmotors.com",
+  "name": "Prime Electric Motors Inc",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "allelectricmotorsla.com",
+  "name": "All Electric Motors",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "apprep.com",
+  "name": "Apparatus Repair & Engineering",
+  "bucket": "S7",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "reedwick.com",
+  "name": "Reedwick, LLC",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jhe-la.com",
+  "name": "Jack B. Harper Electrical, LLC",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "highwaysafetydevices.com",
+  "name": "Highway Safety Devices, Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "deco-la.com",
+  "name": "Diamond Electrical Company",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "midstatetraffic.com",
+  "name": "Midstate Traffic Control, INC.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "colterelectric.com",
+  "name": "Colter Electric Co",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "fie-inc.com",
+  "name": "Florida Industrial Electric",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bansalconstruction.com",
+  "name": "Bansal Construction Inc",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "acstraffic.net",
+  "name": "Advanced Cabling Solutions INC.",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sawyer-services.com",
+  "name": "Sawyer Services",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "shoalselectric.com",
+  "name": "Shoals Electric Co Inc",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sgiwv.com",
+  "name": "Specialty Groups, Inc",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "integral-blue.com",
+  "name": "Integral Blue",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "olympicelectric.net",
+  "name": "Olympic Electric",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gadestraffic.com",
+  "name": "Gades Sales Co., Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pathmasterinc.com",
+  "name": "Path Master, Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "halleyeng.com",
+  "name": "Halley Engineering Contractors",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "nyconncorp.com",
+  "name": "NY-Conn Corporation",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "servitechinc.com",
+  "name": "Servitech Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alleghenycityelectric.com",
+  "name": "Allegheny City Electric",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "newenglandtrafficsolutions.com",
+  "name": "New England Traffic Solutions",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "coloradolighting.com",
+  "name": "CLI Services",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kantaelectric.com",
+  "name": "Kanta Electric Corp.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tankolighting.com",
+  "name": "Tanko Lighting Inc",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lucentgp.com",
+  "name": "Lucent Group, INC.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rjhaynie.com",
+  "name": "R J Haynie & Assoc Inc",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tgbinc.com",
+  "name": "TGB Inc",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hawk-inc.com",
+  "name": "Hawk Enterprises",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "groveselectric.com",
+  "name": "Groves Electrical Svc Inc",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "branhamelectriccorp.com",
+  "name": "Branham Electric Corp",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "efbelkelectric.com",
+  "name": "E. F. Belk & Son, Inc.",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lyncoelectric.net",
+  "name": "Lynco Electric Co. Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "systemselectricalservices.com",
+  "name": "Systems Electrical Services Inc.",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "kimbrellelectricaz.com",
+  "name": "Kimbrell Electric",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sportlighting.com",
+  "name": "Techline Sports Lighting",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "jackhornsbyelectric.com",
+  "name": "Jack Hornsby Electric",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ncobbelectrical.com",
+  "name": "North Cob Electrical Services, Inc",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lantzelectric.com",
+  "name": "Lantz Electric, Inc.",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "austinelectricalconstruction.com",
+  "name": "Austin Electrical Construction",
+  "bucket": "S8",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "danielselectric.com",
+  "name": "Daniels Electric",
+  "bucket": "S8",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pisoev.com",
+  "name": "PlugIn Stations Online LLC",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "heartlandchargingservices.com",
+  "name": "Heartland Charging Services",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "green-wealth.com",
+  "name": "GreenWealth Energy",
+  "bucket": "S9",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "nationalcarcharging.com",
+  "name": "National Car Charging",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "chargie.com",
+  "name": "Chargie",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "eepros.com",
+  "name": "Energy Efficiency Pros",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "francisenergy.com",
+  "name": "Francis Energy, LLC",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ev-edison.com",
+  "name": "EV Edison",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "verdek.com",
+  "name": "Verdek\u2122",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "zefenergy.com",
+  "name": "ZEF Energy",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "getspeedcharge.com",
+  "name": "FreeWire Technologies",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "chargesmartev.com",
+  "name": "ChargeSmart EV",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "poweral.com",
+  "name": "Poweral",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pevarnik.com",
+  "name": "Pevarnik Bros., INC.",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gospacego.com",
+  "name": "GoSpace LLC",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bluewhaleev.com",
+  "name": "Blue Whale EV",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cgosolutions.com",
+  "name": "CGO Solutions",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "facilico.com",
+  "name": "Facilico, Inc.",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "sweetevcharging.com",
+  "name": "Sweet EV Charging",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gravitienergy.com",
+  "name": "Graviti",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "neoelectrical.com",
+  "name": "Neo Electrical Solutions",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "goforthelectric.com",
+  "name": "Goforth Electric, Inc.",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "futurefuelsenergy.com",
+  "name": "Future Fuels",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "centralstateco.com",
+  "name": "Central State Construction",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "get-ny.com",
+  "name": "Green Energy Technology",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "matchaelectric.com",
+  "name": "Matcha Energy",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "itselectric.us",
+  "name": "it's electric",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "comletric.com",
+  "name": "Comletric, Inc",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "evrange.com",
+  "name": "EV Range Charging Network",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "energysource.com",
+  "name": "Energy Source",
+  "bucket": "S9",
+  "priority": "Nurture-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "bescoelectrical.com",
+  "name": "Besco Electrical",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lightsinc.com",
+  "name": "Lights Inc",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "positivenergy.us",
+  "name": "PositivEnergy",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "psserv.com",
+  "name": "P.S. Services",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "aeservices.us",
+  "name": "American Energy Services, LLC",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "aetnacorp.com",
+  "name": "Aetna Corp.",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mojaveelectric.com",
+  "name": "Mojave Electric",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "landmarkelectricinc.com",
+  "name": "Landmark Electric Inc",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hawkeye-construction.com",
+  "name": "Hawkeye Construction, LLC",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "allindustrialelectric.com",
+  "name": "All Industrial Electric, Inc.",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "divienergy.com",
+  "name": "DiVi Energy",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "logiclamp.com",
+  "name": "LogicLamp",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "retrofitcompanies.com",
+  "name": "The Retrofit Companies, Inc.",
+  "bucket": "S9",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "victorylightingservices.com",
+  "name": "Victory Lighting Services Inc.",
+  "bucket": "S9",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "lbagroup.com",
+  "name": "LBA Group, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "palmanelectric.com",
+  "name": "Palman Electric, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "hickeyelectricinc.com",
+  "name": "Hickey Electric Incorporated",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mcdonaldinc.com",
+  "name": "Cf Mcdonald Electric",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "tri-areaelectric.com",
+  "name": "Tri-Area Electrical Construction, Inc.",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "actionelectricalcontractors.com",
+  "name": "Action Electrical Contractors, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "averillelectric.com",
+  "name": "Averill Electric",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "globuselectric.com",
+  "name": "Globus Electric, Inc",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "ampsafe.com",
+  "name": "Ampsafe, LLC.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "surge11.com",
+  "name": "RMS Electric",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "postelectric.net",
+  "name": "Post Electric, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "gumpherinc.com",
+  "name": "Gumpher Inc.",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "allstateelec.com",
+  "name": "All-State Electrical",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "leaelectric.com",
+  "name": "Lea Electric, L.L.C.",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "advancedelectricalsolutions.com",
+  "name": "Advanced Electrical Solutions",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "industrialaccess.com",
+  "name": "Industrial Access, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "qesonline.net",
+  "name": "Quality Electrical Systems Inc",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "herndonelectric.net",
+  "name": "Herndon Electric",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "mbelectricians.com",
+  "name": "Mb Electric Inc",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rcswv.com",
+  "name": "Roberts Corrosion Services, LLC",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "nismidwest.com",
+  "name": "Northern Inspection Services, LLC",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "peakcorrosion.com",
+  "name": "Peak Corrosion Control Inc",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rwsheltonservices.com",
+  "name": "R W Shelton Services, Inc",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "qualcorr.com",
+  "name": "Qualcorr Engineering Corp",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "galluppipeline.com",
+  "name": "Gallup Pipeline And Compliance Services, Llc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "vecor-pi.com",
+  "name": "Vecor Pipeline Integrity, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "chenaultconsulting.com",
+  "name": "Chenault Consulting Inc",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "utilitex.com",
+  "name": "Utilitex, LLC",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "cathodicprotection.com",
+  "name": "Southern Cathodic Protection Company",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "icorrtech.com",
+  "name": "ICORR Technologies",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "corrosionspecialists.com",
+  "name": "Cathodic Protection Management",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "pccintegrity.com",
+  "name": "PCC Integrity",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "nascorp.biz",
+  "name": "North American Survey Corporation",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "challengerdrilling.com",
+  "name": "Challenger Drilling, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "otmlocating.com",
+  "name": "On The Mark Utility Locating Services, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "towerpowergroup.com",
+  "name": "Tower Power Group",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "echemconsultants.com",
+  "name": "Echem Consultants LLC",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "acspecialists.us",
+  "name": "ACS Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "takuengineering.com",
+  "name": "Taku Engineering llc",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "alliedcorrosion.com",
+  "name": "Allied Corrosion Industries, Inc.",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W2"
+ },
+ {
+  "domain": "rcgint.com",
+  "name": "RCG International",
+  "bucket": "T1",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "oceancoastelectric.com",
+  "name": "Ocean Coast Electric LLC",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "alamotransformer.com",
+  "name": "Alamo Transformer Supply",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "thecotery.com",
+  "name": "Cotery",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "molecularmatrix.com",
+  "name": "Molecular Matrix, Inc.",
+  "bucket": "T2",
+  "priority": "P3-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "koontzelectric.com",
+  "name": "Koontz Electric Company Inc.",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "gstechnologies.com",
+  "name": "G&S Technologies",
+  "bucket": "T2",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "cbhelos.com",
+  "name": "Chesapeake Bay Helicopters Inc.",
+  "bucket": "T3",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "tlselectric.com",
+  "name": "Tls Electric",
+  "bucket": "T4",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "shelleyselectric.com",
+  "name": "Shelley's Electric",
+  "bucket": "T5",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "upsystems-inc.com",
+  "name": "Up Systems Inc",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "gcats.com",
+  "name": "GCATS Telecom & Critical Power Services",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "powertechniquesinc.com",
+  "name": "Power Techniques, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "terranceelectric.com",
+  "name": "Terrance Electric and Technology Co.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "caps4ups.com",
+  "name": "Computer Air/Power Systems, Inc.",
+  "bucket": "T6",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "indecousa.com",
+  "name": "Indeco-Industrial Electric Company",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "ppultd.co.uk",
+  "name": "Premium Power Units Ltd.",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "zoneindustries.com",
+  "name": "Zone Industries",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "slaymakergroup.com",
+  "name": "Slaymaker Group",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "seaboardcontrols.com",
+  "name": "Seaboard Controls LLC",
+  "bucket": "S7",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "aerones.com",
+  "name": "Aerones Engineering",
+  "bucket": "S10",
+  "priority": "P2-candidate",
+  "wave": "W3"
+ },
+ {
+  "domain": "weatherguardaero.com",
+  "name": "Weather Guard Lightning Tech",
+  "bucket": "S10",
+  "priority": "P3-candidate",
+  "wave": "W3"
+ }
+]
