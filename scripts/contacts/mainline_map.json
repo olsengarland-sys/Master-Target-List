@@ -1,7 +1,7 @@
 {
  "generated": "2026-09-01",
  "source": "inven get_company_info",
- "note": "Inven company records carry NO phone numbers (0 of 817 returned an hq_phone), so phone_matches_hq is null throughout. The HQ/mainline comparison is instead being done by scraping company websites -> scripts/contacts/hq_phone_webcheck.json. Street addresses here satisfy the postal-address requirement.",
+ "note": "Inven company records carry NO phone numbers (0 of 817 returned an hq_phone), so phone_matches_hq is null throughout. The intended fallback -- scraping each company's own website -- is ALSO unavailable: web egress is blocked for this session (every fetch returns EGRESS_BLOCKED / HTTP 403 from the proxy, confirmed against control hosts, so it is a policy block and not a site problem). scripts/contacts/hq_phone_webcheck.json therefore does NOT exist and must not be assumed. THE HQ/MAINLINE QUESTION IS OPEN for the 245 master rows that hold both an email and a phone: it is unknown whether those held numbers are company mainlines or personal direct lines. Free structural tests found no signal either (245 distinct numbers, none shared across companies, none toll-free, none matching a typed phone in our enriched data). Those 245 rows stay marked skip_pending_mainline_check and are NOT enriched -- they are also the lowest-value rows in the queue, since they already carry an email and a phone, and the 1,200-company cap is consumed by higher-value rows that have no contact data at all. Street addresses below satisfy the postal-address requirement.",
  "total_targets": 917,
  "pulled": 817,
  "remaining_not_pulled": 100,
@@ -5727,5 +5727,6 @@
    "phone_matches_hq": null,
    "resolved": true
   }
- }
+ },
+ "hq_mainline_check_status": "BLOCKED - no data source available (Inven has no phone field; web egress blocked)"
 }
