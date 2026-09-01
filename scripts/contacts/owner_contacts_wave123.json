@@ -4,13 +4,13 @@
  "policy": "inven contact-credit floor 5500 (lowered from 6000 by the client to fund the named-lookup recovery run); grata covers what inven cannot reach",
  "attempted": 1908,
  "with_contacts": 1751,
- "credits_used": 881,
- "companies_with_mobile": 895,
- "contacts_with_mobile": 914,
- "mobile_phones": 1644,
- "direct_dial_phones": 949,
- "office_only_companies": 126,
- "verified_emails": 2536,
+ "credits_used": 892,
+ "companies_with_mobile": 903,
+ "contacts_with_mobile": 922,
+ "mobile_phones": 1656,
+ "direct_dial_phones": 960,
+ "office_only_companies": 129,
+ "verified_emails": 2542,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -56437,6 +56437,186 @@
     }
    ]
   },
+  "clearwaterinc.net": {
+   "name": "clearwaterinc.net",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "office line only; named lookup for Shad Stringfellow (President & Owner) found nothing and titled fallback returned a marketing staffer",
+   "contacts": [
+    {
+     "name": "Alexis Jonas",
+     "title": "Marketing",
+     "location": "Hickory, NC , United States",
+     "emails": [
+      {
+       "email": "alexis.jonas@clearwaterinc.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 804-378-3550",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Shad Stringfellow",
+     "title": "President & Owner",
+     "emails": [
+      {
+       "email": "shad.stringfellow@clearwaterinc.net",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": [],
+     "location": "Hickory, North Carolina, United States"
+    }
+   ]
+  },
+  "bg-technologies.com": {
+   "name": "bg-technologies.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "contact located Vadodara, India (record also carries a +91 number) and is not the listed Linda Gibson (Founder & President) - non-US, likely wrong match",
+   "contacts": [
+    {
+     "name": "Harshad Patel",
+     "title": "Owner",
+     "location": "Vadodara, GJ , India",
+     "emails": [
+      {
+       "email": "pharshad@hotmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 201-673-0620",
+       "type": "mobile"
+      },
+      {
+       "number": "+91 94958 91047",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 512-457-8800",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Linda Gibson",
+     "title": "Founder & President",
+     "emails": [
+      {
+       "email": "linda@bg-technologies.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "thwindersllc.com": {
+   "name": "thwindersllc.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "titled-domain lookup returned Emmanuel Salazar (Owner), not the listed Roman Jaramillo (CEO)",
+   "contacts": [
+    {
+     "name": "Emmanuel Salazar",
+     "title": "Owner, Recruiter, Winder",
+     "location": "Brownsville, TX , United States",
+     "emails": [
+      {
+       "email": "emmanuel.salazar@thwindersllc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 956-203-5801",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 720-583-6643",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Roman Jaramillo",
+     "title": "Chief Executive Officer",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "Rolando Jaramillo",
+     "title": "Chief Financial Officer",
+     "emails": [
+      {
+       "email": "rolando.jaramillo@thwindersllc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "undergroundutilitiesinc.com": {
+   "name": "undergroundutilitiesinc.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Tom Mclaughlin (CFO) found nothing; titled fallback found 7 contacts but no owner-level title",
+   "contacts": [
+    {
+     "name": "Tom Mclaughlin",
+     "title": "Chief Financial Officer",
+     "emails": [
+      {
+       "email": "tmclaughlin@undergroundutilitiesinc.com",
+       "type": "professional",
+       "quality": "Pending",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
   "lightingmaintenance.com": {
    "name": "Lighting Maintenance Inc",
    "bucket": "S8",
@@ -65857,6 +66037,421 @@
     }
    ]
   },
+  "allphaseelectric.net": {
+   "name": "All Phase Electric Company Inc",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "substitute contact - asked for Gregory Zychowski (Founder), got Russ Cason (President); no verified email",
+   "contacts": [
+    {
+     "name": "Russ Cason",
+     "title": "President",
+     "location": "Greenwood, AR, United States",
+     "linkedin_url": "https://www.linkedin.com/in/russ-cason-ba58b537",
+     "emails": [
+      {
+       "email": "russ@allphaseelectric.net",
+       "type": "professional",
+       "quality": "Very bad",
+       "is_verified": false
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 479-629-8962",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 501-593-6003",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 479-675-2273",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 479-996-2676",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 908-486-6886",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Gregory Zychowski",
+     "title": "Founder",
+     "emails": [
+      {
+       "email": "gregory@allphaseelectric.net",
+       "type": "professional",
+       "quality": "Risky",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Todd Bucholz",
+     "title": "President",
+     "emails": [
+      {
+       "email": "todd@allphaseelectric.net",
+       "type": "professional",
+       "quality": "Risky",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "utilitysystems.com": {
+   "name": "Utility Systems Construction & Engineering, LLC",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "no mobile - direct dial and office only",
+   "contacts": [
+    {
+     "name": "Michael Niakani",
+     "title": "Managing Member",
+     "location": "Rockville, MD, United States",
+     "linkedin_url": "https://www.linkedin.com/in/michael-niakani-499a109",
+     "emails": [
+      {
+       "email": "michael@utilitysystems.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 301-610-9194",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 301-610-9194",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "industrialelectric.net": {
+   "name": "Industrial Electric Company of Detroit",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "no provider coverage for domain; named lookup for Dave Sharp found nothing",
+   "contacts": [
+    {
+     "name": "Dave Sharp",
+     "title": "Owner",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "William M. Darish",
+     "title": "President",
+     "emails": [
+      {
+       "email": "wmdarish@industrialelectric.net",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      },
+      {
+       "email": "william.darish@industrialelectric.net",
+       "type": "personal",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "lsi-fl.com": {
+   "name": "Lightning Specialists",
+   "bucket": "S10",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "no provider coverage for domain; named lookup for Charles Wilson not attempted",
+   "contacts": [
+    {
+     "name": "Charles Wilson",
+     "title": "President",
+     "emails": [
+      {
+       "email": "charlie@lsi-fl.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Allen Klostermeyer",
+     "title": "President",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "mcclintockelectric.com": {
+   "name": "McClintock Electric, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "office line only; asked for Michael McClintock (President/Owner), got substitute Mark Moore (VP Ops); no verified email",
+   "contacts": [
+    {
+     "name": "Mark Moore",
+     "title": "Vice President Operations",
+     "location": "Columbus, OH, United States",
+     "linkedin_url": "https://www.linkedin.com/in/mark-moore-645714210",
+     "emails": [
+      {
+       "email": "mark.moore@mcclintockelectric.com",
+       "type": "professional",
+       "quality": "Very bad",
+       "is_verified": false
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 330-264-6380",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Michael McClintock",
+     "title": "President and Owner",
+     "emails": [
+      {
+       "email": "mmcclintock@mcclintockelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "hs-electric.com": {
+   "name": "H S Electric",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "no provider coverage for domain; named lookup for Corey Hatch found nothing",
+   "contacts": [
+    {
+     "name": "Corey Hatch",
+     "title": "President",
+     "emails": [
+      {
+       "email": "corey@hs-electric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Ken Stienstra",
+     "title": "President",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "afi-systems.com": {
+   "name": "afi-systems.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "substitute contact - asked for Andrew Fleming (CEO/Founder), got Scott Rossi (GM)",
+   "contacts": [
+    {
+     "name": "Scott Rossi",
+     "title": "General Manager",
+     "location": "Charlotte, NC, United States",
+     "linkedin_url": "https://www.linkedin.com/in/scott-rossi-85573b4",
+     "emails": [
+      {
+       "email": "scott@afi-systems.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "scott.rossi@afi-systems.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 724-554-8301",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 704-631-9004",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 704-583-9775",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 866-461-8875",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Andrew Fleming",
+     "title": "CEO, Founder",
+     "emails": [
+      {
+       "email": "andy@afi-systems.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "chargetronix.com": {
+   "name": "chargetronix.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "no title returned and no work email - match confidence low, verify before outreach",
+   "contacts": [
+    {
+     "name": "Xavier Landavazo",
+     "title": "[unknown]",
+     "location": "United States",
+     "linkedin_url": "https://www.linkedin.com/in/xavier-landavazo-ii-a7ba231a",
+     "emails": [
+      {
+       "email": "xavierlandavazo@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 619-913-2222",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 310-746-8004",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 619-778-0841",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 619-528-1938",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "klelectric.com": {
+   "name": "klelectric.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "office line only; asked for Justin Procyshen (Owner), got Kevin Parker; no verified email",
+   "contacts": [
+    {
+     "name": "Kevin Parker",
+     "title": "Small Business Owner",
+     "location": "Hamlet, NC, United States",
+     "linkedin_url": "https://www.linkedin.com/in/kevin-parker-4b708730a",
+     "emails": [
+      {
+       "email": "kevinparker@klelectric.com",
+       "type": "professional",
+       "quality": "Very bad",
+       "is_verified": false
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 630-261-0025",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Justin Procyshen",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "justin@klelectric.ca",
+       "type": "professional",
+       "quality": "Risky",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
   "primaryus.com": {
    "name": "Primary Utility Services, LLC",
    "bucket": "T3",
@@ -74126,6 +74721,378 @@
     }
    ]
   },
+  "rcpowerinc.com": {
+   "name": "RC Power, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Ron Godinez found nothing; titled-domain fallback: 8 contacts at domain but none with an owner-level title",
+   "contacts": [
+    {
+     "name": "Ron Godinez",
+     "title": "President",
+     "emails": [
+      {
+       "email": "ron@rcpowerinc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "ameninc.com": {
+   "name": "American Energy, Inc.",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Dave Frame found nothing; titled-domain fallback: 2 contacts at domain but none with an owner-level title",
+   "contacts": [
+    {
+     "name": "Dave Frame",
+     "title": "President",
+     "emails": [
+      {
+       "email": "dkf@ameninc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "pro-techsvc.com": {
+   "name": "Pro-Tech Electrical Contractors",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Pat Fallon",
+     "title": "Owner",
+     "location": "Warrenton, VA, United States",
+     "emails": [
+      {
+       "email": "pfallon@pro-techsvc.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 703-501-0079",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 540-351-0037",
+       "type": "direct dial"
+      }
+     ]
+    },
+    {
+     "name": "Patrick Fallon",
+     "title": "President",
+     "emails": [
+      {
+       "email": "pfallon@pro-techsvc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Rob Fallon",
+     "title": "President",
+     "emails": [
+      {
+       "email": "rfallon@pro-techsvc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Mandy Holbrook",
+     "title": "Vice President & Cfo",
+     "emails": [
+      {
+       "email": "mholbrook@pro-techsvc.com",
+       "type": "professional",
+       "quality": "Pending",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "promasterelectric.com": {
+   "name": "Pro-Master Electric, LLC",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Bryan Johnson found nothing; titled-domain fallback: 4 contacts at domain but none with an owner-level title",
+   "contacts": [
+    {
+     "name": "Bryan Johnson",
+     "title": "Co-Founder",
+     "emails": [
+      {
+       "email": "bjohnson@promasterelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Chad Williams",
+     "title": "Co-Founder",
+     "emails": [
+      {
+       "email": "cwilliams@promasterelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Shane Leath",
+     "title": "Co-Owner & Co-Founder",
+     "emails": [
+      {
+       "email": "sleath@promasterelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "coretxllc.com": {
+   "name": "Core Electrical Group",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Don Watson found nothing; titled-domain fallback: 17 contacts at domain but none with an owner-level title",
+   "contacts": [
+    {
+     "name": "Don Watson",
+     "title": "Founder and President",
+     "emails": [
+      {
+       "email": "don@coretxllc.com",
+       "type": "professional",
+       "quality": "Risky",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "edwardwscottelectric.com": {
+   "name": "Edward W. Scott Electric Co.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "no verified work email; record carried mobiles from 5 unrelated area codes - only the CA 415 number kept, verify before dialing",
+   "contacts": [
+    {
+     "name": "Ray Lynch",
+     "title": "President",
+     "location": "Richmond, CA, United States",
+     "emails": [
+      {
+       "email": "s.lynch3390@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 415-740-8272",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 415-626-2837",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 415-206-7120",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "everywattmatters.com": {
+   "name": "Every Watt Matters",
+   "bucket": "M13",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for George Blackstone found nothing; titled-domain fallback: 1 contact at domain, no owner-level title",
+   "contacts": [
+    {
+     "name": "George Blackstone",
+     "title": "Founder, CEO",
+     "emails": [
+      {
+       "email": "gblackstone@everywattmatters.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Gary Lenz",
+     "title": "Director",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "Leo Flores",
+     "title": "UK Director",
+     "emails": [],
+     "phones": []
+    }
+   ]
+  },
+  "eesc-ct.com": {
+   "name": "Electrical Energy Systems Corporation",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "John Taylor",
+     "title": "Chairman",
+     "location": "Southington, CT, United States",
+     "emails": [
+      {
+       "email": "jtaylor@eesc-ct.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "john.taylor@eesc-ct.com",
+       "type": "professional",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 203-537-4059",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 203-213-1835",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 860-621-9657",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 860-621-9657",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Paul Barber",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "pbarber@eesc-ct.com",
+       "type": "professional",
+       "quality": "Risky",
+       "is_verified": false
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "sosayaandsons.com": {
+   "name": "Sosaya & Sons Construction",
+   "bucket": "S8",
+   "campaign": null,
+   "priority": "master-P3",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Robert Sosaya found nothing; titled-domain fallback: no provider coverage for this domain",
+   "contacts": [
+    {
+     "name": "Robert Sosaya",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "rsosaya@sosayaandsons.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
   "summitelectricdata.com": {
    "name": "Summit Electric & Data, Inc.",
    "bucket": "T5",
@@ -74594,32 +75561,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "afi-systems.com": {
-   "name": "afi-systems.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Andrew Fleming",
-     "title": "CEO, Founder",
-     "emails": [
-      {
-       "email": "andy@afi-systems.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
   "aesintl.com": {
    "name": "aesintl.com",
    "bucket": "?",
@@ -74666,32 +75607,6 @@
        "type": "professional",
        "quality": "Deliverable",
        "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "klelectric.com": {
-   "name": "klelectric.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "email on Canadian domain klelectric.ca - possible non-US entity, verify",
-   "contacts": [
-    {
-     "name": "Justin Procyshen",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "justin@klelectric.ca",
-       "type": "professional",
-       "quality": "Risky",
-       "is_verified": false
       }
      ],
      "phones": []
@@ -75133,60 +76048,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "clearwaterinc.net": {
-   "name": "clearwaterinc.net",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Shad Stringfellow",
-     "title": "President & Owner",
-     "emails": [
-      {
-       "email": "shad.stringfellow@clearwaterinc.net",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": [],
-     "location": "Hickory, North Carolina, United States"
-    }
-   ]
-  },
-  "chargetronix.com": {
-   "name": "chargetronix.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Xavier Landavazo",
-     "title": "CEO",
-     "emails": [
-      {
-       "email": "xavier@chargetronix.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": [],
-     "location": "Costa Mesa, California, United States"
-    }
-   ]
-  },
   "magnaproducts.com": {
    "name": "magnaproducts.com",
    "bucket": "?",
@@ -75547,58 +76408,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "rcpowerinc.com": {
-   "name": "RC Power, Inc.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Ron Godinez",
-     "title": "President",
-     "emails": [
-      {
-       "email": "ron@rcpowerinc.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "ameninc.com": {
-   "name": "American Energy, Inc.",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Dave Frame",
-     "title": "President",
-     "emails": [
-      {
-       "email": "dkf@ameninc.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
   "diversifiedsci.com": {
    "name": "Diversified Substation Construction LLC",
    "bucket": "T3",
@@ -75610,58 +76419,6 @@
    "credits_used": 0,
    "error": "no grata execs",
    "contacts": []
-  },
-  "pro-techsvc.com": {
-   "name": "Pro-Tech Electrical Contractors",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Patrick Fallon",
-     "title": "President",
-     "emails": [
-      {
-       "email": "pfallon@pro-techsvc.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Rob Fallon",
-     "title": "President",
-     "emails": [
-      {
-       "email": "rfallon@pro-techsvc.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Mandy Holbrook",
-     "title": "Vice President & Cfo",
-     "emails": [
-      {
-       "email": "mholbrook@pro-techsvc.com",
-       "type": "professional",
-       "quality": "Pending",
-       "is_verified": false
-      }
-     ],
-     "phones": []
-    }
-   ]
   },
   "ghec.biz": {
    "name": "Glenn Horne Electrical",
@@ -75675,110 +76432,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "promasterelectric.com": {
-   "name": "Pro-Master Electric, LLC",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Bryan Johnson",
-     "title": "Co-Founder",
-     "emails": [
-      {
-       "email": "bjohnson@promasterelectric.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Chad Williams",
-     "title": "Co-Founder",
-     "emails": [
-      {
-       "email": "cwilliams@promasterelectric.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Shane Leath",
-     "title": "Co-Owner & Co-Founder",
-     "emails": [
-      {
-       "email": "sleath@promasterelectric.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "coretxllc.com": {
-   "name": "Core Electrical Group",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Don Watson",
-     "title": "Founder and President",
-     "emails": [
-      {
-       "email": "don@coretxllc.com",
-       "type": "professional",
-       "quality": "Risky",
-       "is_verified": false
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "edwardwscottelectric.com": {
-   "name": "Edward W. Scott Electric Co.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Ray Lynch",
-     "title": "Chief Executive Officer",
-     "emails": [
-      {
-       "email": "llynch@scottelectric.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
   "clp-engineering.com": {
    "name": "CLP Engineering, LLC",
    "bucket": "E12",
@@ -75791,44 +76444,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "everywattmatters.com": {
-   "name": "Every Watt Matters",
-   "bucket": "M13",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "UK (Leo Flores, 'UK Director') - non-US contact, verify entity",
-   "contacts": [
-    {
-     "name": "George Blackstone",
-     "title": "Founder, CEO",
-     "emails": [
-      {
-       "email": "gblackstone@everywattmatters.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Gary Lenz",
-     "title": "Director",
-     "emails": [],
-     "phones": []
-    },
-    {
-     "name": "Leo Flores",
-     "title": "UK Director",
-     "emails": [],
-     "phones": []
-    }
-   ]
-  },
   "davesinc.com": {
    "name": "Dave's Construction LLC",
    "bucket": "T3",
@@ -75840,187 +76455,6 @@
    "credits_used": 0,
    "error": "no grata execs",
    "contacts": []
-  },
-  "allphaseelectric.net": {
-   "name": "All Phase Electric Company Inc",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Gregory Zychowski",
-     "title": "Founder",
-     "emails": [
-      {
-       "email": "gregory@allphaseelectric.net",
-       "type": "professional",
-       "quality": "Risky",
-       "is_verified": false
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Todd Bucholz",
-     "title": "President",
-     "emails": [
-      {
-       "email": "todd@allphaseelectric.net",
-       "type": "professional",
-       "quality": "Risky",
-       "is_verified": false
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Russ Cason",
-     "title": "President",
-     "emails": [
-      {
-       "email": "russ@allphaseelectric.net",
-       "type": "professional",
-       "quality": "Risky",
-       "is_verified": false
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "eesc-ct.com": {
-   "name": "Electrical Energy Systems Corporation",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "John Taylor",
-     "title": "President and Chairman",
-     "emails": [
-      {
-       "email": "jtaylor@eesc-ct.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Paul Barber",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "pbarber@eesc-ct.com",
-       "type": "professional",
-       "quality": "Risky",
-       "is_verified": false
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "industrialelectric.net": {
-   "name": "Industrial Electric Company of Detroit",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Dave Sharp",
-     "title": "Owner",
-     "emails": [],
-     "phones": []
-    },
-    {
-     "name": "William M. Darish",
-     "title": "President",
-     "emails": [
-      {
-       "email": "wmdarish@industrialelectric.net",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      },
-      {
-       "email": "william.darish@industrialelectric.net",
-       "type": "personal",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "sosayaandsons.com": {
-   "name": "Sosaya & Sons Construction",
-   "bucket": "S8",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Robert Sosaya",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "rsosaya@sosayaandsons.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "utilitysystems.com": {
-   "name": "Utility Systems Construction & Engineering, LLC",
-   "bucket": "T3",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Michael Niakani",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "michael@utilitysystems.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
   },
   "cove-elec.com": {
    "name": "Cove Electric Inc.",
@@ -76058,32 +76492,6 @@
    "credits_used": 0,
    "error": "no grata execs",
    "contacts": []
-  },
-  "mcclintockelectric.com": {
-   "name": "McClintock Electric, Inc.",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Michael McClintock",
-     "title": "President and Owner",
-     "emails": [
-      {
-       "email": "mmcclintock@mcclintockelectric.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
   },
   "superiorelectricinc.com": {
    "name": "Superior Electric of Lansing, Inc.",
@@ -76128,38 +76536,6 @@
    "credits_used": 0,
    "error": "no grata execs",
    "contacts": []
-  },
-  "lsi-fl.com": {
-   "name": "Lightning Specialists",
-   "bucket": "S10",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Charles Wilson",
-     "title": "President",
-     "emails": [
-      {
-       "email": "charlie@lsi-fl.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Allen Klostermeyer",
-     "title": "President",
-     "emails": [],
-     "phones": []
-    }
-   ]
   },
   "rothelectrical.net": {
    "name": "Roth Electric LLC",
@@ -76211,38 +76587,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "hs-electric.com": {
-   "name": "H S Electric",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P3",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "Canada (Ken Stienstra - Norwich, Ontario) - non-US contact, verify entity",
-   "contacts": [
-    {
-     "name": "Corey Hatch",
-     "title": "President",
-     "emails": [
-      {
-       "email": "corey@hs-electric.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Ken Stienstra",
-     "title": "President",
-     "emails": [],
-     "phones": []
-    }
-   ]
-  },
   "mongooseelectric.com": {
    "name": "Mongoose Electric Incorporated",
    "bucket": "T5",
@@ -76293,32 +76637,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "bg-technologies.com": {
-   "name": "bg-technologies.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Linda Gibson",
-     "title": "Founder & President",
-     "emails": [
-      {
-       "email": "linda@bg-technologies.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
   "gravitytechnologies.com": {
    "name": "gravitytechnologies.com",
    "bucket": "?",
@@ -76368,51 +76686,6 @@
      "emails": [
       {
        "email": "aghahari@omirepair.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "thwindersllc.com": {
-   "name": "thwindersllc.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Roman Jaramillo",
-     "title": "Chief Executive Officer",
-     "emails": [],
-     "phones": []
-    },
-    {
-     "name": "Emmanuel Salazar",
-     "title": "Owner",
-     "emails": [
-      {
-       "email": "emmanuel.salazar@thwindersllc.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    },
-    {
-     "name": "Rolando Jaramillo",
-     "title": "Chief Financial Officer",
-     "emails": [
-      {
-       "email": "rolando.jaramillo@thwindersllc.com",
        "type": "professional",
        "quality": "Deliverable",
        "is_verified": true
@@ -76481,32 +76754,6 @@
        "type": "professional",
        "quality": "Deliverable",
        "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "undergroundutilitiesinc.com": {
-   "name": "undergroundutilitiesinc.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Tom Mclaughlin",
-     "title": "Chief Financial Officer",
-     "emails": [
-      {
-       "email": "tmclaughlin@undergroundutilitiesinc.com",
-       "type": "professional",
-       "quality": "Pending",
-       "is_verified": false
       }
      ],
      "phones": []

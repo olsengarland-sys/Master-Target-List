@@ -716,25 +716,11 @@
    "reason": "named lookup for Thomas Kessler (Owner) found nothing; fallback returned Eric Baker, President - different person but owner-level"
   },
   {
-   "domain": "everywattmatters.com",
-   "company": "Every Watt Matters",
-   "priority": "master-P3",
-   "campaign": null,
-   "reason": "UK (Leo Flores, 'UK Director') - non-US contact, verify entity"
-  },
-  {
-   "domain": "hs-electric.com",
-   "company": "H S Electric",
-   "priority": "master-P3",
-   "campaign": null,
-   "reason": "Canada (Ken Stienstra - Norwich, Ontario) - non-US contact, verify entity"
-  },
-  {
-   "domain": "klelectric.com",
-   "company": "klelectric.com",
+   "domain": "bg-technologies.com",
+   "company": "bg-technologies.com",
    "priority": "valDQ-review",
    "campaign": null,
-   "reason": "email on Canadian domain klelectric.ca - possible non-US entity, verify"
+   "reason": "contact located Vadodara, India (record also carries a +91 number) and is not the listed Linda Gibson (Founder & President) - non-US, likely wrong match"
   }
  ],
  "verify_note": "The provider matched a person in another country to a US target - these contacts most likely belong to a different company that shares the name. Do not mail them without a human check; the contact, not the company, is suspect.",
@@ -2490,6 +2476,24 @@
    "priority": "valDQ-review"
   },
   {
+   "domain": "clearwaterinc.net",
+   "contact": "Alexis Jonas",
+   "title": "Marketing",
+   "priority": "valDQ-review"
+  },
+  {
+   "domain": "thwindersllc.com",
+   "contact": "Rolando Jaramillo",
+   "title": "Chief Financial Officer",
+   "priority": "valDQ-review"
+  },
+  {
+   "domain": "undergroundutilitiesinc.com",
+   "contact": "Tom Mclaughlin",
+   "title": "Chief Financial Officer",
+   "priority": "valDQ-review"
+  },
+  {
    "domain": "allanbritewayutility.com",
    "contact": "William Brown",
    "title": "Chief Financial Officer",
@@ -2722,6 +2726,12 @@
    "contact": "Brendan Marquis",
    "title": "Service Manager",
    "priority": "master-P3"
+  },
+  {
+   "domain": "chargetronix.com",
+   "contact": "Xavier Landavazo",
+   "title": "[unknown]",
+   "priority": "valDQ-review"
   },
   {
    "domain": "primaryus.com",
@@ -2964,22 +2974,16 @@
    "priority": "master-P3"
   },
   {
+   "domain": "eesc-ct.com",
+   "contact": "John Taylor",
+   "title": "Chairman",
+   "priority": "master-P3"
+  },
+  {
    "domain": "superiorelectricinc.com",
    "contact": "Sidney Feldman",
    "title": "Chief Financial Officer",
    "priority": "master-P3"
-  },
-  {
-   "domain": "thwindersllc.com",
-   "contact": "Rolando Jaramillo",
-   "title": "Chief Financial Officer",
-   "priority": "valDQ-review"
-  },
-  {
-   "domain": "undergroundutilitiesinc.com",
-   "contact": "Tom Mclaughlin",
-   "title": "Chief Financial Officer",
-   "priority": "valDQ-review"
   }
  ],
  "non_owner_note": "Inven expands title keywords server-side and matches loosely, so managers and VPs come through an owner-title filter. Re-work or downgrade these rather than mailing them as owner contacts.",
@@ -3154,9 +3158,9 @@
  ],
  "bad_domain_note": "A website-builder or directory host is not a company domain. Enrichment can never resolve one, and dedupe keyed on it is unreliable, so the real domain has to be found before the row is usable.",
  "counts": {
-  "verify_before_outreach": 105,
+  "verify_before_outreach": 103,
   "ownership_signals": 75,
-  "non_owner_titles": 248,
+  "non_owner_titles": 251,
   "us_only_violations": 6,
   "bad_domains": 2,
   "possible_duplicate_entities": 9
