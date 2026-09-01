@@ -2,14 +2,14 @@
  "generated": "2026-09-01",
  "platform": "inven get_company_contacts (owner-title filtered)",
  "policy": "inven contact-credit floor 6000; grata carries the remainder; 1200-company cap",
- "attempted": 876,
- "with_contacts": 496,
- "credits_used": 490,
- "companies_with_mobile": 415,
- "mobile_phones": 760,
- "direct_dial_phones": 428,
- "office_only_companies": 54,
- "verified_emails": 705,
+ "attempted": 903,
+ "with_contacts": 513,
+ "credits_used": 497,
+ "companies_with_mobile": 431,
+ "mobile_phones": 787,
+ "direct_dial_phones": 444,
+ "office_only_companies": 55,
+ "verified_emails": 735,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -25753,6 +25753,899 @@
       },
       {
        "number": "+1 516-599-4875",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "larsonlightning.com": {
+   "name": "Larson Lightning Protection",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Carly Zimmerman",
+     "title": "President",
+     "emails": [
+      {
+       "email": "carly@larsonlightning.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "carly.zimm1@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 717-497-5411",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 267-423-4415",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 281-392-8112",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "sdmmetro.com": {
+   "name": "Sdm Metro",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Paul Yetman",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "pyetman@sdmmetro.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "paul@sdmmetro.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 516-287-6006",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 631-703-1271",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 516-764-0755",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 516-536-2600",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "dahlbeckelectric.com": {
+   "name": "Dahl-Beck Electric",
+   "bucket": "S7",
+   "campaign": "Motor & Generator Companies",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Roger Beck",
+     "title": "President",
+     "emails": [
+      {
+       "email": "rbeck@dahlbeckelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 510-812-1031",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 510-237-0608",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 510-215-9792",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 510-237-2325",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "hive-power.com": {
+   "name": "Hive Power Engineering LLC",
+   "bucket": "E12",
+   "campaign": "Power Systems Engineering",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Baris Kovan",
+     "title": "Principal Engineer, Owner",
+     "emails": [
+      {
+       "email": "bariskovan@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "barisda@yahoo.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 347-536-4691",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 484-895-7311",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 484-895-7311",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "lameyelectric.com": {
+   "name": "Lamey Electric, Inc.",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Nick Strayham",
+     "title": "Executive Vice President",
+     "emails": [
+      {
+       "email": "nick@lameyelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 228-861-4120",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 228-436-4292",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 228-436-3611",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "highvoltagespecialists.com": {
+   "name": "High Voltage Specialists",
+   "bucket": "T3",
+   "campaign": "Utility Line & Substation",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Matthew Garner",
+     "title": "President",
+     "emails": [
+      {
+       "email": "matthewgarner@highvoltagespecialists.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "mattgarner@comcast.net",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 850-380-8932",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 423-713-1776",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 678-699-0937",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 678-796-0843",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 706-854-8660",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "dudetesting.com": {
+   "name": "Dude Electrical Testing",
+   "bucket": "T1",
+   "campaign": "Testing & Commissioning",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "named lookup (Scott Dude) not in provider DB; titled fallback also no owner-title match",
+   "contacts": []
+  },
+  "hnaengineering.com": {
+   "name": "HNA Engineering",
+   "bucket": "Long tail / holding",
+   "campaign": "",
+   "priority": "ben-C",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "named lookup (Josh Holtgrewe) not in provider DB; titled fallback also no owner-title match",
+   "contacts": []
+  },
+  "raxisengineering.com": {
+   "name": "Raxis Engineering",
+   "bucket": "Long tail / holding",
+   "campaign": "",
+   "priority": "ben-C",
+   "wave": "BEN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "named lookup (Jose Morales) not in provider DB; fallback returned office manager, not the principal",
+   "contacts": [
+    {
+     "name": "Karla Casas",
+     "title": "Business Office Manager",
+     "emails": [
+      {
+       "email": "kcasas@raxisengineering.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 915-244-7206",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 602-390-1380",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 915-779-1764",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 307-587-4911",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "alcanelectric.com": {
+   "name": "Alcantel Division of Alcan Electric",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Chrys Fleming",
+     "title": "President",
+     "emails": [
+      {
+       "email": "cfleming@alcanelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "chrysfleming@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 907-952-8765",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 907-563-3787",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "cjspower.com": {
+   "name": "CJ's Power Systems",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "8 contacts at domain but none matched owner-level titles",
+   "contacts": []
+  },
+  "tidaltimesolutions.com": {
+   "name": "Tidal Time Solutions",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "note: also carries a verified @microsoft.com email (Jacksonville Beach FL; likely separate employer, not a parent)",
+   "contacts": [
+    {
+     "name": "Adam Freihofer",
+     "title": "Founder",
+     "emails": [
+      {
+       "email": "adam@tidaltimesolutions.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "adamfreihofer@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "adamf@microsoft.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 804-691-3966",
+       "type": "mobile"
+      }
+     ]
+    }
+   ]
+  },
+  "sweetevcharging.com": {
+   "name": "Sweet EV Charging",
+   "bucket": "S9",
+   "campaign": "EV Charging",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "hopeelectric.com": {
+   "name": "Hope Electric Inc",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-P3",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "4 contacts at domain but none matched owner-level titles",
+   "contacts": []
+  },
+  "dlsteiner.com": {
+   "name": "D.L. Steiner, Inc.",
+   "bucket": "E12",
+   "campaign": "Power Systems Engineering",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Daniel Steiner",
+     "title": "President",
+     "emails": [
+      {
+       "email": "dan.steiner@dlsteiner.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "dlsteiner@comcast.net",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 419-234-5385",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 419-235-0125",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 419-222-6048",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 419-358-7993",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "gulfcoastcalibration.com": {
+   "name": "Gulfcoast Calibration",
+   "bucket": "T1",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "3 contacts at domain but none matched owner-level titles",
+   "contacts": []
+  },
+  "northeastbatteries.com": {
+   "name": "Northeast Industrial Batteries Inc.",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Bob Lee",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "blee@northeastbatteries.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "rlee@northeastbatteries.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 267-566-3324",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 215-968-4147",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 215-788-8000",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "aclightningprotection.com": {
+   "name": "A/C Lightning Protection, Inc.",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "likely wrong match - returned person is a Scooters Coffee franchise owner in Omaha NE with all verified emails on scooterscoffee.com; only aclightningprotection.com email is unverified/Very bad. Do not use without web verification.",
+   "contacts": [
+    {
+     "name": "Rusty Smith",
+     "title": "Scooters Coffee Multi-Franchise Owner (NOT AC Lightning Protection)",
+     "emails": [
+      {
+       "email": "rusty.smith@scooterscoffee.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "rustysmith@gmail.com",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 402-547-0851",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 402-720-9104",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 402-339-2413",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "lpsnet.com": {
+   "name": "Lightning Prevention Systems, Inc",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Ian Fawthrop",
+     "title": "President",
+     "emails": [
+      {
+       "email": "ian@lpsnet.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "ifawthrop1@worldnet.att.net",
+       "type": "personal",
+       "quality": "Good",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 609-217-9075",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 856-669-1619",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 856-577-3500",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 856-767-7806",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "jmschaefer.com": {
+   "name": "J&M Schaefer, Inc.",
+   "bucket": "T6",
+   "campaign": "Mission critical power",
+   "priority": "campaign-P2",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "non-owner title returned (Field Service Supervisor); title filter did not hold",
+   "contacts": [
+    {
+     "name": "Phillip Criswell",
+     "title": "Field Service Supervisor and Project Manager",
+     "emails": [
+      {
+       "email": "philcriswell9@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "phillip.criswell@jmschaefer.com",
+       "type": "professional",
+       "quality": "Possible",
+       "is_verified": false
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 606-315-1661",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 606-465-9198",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 315-463-5223",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 800-552-3269",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "ase-ar.com": {
+   "name": "All Service Electric, Inc.",
+   "bucket": "S8",
+   "campaign": "Traffic Signals & Lighting",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "nationalcarcharging.com": {
+   "name": "National Car Charging",
+   "bucket": "S9",
+   "campaign": "EV Charging",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": null,
+   "contacts": [
+    {
+     "name": "Jim Burness",
+     "title": "CEO and GM",
+     "emails": [
+      {
+       "email": "jburness@nationalcarcharging.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "jim@alohacharge.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 303-437-4947",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 812-325-5651",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 480-756-2007",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 866-996-6387",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "getspeedcharge.com": {
+   "name": "FreeWire Technologies",
+   "bucket": "M13",
+   "campaign": "Electrical Equipment Mfg",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no provider coverage for domain",
+   "contacts": []
+  },
+  "lightingservicesinc.net": {
+   "name": "Lighting Services, Inc.",
+   "bucket": "T5",
+   "campaign": "Commercial & Industrial Ctrs",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "named lookup: no contact matching 'Cooper C.' at domain",
+   "contacts": []
+  },
+  "tillsonindustrial.com": {
+   "name": "Tillson Industrial Mechanics",
+   "bucket": "T2",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "2 contacts at domain but none owner-level titled",
+   "contacts": []
+  },
+  "wlrc.net": {
+   "name": "Warren Lightning Rod Company",
+   "bucket": "S10",
+   "campaign": "Lightning Protection",
+   "priority": "campaign-Nurture",
+   "wave": "CAMPAIGN",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "title is VP Operations, not owner-level",
+   "contacts": [
+    {
+     "name": "Roland Batchelder",
+     "title": "Vice President of Operations",
+     "emails": [
+      {
+       "email": "rolandb@wlrc.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "rolandbatchelder@gmail.com",
+       "type": "personal",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "estimating@wlrc.net",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 856-899-8133",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 856-364-9586",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 301-772-4432",
+       "type": "direct dial"
+      },
+      {
+       "number": "+1 856-854-7000",
+       "type": "office"
+      }
+     ]
+    }
+   ]
+  },
+  "conduxtesmec.com": {
+   "name": "Condux Tesmec, Inc.",
+   "bucket": "T3",
+   "campaign": null,
+   "priority": "P3-candidate",
+   "wave": "W1",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 1,
+   "error": "Italy (Bergamo) - likely wrong match for US entity; office line only; all emails unverified",
+   "contacts": [
+    {
+     "name": "Alberto Oscar",
+     "title": "General Manager",
+     "emails": [
+      {
+       "email": "aoscar@conduxtesmec.com",
+       "type": "professional",
+       "quality": "Very bad",
+       "is_verified": false
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 507-387-8069",
        "type": "office"
       }
      ]

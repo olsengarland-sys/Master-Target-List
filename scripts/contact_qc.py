@@ -58,6 +58,16 @@ for r in QUEUE:
                         'priority': r.get('priority'), 'campaign': r.get('campaign'),
                         'already_enriched': r['domain'] in C})
 
+# A website-builder or directory host is not a company domain: enrichment can never
+# resolve it, and domain-keyed dedupe against it is unreliable.
+JUNK_HOST = re.compile(r'(godaddysites|wixsite|squarespace|weebly|business\.site|blogspot|'
+                       r'wordpress\.com|facebook\.com|linkedin\.com|yelp\.|angi\.|houzz\.|'
+                       r'bbb\.org|indeed\.|sites\.google)', re.I)
+bad_domains = [{'domain': r['domain'], 'name': r.get('name'), 'priority': r.get('priority'),
+                'campaign': r.get('campaign'),
+                'note': 'not a company domain - website-builder/directory host'}
+               for r in QUEUE if JUNK_HOST.search(r['domain'])]
+
 parents = {}
 for o in ownership:
     parents.setdefault(o['alt_email_domain'], []).append(o['domain'])
@@ -83,8 +93,13 @@ doc = {
                      'TLD but reads as a US vanity domain here. Domain TLD alone misses the bigger '
                      'problem, which is foreign contacts on .com targets; those are in '
                      'verify_before_outreach.'),
+    'bad_domains': bad_domains,
+    'bad_domain_note': ('A website-builder or directory host is not a company domain. Enrichment '
+                        'can never resolve one, and dedupe keyed on it is unreliable, so the real '
+                        'domain has to be found before the row is usable.'),
     'counts': {'verify_before_outreach': len(verify_first), 'ownership_signals': len(ownership),
-               'non_owner_titles': len(non_owner), 'us_only_violations': len(us_only)},
+               'non_owner_titles': len(non_owner), 'us_only_violations': len(us_only),
+               'bad_domains': len(bad_domains)},
 }
 json.dump(doc, open('scripts/contacts/contact_qc_flags.json', 'w'), indent=1)
 print(doc['counts'])

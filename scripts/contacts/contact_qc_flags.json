@@ -2,6 +2,13 @@
  "generated": "2026-09-01",
  "verify_before_outreach": [
   {
+   "domain": "conduxtesmec.com",
+   "company": "Condux Tesmec, Inc.",
+   "priority": "P3-candidate",
+   "campaign": null,
+   "reason": "Italy (Bergamo) - likely wrong match for US entity; office line only; all emails unverified"
+  },
+  {
    "domain": "mossandmoss.com",
    "company": "Moss Electric",
    "priority": "ben-B",
@@ -63,6 +70,13 @@
    "priority": "campaign-Nurture",
    "campaign": "Electrical Equipment Mfg",
    "reason": "office line only; Germany-based contact"
+  },
+  {
+   "domain": "aclightningprotection.com",
+   "company": "A/C Lightning Protection, Inc.",
+   "priority": "campaign-Nurture",
+   "campaign": "Lightning Protection",
+   "reason": "likely wrong match - returned person is a Scooters Coffee franchise owner in Omaha NE with all verified emails on scooterscoffee.com; only aclightningprotection.com email is unverified/Very bad. Do not use without web verification."
   },
   {
    "domain": "lighthouseelec.com",
@@ -358,6 +372,46 @@
    "email": "jon@flocycling.com",
    "priority": "campaign-Nurture",
    "campaign": "Motor & Generator Companies"
+  },
+  {
+   "domain": "tidaltimesolutions.com",
+   "company": "Tidal Time Solutions",
+   "contact": "Adam Freihofer",
+   "title": "Founder",
+   "alt_email_domain": "microsoft.com",
+   "email": "adamf@microsoft.com",
+   "priority": "campaign-P3",
+   "campaign": "Mission critical power"
+  },
+  {
+   "domain": "aclightningprotection.com",
+   "company": "A/C Lightning Protection, Inc.",
+   "contact": "Rusty Smith",
+   "title": "Scooters Coffee Multi-Franchise Owner (NOT AC Lightning Protection)",
+   "alt_email_domain": "scooterscoffee.com",
+   "email": "rusty.smith@scooterscoffee.com",
+   "priority": "campaign-Nurture",
+   "campaign": "Lightning Protection"
+  },
+  {
+   "domain": "lpsnet.com",
+   "company": "Lightning Prevention Systems, Inc",
+   "contact": "Ian Fawthrop",
+   "title": "President",
+   "alt_email_domain": "worldnet.att.net",
+   "email": "ifawthrop1@worldnet.att.net",
+   "priority": "campaign-Nurture",
+   "campaign": "Lightning Protection"
+  },
+  {
+   "domain": "nationalcarcharging.com",
+   "company": "National Car Charging",
+   "contact": "Jim Burness",
+   "title": "CEO and GM",
+   "alt_email_domain": "alohacharge.com",
+   "email": "jim@alohacharge.com",
+   "priority": "campaign-Nurture",
+   "campaign": "EV Charging"
   }
  ],
  "possible_parent_domains": {},
@@ -752,6 +806,18 @@
    "contact": "Scott Barry",
    "title": "Operation Manager",
    "priority": "campaign-P2"
+  },
+  {
+   "domain": "raxisengineering.com",
+   "contact": "Karla Casas",
+   "title": "Business Office Manager",
+   "priority": "ben-C"
+  },
+  {
+   "domain": "jmschaefer.com",
+   "contact": "Phillip Criswell",
+   "title": "Field Service Supervisor and Project Manager",
+   "priority": "campaign-P2"
   }
  ],
  "non_owner_note": "Inven expands title keywords server-side and matches loosely, so managers and VPs come through an owner-title filter. Re-work or downgrade these rather than mailing them as owner contacts.",
@@ -806,10 +872,21 @@
   }
  ],
  "us_only_note": "The mandate is a US company. .co was not treated as foreign - it is Colombia's TLD but reads as a US vanity domain here. Domain TLD alone misses the bigger problem, which is foreign contacts on .com targets; those are in verify_before_outreach.",
+ "bad_domains": [
+  {
+   "domain": "moodyselectricinc.godaddysites.com",
+   "name": "Moody's Electric",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs",
+   "note": "not a company domain - website-builder/directory host"
+  }
+ ],
+ "bad_domain_note": "A website-builder or directory host is not a company domain. Enrichment can never resolve one, and dedupe keyed on it is unreliable, so the real domain has to be found before the row is usable.",
  "counts": {
-  "verify_before_outreach": 25,
-  "ownership_signals": 18,
-  "non_owner_titles": 65,
-  "us_only_violations": 6
+  "verify_before_outreach": 27,
+  "ownership_signals": 22,
+  "non_owner_titles": 67,
+  "us_only_violations": 6,
+  "bad_domains": 1
  }
 }
