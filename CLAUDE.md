@@ -107,9 +107,19 @@ these by assumption; they were measured.
    attempted, ~55% yield, ~47% of attempts producing a mobile number.
    Provider budget is ~8 units/call, and a titled domain costs
    1 + max_contacts + 1, so 2 domains per call is the ceiling.
-11. **Inven `named_people` mode is free when the contact is already resolved**
-   and is the most accurate path. Run named lookups FIRST in any future wave,
-   not last — every named call in waves so far cost 0 credits.
+11. **Name the person first; fall back to the domain only when you must.**
+   Measured over two runs on the same target list:
+   - blind titled-domain lookups: 575 credits -> 486 owner mobiles = **1.18
+     credits per mobile**, 47% hit rate;
+   - named-person lookups (owner already known from Grata): 326 credits ->
+     423 owner mobiles = **0.77 credits per mobile**, 56% hit rate, and 57%
+     of companies cost nothing at all because the contact was already
+     resolved provider-side.
+   Naming the person is not just cheaper, it is more accurate: nearly every
+   wrong-entity match and every substitute-person result in both runs came
+   from the blind fallback, never from a named lookup. The practical
+   sequence is therefore Grata first (free names and titles), Inven second
+   (paid phones, asked for by name).
 12. **Both platforms return wrong-entity matches for US targets** — a person in
    the UK, India, Venezuela, Mexico, Canada or Germany attached to a US
    company that shares the name. Check the contact's `location` before any

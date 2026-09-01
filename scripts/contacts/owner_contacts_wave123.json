@@ -3,14 +3,14 @@
  "platform": "inven get_company_contacts (owner-title filtered)",
  "policy": "inven contact-credit floor 5500 (lowered from 6000 by the client to fund the named-lookup recovery run); grata covers what inven cannot reach",
  "attempted": 1908,
- "with_contacts": 1751,
- "credits_used": 900,
- "companies_with_mobile": 909,
- "contacts_with_mobile": 928,
- "mobile_phones": 1668,
- "direct_dial_phones": 968,
- "office_only_companies": 130,
- "verified_emails": 2551,
+ "with_contacts": 1752,
+ "credits_used": 901,
+ "companies_with_mobile": 910,
+ "contacts_with_mobile": 929,
+ "mobile_phones": 1669,
+ "direct_dial_phones": 969,
+ "office_only_companies": 131,
+ "verified_emails": 2552,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -75663,23 +75663,186 @@
     }
    ]
   },
-  "summitelectricdata.com": {
-   "name": "Summit Electric & Data, Inc.",
-   "bucket": "T5",
+  "wetsinc.net": {
+   "name": "wetsinc.net",
+   "bucket": "?",
    "campaign": null,
-   "priority": "master-DQ",
-   "wave": "MASTER",
+   "priority": "valDQ-review",
+   "wave": "VALQ",
    "replied": false,
-   "source_platform": "grata",
+   "source_platform": "inven+grata",
    "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
+   "error": "named lookup for James McCasland found nothing; titled-domain fallback: 13 contacts at domain but none with an owner-level title",
+   "contacts": [
+    {
+     "name": "James McCasland",
+     "title": "President & CEO",
+     "emails": [
+      {
+       "email": "jimm@suddenlink.net",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      },
+      {
+       "email": "wets1@yahoo.com",
+       "type": "personal",
+       "quality": "Deliverable",
+       "is_verified": false
+      }
+     ],
+     "phones": [],
+     "location": "Sweetwater, Texas, United States"
+    }
+   ]
+  },
+  "omirepair.com": {
+   "name": "omirepair.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 1,
+   "error": "office line only, no verified email; record blends a southernwine.com identity - verify",
+   "contacts": [
+    {
+     "name": "Amin G.",
+     "title": "President",
+     "location": "Plano, TX, United States",
+     "emails": [],
+     "phones": [
+      {
+       "number": "+1 208-375-5710",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Amin Ghahari",
+     "title": "CEO",
+     "emails": [
+      {
+       "email": "aghahari@omirepair.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
+  },
+  "prowesteng.com": {
+   "name": "prowesteng.com",
+   "bucket": "?",
+   "campaign": null,
+   "priority": "valDQ-review",
+   "wave": "VALQ",
+   "replied": false,
+   "source_platform": "inven+grata",
+   "credits_used": 0,
+   "error": "named lookup for Josh Collins found nothing; titled-domain fallback: 5 contacts at domain but none with an owner-level title",
+   "contacts": [
+    {
+     "name": "Josh Collins",
+     "title": "Co-Owner",
+     "emails": [
+      {
+       "email": "joshc@prowesteng.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    }
+   ]
   },
   "parkerelectric.com": {
    "name": "Parker Electric",
    "bucket": "T5",
    "campaign": null,
    "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "mobile area code 405 (OK) does not match company location Austin TX; direct dial 512 matches",
+   "contacts": [
+    {
+     "name": "Tim Parker",
+     "title": "Owner",
+     "location": "Austin, TX, United States",
+     "emails": [
+      {
+       "email": "tim@parkerelectric.com",
+       "type": "professional",
+       "quality": "Great",
+       "is_verified": true
+      },
+      {
+       "email": "tim.parker@parkerelectric.net",
+       "type": "professional",
+       "quality": "Possible",
+       "is_verified": false
+      }
+     ],
+     "phones": [
+      {
+       "number": "+1 405-408-3174",
+       "type": "mobile"
+      },
+      {
+       "number": "+1 512-836-9779",
+       "type": "direct dial"
+      }
+     ]
+    }
+   ]
+  },
+  "nellc.net": {
+   "name": "Northeast Electric, LLC",
+   "bucket": "T4",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (2 contacts at domain, none matching title filter)",
+   "contacts": []
+  },
+  "unlimitedelectricfl.com": {
+   "name": "Unlimited Creativity",
+   "bucket": "S8",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (1 contact at domain)",
+   "contacts": []
+  },
+  "nkce.com": {
+   "name": "North Kansas City Electric",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-P2",
+   "wave": "MASTER",
+   "replied": false,
+   "source_platform": "inven",
+   "credits_used": 0,
+   "error": "no owner-level title match (4 contacts at domain)",
+   "contacts": []
+  },
+  "summitelectricdata.com": {
+   "name": "Summit Electric & Data, Inc.",
+   "bucket": "T5",
+   "campaign": null,
+   "priority": "master-DQ",
    "wave": "MASTER",
    "replied": false,
    "source_platform": "grata",
@@ -75872,30 +76035,6 @@
    "bucket": "M13",
    "campaign": null,
    "priority": "master-DQ",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "nellc.net": {
-   "name": "Northeast Electric, LLC",
-   "bucket": "T4",
-   "campaign": null,
-   "priority": "master-P2",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
-  "unlimitedelectricfl.com": {
-   "name": "Unlimited Creativity",
-   "bucket": "S8",
-   "campaign": null,
-   "priority": "master-P2",
    "wave": "MASTER",
    "replied": false,
    "source_platform": "grata",
@@ -76299,18 +76438,6 @@
    "error": "no grata execs",
    "contacts": []
   },
-  "nkce.com": {
-   "name": "North Kansas City Electric",
-   "bucket": "T5",
-   "campaign": null,
-   "priority": "master-P2",
-   "wave": "MASTER",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "no grata execs",
-   "contacts": []
-  },
   "nkelectric.com": {
    "name": "Kentucky General INC Dba Norman King Electric",
    "bucket": "T4",
@@ -76538,39 +76665,6 @@
    "credits_used": 0,
    "error": "no grata execs",
    "contacts": []
-  },
-  "wetsinc.net": {
-   "name": "wetsinc.net",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": "work email is on suddenlink.net, a consumer ISP domain, not the company domain - verify",
-   "contacts": [
-    {
-     "name": "James McCasland",
-     "title": "President & CEO",
-     "emails": [
-      {
-       "email": "jimm@suddenlink.net",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      },
-      {
-       "email": "wets1@yahoo.com",
-       "type": "personal",
-       "quality": "Deliverable",
-       "is_verified": false
-      }
-     ],
-     "phones": [],
-     "location": "Sweetwater, Texas, United States"
-    }
-   ]
   },
   "elitepowersolutions.io": {
    "name": "Elite Power Solutions",
@@ -76907,58 +77001,6 @@
    "credits_used": 0,
    "error": "no grata execs",
    "contacts": []
-  },
-  "omirepair.com": {
-   "name": "omirepair.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Amin Ghahari",
-     "title": "CEO",
-     "emails": [
-      {
-       "email": "aghahari@omirepair.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
-  },
-  "prowesteng.com": {
-   "name": "prowesteng.com",
-   "bucket": "?",
-   "campaign": null,
-   "priority": "valDQ-review",
-   "wave": "VALQ",
-   "replied": false,
-   "source_platform": "grata",
-   "credits_used": 0,
-   "error": null,
-   "contacts": [
-    {
-     "name": "Josh Collins",
-     "title": "Co-Owner",
-     "emails": [
-      {
-       "email": "joshc@prowesteng.com",
-       "type": "professional",
-       "quality": "Deliverable",
-       "is_verified": true
-      }
-     ],
-     "phones": []
-    }
-   ]
   }
  }
 }
