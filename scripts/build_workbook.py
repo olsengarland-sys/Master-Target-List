@@ -665,3 +665,57 @@ if os.path.exists(_DPATH):
     widths(ws, [30, 26, 20, 30, 18, 18, 18, 32, 44, 8, 22, 8, 22, 18])
     wb.save(OUT)
     print('Direct lines tab:', len(drows), 'rows |', _nm, 'with no mobile')
+
+# ------------------------------------------------- Conference attendance
+# Which of OUR targets are in the room at which event. This is the cheapest
+# warm-intro route in the file: a booth conversation beats a cold dial.
+_RPATH = 'scripts/xref/conference_rosters_flat.csv'
+_EPATH = 'scripts/xref/conference_event_summary.json'
+if os.path.exists(_RPATH) and os.path.exists(_EPATH):
+    import csv as _csv2
+    allrows = list(_csv2.DictReader(open(_RPATH)))
+    events = json.load(open(_EPATH))
+    mine = [r for r in allrows if r['in_target_list'] == 'YES']
+    ws = wb.create_sheet('Conference attendance')
+    ws.cell(row=1, column=1, value='CONFERENCE ATTENDANCE - our targets, in the room').font = TITLE
+    ws.cell(row=2, column=1, value=(
+        '%d attendee records banked across %d events (%d distinct companies). %d of those records are '
+        'companies on our target list - %d distinct targets, %d of which we already hold a contact for. '
+        'Rosters are historical as well as forward: a company that attended a series two years running '
+        'is very likely to attend the next one, which is what makes the back-catalogue worth banking.'
+        % (len(allrows), len(events), len({r['domain'] for r in allrows if r['domain']}), len(mine),
+           len({r['domain'] for r in mine}),
+           len({r['domain'] for r in mine if r['have_contact'] == 'YES'}))
+    )).alignment = WRAP
+    ws.row_dimensions[2].height = 42
+    r = 4
+    ws.cell(row=r, column=1, value='EVENTS RANKED BY HOW MANY OF OUR TARGETS ATTEND').font = BOLD
+    r += 1
+    header(ws, r, ['Event', 'Series', 'Date', 'City', 'State', 'Our targets', 'Roster rows',
+                   'Reported', 'Truncated?'])
+    r += 1
+    for e in events:
+        for i, v in enumerate([e['event'], e['series'], e['start'], e['city'], e['state'],
+                               e['our_targets'], e['rows_fetched'], e['total_reported'],
+                               'YES - partial roster' if e['truncated'] else ''], 1):
+            ws.cell(row=r, column=i, value=v).alignment = WRAP
+        if e['our_targets'] >= 10:
+            for i in range(1, 10): ws.cell(row=r, column=i).fill = PatternFill('solid', fgColor='E2EFDA')
+        r += 1
+    r += 2
+    ws.cell(row=r, column=1, value='OUR TARGETS, BY EVENT').font = BOLD
+    r += 1
+    header(ws, r, ['Event', 'Date', 'City', 'Company', 'Domain', 'HQ', 'Bucket', 'Priority',
+                   'Have contact?'])
+    r += 1
+    mine.sort(key=lambda x: (x['start'], x['company']))
+    for m in mine:
+        for i, k in enumerate(['event', 'start', 'city', 'company', 'domain', 'hq', 'bucket',
+                               'priority', 'have_contact'], 1):
+            ws.cell(row=r, column=i, value=m[k]).alignment = WRAP
+        if m['have_contact'] != 'YES':
+            ws.cell(row=r, column=9).fill = AMBER  # in the room but no contact yet
+        r += 1
+    widths(ws, [46, 30, 12, 30, 26, 24, 10, 12, 16])
+    wb.save(OUT)
+    print('Conference attendance tab:', len(events), 'events |', len(mine), 'target attendances')
