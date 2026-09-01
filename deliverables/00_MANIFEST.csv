@@ -1,8 +1,8 @@
 file,rows,what it is
-01_enriched_contacts.csv,2846,"Every enriched contact: owner name, title, mobile / direct dial / office, email"
+01_enriched_contacts.csv,2885,"Every enriched contact: owner name, title, mobile / direct dial / office, email"
 02_direct_lines.csv,396,Desk numbers that bypass the switchboard
 03_postal_addresses.csv,2325,HQ addresses. Filter mailable=yes before a mail merge; city/state-only rows cannot be posted.
-04_qc_flags.csv,466,Everything needing a human check before outreach
+04_qc_flags.csv,474,Everything needing a human check before outreach
 05_conference_rosters.csv,4684,"Every banked attendee record, flagged where it is one of our targets"
 06_conference_events.csv,32,Events ranked by how many of our targets attend
 07_conference_calendar_forward.csv,21,Forward 18-month conference calendar

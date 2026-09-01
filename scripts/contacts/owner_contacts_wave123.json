@@ -10,7 +10,7 @@
  "mobile_phones": 1701,
  "direct_dial_phones": 977,
  "office_only_companies": 136,
- "verified_emails": 2598,
+ "verified_emails": 2632,
  "companies": {
   "elemco.com": {
    "name": "Elemco Services Inc.",
@@ -10686,7 +10686,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 0,
    "error": "office line only",
    "contacts": [
@@ -10713,6 +10713,32 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Blake Behr",
+     "title": "President",
+     "emails": [
+      {
+       "email": "blake@ridgelineei.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Rick Hite",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "rick@ridgelineei.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -11054,7 +11080,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no verified email",
    "contacts": [
@@ -11091,6 +11117,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Allen Yoho",
+     "title": "President",
+     "emails": [
+      {
+       "email": "allen@allenyoho.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -11678,7 +11717,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no verified email",
    "contacts": [
@@ -11703,6 +11742,19 @@
        "type": "direct dial"
       }
      ]
+    },
+    {
+     "name": "Jayson Oswald",
+     "title": "President",
+     "emails": [
+      {
+       "email": "joswald@landmarkelectricinc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -15088,7 +15140,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only; no verified email",
    "contacts": [
@@ -15109,6 +15161,32 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Scott Kirkpatrick",
+     "title": "President & CEO",
+     "emails": [
+      {
+       "email": "skirkpatrick@michianacontracting.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Lisa Botto",
+     "title": "Chief Financial Officer",
+     "emails": [
+      {
+       "email": "lbotto@michianacontracting.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -15487,7 +15565,7 @@
    "priority": "campaign-Nurture",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no verified email",
    "contacts": [
@@ -15512,6 +15590,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Scott Peterson",
+     "title": "President",
+     "emails": [
+      {
+       "email": "speterson@cbsnuclear.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -15688,7 +15779,7 @@
    "priority": "campaign-P3",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no phone, no verified email",
    "contacts": [
@@ -15701,6 +15792,19 @@
        "type": "professional",
        "quality": "Very bad",
        "is_verified": false
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "John Comack",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "jmcomack@get-ny.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
       }
      ],
      "phones": []
@@ -16598,7 +16702,7 @@
    "replied": false,
    "source_platform": "inven",
    "credits_used": 1,
-   "error": null,
+   "error": "no grata execs",
    "contacts": [
     {
      "name": "Ronnie Foust",
@@ -16789,7 +16893,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": null,
    "contacts": [
@@ -16820,6 +16924,25 @@
        "type": "direct dial"
       }
      ]
+    },
+    {
+     "name": "Lorin Fleming",
+     "title": "Founder",
+     "emails": [
+      {
+       "email": "lfleming@fcps-electric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Flynn Kettell",
+     "title": "President",
+     "emails": [],
+     "phones": []
     }
    ]
   },
@@ -17093,7 +17216,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only; non-owner title (VP Ops)",
    "contacts": [
@@ -17120,6 +17243,37 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Timothy Libke",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "tim@lcelectricinc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": [
+      {
+       "number": "4077881969",
+       "type": "office"
+      }
+     ]
+    },
+    {
+     "name": "Ronald Carter",
+     "title": "President",
+     "emails": [
+      {
+       "email": "ron@lcelectricinc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -17754,9 +17908,9 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
-   "error": null,
+   "error": "owners identified but Grata holds no email for either",
    "contacts": [
     {
      "name": "Jeff Williams",
@@ -17781,6 +17935,12 @@
        "type": "mobile"
       }
      ]
+    },
+    {
+     "name": "James G Williams",
+     "title": "President",
+     "emails": [],
+     "phones": []
     }
    ]
   },
@@ -17791,7 +17951,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only; non-owner title (project manager)",
    "contacts": [
@@ -17812,6 +17972,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "B. Stone Crider",
+     "title": "Founder & Owner",
+     "emails": [
+      {
+       "email": "stonecrider@solutionservicescorp.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -19070,7 +19243,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only; non-owner title",
    "contacts": [
@@ -19091,6 +19264,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Mike Williamson",
+     "title": "President & CEO",
+     "emails": [
+      {
+       "email": "mike.williamson@sytekelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -19260,7 +19446,7 @@
    "priority": "campaign-Nurture",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": null,
    "contacts": [
@@ -19295,6 +19481,19 @@
        "type": "direct dial"
       }
      ]
+    },
+    {
+     "name": "Bill Henkel",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "bhenkel@rmemnc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -20876,7 +21075,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only; contact located Canada - verify US operations",
    "contacts": [
@@ -20903,6 +21102,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "John Barty",
+     "title": "President",
+     "emails": [
+      {
+       "email": "johnbarty@pointonwave.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -22783,7 +22995,7 @@
    "priority": "campaign-P3",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only; no verified email",
    "contacts": [
@@ -22804,6 +23016,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Jeremy Armstrong",
+     "title": "President",
+     "emails": [
+      {
+       "email": "jarmstrong@rcdelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -23647,7 +23872,7 @@
    "priority": "campaign-Nurture",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no verified email",
    "contacts": [
@@ -24418,7 +24643,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no verified email",
    "contacts": [
@@ -24443,6 +24668,31 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "David Howell",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "dhowell@iecmail.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "David Frazier",
+     "title": "CFO",
+     "emails": [],
+     "phones": []
+    },
+    {
+     "name": "Virachai Wongkomet",
+     "title": "Managing Director",
+     "emails": [],
+     "phones": []
     }
    ]
   },
@@ -24752,7 +25002,7 @@
    "priority": "campaign-Nurture",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no verified email",
    "contacts": [
@@ -24781,6 +25031,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Mark Henson",
+     "title": "Owner",
+     "emails": [
+      {
+       "email": "mark@dietzelectric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -25072,7 +25335,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only; non-owner title (Administrator), likely wrong-person match (Australia)",
    "contacts": [
@@ -25093,6 +25356,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Scott Lindberg",
+     "title": "President",
+     "emails": [
+      {
+       "email": "scottl@djselectrical.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -25288,7 +25564,7 @@
    "priority": "campaign-P3",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no phone; no verified email",
    "contacts": [
@@ -25301,6 +25577,19 @@
        "type": "professional",
        "quality": "Very bad",
        "is_verified": false
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Justin Oney",
+     "title": "President",
+     "emails": [
+      {
+       "email": "joney@csaconstructorstx.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
       }
      ],
      "phones": []
@@ -26225,7 +26514,7 @@
    "priority": "campaign-P3",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only; no verified email",
    "contacts": [
@@ -26246,6 +26535,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Daniel Halley",
+     "title": "President",
+     "emails": [
+      {
+       "email": "dhalley@halleyeng.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -27790,7 +28092,7 @@
    "replied": false,
    "source_platform": "inven",
    "credits_used": 1,
-   "error": null,
+   "error": "no grata execs",
    "contacts": [
     {
      "name": "Ed Ginter",
@@ -28009,7 +28311,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": null,
    "contacts": [
@@ -28042,6 +28344,45 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Steve Kirby",
+     "title": "Owner and Founder",
+     "emails": [
+      {
+       "email": "skirby@empower-electric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Kyle Kirby",
+     "title": "President",
+     "emails": [
+      {
+       "email": "kkirby@empower-electric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Brad Briggs",
+     "title": "Chief Financial Officer",
+     "emails": [
+      {
+       "email": "bbriggs@empower-electric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -28794,7 +29135,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "office line only",
    "contacts": [
@@ -28815,6 +29156,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Justin West",
+     "title": "President",
+     "emails": [
+      {
+       "email": "jwest@wpetric.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -30488,7 +30842,7 @@
    "replied": false,
    "source_platform": "inven",
    "credits_used": 1,
-   "error": null,
+   "error": "no grata execs",
    "contacts": [
     {
      "name": "Joshua Mitchell",
@@ -31264,7 +31618,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": null,
    "contacts": [
@@ -31285,6 +31639,32 @@
        "type": "mobile"
       }
      ]
+    },
+    {
+     "name": "Tony Wand",
+     "title": "CEO and President",
+     "emails": [
+      {
+       "email": "tony.wand@hmcragg.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Krista Honsa",
+     "title": "Chief Financial Officer",
+     "emails": [
+      {
+       "email": "krista.honsa@hmcragg.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -32150,7 +32530,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": null,
    "contacts": [
@@ -32179,6 +32559,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "William P. Hannon",
+     "title": "CEO & CFO",
+     "emails": [
+      {
+       "email": "bhannon@sentinelelectricinc.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -32492,7 +32885,7 @@
    "priority": "campaign-P2",
    "wave": "CAMPAIGN",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "no phone; all emails unverified/low quality",
    "contacts": [
@@ -32507,6 +32900,38 @@
        "is_verified": false
       }
      ],
+     "phones": []
+    },
+    {
+     "name": "Alex Toutounchi",
+     "title": "Chief Executive Officer",
+     "emails": [
+      {
+       "email": "alext@gravitienergy.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Hubert Vaz-Nayak",
+     "title": "Managing Director",
+     "emails": [
+      {
+       "email": "hubert@gravitienergy.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Vidya Asalapuram",
+     "title": "Co-Founder",
+     "emails": [],
      "phones": []
     }
    ]
@@ -36319,7 +36744,7 @@
    "priority": "master-P2",
    "wave": "MASTER",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "VP Admin, not owner-level; no verified email (all guesses Very bad)",
    "contacts": [
@@ -36337,6 +36762,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Fred Oliver",
+     "title": "President",
+     "emails": [
+      {
+       "email": "foliver@awconst.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -37398,7 +37836,7 @@
    "priority": "P3-candidate",
    "wave": "W2",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "Tunisia - likely wrong match, junk profile; office line only; all emails unverified. Also an electrical-safety training firm = repo DQ pattern",
    "contacts": [
@@ -37419,6 +37857,32 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Bill Shinn",
+     "title": "Founder",
+     "emails": [
+      {
+       "email": "bill.shinn@e-hazard.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
+    },
+    {
+     "name": "Greg Stevens",
+     "title": "Managing Partner",
+     "emails": [
+      {
+       "email": "greg@e-hazard.com",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },
@@ -37838,7 +38302,7 @@
    "priority": "P3-candidate",
    "wave": "W2",
    "replied": false,
-   "source_platform": "inven",
+   "source_platform": "inven+grata",
    "credits_used": 1,
    "error": "non-owner title (VP); all emails unverified guesses",
    "contacts": [
@@ -37867,6 +38331,19 @@
        "type": "office"
       }
      ]
+    },
+    {
+     "name": "Chris Cerrito",
+     "title": "President",
+     "emails": [
+      {
+       "email": "c.cerrito@precisionelectronics.net",
+       "type": "professional",
+       "quality": "Deliverable",
+       "is_verified": true
+      }
+     ],
+     "phones": []
     }
    ]
   },

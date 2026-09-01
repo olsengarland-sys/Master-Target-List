@@ -882,6 +882,16 @@
    "campaign": "Commercial & Industrial Ctrs"
   },
   {
+   "domain": "aye-inc.com",
+   "company": "Allen Yoho Electrical, Inc.",
+   "contact": "Allen Yoho",
+   "title": "President",
+   "alt_email_domain": "allenyoho.com",
+   "email": "allen@allenyoho.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
    "domain": "electricinnovations.com",
    "company": "Electric Innovations Inc.",
    "contact": "Marc Catalano",
@@ -1032,6 +1042,16 @@
    "campaign": "Motor & Generator Companies"
   },
   {
+   "domain": "industrialelectricalco.com",
+   "company": "Industrial Electrical Company",
+   "contact": "David Howell",
+   "title": "Owner",
+   "alt_email_domain": "iecmail.com",
+   "email": "dhowell@iecmail.com",
+   "priority": "campaign-P2",
+   "campaign": "Motor & Generator Companies"
+  },
+  {
    "domain": "moleymagneticsinc.com",
    "company": "Moley Magnetics, Inc.",
    "contact": "Katie Hurley",
@@ -1058,6 +1078,16 @@
    "title": "Executive Vice President",
    "alt_email_domain": "csecre.com",
    "email": "zach@csecre.com",
+   "priority": "campaign-P2",
+   "campaign": "Commercial & Industrial Ctrs"
+  },
+  {
+   "domain": "westpointelectricinc.com",
+   "company": "Westpoint Electric, INC.",
+   "contact": "Justin West",
+   "title": "President",
+   "alt_email_domain": "wpetric.com",
+   "email": "jwest@wpetric.com",
    "priority": "campaign-P2",
    "campaign": "Commercial & Industrial Ctrs"
   },
@@ -1189,6 +1219,16 @@
    "alt_email_domain": "wglightning.com",
    "email": "allen.hall@wglightning.com",
    "priority": "P3-candidate",
+   "campaign": null
+  },
+  {
+   "domain": "andersonandwood.com",
+   "company": "Anderson & Wood Construction Co",
+   "contact": "Fred Oliver",
+   "title": "President",
+   "alt_email_domain": "awconst.com",
+   "email": "foliver@awconst.com",
+   "priority": "master-P2",
    "campaign": null
   },
   {
@@ -1788,6 +1828,12 @@
    "priority": "campaign-P2"
   },
   {
+   "domain": "michianacontracting.com",
+   "contact": "Lisa Botto",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "coastlinepowersolutions.com",
    "contact": "Kevin Price",
    "title": "Chief Financial Officer",
@@ -1980,6 +2026,12 @@
    "priority": "campaign-P2"
   },
   {
+   "domain": "industrialelectricalco.com",
+   "contact": "David Frazier",
+   "title": "CFO",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "djselectrical.com",
    "contact": "Melody McFarlane",
    "title": "Administrator",
@@ -2028,6 +2080,12 @@
    "priority": "campaign-P3"
   },
   {
+   "domain": "empower-electric.com",
+   "contact": "Brad Briggs",
+   "title": "Chief Financial Officer",
+   "priority": "campaign-P2"
+  },
+  {
    "domain": "postelectric.net",
    "contact": "Kathy Shipp",
    "title": "Secretary and Treasurer",
@@ -2073,6 +2131,12 @@
    "domain": "heartutilities.com",
    "contact": "Scott Barry",
    "title": "Operation Manager",
+   "priority": "campaign-P2"
+  },
+  {
+   "domain": "hmcragg.com",
+   "contact": "Krista Honsa",
+   "title": "Chief Financial Officer",
    "priority": "campaign-P2"
   },
   {
@@ -3301,8 +3365,8 @@
  "bad_domain_note": "A website-builder or directory host is not a company domain. Enrichment can never resolve one, and dedupe keyed on it is unreliable, so the real domain has to be found before the row is usable.",
  "counts": {
   "verify_before_outreach": 111,
-  "ownership_signals": 78,
-  "non_owner_titles": 258,
+  "ownership_signals": 82,
+  "non_owner_titles": 262,
   "us_only_violations": 6,
   "bad_domains": 4,
   "possible_duplicate_entities": 9
