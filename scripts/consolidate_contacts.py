@@ -95,8 +95,13 @@ doc = {
     'attempted': len(companies),
     'with_contacts': len(with_contacts),
     'credits_used': sum(v['credits_used'] for v in companies.values()),
-    'companies_with_mobile': sum(1 for v in companies.values() for c in v['contacts']
-                                 if any(p.get('type') == 'mobile' for p in (c.get('phones') or []))),
+    # count COMPANIES, not contacts - two contacts with mobiles at one company is
+    # still one company we can reach.
+    'companies_with_mobile': sum(1 for v in companies.values()
+                                 if any(p.get('type') == 'mobile'
+                                        for c in v['contacts'] for p in (c.get('phones') or []))),
+    'contacts_with_mobile': sum(1 for v in companies.values() for c in v['contacts']
+                                if any(p.get('type') == 'mobile' for p in (c.get('phones') or []))),
     'mobile_phones': phones_of('mobile'),
     'direct_dial_phones': phones_of('direct dial'),
     'office_only_companies': len(office_only),
