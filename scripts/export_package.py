@@ -52,12 +52,16 @@ if os.path.exists('scripts/contacts/direct_lines.csv'):
     manifest.append(('02_direct_lines.csv', n, 'Desk numbers that bypass the switchboard'))
 
 # 3. Postal addresses
-A = json.load(open('scripts/contacts/mainline_map.json'))['companies']
-rows = [{'domain': d, 'street_address': v.get('street_address') or '',
-         'phone_on_file': v.get('contact_phone') or ''}
-        for d, v in A.items() if v.get('street_address')]
+A = json.load(open('scripts/contacts/addresses.json'))['companies']
+_tg = {r['domain'] for r in json.load(open('scripts/contacts_enrich_list.json'))}
+rows = [{'domain': d, 'street_address': v['street_address'],
+         'mailable': 'yes' if v.get('mailable') else 'NO - city/state only',
+         'in_target_list': 'yes' if d in _tg else '',
+         'flag': v.get('note') or ''}
+        for d, v in sorted(A.items())]
 manifest.append(('03_postal_addresses.csv', write_csv('03_postal_addresses.csv', rows),
-                 'HQ street addresses'))
+                 'HQ addresses. Filter mailable=yes before a mail merge; city/state-only rows '
+                 'cannot be posted.'))
 
 # 4. QC flags - everything that must be checked before outreach
 Q = json.load(open('scripts/contacts/contact_qc_flags.json'))

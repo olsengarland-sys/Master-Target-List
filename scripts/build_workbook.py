@@ -561,7 +561,9 @@ _CPATH = 'scripts/contacts/owner_contacts_wave123.json'
 _MPATH = 'scripts/contacts/mainline_map.json'
 if os.path.exists(_CPATH):
     CON = json.load(open(_CPATH))
-    ADDR = json.load(open(_MPATH))['companies'] if os.path.exists(_MPATH) else {}
+    _APATH = 'scripts/contacts/addresses.json'
+    ADDR = json.load(open(_APATH))['companies'] if os.path.exists(_APATH) else (
+        json.load(open(_MPATH))['companies'] if os.path.exists(_MPATH) else {})
 
     def _best_email(c):
         # verified professional beats verified personal beats anything else
