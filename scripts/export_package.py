@@ -166,6 +166,25 @@ if os.path.exists(f'{OUT}/14_owner_mobiles.csv'):
                      'address. Sorted decision-makers first; check the verify_first column before '
                      'dialling.'))
 
+# 15. Net-new companies from the free trade-association directories
+if os.path.exists('scripts/xref/association_netnew.json'):
+    AN = json.load(open('scripts/xref/association_netnew.json'))
+    rows = [{'company': r.get('name'), 'domain': r.get('domain'),
+             'headquarters': r.get('headquarters') or '[unknown]',
+             'employees': r.get('employees') or '[unknown]',
+             'ownership': r.get('ownership') or '[unknown]',
+             'year_founded': r.get('year_founded') or '[unknown]',
+             'description': r.get('description') or '[unknown]',
+             'source_list': r.get('source_list'), 'flag': r.get('flag') or ''}
+            for r in AN['net_new']]
+    usable = sum(1 for r in rows if r['description'] != '[unknown]')
+    manifest.append(('15_association_net_new.csv', write_csv('15_association_net_new.csv', rows),
+                     'NET-NEW companies from six free trade-association directories, deduped against '
+                     'the target list. NOT yet screened: only %d of %d carry a description, so the '
+                     'rest cannot be bucketed or size-scored until enriched. Member rolls also carry '
+                     'non-targets (brokers, law firms, CPAs). Treat as raw leads, not pipeline.'
+                     % (usable, len(rows))))
+
 with open(f'{OUT}/00_MANIFEST.csv', 'w', newline='') as f:
     w = csv.writer(f)
     w.writerow(['file', 'rows', 'what it is'])
