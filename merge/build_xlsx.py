@@ -138,3 +138,70 @@ print('rows:', len(rows),
       '| with address:', sum(1 for r in rows if r['address']),
       '| flagged:', sum(1 for r in rows if r['verify']))
 print('wrote', OUT)
+
+# ---------------------------------------------------------- Reconciliation
+# Every total in the four source files, counted rather than taken on trust.
+ws = wb.create_sheet('RECONCILIATION')
+BOLD = Font(bold=True)
+def line(r, cells, bold=False, fill=None):
+    for i, v in enumerate(cells, 1):
+        c = ws.cell(row=r, column=i, value=v)
+        c.alignment = WRAP
+        if bold: c.font = BOLD
+        if fill: c.fill = fill
+    return r + 1
+
+r = 1
+ws.cell(row=1, column=1, value='Reconciliation of all four files').font = Font(bold=True, size=14)
+r = 3
+r = line(r, ['MASTER TARGET LIST v3 (25 Aug)', 'Rows', 'Unique domains', 'Note'], True, HDR)
+for i in range(1, 5): ws.cell(row=r-1, column=i).font = HF
+for sh, n, note in [('Batch 1 (250)', 250, 'matches the sheet name'),
+                    ('Batch 2 (250)', 250, 'matches'), ('Batch 3 (147)', 147, 'matches'),
+                    ('NEW - Add to batch 1 or 2', 11, 'NOT in the "All 1922 master" sheet'),
+                    ('NEW - Add to batch 2 or 3', 51, 'NOT in the "All 1922 master" sheet'),
+                    ('Nurture (below floor)', 138, 'the 138 you asked to re-add'),
+                    ('DQ log', 1137, 'excluded from everything')]:
+    r = line(r, [sh, n, n, note])
+r = line(r, ['Sum of those sheets', 1984, 1984, 'no duplication between sheets'], True)
+r = line(r, ['"All 1922 master" sheet', 1922, 1922, 'the sheet that claims to be the full master'], True)
+r = line(r, ['DIFFERENCE', 62, 62,
+             'The 62 rows on the two "NEW - Add to batch" sheets were never merged into '
+             '"All 1922 master". That sheet is 62 short of the file it sits in. None of the 62 '
+             'appears in the later files, so nothing here was double-counted - but if you rebuild '
+             'a master, take the union of the sheets, not the "All 1922" tab.'], True, AMBER)
+r += 1
+r = line(r, ['THE TWO 1 SEPTEMBER CAMPAIGN FILES', 'Unique domains', '', 'Note'], True, HDR)
+for i in range(1, 5): ws.cell(row=r-1, column=i).font = HF
+r = line(r, ['Validated Campaigns', 729, '', '10 campaign sheets, no duplication'])
+r = line(r, ['New Targets for Campaigns', 867, '', '11 campaign sheets + a "NEW additions" tab'])
+r = line(r, ['In Validated but NOT in New Targets', 0, '', 'Validated is a strict SUBSET'], True, GREEN)
+r = line(r, ['In New Targets but NOT in Validated', 138, '', 'exactly the master Nurture releases'], True, GREEN)
+r = line(r, ['CONCLUSION', '', '',
+             'New Targets for Campaigns SUPERSEDES Validated Campaigns completely. Work from '
+             'New Targets alone.'], True, GREEN)
+r = line(r, ['Caution when summing tabs', 1005, 867,
+             'New Targets tabs sum to 1,005 but hold 867 companies: the "NEW additions (138)" tab '
+             'repeats rows that also sit on the campaign tabs. Do not add the tabs together.'], False, AMBER)
+r += 1
+r = line(r, ['GRATA EXPANSION (31 Aug)', 'Unique domains', '', 'Note'], True, HDR)
+for i in range(1, 5): ws.cell(row=r-1, column=i).font = HF
+r = line(r, ['Wave 1 bucket tabs T1-S10', 317, '', 'keyword-led search'])
+r = line(r, ['Wave 2 + Wave 3 tabs', 1438, '', 'no overlap with the bucket tabs'])
+r = line(r, ['All candidates', 1755, '', ''], True)
+r = line(r, ['DQ candidates', 86, '', 'excluded'])
+r += 1
+r = line(r, ['HOW 1,353 NET-NEW IS ARRIVED AT', 'Companies', '', 'Note'], True, HDR)
+for i in range(1, 5): ws.cell(row=r-1, column=i).font = HF
+r = line(r, ['Campaign file (all campaign tabs)', 867, '', ''])
+r = line(r, ['Grata Expansion (all candidate tabs)', 1755, '', ''])
+r = line(r, ['Union of the two', 1893, '', 'they overlap by 729 - the whole campaign set came from the expansion'])
+r = line(r, ['less: already in master v3', -138, '', 'exactly the Nurture releases; nothing else was already known'])
+r = line(r, ['less: DQ\'d in either file', -402, '', '316 from the campaign file, 86 from the expansion'])
+r = line(r, ['NET-NEW', 1353, '', 'the count on the ADD TO TARGET LIST sheet'], True, GREEN)
+r = line(r, ['plus: master v3 Nurture', 138, '', 'you asked for these back'], False, AMBER)
+r = line(r, ['TOTAL TO ADD', 1491, '', ''], True, GREEN)
+for i, w in enumerate([40, 16, 16, 96], 1):
+    ws.column_dimensions[get_column_letter(i)].width = w
+wb.save(OUT)
+print('reconciliation sheet added')
