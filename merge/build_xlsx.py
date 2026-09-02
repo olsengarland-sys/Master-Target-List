@@ -85,18 +85,18 @@ notes = [
  ('What is in this workbook', None),
  ('', None),
  ('One sheet, "ADD TO TARGET LIST", with everything to append to master v3:', None),
- ('  A. NET-NEW (1,353) - present in the later files, absent from master v3 entirely.', None),
+ ('  A. NET-NEW (726) - survived every validation pass, absent from master v3 entirely.', None),
  ('  B. NURTURE (138) - already in master v3 but parked below the EBITDA floor; you asked for these back.', None),
  ('', None),
  ('Companies removed as DQ in the later files were excluded (402 domains). They were dropped deliberately.', None),
  ('', None),
  ('Contact data from the enrichment run is joined on where we have it:', None),
- ('  425 of these carry an owner MOBILE, 751 an email, 834 a mailable postal address.', None),
+ ('  See the counts printed when this was built.', None),
  ('', None),
- ('CAUTION on the net-new rows', None),
- ('726 of the 1,353 were validated and campaign-filed. The other 627 come only from the Grata Expansion', None),
- ('and were never validated against the thesis - treat those as leads to screen, not qualified targets.', None),
- ('Rows marked in the "Verify first" column carry a QC flag (wrong-entity match, non-US contact, or a bad domain).', None),
+ ('All 726 net-new rows are validated', True),
+ ('Every one appears on a campaign sheet in the 1 September file, having survived both the', None),
+ ('31 August Campaign Assignment pass and the 1 September validation. There is no unscreened tail.', None),
+ ('Rows marked in the "Verify first" column carry a QC flag from the contact enrichment (wrong-entity match, non-US contact, or a bad domain).', None),
 ]
 ws.cell(row=1, column=1, value='Hunter Power - companies to add to Master Target List v3').font = Font(bold=True, size=14)
 r = 3
@@ -171,36 +171,40 @@ r = line(r, ['DIFFERENCE', 62, 62,
              'appears in the later files, so nothing here was double-counted - but if you rebuild '
              'a master, take the union of the sheets, not the "All 1922" tab.'], True, AMBER)
 r += 1
-r = line(r, ['THE TWO 1 SEPTEMBER CAMPAIGN FILES', 'Unique domains', '', 'Note'], True, HDR)
+r = line(r, ['THE EXPANSION CHAIN (six files, in order)', 'Companies', '', 'Note'], True, HDR)
 for i in range(1, 5): ws.cell(row=r-1, column=i).font = HF
-r = line(r, ['Validated Campaigns', 729, '', '10 campaign sheets, no duplication'])
-r = line(r, ['New Targets for Campaigns', 867, '', '11 campaign sheets + a "NEW additions" tab'])
-r = line(r, ['In Validated but NOT in New Targets', 0, '', 'Validated is a strict SUBSET'], True, GREEN)
-r = line(r, ['In New Targets but NOT in Validated', 138, '', 'exactly the master Nurture releases'], True, GREEN)
-r = line(r, ['CONCLUSION', '', '',
-             'New Targets for Campaigns SUPERSEDES Validated Campaigns completely. Work from '
-             'New Targets alone.'], True, GREEN)
+r = line(r, ['1. Grata Expansion (31 Aug)', 1755, '', 'raw candidate pool - a search result, NOT a verdict'])
+r = line(r, ['2. Reassessment (31 Aug)', 1755, '', 'every candidate re-bucketed and re-prioritised'])
+r = line(r, ['3. Campaign Assignment (31 Aug)', 1755, '',
+             'adjudicated all 1,755: 832 campaign-assigned + 212 Nurture + 711 DQ'], True)
+r = line(r, ['4. Validated Campaigns (1 Sep)', 1045, '',
+             'took the 1,044 non-DQ rows and kept 729, DQd 316'])
+r = line(r, ['5. New Targets (1 Sep)', 867, '', '729 + 138 released from master v3 Nurture'], True, GREEN)
+r = line(r, ['6. Master Target List v3 (25 Aug)', 1922, '', 'the base everything is measured against'])
+r += 1
+r = line(r, ['Validated is a subset of New Targets', 0, '',
+             'companies in Validated but not New Targets: none. New Targets SUPERSEDES it.'], True, GREEN)
 r = line(r, ['Caution when summing tabs', 1005, 867,
-             'New Targets tabs sum to 1,005 but hold 867 companies: the "NEW additions (138)" tab '
-             'repeats rows that also sit on the campaign tabs. Do not add the tabs together.'], False, AMBER)
+             'New Targets tabs sum to 1,005 but hold 867: the "NEW additions (138)" tab repeats rows '
+             'that also sit on the campaign tabs. Do not add the tabs together.'], False, AMBER)
 r += 1
-r = line(r, ['GRATA EXPANSION (31 Aug)', 'Unique domains', '', 'Note'], True, HDR)
+r = line(r, ['HOW 726 NET-NEW IS ARRIVED AT', 'Companies', '', 'Note'], True, HDR)
 for i in range(1, 5): ws.cell(row=r-1, column=i).font = HF
-r = line(r, ['Wave 1 bucket tabs T1-S10', 317, '', 'keyword-led search'])
-r = line(r, ['Wave 2 + Wave 3 tabs', 1438, '', 'no overlap with the bucket tabs'])
-r = line(r, ['All candidates', 1755, '', ''], True)
-r = line(r, ['DQ candidates', 86, '', 'excluded'])
-r += 1
-r = line(r, ['HOW 1,353 NET-NEW IS ARRIVED AT', 'Companies', '', 'Note'], True, HDR)
-for i in range(1, 5): ws.cell(row=r-1, column=i).font = HF
-r = line(r, ['Campaign file (all campaign tabs)', 867, '', ''])
-r = line(r, ['Grata Expansion (all candidate tabs)', 1755, '', ''])
-r = line(r, ['Union of the two', 1893, '', 'they overlap by 729 - the whole campaign set came from the expansion'])
-r = line(r, ['less: already in master v3', -138, '', 'exactly the Nurture releases; nothing else was already known'])
-r = line(r, ['less: DQ\'d in either file', -402, '', '316 from the campaign file, 86 from the expansion'])
-r = line(r, ['NET-NEW', 1353, '', 'the count on the ADD TO TARGET LIST sheet'], True, GREEN)
+r = line(r, ['Campaign + Nurture sheets, all files', 1893, '', 'every company any pass placed on a live list'])
+r = line(r, ['less: DQd somewhere in the chain', -1029, '',
+             '711 at Campaign Assignment, 316 at validation, 86 in the expansion itself'])
+r = line(r, ['less: already in master v3', -138, '', 'exactly the Nurture releases; nothing else was known'])
+r = line(r, ['NET-NEW', 726, '', 'all validated - every one sits on a 1 Sep campaign sheet'], True, GREEN)
 r = line(r, ['plus: master v3 Nurture', 138, '', 'you asked for these back'], False, AMBER)
-r = line(r, ['TOTAL TO ADD', 1491, '', ''], True, GREEN)
+r = line(r, ['TOTAL TO ADD', 864, '', ''], True, GREEN)
+r += 1
+r = line(r, ['CORRECTION', '', '',
+             'An earlier version of this file said 1,353 net-new, of which 627 were "never validated". '
+             'That was wrong. It was built before the Campaign Assignment file was available, so the '
+             '711 companies that pass DQd on 31 August looked unassessed. All 627 sit on that DQ '
+             'sheet - they were examined and rejected, not overlooked. Reading the raw expansion tabs '
+             'as targets is the error: they are a search result, not a verdict.'], True, AMBER)
+
 for i, w in enumerate([40, 16, 16, 96], 1):
     ws.column_dimensions[get_column_letter(i)].width = w
 wb.save(OUT)

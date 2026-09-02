@@ -16,6 +16,7 @@ U = '/root/.claude/uploads/cdc2f6cb-7804-5be0-bfc8-f894363d3735/'
 MASTER = U + 'cee59e13-Hunter_Power_Master_Target_List_20260825_v3.xlsx'
 NEWT   = U + 'd2024f6e-Hunter_Power_New_Targets_for_Campaigns_20260901.xlsx'
 VALID  = U + '6500def4-Hunter_Power_Validated_Campaigns_20260901.xlsx'
+CAMPASN= U + 'a9cb6c9e-Hunter_Power_Campaign_Assignment_20260831.xlsx'
 GRATA  = U + '48c5eb96-Hunter_Power_Grata_Expansion_20260831.xlsx'
 
 def norm(d):
@@ -63,6 +64,13 @@ for path, sheet, hr in [(NEWT, 'Remove - DQ', 2), (VALID, 'Remove - DQ', 2)]:
             d = norm(r[idx[key]])
             if d:
                 dq.add(d)
+for r, idx in rows(CAMPASN, 'DQ', 4):
+    for k in ('Domain', 'Website'):
+        if k in idx:
+            d = norm(r[idx[k]])
+            if d:
+                dq.add(d)
+            break
 for r, idx in rows(GRATA, 'DQ candidates', 4):
     for k in ('Domain', 'domain'):
         if k in idx:
@@ -108,7 +116,28 @@ for path, label in [(NEWT, 'New Targets for Campaigns (1 Sep)'), (VALID, 'Valida
                 'contact_email': g('Contact email'), 'size_read': g('Size read'),
             })
 
-for sh in GRATA_SHEETS:
+# The Grata Expansion tabs are the raw candidate pool, not a verdict. Every one
+# of those 1,755 was adjudicated by Campaign Assignment on 31 Aug, so a row is
+# only a live target if it also appears on a campaign or Nurture sheet
+# somewhere. Reading the expansion tabs as targets treats 711 rejected
+# companies as new.
+CA_SHEETS = ['Testing & Commissioning','Electrical Apparatus Servicing','Utility Line & Substation',
+             'Commercial & Industrial Ctrs','Mission critical power','Motor & Generator Companies',
+             'Traffic Signals & Lighting','EV Charging','Lightning Protection',
+             'Electrical Equipment Mfg','Power Systems Engineering','Nurture']
+for sh in CA_SHEETS:
+    for r, idx in rows(CAMPASN, sh, 4):
+        g = lambda k: r[idx[k]] if k in idx else None
+        add(norm(g('Domain') or g('Website')), {
+            'source': 'Campaign Assignment (31 Aug)', 'company': g('Company'), 'hq': g('HQ'),
+            'bucket': g('Bucket') or g('Reassessed bucket'), 'campaign': sh,
+            'priority': g('Priority') or g('Reassessed priority'),
+            'employees': g('Employee est.'), 'revenue': g('Revenue est.'),
+            'founded': g('Year founded'), 'ownership': g('Ownership'),
+            'description': g('Description'), 'contact': None, 'contact_title': None,
+            'contact_email': None, 'size_read': None})
+
+for sh in []:
     for r, idx in rows(GRATA, sh, 4):
         g = lambda k: r[idx[k]] if k in idx else None
         add(norm(g('Domain')), {
