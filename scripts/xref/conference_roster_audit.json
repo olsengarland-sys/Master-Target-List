@@ -1,0 +1,1129 @@
+{
+ "generated": "2026-09-01",
+ "purpose": "Prior-edition (and current-2026) roster audit for the forward conference shortlist: who was actually in the room, and is the future edition worth the client's time for meeting owners of $5-50M US electrical-infrastructure service businesses.",
+ "method": [
+  "Rosters pulled in full via free get_companies_in_list (page_size=100). Grata returns full detail only for the first 5 rows per page; all other rows are name+domain stubs, so classification is name/domain-driven analyst judgment (rule 1 applied: classify by what the company IS).",
+  "Categories: TARGET-PROFILE = US private electrical/power SERVICE company plausibly in/near $5-50M (oversized US service firms, PE platforms, foreign shops -> OTHER); ALREADY-KNOWN = domain in scripts/xref/known_keys.json dkeys (checked first, takes precedence); VENDOR/OEM/DISTRIBUTOR = sells product/software/insurance/staffing TO the trade; CUSTOMER-SIDE = utilities, co-ops, munis, gov, schools, ISOs, IPPs.",
+  "NET-NEW = target-profile domains in none of our lists (known_keys dkeys + conf_targets p2/all_candidates/master). Per-event display capped at 12; totals count all.",
+  "A hard deep-page block (HTTP 403) now sits at row 500 on every list: NECA LV 2026 (500/532), POWERGEN 2024 (500/595), IEEE PES T&D 2024 (500/1154), Utility Expo 2025 (500/1074) are truncated large-company-first, so small-company/target shares are understated on those events.",
+  "For the three sampled mega-rosters (POWERGEN, IEEE, Utility Expo) composition uses explicit t/c/o classification plus vendor-by-default for the unclassified remainder; already_known there is a lower bound (only classified rows were checked)."
+ ],
+ "events": [
+  {
+   "future_event": "Electro-Mechanical Authority (EASA) Convention & Solutions Expo 2027 (99H3YQHL)",
+   "prior_edition": "EASA 2026, Orlando (TFVUM5C3, 336 companies)",
+   "roster_size": 336,
+   "composition": {
+    "target_profile": 54,
+    "already_known": 47,
+    "vendor_oem": 138,
+    "customer_side": 3,
+    "other": 94
+   },
+   "net_new_targets": [
+    {
+     "name": "rockitmotors.com",
+     "domain": "rockitmotors.com",
+     "why": "US electrical/power services company classified target-profile from roster"
+    },
+    {
+     "name": "Malloy Electric",
+     "domain": "malloyelectric.com",
+     "why": "Sioux Falls SD motor sales/repair + field service (T2)"
+    },
+    {
+     "name": "Jay Industrial Repair",
+     "domain": "jayindustrial.com",
+     "why": "Birmingham AL industrial motor/electro-mechanical repair (T2/S7)"
+    },
+    {
+     "name": "Hupp Electric Motors",
+     "domain": "hupp-electric.com",
+     "why": "Cedar Rapids IA motor repair/rewind shop (T2), also at POWERGEN"
+    },
+    {
+     "name": "Dykman Electrical",
+     "domain": "dykman.com",
+     "why": "Boise ID motor & drive sales/service (T2)"
+    },
+    {
+     "name": "pecoil.com",
+     "domain": "pecoil.com",
+     "why": "US electrical/power services company classified target-profile from roster"
+    },
+    {
+     "name": "Red Stick Armature Works",
+     "domain": "rsaworks.com",
+     "why": "Baton Rouge LA electric motor/armature repair shop (T2)"
+    },
+    {
+     "name": "babbitting.com",
+     "domain": "babbitting.com",
+     "why": "US electrical/power services company classified target-profile from roster"
+    },
+    {
+     "name": "Soles Electric Co.",
+     "domain": "soleselectric.com",
+     "why": "WV industrial motor repair shop (T2)"
+    },
+    {
+     "name": "Warwood Armature Repair",
+     "domain": "warwoodarmature.com",
+     "why": "WV motor/armature rewind shop (T2)"
+    },
+    {
+     "name": "Lubbock Electric Co.",
+     "domain": "lubbockelectric.com",
+     "why": "TX motor/apparatus repair and field service shop (T2 core), EASA exhibitor"
+    },
+    {
+     "name": "bmindustrial.com",
+     "domain": "bmindustrial.com",
+     "why": "US electrical/power services company classified target-profile from roster"
+    }
+   ],
+   "net_new_count": 54,
+   "verdict": "STRONG GO",
+   "rationale": "This is the client's single best room. Roughly a quarter of the prior-edition roster is exactly the seller demographic - US private electric motor / apparatus repair shops in or near the $5-50M box - and ~13% of the roster is already in our own pipeline (28 P2s plus master-list names walked this floor). The vendor share (coil suppliers, insulation, bearings, test equipment) sells TO these shops, which confirms the attendee side is owners and GMs of T2/S7 businesses. One trip covers a large fraction of the national motor-shop universe.",
+   "caveats": [
+    "Grata roster mixes exhibitors and participants; classification is name/domain-driven (detail fields only on first 5 rows/page).",
+    "~20% of roster is foreign repair shops/OEMs (counted 'other'/'vendor'), not US targets."
+   ]
+  },
+  {
+   "future_event": "Clean Currents 2026, Phoenix (YDV77JYE) - CURRENT roster",
+   "prior_edition": "Current 2026 roster (306 companies; event 2026-09-21)",
+   "roster_size": 306,
+   "composition": {
+    "target_profile": 15,
+    "already_known": 5,
+    "vendor_oem": 128,
+    "customer_side": 40,
+    "other": 118
+   },
+   "net_new_targets": [
+    {
+     "name": "Olsson Industrial Electric",
+     "domain": "olssonelec.com",
+     "why": "Eugene OR industrial electrical contractor serving hydro plants (T4/T5)"
+    },
+    {
+     "name": "Atlas Machine & Supply",
+     "domain": "atlasmachine.com",
+     "why": "Louisville KY machine/motor repair and field machining (S7)"
+    },
+    {
+     "name": "Sequoia Services",
+     "domain": "seqserv.com",
+     "why": "Hydro plant services firm exhibiting at Clean Currents"
+    },
+    {
+     "name": "IMI Industrial Services Group",
+     "domain": "imiindustrialservices.com",
+     "why": "GA industrial electrical/mechanical services (T4)"
+    },
+    {
+     "name": "Hawkeye Electric",
+     "domain": "hawkeyeelectric.com",
+     "why": "IA commercial/industrial electrical contractor (T5)"
+    },
+    {
+     "name": "RMS Energy Co.",
+     "domain": "rmsenergy.com",
+     "why": "Nationwide powerhouse electrical services - bus, breakers, transformers (T1/T4)"
+    },
+    {
+     "name": "UNICO Mechanical",
+     "domain": "unicomechanical.com",
+     "why": "Benicia CA pump/turbine mechanical repair for hydro (S7 adj.)"
+    },
+    {
+     "name": "In-Place Machining Co.",
+     "domain": "inplace.com",
+     "why": "Milwaukee on-site precision field machining for powerhouses (S7 adj.)"
+    },
+    {
+     "name": "Pioneer Motor Bearing",
+     "domain": "pioneer1.com",
+     "why": "US babbitt/journal bearing repair for generators (S7 niche)"
+    },
+    {
+     "name": "American Babbitt Bearing",
+     "domain": "americanbabbitt.com",
+     "why": "WV babbitt bearing repair for rotating apparatus (S7 niche)"
+    },
+    {
+     "name": "A&G Industrial Services",
+     "domain": "aandgindustrial.com",
+     "why": "GA industrial maintenance/electro-mechanical services (T4)"
+    },
+    {
+     "name": "Lemke Industrial Machine",
+     "domain": "lemkeindustrial.com",
+     "why": "WI large-machine repair supporting hydro (S7 adj.)"
+    }
+   ],
+   "net_new_count": 15,
+   "verdict": "WORTH IT",
+   "rationale": "Hydropower O&M show whose services aisle is a genuine S7/T2 adjacency: four P2s exhibit (L&S Electric, TurbinePROs, Jenkins Electric, Sidewinders) and the roster yields ~15 net-new US electro-mechanical service shops (generator rewind, babbitt bearing, field machining, powerhouse electrical). The majority is still turbine OEMs, EPCs and utility owners, so treat it as a focused day of pre-booked meetings with the apparatus-services minority, not open prospecting.",
+   "caveats": [
+    "Sector is hydropower-specific; per rule 1, attendance corroborates but buckets must come from each company's own description.",
+    "Utility/gov share (~19%) is customer-side networking only."
+   ]
+  },
+  {
+   "future_event": "NRECA PowerXchange 2027, Nashville (ZMY8M97J)",
+   "prior_edition": "NRECA PowerXchange 2026, Nashville (8VNSQJ68, 490 companies)",
+   "roster_size": 490,
+   "composition": {
+    "target_profile": 21,
+    "already_known": 14,
+    "vendor_oem": 318,
+    "customer_side": 32,
+    "other": 105
+   },
+   "net_new_targets": [
+    {
+     "name": "Bird Electric Enterprises",
+     "domain": "birdelectricinc.com",
+     "why": "TX utility/industrial electric contractor (T3/T4)"
+    },
+    {
+     "name": "F&H Electrical Contractors",
+     "domain": "fandhcontractors.com",
+     "why": "Utility electrical contractor at co-op + FMEA events (T3)"
+    },
+    {
+     "name": "Finley Engineering",
+     "domain": "finleyusa.com",
+     "why": "Power/telecom engineering for co-ops (T3)"
+    },
+    {
+     "name": "Lecom Utility Contractors",
+     "domain": "lecomutility.com",
+     "why": "MI powerline/utility contractor (T3)"
+    },
+    {
+     "name": "Toth and Associates",
+     "domain": "tothassociates.com",
+     "why": "Utility engineering firm at box edge (~$51M, bootstrapped)"
+    },
+    {
+     "name": "Power System Engineering",
+     "domain": "powersystem.org",
+     "why": "Co-op utility engineering/consulting (T3 services)"
+    },
+    {
+     "name": "Wolf Line Construction",
+     "domain": "wolflineconst.com",
+     "why": "Line construction contractor (T3)"
+    },
+    {
+     "name": "Thayer Power & Communication",
+     "domain": "thayerpc.com",
+     "why": "Power/fiber line construction (T3; note PE platform)"
+    },
+    {
+     "name": "Transformer Maintenance & Service",
+     "domain": "transmaint.com",
+     "why": "Transformer field maintenance/testing for co-ops (T1/S7)"
+    },
+    {
+     "name": "Allgeier, Martin & Associates",
+     "domain": "amce.com",
+     "why": "MO co-op utility engineering firm (T3 services)"
+    },
+    {
+     "name": "EMPACT Engineering",
+     "domain": "empactengineering.com",
+     "why": "Utility engineering services (T3)"
+    },
+    {
+     "name": "Palmetto Engineering & Consulting",
+     "domain": "palmettoeng.com",
+     "why": "SC utility/broadband engineering (T3 services)"
+    }
+   ],
+   "net_new_count": 21,
+   "verdict": "WORTH IT",
+   "rationale": "A co-op leadership event: ~2/3 of the roster is vendors selling grid hardware/software to co-ops and ~7% is the co-ops themselves (customer-side). The reason to go anyway is the ~6% utility-services contractor slice - the T3 sellers exhibit here to reach co-op buyers, and it includes three P2s (MDR, OneSource, GeoForce) plus masters (Alamon, Infratech, CLP, PraXel) and ~15 net-new line/storm/transformer-service and co-op engineering firms. Attend to work that aisle; skip the co-op programming.",
+   "caveats": [
+    "Full 490-row roster classified.",
+    "Classification is name/domain-driven; co-op supply/software co-ops (NISC, NRTC, RESCO) counted as vendors."
+   ]
+  },
+  {
+   "future_event": "The Expo at PowerXchange and TechAdvantage 2027, Nashville (62T94EWS)",
+   "prior_edition": "Expo at PowerXchange/TechAdvantage 2026 (X5EX4GK7, 387 companies)",
+   "roster_size": 387,
+   "composition": {
+    "target_profile": 17,
+    "already_known": 9,
+    "vendor_oem": 264,
+    "customer_side": 14,
+    "other": 83
+   },
+   "net_new_targets": [
+    {
+     "name": "ElectriCom LLC",
+     "domain": "electricomllc.com",
+     "why": "IN utility/telecom infrastructure contractor (T3)"
+    },
+    {
+     "name": "Bird Electric Enterprises",
+     "domain": "birdelectricinc.com",
+     "why": "TX utility/industrial electric contractor (T3/T4)"
+    },
+    {
+     "name": "Finley Engineering",
+     "domain": "finleyusa.com",
+     "why": "Power/telecom engineering for co-ops (T3)"
+    },
+    {
+     "name": "Lecom Utility Contractors",
+     "domain": "lecomutility.com",
+     "why": "MI powerline/utility contractor (T3)"
+    },
+    {
+     "name": "Toth and Associates",
+     "domain": "tothassociates.com",
+     "why": "Utility engineering firm at box edge (~$51M, bootstrapped)"
+    },
+    {
+     "name": "Power System Engineering",
+     "domain": "powersystem.org",
+     "why": "Co-op utility engineering/consulting (T3 services)"
+    },
+    {
+     "name": "Wolf Line Construction",
+     "domain": "wolflineconst.com",
+     "why": "Line construction contractor (T3)"
+    },
+    {
+     "name": "Thayer Power & Communication",
+     "domain": "thayerpc.com",
+     "why": "Power/fiber line construction (T3; note PE platform)"
+    },
+    {
+     "name": "Allgeier, Martin & Associates",
+     "domain": "amce.com",
+     "why": "MO co-op utility engineering firm (T3 services)"
+    },
+    {
+     "name": "EMPACT Engineering",
+     "domain": "empactengineering.com",
+     "why": "Utility engineering services (T3)"
+    },
+    {
+     "name": "Palmetto Engineering & Consulting",
+     "domain": "palmettoeng.com",
+     "why": "SC utility/broadband engineering (T3 services)"
+    },
+    {
+     "name": "UtiliSource",
+     "domain": "utilisource.us",
+     "why": "Utility services contractor (T3), also at Utility Expo"
+    }
+   ],
+   "net_new_count": 17,
+   "verdict": "SKIP",
+   "rationale": "This is the exhibit floor of the same co-located Nashville week - its roster is a near-subset of the PowerXchange population with the same known names (MDR, OneSource, Alamon, CLP, Infratech, Milsoft) and the same vendor-dominated mix. Attending PowerXchange 2027 already puts the client on this floor; there is no incremental seller population that justifies treating it as a separate event.",
+   "caveats": [
+    "Redundant with NRECA PowerXchange 2027 - SKIP as a separate decision, not as a knock on the floor itself."
+   ]
+  },
+  {
+   "future_event": "Southeastern Electric Exchange Annual Conference & Trade Show 2027, Grapevine (8KYJ3DWM)",
+   "prior_edition": "S.E.E. 2026, Grapevine (SA4DGTGJ, 181 companies)",
+   "roster_size": 181,
+   "composition": {
+    "target_profile": 11,
+    "already_known": 13,
+    "vendor_oem": 64,
+    "customer_side": 15,
+    "other": 78
+   },
+   "net_new_targets": [
+    {
+     "name": "Bird Electric Enterprises",
+     "domain": "birdelectricinc.com",
+     "why": "TX utility/industrial electric contractor (T3/T4)"
+    },
+    {
+     "name": "neiengineering.com",
+     "domain": "neiengineering.com",
+     "why": "US electrical/power services company classified target-profile from roster"
+    },
+    {
+     "name": "ExecuPOWER",
+     "domain": "execupower.com",
+     "why": "Substation/utility power services (T3/T1)"
+    },
+    {
+     "name": "Power Corporation of America",
+     "domain": "pcapower.com",
+     "why": "Southeast utility line contractor (T3)"
+    },
+    {
+     "name": "5 Star Electric",
+     "domain": "5-starelectric.com",
+     "why": "KY powerline electrical contractor (T3)"
+    },
+    {
+     "name": "ECF Engineering Consultants",
+     "domain": "ecfconsultants.com",
+     "why": "Utility engineering boutique (T3)"
+    },
+    {
+     "name": "Tier 1 Utility Design",
+     "domain": "t1utilitydesign.com",
+     "why": "Utility distribution design services (T3)"
+    },
+    {
+     "name": "MC Storm (MidCon)",
+     "domain": "midcon.energy",
+     "why": "Storm response/line services (T3)"
+    },
+    {
+     "name": "Center Phase Energy",
+     "domain": "centerphaseenergy.com",
+     "why": "TX substation testing/commissioning services (T1)"
+    },
+    {
+     "name": "Transmission & Distribution Services",
+     "domain": "tdsleakseal.com",
+     "why": "Transformer leak-seal field services (S7/T1 niche)"
+    },
+    {
+     "name": "Storm Services",
+     "domain": "stormsl.com",
+     "why": "Storm restoration/line services (T3), at NRECA + SEE"
+    }
+   ],
+   "net_new_count": 11,
+   "verdict": "WORTH IT",
+   "rationale": "An investor-owned-utility operations exchange where the T&D services trade shows up to sell to IOUs: ~10% of the prior roster is target-profile substation/line/storm services and utility-engineering boutiques, and the master-list presence is unusually dense (Silvey, Utili-Serve, Fairway, Groves, Substation Engineering Co., Victory Powerline, Infratech - 8 known names on 181 rows). ~11% is the IOU customer side. Good, compact room for the T3/T1 thesis; most of the rest is big EPC/veg-management noise the client can ignore.",
+   "caveats": [
+    "Several target-profile rows are at/above the box top (e.g., Silvey ~$129M) - meeting them is market intel, not acquisition outreach."
+   ]
+  },
+  {
+   "future_event": "NECA Convention & Trade Show Las Vegas 2026 (JQWTSYVS) - CURRENT roster",
+   "prior_edition": "Current 2026 roster (532 companies; event 2026-10-04)",
+   "roster_size": 500,
+   "composition": {
+    "target_profile": 27,
+    "already_known": 11,
+    "vendor_oem": 390,
+    "customer_side": 0,
+    "other": 72
+   },
+   "net_new_targets": [
+    {
+     "name": "Westphal & Co.",
+     "domain": "westphalec.com",
+     "why": "WI electrical contractor near box top (T5)"
+    },
+    {
+     "name": "Electronic Power Design",
+     "domain": "electronicpowerdesign.com",
+     "why": "Houston power systems integration/services (T4/T6)"
+    },
+    {
+     "name": "Electric Plus",
+     "domain": "electricplus.com",
+     "why": "IN electrical contractor (T5)"
+    },
+    {
+     "name": "Quality Electric Inc.",
+     "domain": "qeidaho.com",
+     "why": "Idaho electrical contractor (T5)"
+    },
+    {
+     "name": "Red Top Electric",
+     "domain": "teamredtop.com",
+     "why": "Bay Area electrical contractor (T5)"
+    },
+    {
+     "name": "Hewitt Young Electric",
+     "domain": "hewittyoung.com",
+     "why": "Rochester NY electrical contractor (T5)"
+    },
+    {
+     "name": "Roman Electric Co.",
+     "domain": "romanelectric.com",
+     "why": "Milwaukee commercial electrical/plumbing contractor, ~$35M (T5)"
+    },
+    {
+     "name": "Pro Electric L.C.",
+     "domain": "proelectriclc.com",
+     "why": "Kansas City design-build electrical contractor (T5)"
+    },
+    {
+     "name": "IKM Building Solutions",
+     "domain": "ikmbuildingsolutions.com",
+     "why": "Electrical/building systems contractor (T5)"
+    },
+    {
+     "name": "Unity Electric",
+     "domain": "unityelectric.com",
+     "why": "Commercial electrical contractor (T5)"
+    },
+    {
+     "name": "Citadel Electric Group",
+     "domain": "citadelelectric.com",
+     "why": "Electrical contractor (T5)"
+    },
+    {
+     "name": "Lynnwell Associates",
+     "domain": "lynnwell.com",
+     "why": "Boston electrical contractor (T5)"
+    }
+   ],
+   "net_new_count": 27,
+   "verdict": "WORTH IT",
+   "rationale": "The roster is the exhibitor hall - ~80% tools, wire, lighting, software and insurance sold TO contractors - so the composition understates the event badly: the buyers walking the floor are exactly T5 electrical-contractor owners, and even the exhibitor list carries ~35 US contractors including masters (Shea, Wheeler-family alumni, Group CBS) and net-new mid-size names (Roman Electric ~$35M, Miami Transformers, Hewitt Young, Red Top). Go for the aisles and the NECA-chapter receptions where owners congregate, not for the booths.",
+   "caveats": [
+    "Roster truncated 500/532 (HTTP 403 past row 500; large-company-first sort, so missing rows skew small - target count is understated).",
+    "Exhibitor list, not attendee list: contractor-owner density at the event is far higher than roster composition implies."
+   ]
+  },
+  {
+   "future_event": "SWBFM Trade Show & Conference 2026, Phoenix (BU33WGV5) - CURRENT roster",
+   "prior_edition": "Current 2026 roster (487 companies; event 2026-10-07)",
+   "roster_size": 487,
+   "composition": {
+    "target_profile": 11,
+    "already_known": 2,
+    "vendor_oem": 249,
+    "customer_side": 54,
+    "other": 171
+   },
+   "net_new_targets": [
+    {
+     "name": "ABcom",
+     "domain": "abcomllc.com",
+     "why": "Data center/structured cabling contractor (T6 adj.)"
+    },
+    {
+     "name": "Elontec",
+     "domain": "elontec.com",
+     "why": "Low-voltage/facility technology services (T5 adj.)"
+    },
+    {
+     "name": "Jenco Inc.",
+     "domain": "jencoinc.com",
+     "why": "AZ commercial/industrial electrical contractor ~$55M (PE platform - REVIEW)"
+    },
+    {
+     "name": "Data Link Technology Services",
+     "domain": "dltsaz.com",
+     "why": "AZ low-voltage contractor (T5 adj.)"
+    },
+    {
+     "name": "RTE Energy Solutions",
+     "domain": "rte-es.com",
+     "why": "Energy/electrical services (T5 adj.)"
+    },
+    {
+     "name": "Precision Electric Co.",
+     "domain": "precisionelectric.com",
+     "why": "Commercial electrical contractor (T5)"
+    },
+    {
+     "name": "Nobilite Communications",
+     "domain": "nobilitecom.com",
+     "why": "Communications/electrical contractor (T5 adj.)"
+    },
+    {
+     "name": "Dixie Diesel & Electric",
+     "domain": "dixie-diesel.com",
+     "why": "Generator/diesel-electric service (S8 adj.)"
+    },
+    {
+     "name": "New Phase Electrical",
+     "domain": "newphaseelectrical.com",
+     "why": "AZ electrical contractor (T5)"
+    },
+    {
+     "name": "Power Quality Professionals",
+     "domain": "powerqualityprofessionals.com",
+     "why": "AZ power quality services (T1/T6 adj.)"
+    },
+    {
+     "name": "Power Control AZ",
+     "domain": "powercontrolaz.com",
+     "why": "AZ power/controls services"
+    }
+   ],
+   "net_new_count": 11,
+   "verdict": "SKIP",
+   "rationale": "This is a facilities-management community: schools, cities, hospitals and corporate facility owners (customer-side and 'other') being sold janitorial, roofing, paving and HVAC. Electrical is a rounding error - Canyon State Electric (P2) plus ~11 small AZ electrical/low-voltage names, several residential-leaning or PE-owned. Nothing here justifies a booth or a trip for a national electrical-services search; harvest the handful of AZ names from the roster and move on.",
+   "caveats": [
+    "Roster is attendee+exhibitor mix for an FM audience; o/v split is judgment-based for ~200 corporate/nonprofit rows.",
+    "Jenco (AZ electrical, ~$55M) is a PE platform - REVIEW flag under rule 6, not a clean P2."
+   ]
+  },
+  {
+   "future_event": "PEARL Conference & Exhibition 2027, Cleveland (BQZPKELW)",
+   "prior_edition": "PEARL 2026, Cleveland (LYRUD3X6, 28 companies)",
+   "roster_size": 28,
+   "composition": {
+    "target_profile": 5,
+    "already_known": 6,
+    "vendor_oem": 11,
+    "customer_side": 0,
+    "other": 6
+   },
+   "net_new_targets": [
+    {
+     "name": "Premier Power Maintenance",
+     "domain": "premierpower.us",
+     "why": "IN NETA-style electrical testing/maintenance firm (T1)"
+    },
+    {
+     "name": "Bay Power",
+     "domain": "baypower.com",
+     "why": "Recon breakers/switchgear supply + service (PEARL trade)"
+    },
+    {
+     "name": "CORE Transformers",
+     "domain": "coretransformers.com",
+     "why": "Transformer reconditioning (S7-type)"
+    },
+    {
+     "name": "National Power Equipment",
+     "domain": "npeinc.com",
+     "why": "Recon power equipment dealer/services (PEARL trade)"
+    },
+    {
+     "name": "RS Breakers & Controls",
+     "domain": "rsbreakers.com",
+     "why": "Recon breaker/controls supplier (PEARL trade)"
+    }
+   ],
+   "net_new_count": 5,
+   "verdict": "STRONG GO",
+   "rationale": "Tiny room, highest hit-rate: of 28 prior-edition companies, a third are the electrical-apparatus reconditioning trade itself (Instel - P2, Group CBS, CBI One, North American Switchgear, Quality Switchgear - all ours already; plus net-new Premier Power Maintenance, Bay Power, CORE Transformers, National Power Equipment, RS Breakers). Two days at PEARL puts the client in front of essentially every independent recon/switchgear-services owner that matters, at minimal cost. Highest target density per attendee of any event audited.",
+   "caveats": [
+    "Very small event - book meetings in advance; the trade association dinner matters more than the exhibit floor.",
+    "Several recon 'dealers' blur product vs service; per rule 1 classify each from its own description before outreach."
+   ]
+  },
+  {
+   "future_event": "NECA Chicago 2026 (R8RXZY47)",
+   "prior_edition": "NECA Chicago 2025 (J9R447N9, 409 companies)",
+   "roster_size": 409,
+   "composition": {
+    "target_profile": 24,
+    "already_known": 8,
+    "vendor_oem": 310,
+    "customer_side": 0,
+    "other": 67
+   },
+   "net_new_targets": [
+    {
+     "name": "Westphal & Co.",
+     "domain": "westphalec.com",
+     "why": "WI electrical contractor near box top (T5)"
+    },
+    {
+     "name": "Electronic Power Design",
+     "domain": "electronicpowerdesign.com",
+     "why": "Houston power systems integration/services (T4/T6)"
+    },
+    {
+     "name": "Heim Company",
+     "domain": "edwinlheim.com",
+     "why": "PA electrical contractor (T5)"
+    },
+    {
+     "name": "Quality Electric Inc.",
+     "domain": "qeidaho.com",
+     "why": "Idaho electrical contractor (T5)"
+    },
+    {
+     "name": "Skyline Electric Co.",
+     "domain": "skyline.us",
+     "why": "UT electrical contractor (T5)"
+    },
+    {
+     "name": "Sidney Electric",
+     "domain": "sidneyelectric.com",
+     "why": "OH electrical contractor (T5)"
+    },
+    {
+     "name": "T&R Communications",
+     "domain": "trcomm.com",
+     "why": "Low-voltage contractor (T5 adj.)"
+    },
+    {
+     "name": "Pro Electric L.C.",
+     "domain": "proelectriclc.com",
+     "why": "Kansas City design-build electrical contractor (T5)"
+    },
+    {
+     "name": "Dagostino Electronic Services",
+     "domain": "descomm.com",
+     "why": "Pittsburgh low-voltage/communications contractor (T5 adj.)"
+    },
+    {
+     "name": "F.D. Hayes Electric",
+     "domain": "fdhayes.com",
+     "why": "Lansing MI electrical contractor (T5)"
+    },
+    {
+     "name": "Shawver & Son",
+     "domain": "shawver.net",
+     "why": "OK electrical contractor (T5)"
+    },
+    {
+     "name": "Fairchild Communication Systems",
+     "domain": "fairchildcommunications.com",
+     "why": "IN low-voltage contractor (T5 adj.)"
+    }
+   ],
+   "net_new_count": 24,
+   "verdict": "WORTH IT",
+   "rationale": "Same NECA logic as Las Vegas: the 2025 Chicago roster is ~75% vendor/software/tool exhibitors, but ~7% are US electrical and low-voltage contractors in or near the box (Westphal, Heim, Quality Electric, F.D. Hayes, Shawver, Advanced Electrical & Motor Controls, plus masters Long Electric, Shea, MVA, Wheeler and P2 G&S Technologies). The attendee side is contractor ownership. If the client attends one NECA in 2026, pick Las Vegas (bigger roster, closer date); Chicago is the fallback.",
+   "caveats": [
+    "Exhibitor-slanted roster; owner density among attendees not visible in Grata.",
+    "Choose ONE NECA per year - LV 2026 and Chicago 2026 are a month apart."
+   ]
+  },
+  {
+   "future_event": "NECA Convention & Trade Show Las Vegas 2027 (SMEME7VD)",
+   "prior_edition": "NECA family evidence: LV 2026 roster (532) + Chicago 2025 roster (409)",
+   "roster_size": 0,
+   "composition": null,
+   "net_new_targets": [],
+   "verdict": "WORTH IT",
+   "rationale": "No 2027 roster yet. Family evidence (LV 2026, Chicago 2025) says every NECA edition carries a ~6-8% slice of box-sized contractor exhibitors and an attendee floor of T5 owners. Hold the same 'attend one NECA per year' plan for 2027 and re-pull the roster ~3 months out.",
+   "caveats": [
+    "Roster not yet populated in Grata; verdict inherited from the two audited family editions."
+   ]
+  },
+  {
+   "future_event": "FMEA Conference 2027, Palm Beach (NN5QQ8A4)",
+   "prior_edition": "FMEA 2026, Palm Beach (QUA2T9TM, 60 companies)",
+   "roster_size": 60,
+   "composition": {
+    "target_profile": 7,
+    "already_known": 4,
+    "vendor_oem": 15,
+    "customer_side": 11,
+    "other": 23
+   },
+   "net_new_targets": [
+    {
+     "name": "Bird Electric Enterprises",
+     "domain": "birdelectricinc.com",
+     "why": "TX utility/industrial electric contractor (T3/T4)"
+    },
+    {
+     "name": "F&H Electrical Contractors",
+     "domain": "fandhcontractors.com",
+     "why": "Utility electrical contractor at co-op + FMEA events (T3)"
+    },
+    {
+     "name": "Power Pros Powerline Solutions",
+     "domain": "powerprospowerlines.com",
+     "why": "FL powerline contractor (T3)"
+    },
+    {
+     "name": "Center Phase Energy",
+     "domain": "centerphaseenergy.com",
+     "why": "TX substation testing/commissioning services (T1)"
+    },
+    {
+     "name": "VancoreJones Communications",
+     "domain": "vancorejones.com",
+     "why": "FL utility communications/ITS contractor (T3/S-adj)"
+    },
+    {
+     "name": "Bailey & Bailey Power Distribution",
+     "domain": "baileybaileypower.com",
+     "why": "FL power distribution contractor (T3)"
+    },
+    {
+     "name": "Premium Utility Contractor",
+     "domain": "premiumutilitycontractor.com",
+     "why": "FL utility contractor (T3)"
+    }
+   ],
+   "net_new_count": 7,
+   "verdict": "WORTH IT",
+   "rationale": "Small Florida municipal-power room with an outsized seller slice: ~18% of the prior roster is target-profile utility-services contractors, including P2 Powerserve Technologies, candidate Group CBS and masters PraXel and Vision Utilities, plus net-new FL line/storm/distribution contractors (Power Pros, Bailey & Bailey, Premium Utility, VancoreJones). ~18% is the muni customer side. Cheap, regional, and the contractors who serve FL munis all show up - a good complement to S.E.E. for the utility-services thesis.",
+   "caveats": [
+    "Florida-regional only; banks/law/consulting fill much of the vendor count.",
+    "Classification name/domain-driven."
+   ]
+  },
+  {
+   "future_event": "Advancing Electrical Prefabrication 2027, Dallas (5WVJ3NU6)",
+   "prior_edition": "Advancing Electrical Prefabrication 2026, Dallas (68UGYVJW, 68 companies)",
+   "roster_size": 68,
+   "composition": {
+    "target_profile": 12,
+    "already_known": 3,
+    "vendor_oem": 29,
+    "customer_side": 0,
+    "other": 24
+   },
+   "net_new_targets": [
+    {
+     "name": "Briggs Electric",
+     "domain": "briggselectric.com",
+     "why": "Mid-size electrical contractor at prefab event (T5)"
+    },
+    {
+     "name": "CarolinaPower",
+     "domain": "carolinapower.com",
+     "why": "NC industrial electrical contractor (T4/T5)"
+    },
+    {
+     "name": "Piquette & Howard Electric",
+     "domain": "phelectricalcontractor.com",
+     "why": "MA electrical contractor (T5)"
+    },
+    {
+     "name": "Staff Electric",
+     "domain": "staffelectric.com",
+     "why": "WI electrical contractor (T5)"
+    },
+    {
+     "name": "Ready Electric",
+     "domain": "readyelec.com",
+     "why": "Louisville KY electrical contractor (T5)"
+    },
+    {
+     "name": "RJP Electric",
+     "domain": "rjpelectric.com",
+     "why": "CT electrical contractor (T5)"
+    },
+    {
+     "name": "Enterprise Electrical",
+     "domain": "enterpriseelectricalco.com",
+     "why": "Nashville electrical contractor (T5)"
+    },
+    {
+     "name": "Slifco Electric",
+     "domain": "slifcoelectric.com",
+     "why": "MI electrical contractor (T5)"
+    },
+    {
+     "name": "Enterprise Electric",
+     "domain": "enterprise-electric.net",
+     "why": "Electrical contractor (T5)"
+    },
+    {
+     "name": "Central Conduit",
+     "domain": "centralconduit.com",
+     "why": "Underground conduit/electrical contractor (T3/T5)"
+    },
+    {
+     "name": "Allstar Electrical Contractors",
+     "domain": "allstar-electric.org",
+     "why": "CO electrical contractor (T5)"
+    },
+    {
+     "name": "EPI Power",
+     "domain": "epipower.com",
+     "why": "Electrical power services (T4)"
+    }
+   ],
+   "net_new_count": 12,
+   "verdict": "WORTH IT",
+   "rationale": "Attendee list is almost all electrical contractors - the rare event where the roster IS the T5 demographic rather than its vendors. Most named firms are above the box (Rosendin, Cupertino, Berg, Power Design), but ~22% are mid-size US contractors (Briggs, CarolinaPower, Piquette & Howard, Ready Electric, RJP, Slifco, Staff Electric) plus P2 Canyon State and master Winward. Prefab-conference attendees skew operationally ambitious owners - exactly who an owner-operator buyer wants to meet. Small, cheap, high conversation quality.",
+   "caveats": [
+    "Large-contractor skew: the marquee names are not acquirable; value is the mid-size third and referrals.",
+    "68-company roster - book meetings in advance."
+   ]
+  },
+  {
+   "future_event": "iP Utility Safety Conference & Expo 2026, Glendale AZ (JWMA34XG) - CURRENT roster",
+   "prior_edition": "Current 2026 roster (95 companies; event 2026-11-03)",
+   "roster_size": 95,
+   "composition": {
+    "target_profile": 1,
+    "already_known": 4,
+    "vendor_oem": 68,
+    "customer_side": 2,
+    "other": 20
+   },
+   "net_new_targets": [
+    {
+     "name": "cbsarcsafe.com",
+     "domain": "cbsarcsafe.com",
+     "why": "US electrical/power services company classified target-profile from roster"
+    }
+   ],
+   "net_new_count": 1,
+   "verdict": "SKIP",
+   "rationale": "A safety-products-and-training expo: ~80% PPE, tools and training vendors selling to utility crews. The service names present (FirstPower, Victory Powerline - both ours; CBS ArcSafe of the Group CBS family) are already in the pipeline, and net-new target yield is ~1. The client's time is better spent at S.E.E./FMEA where the same contractor community appears in commercial rather than safety-officer roles.",
+   "caveats": [
+    "Attendees are safety managers, not owners - wrong seat at the table for M&A conversations."
+   ]
+  },
+  {
+   "future_event": "The Utility Expo 2026, Louisville (A3RPM49W) - 2026 roster empty",
+   "prior_edition": "The Utility Expo 2025, Louisville (NJDQK3HM, 1,074 companies; 500 sampled)",
+   "roster_size": 500,
+   "composition": {
+    "target_profile": 4,
+    "already_known": 2,
+    "vendor_oem": 450,
+    "customer_side": 4,
+    "other": 40
+   },
+   "net_new_targets": [
+    {
+     "name": "EGW Utilities",
+     "domain": "egwusa.com",
+     "why": "TX utility construction contractor (T3)"
+    },
+    {
+     "name": "Faith Electric",
+     "domain": "faithelectricllc.com",
+     "why": "Electrical/utility contractor (T3/T5)"
+    },
+    {
+     "name": "JDH Contracting",
+     "domain": "jdhcontracting.com",
+     "why": "IN utility infrastructure contractor (T3)"
+    },
+    {
+     "name": "UtiliSource",
+     "domain": "utilisource.us",
+     "why": "Utility services contractor (T3), also at Utility Expo"
+    }
+   ],
+   "net_new_count": 4,
+   "verdict": "SKIP",
+   "rationale": "An equipment mega-show (AEM): the sampled roster is ~93% truck bodies, diggers, tools and fleet tech sold to utility contractors. Only a handful of exhibitors are the contractors themselves (Northline Utilities, EGW, JDH, Faith Electric; PraXel and UtiliSource already known). The 18,000+ walk-in attendees ARE utility-contractor field leadership, but that population is invisible in the roster and hard to prospect on a 30-acre lot. Skip as a sourcing trip; keep only if the client is nearby and wants market color.",
+   "caveats": [
+    "Prior-edition roster sampled 500/1,074 (deep-page 403 at row 500; large-first sort).",
+    "Composition computed on the 500-row sample; already-known is a lower bound (checked only against classified/spotted rows)."
+   ]
+  },
+  {
+   "future_event": "International Lineman's Rodeo & Expo 2026, Overland Park (779ZH67X) - CURRENT roster",
+   "prior_edition": "Current 2026 roster (29 companies; event 2026-10-14)",
+   "roster_size": 29,
+   "composition": {
+    "target_profile": 0,
+    "already_known": 2,
+    "vendor_oem": 17,
+    "customer_side": 6,
+    "other": 4
+   },
+   "net_new_targets": [],
+   "net_new_count": 0,
+   "verdict": "SKIP",
+   "rationale": "A lineworker competition: the roster is six big utilities (customer-side) plus climbing-gear and tool vendors. Zero target-profile companies, and the two candidate-pool names the forward build noted do not change the picture. Culture event, not a deal-sourcing room.",
+   "caveats": [
+    "Tiny roster; attendee crews are employees, not owners."
+   ]
+  },
+  {
+   "future_event": "Data Center World POWER 2026, Grapevine (Y9VJAE67) - CURRENT roster",
+   "prior_edition": "Current 2026 roster (31 companies; event 2026-09-21)",
+   "roster_size": 31,
+   "composition": {
+    "target_profile": 0,
+    "already_known": 0,
+    "vendor_oem": 23,
+    "customer_side": 2,
+    "other": 6
+   },
+   "net_new_targets": [],
+   "net_new_count": 0,
+   "verdict": "SKIP",
+   "rationale": "Roster is critical-power OEMs/vendors (transformers, load banks, cabling) plus ERCOT and a data-center developer - no US private critical-power SERVICE firms in the box. The T6 thesis is better served by mining candidate lists than by this small vendor summit. Re-check the roster if it grows before September.",
+   "caveats": [
+    "31 companies only; roster may still populate.",
+    "Watch for T6 service names in later updates per the forward build's note."
+   ]
+  },
+  {
+   "future_event": "Data Center World 2027, Washington DC (GQDMLKE9)",
+   "prior_edition": "No prior-edition roster audited (DCW POWER 2026 is the nearest family evidence: 31 rows, vendor/OEM-dominated)",
+   "roster_size": 0,
+   "composition": null,
+   "net_new_targets": [],
+   "verdict": "SKIP",
+   "rationale": "No roster yet and no prior-edition evidence of seller density; the nearest family data point (DCW POWER 2026) is a vendor summit. Re-pull ~3 months before the event; upgrade only if a critical-power services aisle materializes.",
+   "caveats": [
+    "No roster in Grata (company_count=0); verdict is provisional on family evidence."
+   ]
+  },
+  {
+   "future_event": "POWERGEN International 2027, Salt Lake City (MNRAN3LK)",
+   "prior_edition": "POWERGEN International 2024, New Orleans (4XV736PD, 595 companies; 500 sampled)",
+   "roster_size": 500,
+   "composition": {
+    "target_profile": 9,
+    "already_known": 3,
+    "vendor_oem": 330,
+    "customer_side": 35,
+    "other": 123
+   },
+   "net_new_targets": [
+    {
+     "name": "Hupp Electric Motors",
+     "domain": "hupp-electric.com",
+     "why": "Cedar Rapids IA motor repair/rewind shop (T2), also at POWERGEN"
+    },
+    {
+     "name": "High To Low Voltage",
+     "domain": "hightolowvoltage.com",
+     "why": "Electrical services firm seen at NECA + POWERGEN"
+    },
+    {
+     "name": "RMS Energy Co.",
+     "domain": "rmsenergy.com",
+     "why": "Nationwide powerhouse electrical services - bus, breakers, transformers (T1/T4)"
+    },
+    {
+     "name": "Prime Power Services",
+     "domain": "primepower.com",
+     "why": "GA generator/critical-power service company (T4/S8)"
+    },
+    {
+     "name": "S.T. Cotter Turbine Services",
+     "domain": "stcotterturbine.com",
+     "why": "MN turbine field services (S7 adjacent)"
+    },
+    {
+     "name": "inoLECT",
+     "domain": "inolect.com",
+     "why": "Baton Rouge electrical equipment retrofit/services (T1/T4)"
+    },
+    {
+     "name": "Alfred Conhagen",
+     "domain": "conhagen.com",
+     "why": "Pump/turbine machining & repair services (S7 adj.)"
+    },
+    {
+     "name": "Amarillo Gear Service",
+     "domain": "amarillogearservice.com",
+     "why": "Gearbox repair services (S7 adjacent)"
+    },
+    {
+     "name": "Industrial Diesel Inc.",
+     "domain": "industrialdiesel.net",
+     "why": "Genset/engine service company (S8 adjacent)"
+    }
+   ],
+   "net_new_count": 9,
+   "verdict": "SKIP",
+   "rationale": "Generation-plant supply chain: ~73% vendors/OEMs, ~9% utility/IPP customer-side, ~15% EPC/crane/industrial 'other'. The target slice is ~2% - but it is a GOOD 2%: the sample surfaced 9 net-new US power-services shops (Prime Power Services, S.T. Cotter Turbine, inoLECT, Conhagen, Amarillo Gear Service, Industrial Diesel) plus knowns L&S Electric, Group CBS and Hupp. That argues for mining the roster (done here, free) rather than buying a booth and three days in Salt Lake City.",
+   "caveats": [
+    "Sampled 500/595 (deep-page 403); composition on sample, already-known a lower bound.",
+    "Prior audit saw only 100 rows - this pass quadruples coverage and upgrades the evidence from 'none' to 'thin but real'."
+   ]
+  },
+  {
+   "future_event": "IEEE PES T&D Conference & Exposition 2027, Chicago (2VAK7U4S)",
+   "prior_edition": "IEEE PES T&D 2024, Anaheim (QMXPCQAL, 1,154 companies; 500 sampled)",
+   "roster_size": 500,
+   "composition": {
+    "target_profile": 8,
+    "already_known": 6,
+    "vendor_oem": 279,
+    "customer_side": 56,
+    "other": 151
+   },
+   "net_new_targets": [
+    {
+     "name": "IMCORP",
+     "domain": "imcorp.com",
+     "why": "Power cable diagnostics/testing services (T1 niche)"
+    },
+    {
+     "name": "kVP Energy Services",
+     "domain": "kvpenergy.com",
+     "why": "Utility/substation field services (T1/T3)"
+    },
+    {
+     "name": "KDM Engineering",
+     "domain": "kdmengineering.com",
+     "why": "Chicago utility engineering boutique (T3)"
+    },
+    {
+     "name": "RLC Engineering",
+     "domain": "rlc-eng.com",
+     "why": "Relay/SCADA utility engineering (T1/T3)"
+    },
+    {
+     "name": "ASEC Engineers",
+     "domain": "asec-engineers.com",
+     "why": "Utility engineering boutique (T3)"
+    },
+    {
+     "name": "Haverfield Aviation",
+     "domain": "haverfield.com",
+     "why": "Helicopter powerline services (T3 niche)"
+    },
+    {
+     "name": "neiengineering.com",
+     "domain": "neiengineering.com",
+     "why": "US electrical/power services company classified target-profile from roster"
+    },
+    {
+     "name": "cai-engr.com",
+     "domain": "cai-engr.com",
+     "why": "US electrical/power services company classified target-profile from roster"
+    }
+   ],
+   "net_new_count": 8,
+   "verdict": "SKIP",
+   "rationale": "The grid industry's flagship, but the roster is utilities, ISOs, universities, EPCs and OEM vendors - the buyer-and-supplier universe, not sellers of $5-50M service firms. The 500-row sample still yielded ~12 usable names (Hampton Tedder testing, IMCORP cable diagnostics, utility-engineering boutiques KDM/RLC/ControlPoint/ASEC, heli-line specialist Haverfield; knowns EDM International, ATE Corp, TAPP, Substation Engineering, Commonwealth Associates). As with POWERGEN: mine the list, skip the trip - unless the client wants one grid-market immersion week, in which case this is the one.",
+   "caveats": [
+    "Sampled 500/1,154 (deep-page block at row 500; large-first sort - small-company tail unseen, target share likely understated).",
+    "Universities/labs (~40 rows) drive the 'other' bucket."
+   ]
+  },
+  {
+   "future_event": "CEATI Strategy & Innovation Conference 2026, Fort Lauderdale (75RMJJPN)",
+   "prior_edition": "None identifiable (different CEATI series from the audited T&D 2024 conference)",
+   "roster_size": 0,
+   "composition": null,
+   "net_new_targets": [],
+   "verdict": "SKIP",
+   "rationale": "No roster and no same-series prior edition. The audited sibling (CEATI T&D 2024) showed 1 P2 / 1 master on 163 rows of utility R&D community - customer-side networking. Do not plan travel; re-pull if a roster appears.",
+   "caveats": [
+    "No Grata roster (company_count=0)."
+   ]
+  },
+  {
+   "future_event": "Electric Operations Conference & Expo 2027, Baraboo WI (WFFF7HWT)",
+   "prior_edition": "None in Grata (no prior-edition list indexed)",
+   "roster_size": 0,
+   "composition": null,
+   "net_new_targets": [],
+   "verdict": "SKIP",
+   "rationale": "Wisconsin municipal-utility operations show with no roster and no prior-edition evidence. Plausibly a micro-FMEA for WI munis, but unverifiable today; leave on the re-pull list.",
+   "caveats": [
+    "No Grata roster; incidental find in the forward build."
+   ]
+  }
+ ],
+ "net_new_total": 189,
+ "notes": [
+  "Ranked by seller density (target-profile + already-known share of roster): PEARL 39% of 28 > EASA 30% of 336 > Advancing Electrical Prefab 22% of 68 > FMEA 18% of 60 > S.E.E. 13% of 181 >> NECA editions 7-8% (but the attendee side is the T5 owner universe) > NRECA PowerXchange 7% > Clean Currents 6.5% >> everything else under 3%.",
+  "The Expo at PowerXchange 2027 is the same Nashville week as PowerXchange 2027 - budget it as ONE event.",
+  "Utility Expo 2026 prior edition resolved via 1 search_conferences call: The Utility Expo 2025 = NJDQK3HM (1,074 companies). 2024/2026 records exist but are empty.",
+  "net_new_total is UNIQUE domains across all events (per-event net_new_count values overlap - e.g. the PowerXchange and Expo rosters share most contractors; RMS Energy appears at Clean Currents and POWERGEN). Per-event net_new_targets display is capped at 12; net_new_count is the full per-event count.",
+  "Net-new discoveries are FREE finds from roster mining and are NOT deduped against the Dealbuff active-outreach list the repo does not hold (rule 7) - ask the client for it before any of these names reach outreach; ownership/acquisition status also unverified (rule 6).",
+  "Per sourcing rule 1, conference presence is corroboration only: every net-new name must be bucketed from its own description in the normal triage pass before it becomes a candidate.",
+  "CEATI 2026, EOCE 2027, NECA LV 2027, DCW 2027 and Utility Expo 2026 have no populated rosters yet - re-pull ~2-3 months before each event (free)."
+ ],
+ "spend": {
+  "get_companies_in_list_calls": 57,
+  "get_companies_in_list_cost": "free",
+  "search_conferences_calls": 1,
+  "grata_tokens": 2,
+  "budget": "cap was 5 search_conferences calls (10 tokens); used 1 (2 tokens)"
+ }
+}

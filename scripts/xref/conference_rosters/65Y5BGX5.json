@@ -1,0 +1,3254 @@
+{
+"header": {
+"event_id": "65Y5BGX5",
+"name": "The Electro-Mechanical Authority (EASA) Conventions + Solutions Expo 2023",
+"series": "The Electro-Mechanical Authority (EASA) Conventions + Solutions Expo",
+"start_date": "2023-06-25",
+"end_date": "2023-06-27",
+"city": "Oxon Hill",
+"state": "MD",
+"fetched_at": "2026-09-01",
+"total_reported": 507,
+"rows_fetched": 500,
+"truncated": true
+},
+"companies": [
+{
+"id": "P4WYYUB5",
+"year_founded": 1908,
+"ownership": "Public",
+"employees_estimate": {
+"grata": 367529,
+"linkedin": 108969
+},
+"headquarters_pretty": "Detroit, MI",
+"description": "General Motors Company designs, manufactures, and sells passenger vehicles, light trucks, and electric vehicles to consumers, dealers, and commercial fleets, while providing financing, parts, connected-vehicle services, and automotive software and engineering capabilities; they position themselves around their vehicle platforms, electric powertrains, and vehicle software and services.",
+"domain": "gm.com",
+"name": "General Motors Company",
+"primary_business_model_name": "Manufacturer, Services",
+"revenue": 185527992000.0,
+"profile_url": "https://search.grata.com/c/P4WYYUB5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QLT8MXGE",
+"year_founded": 1988,
+"ownership": "Public",
+"employees_estimate": {
+"grata": 439252,
+"linkedin": 149041
+},
+"headquarters_pretty": "Zürich, Switzerland",
+"description": "ABB is a technology leader in electrification and automation, offering a wide range of products and services to enable a more sustainable and resource-efficient future. Their typical customers are industrial and manufacturing companies, as well as businesses in the energy sector. ABB differentiates themselves by connecting engineering know-how and software to optimize how things are manufactured, moved, powered, and operated, driving innovations that accelerate industrial transformation.",
+"domain": "abb.com",
+"name": "ABB Asea Brown Boveri Ltd.",
+"primary_business_model_name": "Manufacturer",
+"revenue": 35752001000.0,
+"profile_url": "https://search.grata.com/c/QLT8MXGE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DWLZBFQ6",
+"year_founded": 2011,
+"ownership": "Private Subsidiary",
+"employees_estimate": {
+"grata": 183044,
+"linkedin": 45402
+},
+"headquarters_pretty": "Herzogenaurach, Germany",
+"description": "Schaeffler AG is a global automotive and industrial supplier that offers a wide range of products, including bearings, linear technology, and automotive engine components. Their typical customers include original equipment manufacturers (OEMs) in the automotive, aerospace, and industrial sectors. Schaeffler positions itself as a technology-driven company that focuses on innovation and sustainability to provide high-quality and reliable products to its customers.",
+"funding_stage": "Public",
+"domain": "schaeffler.com",
+"name": "Schaeffler AG",
+"primary_business_model_name": "Manufacturer",
+"latest_funding_date": "11/13/2019",
+"profile_url": "https://search.grata.com/c/DWLZBFQ6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2FJ37MRR",
+"year_founded": 1907,
+"ownership": "Public",
+"employees_estimate": {
+"grata": 733367,
+"linkedin": 213214
+},
+"headquarters_pretty": "London, UK",
+"description": "Shell International Limited is a global group of energy and petrochemical companies that provides a range of products and services to customers around the world. Their offerings include the exploration, production, and refining of oil and natural gas, as well as the manufacturing and marketing of chemicals. Their typical customers include individuals, businesses, and industries that rely on energy and petrochemical products for transportation, heating, electricity, and manufacturing. Shell claims to differentiate themselves through their commitment to sustainability, innovation, and providing reliable and affordable energy solutions to meet the world's growing energy needs.",
+"domain": "shell.com",
+"name": "Shell International B.V.",
+"primary_business_model_name": "Manufacturer",
+"revenue": 351180587000.0,
+"profile_url": "https://search.grata.com/c/2FJ37MRR?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EC8ER95G",
+"year_founded": 1847,
+"ownership": "Private Subsidiary",
+"employees_estimate": {
+"grata": 611022,
+"linkedin": 278153
+},
+"headquarters_pretty": "München, Germany",
+"description": "Siemens AG is a global technology company that focuses on electrification, automation, and digitalization. Their products and services range from power generation and distribution to medical imaging and industrial automation. Their typical customers include energy providers, manufacturers, healthcare institutions, and infrastructure companies. Siemens differentiates itself through its focus on innovation, sustainability, and providing comprehensive solutions for their customers' needs.",
+"domain": "siemens.com",
+"name": "Siemens AG",
+"primary_business_model_name": "Manufacturer",
+"profile_url": "https://search.grata.com/c/EC8ER95G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6Y33VD3R",
+"name": "Tenet Healthcare",
+"domain": "tenethealth.com",
+"profile_url": "https://search.grata.com/c/6Y33VD3R?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "96T7UEG3",
+"name": "Google",
+"domain": "google.com",
+"profile_url": "https://search.grata.com/c/96T7UEG3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UVDHEFML",
+"name": "TD Bank Group",
+"domain": "td.com",
+"profile_url": "https://search.grata.com/c/UVDHEFML?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VS8LQMV9",
+"name": "3M Company",
+"domain": "3m.com",
+"profile_url": "https://search.grata.com/c/VS8LQMV9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UQ649XPV",
+"name": "DuPont de Nemours, Inc.",
+"domain": "dupont.com",
+"profile_url": "https://search.grata.com/c/UQ649XPV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MTRDSN95",
+"name": "Parsons Corporation",
+"domain": "parsons.com",
+"profile_url": "https://search.grata.com/c/MTRDSN95?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PD8KT9W7",
+"name": "Sulzer",
+"domain": "sulzer.com",
+"profile_url": "https://search.grata.com/c/PD8KT9W7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "89LY6SD8",
+"name": "The Timken Company",
+"domain": "timken.com",
+"profile_url": "https://search.grata.com/c/89LY6SD8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "L92P4AX5",
+"name": "Texas A&M University",
+"domain": "tamu.edu",
+"profile_url": "https://search.grata.com/c/L92P4AX5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2R9PN3QT",
+"name": "ITT Inc.",
+"domain": "itt.com",
+"profile_url": "https://search.grata.com/c/2R9PN3QT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "E2WBNVTH",
+"name": "Komatsu",
+"domain": "komatsu.com",
+"profile_url": "https://search.grata.com/c/E2WBNVTH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4L5528TY",
+"name": "Advanced Energy",
+"domain": "advancedenergy.com",
+"profile_url": "https://search.grata.com/c/4L5528TY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZTF5NRUW",
+"name": "SICK Sensor Intelligence",
+"domain": "sick.com",
+"profile_url": "https://search.grata.com/c/ZTF5NRUW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "LXSHKQNW",
+"name": "Federal Bureau of Investigation (FBI)",
+"domain": "fbi.gov",
+"profile_url": "https://search.grata.com/c/LXSHKQNW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JU3ATRJK",
+"name": "JTEKT North America Corporation",
+"domain": "jtekt-na.com",
+"profile_url": "https://search.grata.com/c/JU3ATRJK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YW4LPEJ7",
+"name": "Santander Bank, N.A.",
+"domain": "santanderbank.com",
+"profile_url": "https://search.grata.com/c/YW4LPEJ7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CK7KKA4V",
+"name": "George Mason University",
+"domain": "gmu.edu",
+"profile_url": "https://search.grata.com/c/CK7KKA4V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S3YJY74H",
+"name": "Morgan Advanced Materials",
+"domain": "morganadvancedmaterials.com",
+"profile_url": "https://search.grata.com/c/S3YJY74H?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VSF2R852",
+"name": "Odoo.com",
+"domain": "odoo.sh",
+"profile_url": "https://search.grata.com/c/VSF2R852?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QRKGDMG6",
+"name": "Schunk Group",
+"domain": "schunk-group.com",
+"profile_url": "https://search.grata.com/c/QRKGDMG6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VSVS9PJY",
+"name": "Intertape Polymer Group",
+"domain": "itape.com",
+"profile_url": "https://search.grata.com/c/VSVS9PJY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WF3SQKMF",
+"name": "Miba AG",
+"domain": "miba.com",
+"profile_url": "https://search.grata.com/c/WF3SQKMF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XBT6G8GB",
+"name": "Shermco Industries, Inc.",
+"domain": "shermco.com",
+"profile_url": "https://search.grata.com/c/XBT6G8GB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "54PYX7GS",
+"name": "NTN Bearing Corporation",
+"domain": "ntnamericas.com",
+"profile_url": "https://search.grata.com/c/54PYX7GS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UNZ7V6S5",
+"name": "CG Power and Industrial Solutions Limited",
+"domain": "cgglobal.com",
+"profile_url": "https://search.grata.com/c/UNZ7V6S5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5D8EXZC2",
+"name": "DELFINGEN",
+"domain": "delfingen.com",
+"profile_url": "https://search.grata.com/c/5D8EXZC2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Z7C2PDDA",
+"name": "IPL Global",
+"domain": "iplglobal.com",
+"profile_url": "https://search.grata.com/c/Z7C2PDDA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "J9F4RC9G",
+"name": "International Finance Corporation (IFC)",
+"domain": "ifc.org",
+"profile_url": "https://search.grata.com/c/J9F4RC9G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "AERSRVWQ",
+"name": "Rexnord",
+"domain": "rexnord.com",
+"profile_url": "https://search.grata.com/c/AERSRVWQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S6RZATPC",
+"name": "Innomotics",
+"domain": "innomotics.com",
+"profile_url": "https://search.grata.com/c/S6RZATPC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HRQC9XX2",
+"name": "Megger Group Limited",
+"domain": "megger.com",
+"profile_url": "https://search.grata.com/c/HRQC9XX2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S7BANXM2",
+"name": "WSFS Bank",
+"domain": "wsfsbank.com",
+"profile_url": "https://search.grata.com/c/S7BANXM2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HE9CTWDF",
+"name": "Victrex plc",
+"domain": "victrex.com",
+"profile_url": "https://search.grata.com/c/HE9CTWDF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ECH6M29N",
+"name": "EIS Legacy, LLC",
+"domain": "eis-inc.com",
+"profile_url": "https://search.grata.com/c/ECH6M29N?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JHTX4ARC",
+"name": "Sensirion",
+"domain": "sensirion.com",
+"profile_url": "https://search.grata.com/c/JHTX4ARC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GKX3K9HZ",
+"name": "Qintess",
+"domain": "qintess.com",
+"profile_url": "https://search.grata.com/c/GKX3K9HZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YGMR38V3",
+"name": "ISOVOLTA Group",
+"domain": "isovolta.com",
+"profile_url": "https://search.grata.com/c/YGMR38V3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3A93ERDQ",
+"name": "Marmon Holdings, Inc.",
+"domain": "marmon.com",
+"profile_url": "https://search.grata.com/c/3A93ERDQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8XYL5VSF",
+"name": "Ainsworth Inc",
+"domain": "ainsworth.com",
+"profile_url": "https://search.grata.com/c/8XYL5VSF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RMMYDVLU",
+"name": "Elantas Pdg, Inc.",
+"domain": "elantas.com",
+"profile_url": "https://search.grata.com/c/RMMYDVLU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WNNXVU87",
+"name": "OTC Industrial Technologies",
+"domain": "otcindustrial.com",
+"profile_url": "https://search.grata.com/c/WNNXVU87?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3FDJTTBY",
+"name": "Trade-Mark Industrial Inc.",
+"domain": "trade-markind.com",
+"profile_url": "https://search.grata.com/c/3FDJTTBY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7K9K656T",
+"name": "University of Arkansas - Fort Smith",
+"domain": "uafs.edu",
+"profile_url": "https://search.grata.com/c/7K9K656T?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TN2XBHR5",
+"name": "Marsilli S.p.A",
+"domain": "marsilli.com",
+"profile_url": "https://search.grata.com/c/TN2XBHR5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MH9QRAWF",
+"name": "HD Hyundai Electric Co., Ltd.",
+"domain": "hd-hyundaielectric.com",
+"profile_url": "https://search.grata.com/c/MH9QRAWF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DXM8ELXC",
+"name": "Toshiba Corporation.",
+"domain": "toshiba.com",
+"profile_url": "https://search.grata.com/c/DXM8ELXC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QVH8VBMT",
+"name": "InnovaCare Health",
+"domain": "innovacarehealth.com",
+"profile_url": "https://search.grata.com/c/QVH8VBMT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZUGJJQH4",
+"name": "Kübler Group",
+"domain": "kuebler.com",
+"profile_url": "https://search.grata.com/c/ZUGJJQH4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "P434R7KF",
+"name": "FLANDERS, Inc.",
+"domain": "flandersinc.com",
+"profile_url": "https://search.grata.com/c/P434R7KF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "H3H9QJW2",
+"name": "National Electric Coil",
+"domain": "national-electric-coil.com",
+"profile_url": "https://search.grata.com/c/H3H9QJW2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CTXWMETR",
+"name": "Demco, Inc.",
+"domain": "demco.com",
+"profile_url": "https://search.grata.com/c/CTXWMETR?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8JU97NFM",
+"name": "Benshaw, Inc.",
+"domain": "benshaw.com",
+"profile_url": "https://search.grata.com/c/8JU97NFM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7DRF8JDK",
+"name": "IEC Holden",
+"domain": "iecholden.com",
+"profile_url": "https://search.grata.com/c/7DRF8JDK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JD9ENHGF",
+"name": "DiversiTech Corporation",
+"domain": "diversitech.com",
+"profile_url": "https://search.grata.com/c/JD9ENHGF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YBLT7K8M",
+"name": "Helwig Carbon Products",
+"domain": "helwigcarbon.com",
+"profile_url": "https://search.grata.com/c/YBLT7K8M?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZC67AGHB",
+"name": "Gettle Incorporated",
+"domain": "gettle.com",
+"profile_url": "https://search.grata.com/c/ZC67AGHB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UL54FKZW",
+"name": "Quartzelec Limited",
+"domain": "quartzelec.com",
+"profile_url": "https://search.grata.com/c/UL54FKZW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S5X3QA2Z",
+"name": "The Gund Company",
+"domain": "thegundcompany.com",
+"profile_url": "https://search.grata.com/c/S5X3QA2Z?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GVGFGC43",
+"name": "Rea Magnet Wire",
+"domain": "reawire.com",
+"profile_url": "https://search.grata.com/c/GVGFGC43?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Z7HKED6G",
+"name": "Malloy Electric",
+"domain": "malloyelectric.com",
+"profile_url": "https://search.grata.com/c/Z7HKED6G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DSHAGXB7",
+"name": "Endeavor Business Media",
+"domain": "endeavorb2b.com",
+"profile_url": "https://search.grata.com/c/DSHAGXB7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BKRYVJEZ",
+"name": "Karma Automotive",
+"domain": "karmaautomotive.com",
+"profile_url": "https://search.grata.com/c/BKRYVJEZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XW5HEY66",
+"name": "Brandon & Clark, Inc",
+"domain": "brandonclark.com",
+"profile_url": "https://search.grata.com/c/XW5HEY66?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UP2GAFME",
+"name": "Bodine Electric of Decatur",
+"domain": "bodinedecatur.com",
+"profile_url": "https://search.grata.com/c/UP2GAFME?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EUA7HW37",
+"name": "JWF Industries",
+"domain": "jwfi.com",
+"profile_url": "https://search.grata.com/c/EUA7HW37?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2JC6EQT8",
+"name": "IBT Industrial Solutions, Inc. (IBT)",
+"domain": "ibtinc.com",
+"profile_url": "https://search.grata.com/c/2JC6EQT8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8ER44GEQ",
+"name": "TECO-Westinghouse",
+"domain": "tecowestinghouse.com",
+"profile_url": "https://search.grata.com/c/8ER44GEQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PD7NM3ER",
+"name": "L & S Electric, Inc.",
+"domain": "lselectric.com",
+"profile_url": "https://search.grata.com/c/PD7NM3ER?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FKLYENC4",
+"name": "Champlain Cable Corporation",
+"domain": "champcable.com",
+"profile_url": "https://search.grata.com/c/FKLYENC4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "V8L6WQ35",
+"name": "Jay Industrial Repair",
+"domain": "jayindustrial.com",
+"profile_url": "https://search.grata.com/c/V8L6WQ35?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "B99HKALV",
+"name": "Affiliated Distributors (AD)",
+"domain": "adhq.com",
+"profile_url": "https://search.grata.com/c/B99HKALV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7445YDAS",
+"name": "Electric Motor & Contracting Co., Inc",
+"domain": "emc-co.com",
+"profile_url": "https://search.grata.com/c/7445YDAS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZNPNL4Q3",
+"name": "Independent Publishers Group",
+"domain": "ipgbook.com",
+"profile_url": "https://search.grata.com/c/ZNPNL4Q3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YW97GVLB",
+"name": "Horner Industrial Group",
+"domain": "hornerindustrial.com",
+"profile_url": "https://search.grata.com/c/YW97GVLB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Z86KTAUA",
+"name": "Power-Flo Technologies, Inc.",
+"domain": "powerflotechnologies.com",
+"profile_url": "https://search.grata.com/c/Z86KTAUA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5PRASMEC",
+"name": "Hupp Electric Motors",
+"domain": "hupp-electric.com",
+"profile_url": "https://search.grata.com/c/5PRASMEC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7KEQE4S9",
+"name": "B & D Industrial",
+"domain": "bdindustrial.com",
+"profile_url": "https://search.grata.com/c/7KEQE4S9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JB9MRV89",
+"name": "WorldWide Electric Corp.",
+"domain": "worldwideelectric.com",
+"profile_url": "https://search.grata.com/c/JB9MRV89?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HH6MLPWM",
+"name": "Hi-Speed Industrial Service",
+"domain": "gohispeed.com",
+"profile_url": "https://search.grata.com/c/HH6MLPWM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GXBCY2CQ",
+"name": "City of Schenectady",
+"domain": "cityofschenectady.gov",
+"profile_url": "https://search.grata.com/c/GXBCY2CQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NQWN5JS3",
+"name": "MTE Corporation",
+"domain": "mtecorp.com",
+"profile_url": "https://search.grata.com/c/NQWN5JS3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "H4WJCNLJ",
+"name": "Alabama Specialty Product",
+"domain": "alspi.com",
+"profile_url": "https://search.grata.com/c/H4WJCNLJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SUUEKTVJ",
+"name": "Preformed Windings Limited",
+"domain": "preformedwindings.com",
+"profile_url": "https://search.grata.com/c/SUUEKTVJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ATTL6Q27",
+"name": "Protecht Group",
+"domain": "protechtgroup.com",
+"profile_url": "https://search.grata.com/c/ATTL6Q27?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GJ5QU9NS",
+"name": "Haysite Reinforced Plastics, LLC",
+"domain": "haysite.com",
+"profile_url": "https://search.grata.com/c/GJ5QU9NS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QQ46QWYM",
+"name": "KCF Technologies, Inc.",
+"domain": "kcftech.com",
+"profile_url": "https://search.grata.com/c/QQ46QWYM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZPKSJ6T5",
+"name": "Skyline Electric Company",
+"domain": "skyline.us",
+"profile_url": "https://search.grata.com/c/ZPKSJ6T5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FHZFRSYW",
+"name": "Blue Technologies",
+"domain": "btohio.com",
+"profile_url": "https://search.grata.com/c/FHZFRSYW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SK7FU3CY",
+"name": "Eastern Industrial Automation",
+"domain": "easternia.com",
+"profile_url": "https://search.grata.com/c/SK7FU3CY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "78LWYKQA",
+"name": "RAM Motors & Controls",
+"domain": "rammotors.com",
+"profile_url": "https://search.grata.com/c/78LWYKQA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DZNU6ND3",
+"name": "Nachi America Inc.",
+"domain": "nachiamerica.com",
+"profile_url": "https://search.grata.com/c/DZNU6ND3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "34Z8XNQT",
+"name": "Essex Brownell",
+"domain": "essexbrownell.com",
+"profile_url": "https://search.grata.com/c/34Z8XNQT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "B7F4B75E",
+"name": "Wingard & Company, Inc.",
+"domain": "wingardaerospace.com",
+"profile_url": "https://search.grata.com/c/B7F4B75E?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PY33MFY2",
+"name": "Abbott",
+"domain": "abbott-pm.com",
+"profile_url": "https://search.grata.com/c/PY33MFY2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "M3P39LDU",
+"name": "Godfrey & Wing Inc.",
+"domain": "godfreywing.com",
+"profile_url": "https://search.grata.com/c/M3P39LDU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TJ8YJU3E",
+"revenue": 25801000.0,
+"funding_stage": "No Funding",
+"headquarters_pretty": "Rosedale, MD",
+"domain": "emrco.com",
+"employees_estimate": {
+"grata": 186,
+"linkedin": 86
+},
+"primary_business_model_name": "Services",
+"ownership": "Bootstrapped",
+"name": "EMR",
+"description": "EMR provides commercial and industrial equipment repair, maintenance, and parts distribution focused on motors, pumps, gearboxes, and building systems (commercial cooking, refrigeration, HVAC). They serve business customers in industries that require uptime and position themselves as a people-first, self-performing service partner offering on-site repairs, scheduled maintenance, and OEM parts supply.",
+"year_founded": 1943,
+"profile_url": "https://search.grata.com/c/TJ8YJU3E?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5DZXHPFE",
+"revenue": 172683000.0,
+"funding_stage": "No Funding",
+"headquarters_pretty": "Indianapolis, IN",
+"domain": "brehob.com",
+"employees_estimate": {
+"grata": 179,
+"linkedin": 180
+},
+"primary_business_model_name": "Distributor",
+"ownership": "Bootstrapped",
+"name": "Brehob Corporation",
+"description": "Brehob sells and services industrial equipment—with a focus on air compressor systems, electric motors, and cranes/hoists—to industrial and facility customers. They offer equipment sales, on-site repairs, preventive maintenance, custom crane engineering, and 24/7 emergency support, and they position themselves as a regional partner with multi-branch service coverage and a family-owned operating approach.",
+"year_founded": 1969,
+"profile_url": "https://search.grata.com/c/5DZXHPFE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"latest_funding_amount": 1500000,
+"id": "WAEB4QHH",
+"headquarters_pretty": "Landisville, PA",
+"domain": "electronenergy.com",
+"employees_estimate": {
+"grata": 175,
+"linkedin": 85
+},
+"total_funding_amount": 7200000,
+"primary_business_model_name": "Manufacturer",
+"ownership": "Private Subsidiary",
+"name": "Electron Energy Corporation",
+"latest_funding_date": "04/30/2020",
+"description": "Electron Energy Corporation is a leading American producer of rare earth magnets, offering permanent magnets, magnet assemblies, precision machined parts, and electric motors through their EEC Motorsolver division. Their products cater to industries such as aerospace, defense, medical, industrial, oil & gas, semiconductor, and telecommunications. The company's differentiation lies in its ability to develop custom solutions and work closely with customers to meet their specific needs, positioning itself as a provider of high-quality, custom magnetic solutions for demanding applications.",
+"year_founded": 1970,
+"profile_url": "https://search.grata.com/c/WAEB4QHH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "LWKHVEYW",
+"headquarters_pretty": "York, PA",
+"domain": "motortechnologyinc.com",
+"employees_estimate": {
+"grata": 172,
+"linkedin": 53
+},
+"primary_business_model_name": "Services",
+"ownership": "Public Subsidiary",
+"name": "Motor Technology, Inc.",
+"description": "Motor Technology provides industrial electro-mechanical repair and replacement products for motor-driven systems, serving manufacturing and utility customers. They offer motor and rotating-equipment rebuilds, in-house machining, on-site diagnostics and installation, drives/controls troubleshooting, predictive maintenance, and wireless condition monitoring, and they market these capabilities as an integrated, single-source solution backed by advanced testing and application support.",
+"year_founded": 1980,
+"profile_url": "https://search.grata.com/c/LWKHVEYW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YMSAPGMA",
+"revenue": 127856000.0,
+"funding_stage": "No Funding",
+"headquarters_pretty": "Plymouth, MN",
+"domain": "baldwinsupply.com",
+"employees_estimate": {
+"grata": 170,
+"linkedin": 170
+},
+"primary_business_model_name": "Distributor",
+"ownership": "Bootstrapped",
+"name": "Baldwin Supply Co.",
+"description": "Baldwin Supply Co. is a leading distributor of mechanical power transmission, conveyor belts, electric motors, and control products in the upper Midwest. Their typical customers come from a diverse list of industries such as aggregate and mining, food and beverage, poultry, mining, agriculture, packaging equipment, industrial conveyors, and power generation. They differentiate themselves by offering knowledgeable and dedicated staff, convenient stocking locations, and a wide range of value-added services, positioning themselves as the preferred business partner for their customers.",
+"year_founded": 1920,
+"profile_url": "https://search.grata.com/c/YMSAPGMA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SLRDM3SD",
+"name": "Windings, Inc.",
+"domain": "windings.com",
+"profile_url": "https://search.grata.com/c/SLRDM3SD?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FJXWR98Z",
+"name": "Sun Capital Partners, Inc.",
+"domain": "suncappart.com",
+"profile_url": "https://search.grata.com/c/FJXWR98Z?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CY93WL6P",
+"name": "Von Roll",
+"domain": "vonroll.com",
+"profile_url": "https://search.grata.com/c/CY93WL6P?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EDZVHZX3",
+"name": "Three D Metals",
+"domain": "threedmetals.com",
+"profile_url": "https://search.grata.com/c/EDZVHZX3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZU7ME4AB",
+"name": "Electric Motor Shop",
+"domain": "electricmotorshop.com",
+"profile_url": "https://search.grata.com/c/ZU7ME4AB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "D7TVZ54N",
+"name": "HECO",
+"domain": "hecoinc.com",
+"profile_url": "https://search.grata.com/c/D7TVZ54N?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "L6P5YQH6",
+"name": "Electro Static Technology",
+"domain": "est-aegis.com",
+"profile_url": "https://search.grata.com/c/L6P5YQH6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8QCGN3V4",
+"name": "Bartlett Bearing Company, Inc.",
+"domain": "bartlettbearing.com",
+"profile_url": "https://search.grata.com/c/8QCGN3V4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6JF8AE2Z",
+"name": "Atlas Fibre",
+"domain": "atlasfibre.com",
+"profile_url": "https://search.grata.com/c/6JF8AE2Z?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JS4TANYY",
+"name": "RJW Engineering",
+"domain": "rjweng.com",
+"profile_url": "https://search.grata.com/c/JS4TANYY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S9NHEEBD",
+"name": "The Electric Materials Company",
+"domain": "elecmat.com",
+"profile_url": "https://search.grata.com/c/S9NHEEBD?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S3N4V83K",
+"name": "Dykman Electrical, Inc.",
+"domain": "dykman.com",
+"profile_url": "https://search.grata.com/c/S3N4V83K?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GF6788E3",
+"name": "Etheredge Industrial Services",
+"domain": "eecmotor.com",
+"profile_url": "https://search.grata.com/c/GF6788E3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PJQ52NEL",
+"name": "Illinois Electric Works Inc.",
+"domain": "illinoiselectric.com",
+"profile_url": "https://search.grata.com/c/PJQ52NEL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PGY2QDVN",
+"name": "Flex-A-Seal, Inc.",
+"domain": "flexaseal.com",
+"profile_url": "https://search.grata.com/c/PGY2QDVN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3LA4C2GX",
+"name": "Hansford Sensors Ltd",
+"domain": "hansfordsensors.com",
+"profile_url": "https://search.grata.com/c/3LA4C2GX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "94SMSRZ3",
+"name": "Cole Tech, Inc.",
+"domain": "coleelectricms.com",
+"profile_url": "https://search.grata.com/c/94SMSRZ3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VW46FNEN",
+"name": "Tristate Armature",
+"domain": "tristatearmature.com",
+"profile_url": "https://search.grata.com/c/VW46FNEN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "J65J7NSL",
+"name": "Ireland Electric Corporation",
+"domain": "irelandelectriccorp.com",
+"profile_url": "https://search.grata.com/c/J65J7NSL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RXFMY2V3",
+"name": "Relayr",
+"domain": "relayr.io",
+"profile_url": "https://search.grata.com/c/RXFMY2V3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "94SR4TAM",
+"name": "Precision Electric Motor Sales",
+"domain": "pemsmotors.com",
+"profile_url": "https://search.grata.com/c/94SR4TAM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YMCJW6C6",
+"name": "Hibbs ElectroMechanical Inc.",
+"domain": "hibbsinc.com",
+"profile_url": "https://search.grata.com/c/YMCJW6C6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JDUP8K87",
+"name": "STH, Inc",
+"domain": "sthinc.com",
+"profile_url": "https://search.grata.com/c/JDUP8K87?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "W3TJ65KK",
+"name": "Control Concepts Inc.",
+"domain": "ccipower.com",
+"profile_url": "https://search.grata.com/c/W3TJ65KK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XSLFFU6K",
+"name": "Acoem USA",
+"domain": "acoem.us",
+"profile_url": "https://search.grata.com/c/XSLFFU6K?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ET2GGVK5",
+"name": "Jenkins Electric Company",
+"domain": "jenkinselectric.com",
+"profile_url": "https://search.grata.com/c/ET2GGVK5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TW4UQLF9",
+"name": "Longo Electrical-Mechanical Inc.",
+"domain": "elongo.com",
+"profile_url": "https://search.grata.com/c/TW4UQLF9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XSAYMXUR",
+"name": "Parts Super Center",
+"domain": "partssupercenter.com",
+"profile_url": "https://search.grata.com/c/XSAYMXUR?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WZW7QPQ9",
+"name": "HeatTek Inc.",
+"domain": "heattek.com",
+"profile_url": "https://search.grata.com/c/WZW7QPQ9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "888UJ9ZM",
+"name": "MROSupply.com",
+"domain": "mrosupply.com",
+"profile_url": "https://search.grata.com/c/888UJ9ZM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BZTVKL6F",
+"name": "Treon",
+"domain": "treon.fi",
+"profile_url": "https://search.grata.com/c/BZTVKL6F?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZTUPS6YL",
+"name": "Ems Industrial Inc",
+"domain": "emsindustrial.com",
+"profile_url": "https://search.grata.com/c/ZTUPS6YL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TC7EQCJG",
+"name": "Ideal Electric Company",
+"domain": "theidealelectric.com",
+"profile_url": "https://search.grata.com/c/TC7EQCJG?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2YT3UVME",
+"name": "Cutsforth, Inc.",
+"domain": "cutsforth.com",
+"profile_url": "https://search.grata.com/c/2YT3UVME?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "F9N43CZH",
+"name": "Midwest Service Center, LLC.",
+"domain": "midwestservicecenter.com",
+"profile_url": "https://search.grata.com/c/F9N43CZH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2AQBWSF3",
+"name": "Layco Electric Innovations",
+"domain": "lei-corp.com",
+"profile_url": "https://search.grata.com/c/2AQBWSF3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8XSKXQC6",
+"name": "Benko Products, Inc.",
+"domain": "benkoproducts.com",
+"profile_url": "https://search.grata.com/c/8XSKXQC6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4EXC8Q24",
+"name": "Potomac Testing",
+"domain": "potomactesting.com",
+"profile_url": "https://search.grata.com/c/4EXC8Q24?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6ASV6LFM",
+"name": "York Repair Inc.",
+"domain": "yorkrepair.com",
+"profile_url": "https://search.grata.com/c/6ASV6LFM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CVY3LGSE",
+"name": "Precision Coil & Rotor",
+"domain": "pecoil.com",
+"profile_url": "https://search.grata.com/c/CVY3LGSE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YMXK6DFH",
+"name": "Kurz Industrial Solutions",
+"domain": "kurz.com",
+"profile_url": "https://search.grata.com/c/YMXK6DFH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XCZ2YCZF",
+"name": "North American Electric, Inc.",
+"domain": "naemotors.com",
+"profile_url": "https://search.grata.com/c/XCZ2YCZF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SRD7JJPA",
+"name": "Bonitron, Inc.",
+"domain": "bonitron.com",
+"profile_url": "https://search.grata.com/c/SRD7JJPA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "THAQ846D",
+"name": "Ener-Tel Services",
+"domain": "ener-tel.com",
+"profile_url": "https://search.grata.com/c/THAQ846D?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "B8NCAAVQ",
+"name": "Kencoil",
+"domain": "kencoil.com",
+"profile_url": "https://search.grata.com/c/B8NCAAVQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "857C698H",
+"name": "Red Stick Armature Works, Inc.",
+"domain": "rsaworks.com",
+"profile_url": "https://search.grata.com/c/857C698H?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SUYT8CHV",
+"name": "E & I Sales Co.",
+"domain": "eandisales.com",
+"profile_url": "https://search.grata.com/c/SUYT8CHV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NUPDAH6P",
+"name": "Bradleys, Inc.",
+"domain": "bradleysmotors.com",
+"profile_url": "https://search.grata.com/c/NUPDAH6P?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FS4GQF26",
+"name": "KJ Electric",
+"domain": "kjelectric.com",
+"profile_url": "https://search.grata.com/c/FS4GQF26?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "D8AZWYN8",
+"name": "Eldec, Llc",
+"domain": "inductionheatingexperts.com",
+"profile_url": "https://search.grata.com/c/D8AZWYN8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ARG9WQSX",
+"name": "Allen's Electric Motor Service, Inc.",
+"domain": "allenselectricmotors.com",
+"profile_url": "https://search.grata.com/c/ARG9WQSX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FV3EE4ZS",
+"name": "Independent Electric Machinery Company",
+"domain": "iemco.com",
+"profile_url": "https://search.grata.com/c/FV3EE4ZS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ULED4Y9K",
+"name": "Advanced Rotors, Inc.",
+"domain": "advrotors.com",
+"profile_url": "https://search.grata.com/c/ULED4Y9K?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WXXBU9W9",
+"name": "Ludeca, Inc.",
+"domain": "ludeca.com",
+"profile_url": "https://search.grata.com/c/WXXBU9W9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BQDCPS4B",
+"name": "Force Control Industries, Inc.",
+"domain": "forcecontrol.com",
+"profile_url": "https://search.grata.com/c/BQDCPS4B?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SZVMDZ85",
+"name": "Electric Motor Shop of Wake Forest",
+"domain": "electricmotorshopnc.com",
+"profile_url": "https://search.grata.com/c/SZVMDZ85?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MN4VMXFS",
+"name": "Mohawk Industries",
+"domain": "mohawkind.com",
+"profile_url": "https://search.grata.com/c/MN4VMXFS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZT7PR3DE",
+"name": "Kirkwood Holding",
+"domain": "kirkwoodholding.com",
+"profile_url": "https://search.grata.com/c/ZT7PR3DE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WF398GHP",
+"name": "AEMC Instruments",
+"domain": "aemc.com",
+"profile_url": "https://search.grata.com/c/WF398GHP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "39UYE98V",
+"name": "Bearing Service Inc.",
+"domain": "bearingservice.com",
+"profile_url": "https://search.grata.com/c/39UYE98V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZCG2526V",
+"name": "Coil Manufacturing Inc",
+"domain": "cmicoil.com",
+"profile_url": "https://search.grata.com/c/ZCG2526V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PAB3U4UX",
+"name": "Volland Electric Equipment Corp.",
+"domain": "volland.com",
+"profile_url": "https://search.grata.com/c/PAB3U4UX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4VHSMVD9",
+"name": "The Flolo Corporation",
+"domain": "flolo.com",
+"profile_url": "https://search.grata.com/c/4VHSMVD9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TN2PRRC7",
+"name": "Experience AI Solutions",
+"domain": "experienceaisolutions.com",
+"profile_url": "https://search.grata.com/c/TN2PRRC7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "9VQW4SFZ",
+"name": "H & N Electric, Power Systems by Timken",
+"domain": "hnelectric.com",
+"profile_url": "https://search.grata.com/c/9VQW4SFZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "E69M56CF",
+"name": "Vaughn Electric Company, Inc.",
+"domain": "vaughnelectric.com",
+"profile_url": "https://search.grata.com/c/E69M56CF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VHZWVFFA",
+"name": "Warwood Armature",
+"domain": "warwoodarmature.com",
+"profile_url": "https://search.grata.com/c/VHZWVFFA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5GU4KVZK",
+"name": "Odyssey Investment Partners",
+"domain": "odysseyinvestment.com",
+"profile_url": "https://search.grata.com/c/5GU4KVZK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XGANDW99",
+"name": "Astro Chemical Company, Inc.",
+"domain": "astrochemical.com",
+"profile_url": "https://search.grata.com/c/XGANDW99?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8UE5FNNZ",
+"name": "Techtop Industries",
+"domain": "techtopind.com",
+"profile_url": "https://search.grata.com/c/8UE5FNNZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WFDHBF86",
+"name": "SCANCON Encoders A/S",
+"domain": "scancon.dk",
+"profile_url": "https://search.grata.com/c/WFDHBF86?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Z3N5GTZN",
+"name": "Walco Electric",
+"domain": "walcokip.com",
+"profile_url": "https://search.grata.com/c/Z3N5GTZN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "B6DPT5DW",
+"name": "Transply, Inc.",
+"domain": "transply.com",
+"profile_url": "https://search.grata.com/c/B6DPT5DW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S3ZUT87X",
+"name": "Colwell Banker Rector Phillips Morse, Inc.",
+"domain": "cbrpm.com",
+"profile_url": "https://search.grata.com/c/S3ZUT87X?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MZPWZ9QJ",
+"name": "Industrial Electric Motor Service, Inc.",
+"domain": "iemsbr.com",
+"profile_url": "https://search.grata.com/c/MZPWZ9QJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GCLKUNM6",
+"name": "Scott Armature, LLC",
+"domain": "scottarm.com",
+"profile_url": "https://search.grata.com/c/GCLKUNM6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YHBY4CCH",
+"name": "Akard Commutator Of Tennessee (Act)",
+"domain": "act-inc.com",
+"profile_url": "https://search.grata.com/c/YHBY4CCH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZLVFMPXX",
+"name": "Sifco ASC",
+"domain": "sifcoasc.com",
+"profile_url": "https://search.grata.com/c/ZLVFMPXX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4R77NQJF",
+"name": "Rice Electric",
+"domain": "rice-electric.com",
+"profile_url": "https://search.grata.com/c/4R77NQJF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "J7FE5W2G",
+"name": "RDI Technologies Inc.",
+"domain": "rditechnologies.com",
+"profile_url": "https://search.grata.com/c/J7FE5W2G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FGM4Z65X",
+"name": "K&N Electric Motors Inc.",
+"domain": "knelectric.com",
+"profile_url": "https://search.grata.com/c/FGM4Z65X?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VF3LUP85",
+"name": "Redmond Waltz Electric",
+"domain": "redmondwaltz.com",
+"profile_url": "https://search.grata.com/c/VF3LUP85?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4MDPWBA3",
+"name": "England & Company",
+"domain": "englandco.com",
+"profile_url": "https://search.grata.com/c/4MDPWBA3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RQHEFFE9",
+"name": "Ofil",
+"domain": "ofilsystems.com",
+"profile_url": "https://search.grata.com/c/RQHEFFE9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8JFFMHJH",
+"name": "Erbessd Instruments",
+"domain": "erbessd-instruments.com",
+"profile_url": "https://search.grata.com/c/8JFFMHJH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3FB3BQP4",
+"name": "Bearings & Drives Solutions",
+"domain": "bds-usa.net",
+"profile_url": "https://search.grata.com/c/3FB3BQP4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KHBAUZA9",
+"name": "Lubbock Electric Company, LLC",
+"domain": "lubbockelectric.com",
+"profile_url": "https://search.grata.com/c/KHBAUZA9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "99BCDS99",
+"name": "Southern Apparatus Services",
+"domain": "southernapparatus.com",
+"profile_url": "https://search.grata.com/c/99BCDS99?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TH74GY6A",
+"name": "Service First Processing",
+"domain": "sfprocessing.com",
+"profile_url": "https://search.grata.com/c/TH74GY6A?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "74TNH9D2",
+"name": "Nippon Rika",
+"domain": "nipponrika.jp",
+"profile_url": "https://search.grata.com/c/74TNH9D2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4GRCXY7G",
+"name": "B+M Industrial",
+"domain": "bmindustrial.com",
+"profile_url": "https://search.grata.com/c/4GRCXY7G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EJQF7H33",
+"name": "Craig Wire Products, LLC",
+"domain": "craigwire.com",
+"profile_url": "https://search.grata.com/c/EJQF7H33?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "45UJGWKP",
+"name": "Hill's Industrial",
+"domain": "hillsindustrial.com",
+"profile_url": "https://search.grata.com/c/45UJGWKP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "78XNVZWP",
+"name": "National Electric Motor & Supply Co.",
+"domain": "nemsco.com",
+"profile_url": "https://search.grata.com/c/78XNVZWP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RBHJJE8T",
+"name": "Advanced Energy",
+"domain": "advancedenergy.org",
+"profile_url": "https://search.grata.com/c/RBHJJE8T?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5WR6UMEN",
+"revenue": 15042000.0,
+"funding_stage": "No Funding",
+"headquarters_pretty": "Dallas, TX",
+"domain": "pcpconline.com",
+"employees_estimate": {
+"grata": 48,
+"linkedin": 20
+},
+"primary_business_model_name": "Manufacturer",
+"ownership": "Bootstrapped",
+"name": "Pollution Control Products Company",
+"description": "Pollution Control Products Company manufactures burn-off ovens and cleaning furnaces for industrial thermal cleaning and parts reclamation, sells primarily to industrial and rebuild businesses (including military branches), and claims differentiation through a patented Controlled Pyrolysis® process, integrated afterburner emissions control, free test cleaning, and ongoing parts/support services.",
+"year_founded": 1971,
+"profile_url": "https://search.grata.com/c/5WR6UMEN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BBFAV7UX",
+"revenue": 4117000.0,
+"funding_stage": "No Funding",
+"headquarters_pretty": "Toledo, OH",
+"domain": "whelco.com",
+"employees_estimate": {
+"grata": 48,
+"linkedin": 13
+},
+"primary_business_model_name": "Services",
+"ownership": "Bootstrapped",
+"name": "Whelco Industrial",
+"description": "Whelco Industrial provides repair, refurbishment, and maintenance for electric motors, pumps, and rotating equipment to industrial customers such as manufacturers, construction firms, oil and gas operators, and power generators. They offer 24/7/365 repair services, predictive and preventative maintenance, machine shop work, new motor sales, and motor/asset management with documented testing and QR-tracked spares. They position themselves on rapid response, documented testing, and comprehensive repair-to-factory-specification capabilities.",
+"year_founded": 2002,
+"profile_url": "https://search.grata.com/c/BBFAV7UX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SRPR62D6",
+"headquarters_pretty": "Brussels-Capital, Belgium",
+"domain": "sdtultrasound.com",
+"employees_estimate": {
+"grata": 48,
+"linkedin": 21
+},
+"primary_business_model_name": "Manufacturer",
+"ownership": "Public Subsidiary",
+"name": "SDT International SA/NV",
+"description": "SDT International SA/NV specializes in providing ultrasound equipment and solutions for predictive maintenance, condition monitoring, and reliability improvement. Their typical customers are industrial and manufacturing companies that rely on machinery and equipment for their operations. They differentiate themselves by offering a comprehensive range of products and services, including ultrasound equipment for mechanical condition monitoring, bearing lubrication monitoring, air and gas leak detection, electrical fault detection, and more. They market themselves as a partner in helping companies monitor the health of their facilities and transition from reactive firefighting to a proactive maintenance approach.",
+"year_founded": 1975,
+"profile_url": "https://search.grata.com/c/SRPR62D6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XMY3LYG2",
+"revenue": 10739000.0,
+"funding_stage": "No Funding",
+"headquarters_pretty": "Racine, WI",
+"domain": "motorspecialty.com",
+"employees_estimate": {
+"grata": 48,
+"linkedin": 24
+},
+"primary_business_model_name": "Manufacturer",
+"ownership": "Bootstrapped",
+"name": "Motor Specialty Inc.",
+"description": "Motor Specialty Inc. manufactures custom electric motors, gearmotors, armatures and motor fields for OEMs and distribution/brand‑label customers, and positions themselves as a long‑established private‑label motor partner offering Made‑in‑the‑USA production, small‑order customization, inventory programs and value‑added manufacturing services.",
+"year_founded": 1947,
+"profile_url": "https://search.grata.com/c/XMY3LYG2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YC4BA8UB",
+"headquarters_pretty": "Mounds View, MN",
+"domain": "edan.io",
+"employees_estimate": {
+"grata": 46,
+"linkedin": 44
+},
+"primary_business_model_name": "Software",
+"ownership": "Private Subsidiary",
+"name": "edan",
+"description": "edan provides a hosted website builder for small businesses and individual service providers, offering modular templates, contact integrations (email, WhatsApp, maps), and review management. They position themselves as a fast, easy solution to create a web presence in minutes, with basic free pages and optional premium features, and offer direct support.",
+"year_founded": 2020,
+"profile_url": "https://search.grata.com/c/YC4BA8UB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6LBD5ZWZ",
+"name": "Nelson Electric Motor Service",
+"domain": "1xrpm.weebly.com",
+"profile_url": "https://search.grata.com/c/6LBD5ZWZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WWKZTSVU",
+"name": "Midwest Promotional Group",
+"domain": "midwestgrp.com",
+"profile_url": "https://search.grata.com/c/WWKZTSVU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JJXNWL98",
+"name": "Butterfield, Inc.",
+"domain": "butterfielddrilling.com",
+"profile_url": "https://search.grata.com/c/JJXNWL98?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GZ3DHL6C",
+"name": "Pittsburgh Electrical Insulation (PEI)",
+"domain": "peipittsburgh.com",
+"profile_url": "https://search.grata.com/c/GZ3DHL6C?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FP266LL5",
+"name": "Electrolock, Inc.",
+"domain": "electrolock.com",
+"profile_url": "https://search.grata.com/c/FP266LL5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PAN9VKU2",
+"name": "Holland Industrial",
+"domain": "hollandindustrial.com",
+"profile_url": "https://search.grata.com/c/PAN9VKU2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XYPBAW6T",
+"name": "Powertec",
+"domain": "powertecmotors.com",
+"profile_url": "https://search.grata.com/c/XYPBAW6T?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "LYWTBGM5",
+"name": "PdMA Corporation",
+"domain": "pdma.com",
+"profile_url": "https://search.grata.com/c/LYWTBGM5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "APMPTF3U",
+"name": "Malton Electric Co.",
+"domain": "maltonelectric.com",
+"profile_url": "https://search.grata.com/c/APMPTF3U?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6U39DLG4",
+"name": "Gatterdam Industrial Services",
+"domain": "gatterdam.com",
+"profile_url": "https://search.grata.com/c/6U39DLG4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PEZP9JPH",
+"name": "InterNational Electrical Testing Association (NETA)",
+"domain": "netaworld.org",
+"profile_url": "https://search.grata.com/c/PEZP9JPH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EW3W8FS6",
+"name": "ICC International",
+"domain": "iccinternational.com",
+"profile_url": "https://search.grata.com/c/EW3W8FS6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PBQKMVUV",
+"name": "High Voltage, Inc.",
+"domain": "hvinc.com",
+"profile_url": "https://search.grata.com/c/PBQKMVUV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7LURFBHM",
+"name": "ESR Motor Systems, LLC",
+"domain": "esrmotors.com",
+"profile_url": "https://search.grata.com/c/7LURFBHM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NFAJTPYU",
+"name": "Gray Electric",
+"domain": "grayelectricco.com",
+"profile_url": "https://search.grata.com/c/NFAJTPYU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JT8ABXXV",
+"name": "Apex Industrial Automation",
+"domain": "apexindustrialautomation.com",
+"profile_url": "https://search.grata.com/c/JT8ABXXV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "AU4TGN8E",
+"name": "Pye-Barker Engineered Solutions",
+"domain": "pyebarker.com",
+"profile_url": "https://search.grata.com/c/AU4TGN8E?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DZN8BHFB",
+"name": "A&W Electric, Inc.",
+"domain": "aandwelectric.com",
+"profile_url": "https://search.grata.com/c/DZN8BHFB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GFWP3AL4",
+"name": "ABRO Balancing",
+"domain": "abrobalancing.com",
+"profile_url": "https://search.grata.com/c/GFWP3AL4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Z8UTW6RK",
+"name": "Burford Electric Service, Inc.",
+"domain": "burfordinc.com",
+"profile_url": "https://search.grata.com/c/Z8UTW6RK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XL85MTD4",
+"name": "Fusion Babbitting Co., Inc.",
+"domain": "fusionbabbitting.com",
+"profile_url": "https://search.grata.com/c/XL85MTD4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6MX4677A",
+"name": "Noren Thermal Solutions",
+"domain": "norenthermal.com",
+"profile_url": "https://search.grata.com/c/6MX4677A?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NMTBJQUU",
+"name": "CalCo Cutaways",
+"domain": "calcocutaways.com",
+"profile_url": "https://search.grata.com/c/NMTBJQUU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KVX3TJ7K",
+"name": "Northwest Electric",
+"domain": "nwelectric.com",
+"profile_url": "https://search.grata.com/c/KVX3TJ7K?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TANVRMR2",
+"name": "Globaltech Motor & Controls",
+"domain": "globaltechmotors.com",
+"profile_url": "https://search.grata.com/c/TANVRMR2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TWKKYDK2",
+"name": "American MTS",
+"domain": "americanmts.com",
+"profile_url": "https://search.grata.com/c/TWKKYDK2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8LSHG55Q",
+"name": "Rapa Electric, Inc.",
+"domain": "rapaelectric.com",
+"profile_url": "https://search.grata.com/c/8LSHG55Q?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RVG2ZGAY",
+"name": "Square One Electric Motors and Pumps",
+"domain": "sqone.com",
+"profile_url": "https://search.grata.com/c/RVG2ZGAY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TWFSAWFU",
+"name": "CAM Innovation",
+"domain": "caminnovation.com",
+"profile_url": "https://search.grata.com/c/TWFSAWFU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RX2V9FST",
+"name": "Bay Motor Winding, Inc",
+"domain": "baymotorwinding.com",
+"profile_url": "https://search.grata.com/c/RX2V9FST?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "65M5XCEU",
+"name": "American Gear Manufacturers Association",
+"domain": "agma.org",
+"profile_url": "https://search.grata.com/c/65M5XCEU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CUJCJKD2",
+"name": "Industrial Electro Mechanics",
+"domain": "iemsavannah.com",
+"profile_url": "https://search.grata.com/c/CUJCJKD2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PVV84U8M",
+"name": "CFE Media and Technology",
+"domain": "cfemedia.com",
+"profile_url": "https://search.grata.com/c/PVV84U8M?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MASZGN3L",
+"name": "Cahaba Media Group",
+"domain": "cahabamedia.com",
+"profile_url": "https://search.grata.com/c/MASZGN3L?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "P5YXEHQS",
+"name": "Eagle Electric Machinery",
+"domain": "eagleelectric.org",
+"profile_url": "https://search.grata.com/c/P5YXEHQS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GNJ3YM6R",
+"name": "IRD Balancing",
+"domain": "irdproducts.com",
+"profile_url": "https://search.grata.com/c/GNJ3YM6R?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JNC79GSJ",
+"name": "Nidec Conversion",
+"domain": "nidec-conversion.com",
+"profile_url": "https://search.grata.com/c/JNC79GSJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KYRDFE4V",
+"name": "Electrom Instruments",
+"domain": "electrominst.com",
+"profile_url": "https://search.grata.com/c/KYRDFE4V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VYV3WY2S",
+"name": "Matlock Electric Co., Inc.",
+"domain": "matlockelectric.com",
+"profile_url": "https://search.grata.com/c/VYV3WY2S?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WWRPA4GU",
+"name": "University of Canterbury",
+"domain": "canterbury.ac.nz",
+"profile_url": "https://search.grata.com/c/WWRPA4GU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UYRV25CH",
+"name": "Electro Mechanical Repair WA",
+"domain": "electromechanical.com.au",
+"profile_url": "https://search.grata.com/c/UYRV25CH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "M3SFUUCY",
+"name": "Applied Dynamics Corporation",
+"domain": "applied-dynamics.com",
+"profile_url": "https://search.grata.com/c/M3SFUUCY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JRE6D6S9",
+"name": "M.G.M. Electric Motors",
+"domain": "mgmelectricmotors.com",
+"profile_url": "https://search.grata.com/c/JRE6D6S9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "C6UGBZLM",
+"name": "Electrical & Mechanical Resources, Inc.",
+"domain": "emrva.com",
+"profile_url": "https://search.grata.com/c/C6UGBZLM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4QSFWJD8",
+"name": "Steelman Industries Inc",
+"domain": "steelman.com",
+"profile_url": "https://search.grata.com/c/4QSFWJD8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MYS5B8EQ",
+"name": "Earnhardt Electric Service",
+"domain": "earnhardtelectric.com",
+"profile_url": "https://search.grata.com/c/MYS5B8EQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7SDUZM7V",
+"name": "Toric Engineering",
+"domain": "toriceng.com",
+"profile_url": "https://search.grata.com/c/7SDUZM7V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "J4N8P487",
+"name": "Remsa USA Inc",
+"domain": "remsausainc.com",
+"profile_url": "https://search.grata.com/c/J4N8P487?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TY98Q3GX",
+"name": "Asheville Mica Company",
+"domain": "ashevillemica.com",
+"profile_url": "https://search.grata.com/c/TY98Q3GX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8KUBHVRP",
+"name": "Williers Electric Co Inc",
+"domain": "willierelectric.com",
+"profile_url": "https://search.grata.com/c/8KUBHVRP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KW585DPW",
+"name": "Atlantic-Kenmark Electric Inc",
+"domain": "atlantickenmark.com",
+"profile_url": "https://search.grata.com/c/KW585DPW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "95G6GEAF",
+"name": "eir Ireland",
+"domain": "eir.ie",
+"profile_url": "https://search.grata.com/c/95G6GEAF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RCSX2Z44",
+"name": "Torque Technologies",
+"domain": "torq-tech.com",
+"profile_url": "https://search.grata.com/c/RCSX2Z44?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "X2WQLR5Q",
+"name": "Sloan Electric",
+"domain": "sloanelectric.com",
+"profile_url": "https://search.grata.com/c/X2WQLR5Q?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JV334BDK",
+"name": "Leppert-Nutmeg, Inc.",
+"domain": "leppert-nutmeg.com",
+"profile_url": "https://search.grata.com/c/JV334BDK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7K6XVEK2",
+"name": "Good Fruit Electric, LLC",
+"domain": "goodfruitgrows.com",
+"profile_url": "https://search.grata.com/c/7K6XVEK2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MZLYW2QW",
+"name": "Ohio Carbon Industries, Inc.",
+"domain": "ohiocarbon.com",
+"profile_url": "https://search.grata.com/c/MZLYW2QW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XU9NJXAB",
+"name": "Superior Electric Motor Service, Inc.",
+"domain": "superiorelectricmotors.com",
+"profile_url": "https://search.grata.com/c/XU9NJXAB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CRMCACHY",
+"name": "AAA Pump Service",
+"domain": "aaapumpservice.com",
+"profile_url": "https://search.grata.com/c/CRMCACHY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "M8KVTU68",
+"name": "MH&W International Corp.",
+"domain": "mhw-intl.com",
+"profile_url": "https://search.grata.com/c/M8KVTU68?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HJH9TMYZ",
+"name": "Stewart's Electric Motor Works, Inc.",
+"domain": "semw.net",
+"profile_url": "https://search.grata.com/c/HJH9TMYZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YYRUF75S",
+"name": "Pitchero",
+"domain": "pitchero.com",
+"profile_url": "https://search.grata.com/c/YYRUF75S?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UE4STHFK",
+"name": "STAR Technology, Inc.",
+"domain": "star-technology.com",
+"profile_url": "https://search.grata.com/c/UE4STHFK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5PH2Y5EB",
+"name": "Huntingdon Electric Motor Svc",
+"domain": "huntingdonelec.com",
+"profile_url": "https://search.grata.com/c/5PH2Y5EB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "43QHNTDH",
+"name": "Slaymaker Group",
+"domain": "slaymakergroup.com",
+"profile_url": "https://search.grata.com/c/43QHNTDH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "J2J6J5HN",
+"name": "McGilvra Electric",
+"domain": "mcgilvraelectric.com",
+"profile_url": "https://search.grata.com/c/J2J6J5HN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "47L2KPA7",
+"name": "Dings Co.",
+"domain": "dingsbrakes.com",
+"profile_url": "https://search.grata.com/c/47L2KPA7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GBTZTNLW",
+"name": "Homewood Products Corporation",
+"domain": "homewoodsales.com",
+"profile_url": "https://search.grata.com/c/GBTZTNLW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Y76MULBZ",
+"name": "Stimple and Ward Company",
+"domain": "swcoils.com",
+"profile_url": "https://search.grata.com/c/Y76MULBZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GJTCRYXP",
+"name": "Spring Point",
+"domain": "springpt.com",
+"profile_url": "https://search.grata.com/c/GJTCRYXP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NZQEK79Y",
+"name": "Tatung",
+"domain": "tatung.com",
+"profile_url": "https://search.grata.com/c/NZQEK79Y?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GWTJR47J",
+"name": "Confluence Energy Services",
+"domain": "confluence-llc.com",
+"profile_url": "https://search.grata.com/c/GWTJR47J?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YNUL57DZ",
+"name": "EASA",
+"domain": "easa.com",
+"profile_url": "https://search.grata.com/c/YNUL57DZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "M4W38RYZ",
+"name": "Brisbane Industrial Drive Company, Inc.",
+"domain": "brisbaneindustrial.com",
+"profile_url": "https://search.grata.com/c/M4W38RYZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "W3HBFLH4",
+"name": "Sidewinders, LLC.",
+"domain": "sidewindersllc.com",
+"profile_url": "https://search.grata.com/c/W3HBFLH4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PYVMW9G4",
+"name": "Connex Industrial Corporation",
+"domain": "connex-electric.com",
+"profile_url": "https://search.grata.com/c/PYVMW9G4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FFQW92DR",
+"name": "Verona Industrial Equipment LLC",
+"domain": "veronaie.com",
+"profile_url": "https://search.grata.com/c/FFQW92DR?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KY9C2Q4D",
+"name": "REM Industrial Solutions",
+"domain": "remisi.com",
+"profile_url": "https://search.grata.com/c/KY9C2Q4D?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UQSNCVB2",
+"name": "Nidec",
+"domain": "nidec.com",
+"profile_url": "https://search.grata.com/c/UQSNCVB2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WAQQQQD9",
+"name": "D&D Electric Motors",
+"domain": "ddelectricmotors.com",
+"profile_url": "https://search.grata.com/c/WAQQQQD9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RJBXVVQQ",
+"name": "Electric Motor Repair Inc.",
+"domain": "emr-mn.com",
+"profile_url": "https://search.grata.com/c/RJBXVVQQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "U79JT9EU",
+"name": "Test Products International, Inc",
+"domain": "testproductsintl.com",
+"profile_url": "https://search.grata.com/c/U79JT9EU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Q7BH8BJ7",
+"name": "Superior Services LLC",
+"domain": "superiorservicesllc.com",
+"profile_url": "https://search.grata.com/c/Q7BH8BJ7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2SDTYKAB",
+"name": "Industrial Pump and Motor Repair, Ltd.",
+"domain": "industrialpumpandmotor.com",
+"profile_url": "https://search.grata.com/c/2SDTYKAB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "X4X74GHE",
+"name": "OmniSensing Photonics",
+"domain": "omnisensingtech.com",
+"profile_url": "https://search.grata.com/c/X4X74GHE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6F7HU47J",
+"name": "Apex Sealing Inc.",
+"domain": "apexsealing.com",
+"profile_url": "https://search.grata.com/c/6F7HU47J?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UVNF5GC4",
+"name": "New Mexico State University",
+"domain": "nmsu.edu",
+"profile_url": "https://search.grata.com/c/UVNF5GC4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NB88VENZ",
+"name": "Rogers Equipment Sales Inc.",
+"domain": "rogersequip.com",
+"profile_url": "https://search.grata.com/c/NB88VENZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "C2YSF9CD",
+"name": "Electric Motor Wholesale Inc.",
+"domain": "electricmotorwholesale.com",
+"profile_url": "https://search.grata.com/c/C2YSF9CD?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "L6FXSYG6",
+"name": "United Industrial Group, Inc.",
+"domain": "uigcorp.com",
+"profile_url": "https://search.grata.com/c/L6FXSYG6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NJC49KTF",
+"name": "Industrial Motor & Controls",
+"domain": "imcrep.com",
+"profile_url": "https://search.grata.com/c/NJC49KTF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VHWLFZFU",
+"name": "Goding Electric Company",
+"domain": "goding.com",
+"profile_url": "https://search.grata.com/c/VHWLFZFU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "69EYLSQS",
+"name": "Traver IDC",
+"domain": "traveridc.com",
+"profile_url": "https://search.grata.com/c/69EYLSQS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YCJGQXSC",
+"name": "Magna Products Corp",
+"domain": "magnaproducts.com",
+"profile_url": "https://search.grata.com/c/YCJGQXSC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EK75YMYH",
+"name": "Rockford Electric Motor, LLC",
+"domain": "rockfordelectricmotor.com",
+"profile_url": "https://search.grata.com/c/EK75YMYH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JMJP7UE7",
+"year_founded": 1967,
+"ownership": "Bootstrapped",
+"employees_estimate": {
+"grata": 17
+},
+"headquarters_pretty": "Warren, MI",
+"description": "A&C Electric Company provides repair, testing, refurbishment, and sales of industrial and servo electric motors and related motion components for industrial customers. They serve manufacturing and maintenance operations with send-in repairs, exchange/reconditioned motor sales, OEM parts replacements, diagnostic lab services, and motor management programs, and they claim extensive OEM-part usage, inventory depth, warranties, and rapid turnaround options.",
+"funding_stage": "No Funding",
+"domain": "acelectricmotorservice.com",
+"name": "A&C Electric Company",
+"primary_business_model_name": "Services",
+"revenue": 1540000.0,
+"profile_url": "https://search.grata.com/c/JMJP7UE7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6PMGZLH7",
+"year_founded": 1991,
+"ownership": "Bootstrapped",
+"employees_estimate": {
+"grata": 17,
+"linkedin": 10
+},
+"headquarters_pretty": "Hagerstown, MD",
+"description": "Apparatus Repair & Engineering provides sales, service, and repair of electric motors and associated equipment for commercial, industrial, and utility customers, positioning themselves as a regional specialist that remains operational during critical periods and emphasizes trustworthiness and community stewardship.",
+"funding_stage": "No Funding",
+"domain": "apprep.com",
+"name": "Apparatus Repair & Engineering",
+"primary_business_model_name": "Services",
+"revenue": 1540000.0,
+"profile_url": "https://search.grata.com/c/6PMGZLH7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "X4HB4GHZ",
+"year_founded": 1947,
+"ownership": "Private Subsidiary",
+"employees_estimate": {
+"grata": 16,
+"linkedin": 9
+},
+"headquarters_pretty": "Whippany, NJ",
+"description": "Berliss Companies supplies bearings, mechanical seals, replacement pump seals, and engineered mechanical subassemblies to industrial and repair customers, emphasizing a large stocked inventory, authorized distributor relationships, and engineering support from design to delivery.",
+"domain": "berliss.com",
+"name": "Berliss Companies",
+"primary_business_model_name": "Distributor",
+"profile_url": "https://search.grata.com/c/X4HB4GHZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6E8ZWWXP",
+"ownership": "Bootstrapped",
+"employees_estimate": {
+"grata": 16,
+"linkedin": 5
+},
+"headquarters_pretty": "Kerrville, TX",
+"description": "Sterling Electric, Inc. manufactures and sells industrial electric motors, gearmotors, and gear reducers to business customers such as OEMs, equipment manufacturers, and maintenance departments. They offer product catalogs and technical documentation and promote product features like ease of installation and reduced fret corrosion for specific components.",
+"funding_stage": "No Funding",
+"domain": "sterlingelectric.com",
+"name": "Sterling Electric, Inc.",
+"primary_business_model_name": "Manufacturer",
+"revenue": 4675000.0,
+"profile_url": "https://search.grata.com/c/6E8ZWWXP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7HVM6ZDJ",
+"year_founded": 1996,
+"ownership": "Bootstrapped",
+"employees_estimate": {
+"grata": 16,
+"linkedin": 6
+},
+"headquarters_pretty": "Temple, PA",
+"description": "Electric Coil Service manufactures replacement electric coils (stator and armature coils) for industrial and equipment-focused customers, emphasizing tested products that meet or exceed OEM specifications, ISO 9001:2015 certification, employee ownership, and on-time delivery.",
+"funding_stage": "No Funding",
+"domain": "electriccoil.com",
+"name": "Electric Coil Service Inc",
+"primary_business_model_name": "Manufacturer",
+"revenue": 3379000.0,
+"profile_url": "https://search.grata.com/c/7HVM6ZDJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FCBAZS6W",
+"name": "Samatic",
+"domain": "samatic.com",
+"profile_url": "https://search.grata.com/c/FCBAZS6W?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3DZRF2QT",
+"name": "Motor Diagnostic Systems Inc",
+"domain": "motordiagnosticsystems.com",
+"profile_url": "https://search.grata.com/c/3DZRF2QT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FQ3JKS9Y",
+"name": "Quality Armature Inc",
+"domain": "qualityarmature.com",
+"profile_url": "https://search.grata.com/c/FQ3JKS9Y?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "P5D6345L",
+"name": "Universal Coil Mfr",
+"domain": "universalcoil.com",
+"profile_url": "https://search.grata.com/c/P5D6345L?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8C32A437",
+"name": "United Industrial Services of Virginia",
+"domain": "unitedisva.com",
+"profile_url": "https://search.grata.com/c/8C32A437?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DX4S2LSY",
+"name": "Lange Electric Co",
+"domain": "langeelectric.com",
+"profile_url": "https://search.grata.com/c/DX4S2LSY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "P6XT6EBM",
+"name": "Biedlers",
+"domain": "biedlers.com",
+"profile_url": "https://search.grata.com/c/P6XT6EBM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BTYXYLJN",
+"name": "Prattco Inc",
+"domain": "prattco.com",
+"profile_url": "https://search.grata.com/c/BTYXYLJN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8GY8382S",
+"name": "Electric Motor Co",
+"domain": "electricmotorco.com",
+"profile_url": "https://search.grata.com/c/8GY8382S?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "U6LBHZJB",
+"name": "ECO Burn-Off Ovens",
+"domain": "ecoburnoff.com",
+"profile_url": "https://search.grata.com/c/U6LBHZJB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "D3VA8D7H",
+"name": "T. C. Lewis & Co.",
+"domain": "tclewisproperties.com",
+"profile_url": "https://search.grata.com/c/D3VA8D7H?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SALRT2CY",
+"name": "D Electric Inc",
+"domain": "delectricinc.net",
+"profile_url": "https://search.grata.com/c/SALRT2CY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2ET2NKS2",
+"name": "J.W. Cooler Company",
+"domain": "jwcooler.com",
+"profile_url": "https://search.grata.com/c/2ET2NKS2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PMKFVAFT",
+"name": "AC Furia Electric Motor, Inc.",
+"domain": "acfuria.com",
+"profile_url": "https://search.grata.com/c/PMKFVAFT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WNGS9L2H",
+"name": "Owensboro Electric Motor",
+"domain": "owensboroelectricmotor.com",
+"profile_url": "https://search.grata.com/c/WNGS9L2H?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "M2NKP4ND",
+"name": "East Coast Electrical Equipment Company",
+"domain": "eastcoastmotor.com",
+"profile_url": "https://search.grata.com/c/M2NKP4ND?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "G2BX78EQ",
+"name": "Ouachita Electric Cooperative Corporation",
+"domain": "oecc.com",
+"profile_url": "https://search.grata.com/c/G2BX78EQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FTQACQL8",
+"name": "S&S Electric Motors, Inc.",
+"domain": "ss-electric-motors.com",
+"profile_url": "https://search.grata.com/c/FTQACQL8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "D378JX4X",
+"name": "Rocky Mount Electric Motor, LLC",
+"domain": "rmemnc.com",
+"profile_url": "https://search.grata.com/c/D378JX4X?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5HC84J6K",
+"name": "Priest Electric Svc",
+"domain": "priestelectric.com",
+"profile_url": "https://search.grata.com/c/5HC84J6K?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XQLS6JHW",
+"name": "Avana Electrotek",
+"domain": "avanaelectrotek.com",
+"profile_url": "https://search.grata.com/c/XQLS6JHW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S5EHQNEB",
+"name": "B & B Electric Motor CO",
+"domain": "bbelectricmotor.com",
+"profile_url": "https://search.grata.com/c/S5EHQNEB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5CGXRTYN",
+"name": "Fulmer Company",
+"domain": "fulmercompany.com",
+"profile_url": "https://search.grata.com/c/5CGXRTYN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MVR2JHAE",
+"name": "Laser Technologies Inc.",
+"domain": "lasertechnologiesinc.com",
+"profile_url": "https://search.grata.com/c/MVR2JHAE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PJMBHRH3",
+"name": "Prime Electric Motors",
+"domain": "primeelectricmotor.com",
+"profile_url": "https://search.grata.com/c/PJMBHRH3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "K48FV4VX",
+"name": "LePoidevin Marketing",
+"domain": "lepoidevinmarketing.com",
+"profile_url": "https://search.grata.com/c/K48FV4VX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FXEJ3WU7",
+"name": "Western Industrial Motor & Machine",
+"domain": "westernindustrialmotor.com",
+"profile_url": "https://search.grata.com/c/FXEJ3WU7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "SK4BYEDZ",
+"name": "Octava Engineering",
+"domain": "octavaengineering.com",
+"profile_url": "https://search.grata.com/c/SK4BYEDZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RVLAZ6N9",
+"name": "Wyse Electric Motor Repair",
+"domain": "wyseemr.com",
+"profile_url": "https://search.grata.com/c/RVLAZ6N9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GMQBUD3L",
+"name": "EMI power & automation",
+"domain": "emipower.net",
+"profile_url": "https://search.grata.com/c/GMQBUD3L?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZR37C85P",
+"name": "Columbia Electric Motors Flowrider Motor Service Center",
+"domain": "columbiaelectricmotors.com",
+"profile_url": "https://search.grata.com/c/ZR37C85P?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XM998YWG",
+"name": "RPM Inc",
+"domain": "rpm-inc.com",
+"profile_url": "https://search.grata.com/c/XM998YWG?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "P4N5ZGXK",
+"name": "Alexandria Armature Works",
+"domain": "aawva.com",
+"profile_url": "https://search.grata.com/c/P4N5ZGXK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EBZ9XB9X",
+"name": "Bayview Bearing and Supply",
+"domain": "bayviewbearing.com",
+"profile_url": "https://search.grata.com/c/EBZ9XB9X?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "9MJGKNV4",
+"name": "Alpha Southwest",
+"domain": "alphasw.com",
+"profile_url": "https://search.grata.com/c/9MJGKNV4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "G9YHK26M",
+"name": "Power Quality Components",
+"domain": "pqcomponents.com",
+"profile_url": "https://search.grata.com/c/G9YHK26M?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KKBCTTY8",
+"name": "Windsor Stevens",
+"domain": "windsorstevens.com",
+"profile_url": "https://search.grata.com/c/KKBCTTY8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HRFVW3QC",
+"name": "M & M Electric Motor Repair",
+"domain": "wewindmotors.com",
+"profile_url": "https://search.grata.com/c/HRFVW3QC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GWD3AQN6",
+"name": "Motion Control Resources",
+"domain": "mcrsales.com",
+"profile_url": "https://search.grata.com/c/GWD3AQN6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BEDYVLU5",
+"name": "Martino Marketing Group, Inc.",
+"domain": "martinomarketing.com",
+"profile_url": "https://search.grata.com/c/BEDYVLU5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RUL7R8NN",
+"name": "Witmer Motor Service",
+"domain": "witmermotorservice.com",
+"profile_url": "https://search.grata.com/c/RUL7R8NN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "F76AG6PQ",
+"name": "Green Motors Practices Group",
+"domain": "greenmotors.org",
+"profile_url": "https://search.grata.com/c/F76AG6PQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BF4ZFFLB",
+"name": "SFEG",
+"domain": "sfeg.com",
+"profile_url": "https://search.grata.com/c/BF4ZFFLB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7CVUHKZB",
+"name": "Connex Industrial Corp",
+"domain": "go-connex.com",
+"profile_url": "https://search.grata.com/c/7CVUHKZB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VQ3ZYHH4",
+"name": "IM Motors",
+"domain": "immotors.com",
+"profile_url": "https://search.grata.com/c/VQ3ZYHH4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4VEYPP2D",
+"name": "Bmr Usa",
+"domain": "bmr-usa.com",
+"profile_url": "https://search.grata.com/c/4VEYPP2D?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CF4ZXTU2",
+"name": "Deckman Motor & Pump",
+"domain": "deckmanpump.com",
+"profile_url": "https://search.grata.com/c/CF4ZXTU2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YEY3GMQ5",
+"name": "Dynamic Balancing",
+"domain": "dynamicbalancing.com",
+"profile_url": "https://search.grata.com/c/YEY3GMQ5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8574N48R",
+"name": "EMS Ltd",
+"domain": "emsgrandrapids.com",
+"profile_url": "https://search.grata.com/c/8574N48R?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8AFUY5DS",
+"name": "HPS Electrical Apparatus Sales & Service",
+"domain": "hpselectric.com",
+"profile_url": "https://search.grata.com/c/8AFUY5DS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "A6LLT69B",
+"name": "TT Electric",
+"domain": "ttelectricusa.com",
+"profile_url": "https://search.grata.com/c/A6LLT69B?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BMU3TM8A",
+"name": "Allied Industrial Marketing",
+"domain": "alliedindustrialmarketing.com",
+"profile_url": "https://search.grata.com/c/BMU3TM8A?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WX6VTY53",
+"name": "Ludwig Electric, LLC",
+"domain": "ludwigelectricllc.com",
+"profile_url": "https://search.grata.com/c/WX6VTY53?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UMT46GQ4",
+"name": "Source Atlantic Limited",
+"domain": "sourceatlantic.ca",
+"profile_url": "https://search.grata.com/c/UMT46GQ4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5TJJNSMG",
+"name": "WEG S.A.",
+"domain": "weg.net",
+"profile_url": "https://search.grata.com/c/5TJJNSMG?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7EU4NC9G",
+"name": "Vaughen's Price Publishing CO",
+"domain": "vaughens.com",
+"profile_url": "https://search.grata.com/c/7EU4NC9G?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YTZLQGHW",
+"name": "Kufen Motor & Pump Technologies, Inc.",
+"domain": "kufenmotor.com",
+"profile_url": "https://search.grata.com/c/YTZLQGHW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2NN49FZV",
+"name": "Lewis Electric Motor Company",
+"domain": "lewiselectricmotor.com",
+"profile_url": "https://search.grata.com/c/2NN49FZV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PMBDVX2W",
+"name": "Barks Publications, Inc.",
+"domain": "barks.com",
+"profile_url": "https://search.grata.com/c/PMBDVX2W?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "X6LCE2CW",
+"name": "Vibration Institute",
+"domain": "vi-institute.org",
+"profile_url": "https://search.grata.com/c/X6LCE2CW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "TU3DEEF2",
+"name": "California Association of Building Energy Consultants (CABEC)",
+"domain": "cabec.org",
+"profile_url": "https://search.grata.com/c/TU3DEEF2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RVLG3Z2S",
+"name": "EDE Electric Motor Testing, Inc",
+"domain": "edeinst.com",
+"profile_url": "https://search.grata.com/c/RVLG3Z2S?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FXEN59MY",
+"name": "One Stop Electric",
+"domain": "onestopelectricmotor.com",
+"profile_url": "https://search.grata.com/c/FXEN59MY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "THKD83V4",
+"name": "Hi-Sun Bearings",
+"domain": "hisunbearings.com",
+"profile_url": "https://search.grata.com/c/THKD83V4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3BLU4MS2",
+"name": "Coiltec",
+"domain": "coiltec.com",
+"profile_url": "https://search.grata.com/c/3BLU4MS2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VB64EY76",
+"name": "Martindale Electric Company",
+"domain": "martindaleco.com",
+"profile_url": "https://search.grata.com/c/VB64EY76?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3ERFGLX6",
+"name": "Dynamics Research Corp",
+"domain": "dynamicsresearch.net",
+"profile_url": "https://search.grata.com/c/3ERFGLX6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PVNXUUUD",
+"name": "Consultingpoint, Inc.",
+"domain": "cpi-manufacturing.com",
+"profile_url": "https://search.grata.com/c/PVNXUUUD?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "AF4KUEER",
+"name": "JTEKT Corporation",
+"domain": "jtekt.co.jp",
+"profile_url": "https://search.grata.com/c/AF4KUEER?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "X2GTXP9H",
+"name": "US Seal Inc",
+"domain": "ussealmfg.com",
+"profile_url": "https://search.grata.com/c/X2GTXP9H?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VSVYA5W4",
+"name": "Jolles Associates, Inc.",
+"domain": "jolles.com",
+"profile_url": "https://search.grata.com/c/VSVYA5W4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HH3WSLFA",
+"name": "Windsor Stevens",
+"domain": "windsor-stevens.com",
+"profile_url": "https://search.grata.com/c/HH3WSLFA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RHS9G8GC",
+"name": "Reliable Electric Motor Solutions",
+"domain": "reliableelectricmotorsolutions.com",
+"profile_url": "https://search.grata.com/c/RHS9G8GC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7ZW6W364",
+"name": "SensOS, LLC",
+"domain": "sens-os.com",
+"profile_url": "https://search.grata.com/c/7ZW6W364?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DNPLSWVY",
+"name": "Industrial Quick Search, Inc.",
+"domain": "industrialquicksearch.com",
+"profile_url": "https://search.grata.com/c/DNPLSWVY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GD4STGW9",
+"name": "Industrial Coils LLC",
+"domain": "indcoils.com",
+"profile_url": "https://search.grata.com/c/GD4STGW9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VT474888",
+"name": "The Machine Instrumentation Group, LLC",
+"domain": "machineinstrumentation.com",
+"profile_url": "https://search.grata.com/c/VT474888?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WVT88JFT",
+"name": "Armada Inc",
+"domain": "armadaintel.com",
+"profile_url": "https://search.grata.com/c/WVT88JFT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3F3DBRWE",
+"name": "Torq Engineering",
+"domain": "teamtorq.com",
+"profile_url": "https://search.grata.com/c/3F3DBRWE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3UYXR284",
+"name": "Temple Electric Motor Service Inc",
+"domain": "temple-ems.com",
+"profile_url": "https://search.grata.com/c/3UYXR284?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6YHQRXNY",
+"name": "Fletcher Moorland",
+"domain": "fletchermoorland.co.uk",
+"profile_url": "https://search.grata.com/c/6YHQRXNY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HMS244XY",
+"name": "Sepro Systems",
+"domain": "seprosystems.com",
+"profile_url": "https://search.grata.com/c/HMS244XY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VP9ZEEHU",
+"name": "WES Ltd",
+"domain": "wes.ltd.uk",
+"profile_url": "https://search.grata.com/c/VP9ZEEHU?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BU9UUWQ3",
+"name": "Sahney Commutators Pvt Ltd",
+"domain": "sahney.com",
+"profile_url": "https://search.grata.com/c/BU9UUWQ3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8KS4HXQB",
+"name": "Birr Machines Ltd.",
+"domain": "birr-machines.com",
+"profile_url": "https://search.grata.com/c/8KS4HXQB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7GKDWLYJ",
+"name": "Bakker Repair+Services",
+"domain": "bakker-repair.nl",
+"profile_url": "https://search.grata.com/c/7GKDWLYJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "EDPYZZEW",
+"name": "Vogelsang Service Group",
+"domain": "vogelsang.com",
+"profile_url": "https://search.grata.com/c/EDPYZZEW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PV3BDJVT",
+"name": "Avonmore Electrical Co. Ltd",
+"domain": "avonmore-electrical.com",
+"profile_url": "https://search.grata.com/c/PV3BDJVT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CS8FU7X8",
+"name": "Simsa Motores",
+"domain": "simsamotores.com",
+"profile_url": "https://search.grata.com/c/CS8FU7X8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8YSJT2DS",
+"name": "V.J. Pamensky Canada Inc.",
+"domain": "pamensky.com",
+"profile_url": "https://search.grata.com/c/8YSJT2DS?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "K4ZLPNDK",
+"name": "Coil Partners",
+"domain": "coilpartners.com",
+"profile_url": "https://search.grata.com/c/K4ZLPNDK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YEY3ZAXV",
+"name": "BEM Testers",
+"domain": "bemtesters.net",
+"profile_url": "https://search.grata.com/c/YEY3ZAXV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "V736ATHZ",
+"name": "Cincinnati Babbitt Bearing",
+"domain": "cinbab.com",
+"profile_url": "https://search.grata.com/c/V736ATHZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Y2ZTEPKR",
+"name": "CD Electric, LLC",
+"domain": "cdelectricllc.com",
+"profile_url": "https://search.grata.com/c/Y2ZTEPKR?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "9YN2E5ZL",
+"name": "Thermolex",
+"domain": "thermolex.com",
+"profile_url": "https://search.grata.com/c/9YN2E5ZL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YG9RYZY4",
+"ownership": "Bootstrapped",
+"headquarters_pretty": "Manassas, VA",
+"description": "MEMCO supplies and services electric motors, pumps, bearings, and related rotating-equipment components for government and commercial facilities. They combine value-added resale and government contracting with repair, remanufacturing, field services (vibration analysis, balancing, alignment, electrical testing) and remote vibration monitoring to support mission-critical HVAC, chiller, and water systems. They emphasize long-term experience, authorized warranty service capability, fast delivery for government contracts, and AI-enabled condition monitoring.",
+"funding_stage": "No Funding",
+"domain": "memcodmv.com",
+"name": "MEMCO",
+"primary_business_model_name": "Distributor",
+"revenue": 31606000.0,
+"profile_url": "https://search.grata.com/c/YG9RYZY4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6389GR68",
+"ownership": "Bootstrapped",
+"headquarters_pretty": "Birmingham, AL",
+"description": "Plymon.Com provides vibration consulting, diagnostics, and training focused on rotating machinery. They serve industrial customers such as power plants, motor repair facilities, and operators of pumps, generators, and compressors. They emphasize hands-on troubleshooting services—vibration data acquisition and analysis, proximity probe data overlay, precision shaft alignment, isolation system validation, and ODS analysis—alongside training courses.",
+"funding_stage": "No Funding",
+"domain": "plymon.com",
+"name": "Plymon.Com",
+"primary_business_model_name": "Services",
+"revenue": 1513000.0,
+"profile_url": "https://search.grata.com/c/6389GR68?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PJSAS88Z",
+"ownership": "Bootstrapped",
+"headquarters_pretty": "Lynnwood, WA",
+"funding_stage": "No Funding",
+"domain": "cs-associates.com",
+"name": "Cs Associates",
+"primary_business_model_name": "Services",
+"revenue": 2499000.0,
+"profile_url": "https://search.grata.com/c/PJSAS88Z?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "W5M7DZ8K",
+"ownership": "Bootstrapped",
+"headquarters_pretty": "Yorkville, IL",
+"description": "OEM electric motor and industrial component manufacturing.",
+"funding_stage": "No Funding",
+"domain": "qi-engineering.com",
+"name": "Qi Engineering",
+"profile_url": "https://search.grata.com/c/W5M7DZ8K?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZT5V2UUB",
+"ownership": "Bootstrapped",
+"employees_estimate": {
+"grata": 1,
+"linkedin": 2
+},
+"headquarters_pretty": "Richmond, NY",
+"description": "AtlasElektro specializes in winding motors & pumps and offers services related to their maintenance and repair. Their typical customers are likely to be industrial companies that rely on motors and pumps for their operations, such as manufacturing plants, utility companies, and construction firms. AtlasElektro claims to differentiate themselves by being SWaM Certified and a member of the Electrical Apparatus Service Association (EASA), which likely signifies their commitment to quality and industry best practices. They likely position themselves as a reliable and certified provider in their industry.",
+"funding_stage": "No Funding",
+"domain": "atlaselektro.com",
+"name": "AtlasElektro",
+"primary_business_model_name": "Services",
+"revenue": 112000.0,
+"profile_url": "https://search.grata.com/c/ZT5V2UUB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "YS7RREMJ",
+"name": "Industrial Electric Motors Inc",
+"domain": "industrialmotorsinc.com",
+"profile_url": "https://search.grata.com/c/YS7RREMJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "T7DA9ZJ9",
+"name": "Holder & Associates, Inc",
+"domain": "noholder.com",
+"profile_url": "https://search.grata.com/c/T7DA9ZJ9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VKELCBUL",
+"name": "Manville Motor",
+"domain": "manvillesolutions.com",
+"profile_url": "https://search.grata.com/c/VKELCBUL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "AKBJJCAD",
+"name": "Connie Podesta Presents",
+"domain": "conniepodesta.com",
+"profile_url": "https://search.grata.com/c/AKBJJCAD?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MWHFS65H",
+"name": "OMEC Medical",
+"domain": "omecmedical.com",
+"profile_url": "https://search.grata.com/c/MWHFS65H?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "599BCMTL",
+"name": "Jasper Electric Motors",
+"domain": "jasperelectricmotorsinc.com",
+"profile_url": "https://search.grata.com/c/599BCMTL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Q54QMXLY",
+"name": "Temisa",
+"domain": "temisa.mx",
+"profile_url": "https://search.grata.com/c/Q54QMXLY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KT64JDS2",
+"name": "Menzel Elektromotoren",
+"domain": "menzel-motors.com",
+"profile_url": "https://search.grata.com/c/KT64JDS2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "9KEDFAEQ",
+"name": "Renown Electric Motors & Repair Inc.",
+"domain": "renown-electric.com",
+"profile_url": "https://search.grata.com/c/9KEDFAEQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WCQN3PUC",
+"name": "Grupo Gempsa",
+"domain": "gempsa.info",
+"profile_url": "https://search.grata.com/c/WCQN3PUC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ASRH3373",
+"name": "Oropeza Ingenieros SA de CV",
+"domain": "oropezaingenieros.com",
+"profile_url": "https://search.grata.com/c/ASRH3373?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DLZZDQGH",
+"name": "Masters of Industry",
+"domain": "mastersofindustry.be",
+"profile_url": "https://search.grata.com/c/DLZZDQGH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6JPXT4X4",
+"name": "INSTRONIC Instrumentos de Testes",
+"domain": "instronic.com.br",
+"profile_url": "https://search.grata.com/c/6JPXT4X4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KW2GSVJ7",
+"name": "Ferroman",
+"domain": "ferroman.cl",
+"profile_url": "https://search.grata.com/c/KW2GSVJ7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PWN2DJAN",
+"name": "Rogers Electric & Machine",
+"domain": "rogerselectric.ca",
+"profile_url": "https://search.grata.com/c/PWN2DJAN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "AR8X89U8",
+"name": "Techtop Canada Inc.",
+"domain": "techtopcanada.com",
+"profile_url": "https://search.grata.com/c/AR8X89U8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5JWWYM6V",
+"name": "MANSER Manutenção, Serviços e Engenharia S.A",
+"domain": "manser.com.br",
+"profile_url": "https://search.grata.com/c/5JWWYM6V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FDF65DDX",
+"name": "GMR Electric Motors Ltd",
+"domain": "gmrelectric.com",
+"profile_url": "https://search.grata.com/c/FDF65DDX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5CTMDQM3",
+"name": "Sandrin Services Inc.",
+"domain": "sandrininc.com",
+"profile_url": "https://search.grata.com/c/5CTMDQM3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JCHWWP9R",
+"name": "Sertek Global",
+"domain": "sertekglobal.com",
+"profile_url": "https://search.grata.com/c/JCHWWP9R?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "R5YDAALQ",
+"name": "Guspro Inc.",
+"domain": "guspro.com",
+"profile_url": "https://search.grata.com/c/R5YDAALQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8VJVE4GV",
+"name": "INVT China",
+"domain": "invt-power.com.cn",
+"profile_url": "https://search.grata.com/c/8VJVE4GV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "5JTVUC53",
+"name": "Ampro Electric Ltd",
+"domain": "amproelectric.com",
+"profile_url": "https://search.grata.com/c/5JTVUC53?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "9G2WUS44",
+"name": "Electrowind",
+"domain": "electro-wind.com",
+"profile_url": "https://search.grata.com/c/9G2WUS44?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8JNQ27J3",
+"name": "Bob White Electrix Australia",
+"domain": "bwe.com.au",
+"profile_url": "https://search.grata.com/c/8JNQ27J3?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "54S8XS44",
+"name": "Electric Motor Coil Co.",
+"domain": "emccltd.ca",
+"profile_url": "https://search.grata.com/c/54S8XS44?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "V76V5JYZ",
+"name": "Lafert North America",
+"domain": "lafertna.com",
+"profile_url": "https://search.grata.com/c/V76V5JYZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "P2ZEKR9W",
+"name": "Saftty",
+"domain": "saftty.com",
+"profile_url": "https://search.grata.com/c/P2ZEKR9W?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "36UCX2W6",
+"name": "Universal Rewind",
+"domain": "universalrewind.com",
+"profile_url": "https://search.grata.com/c/36UCX2W6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3DKEZGDF",
+"name": "Rimes Electro Mecanica, C.A.",
+"domain": "rimes.com.ve",
+"profile_url": "https://search.grata.com/c/3DKEZGDF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NTQ3AGEE",
+"name": "West Fraser Electro/Mechanical",
+"domain": "west-fraser.com",
+"profile_url": "https://search.grata.com/c/NTQ3AGEE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8TK2GVT4",
+"name": "Greensky Power Co., Ltd.",
+"domain": "greensky-power.com",
+"profile_url": "https://search.grata.com/c/8TK2GVT4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NWDXJGSP",
+"name": "Mep-Drives-Limited",
+"domain": "mep.ca",
+"profile_url": "https://search.grata.com/c/NWDXJGSP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QV6HRTVQ",
+"name": "Eletrotécnica KVM, Ltda.",
+"domain": "kvm.com.br",
+"profile_url": "https://search.grata.com/c/QV6HRTVQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QXT4WZBC",
+"name": "AEV Ltd",
+"domain": "theaevgroup.com",
+"profile_url": "https://search.grata.com/c/QXT4WZBC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GES27Q6N",
+"name": "Martindale Electric Co. Ltd",
+"domain": "martindale-electric.co.uk",
+"profile_url": "https://search.grata.com/c/GES27Q6N?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "C7KUJJ97",
+"name": "Trust Servo Motors Adjust",
+"domain": "servomotorsadjust.com",
+"profile_url": "https://search.grata.com/c/C7KUJJ97?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QEJWSP58",
+"name": "eMotors Direct Inc.",
+"domain": "emotorsdirect.ca",
+"profile_url": "https://search.grata.com/c/QEJWSP58?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "KENQDE68",
+"name": "Total Image Group",
+"domain": "totalimagegroup.com.au",
+"profile_url": "https://search.grata.com/c/KENQDE68?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZXAB54MW",
+"name": "CBE",
+"domain": "cbe.ma",
+"profile_url": "https://search.grata.com/c/ZXAB54MW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WSLGPDZP",
+"name": "Centraldebobinados",
+"domain": "centraldebobinados.com",
+"profile_url": "https://search.grata.com/c/WSLGPDZP?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "E9XB6MK6",
+"name": "Hyosung Corporation",
+"domain": "hyosung.com",
+"profile_url": "https://search.grata.com/c/E9XB6MK6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PASDGQZ2",
+"name": "CPM Engineering",
+"domain": "cpm-uk.com",
+"profile_url": "https://search.grata.com/c/PASDGQZ2?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4WFYL6TW",
+"name": "Ridgway Machines Ltd",
+"domain": "ridgwayeng.com",
+"profile_url": "https://search.grata.com/c/4WFYL6TW?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UBSBTUNJ",
+"name": "Armature Electric Ltd.",
+"domain": "armatureelectric.com",
+"profile_url": "https://search.grata.com/c/UBSBTUNJ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "75VN9CBA",
+"name": "Oxyweld snc",
+"domain": "oweld.com",
+"profile_url": "https://search.grata.com/c/75VN9CBA?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "DGH26ZTX",
+"name": "Spartakus APM",
+"domain": "apm.spartakustech.com",
+"profile_url": "https://search.grata.com/c/DGH26ZTX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "A5NTJTUQ",
+"name": "Lawrcon Electric and Machining Corporation",
+"domain": "lawrcon.com",
+"profile_url": "https://search.grata.com/c/A5NTJTUQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "VYZ6ME8V",
+"name": "Smartricity Inc.",
+"domain": "smartricity.ca",
+"profile_url": "https://search.grata.com/c/VYZ6ME8V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MDMDD8ET",
+"name": "Eura Drives Flagship Products",
+"domain": "euradrives.com",
+"profile_url": "https://search.grata.com/c/MDMDD8ET?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "Q3BT3N94",
+"name": "Milbank Industrial Electric",
+"domain": "milbank.co.nz",
+"profile_url": "https://search.grata.com/c/Q3BT3N94?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "R3FUGN4N",
+"name": "Universal Electric Motors",
+"domain": "uem.ca",
+"profile_url": "https://search.grata.com/c/R3FUGN4N?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "34YFB8U5",
+"name": "Lehmus",
+"domain": "lehmus.pt",
+"profile_url": "https://search.grata.com/c/34YFB8U5?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FVNE3WMB",
+"name": "Sprint Ex Engineering",
+"domain": "sprintexengineering.com",
+"profile_url": "https://search.grata.com/c/FVNE3WMB?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UL3VAYRV",
+"name": "Bater Electric Ltd",
+"domain": "baterelectric.com",
+"profile_url": "https://search.grata.com/c/UL3VAYRV?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "QQVBKPLN",
+"name": "SeymourSmith Electric",
+"domain": "seymoursmith.com",
+"profile_url": "https://search.grata.com/c/QQVBKPLN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PCZR6ZQK",
+"name": "Balance and Vibration Engineering BVE Pty Ltd",
+"domain": "balvibe.com.au",
+"profile_url": "https://search.grata.com/c/PCZR6ZQK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZT3FFMZC",
+"name": "IME",
+"domain": "ime.com.co",
+"profile_url": "https://search.grata.com/c/ZT3FFMZC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6GAHBNKT",
+"name": "Industrial Commutator Co",
+"domain": "commutator.ca",
+"profile_url": "https://search.grata.com/c/6GAHBNKT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZPSQBHEQ",
+"name": "Industrias Einstein, S A.",
+"domain": "industriaseinstein.com",
+"profile_url": "https://search.grata.com/c/ZPSQBHEQ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MN3Y9LPF",
+"name": "Scona Electric Inc",
+"domain": "sconaelectric.com",
+"profile_url": "https://search.grata.com/c/MN3Y9LPF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "FD4YLSM4",
+"name": "Willingwisdom.Com",
+"domain": "willingwisdom.com",
+"profile_url": "https://search.grata.com/c/FD4YLSM4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "6BU7W63J",
+"name": "C&S Associates Ltd",
+"domain": "csassociates.co.uk",
+"profile_url": "https://search.grata.com/c/6BU7W63J?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "8977D3AH",
+"name": "Anhui Hanhai New material corp.",
+"domain": "hanhaimagnet.com",
+"profile_url": "https://search.grata.com/c/8977D3AH?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "MLT9CYFR",
+"name": "Murray Hydronics Limited",
+"domain": "murrayhydronics.com",
+"profile_url": "https://search.grata.com/c/MLT9CYFR?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "JMG3LNTE",
+"name": "DSTAR Electric Ltd.",
+"domain": "dstarelectric.com",
+"profile_url": "https://search.grata.com/c/JMG3LNTE?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "2EAMSAXK",
+"name": "Cyntek Group",
+"domain": "cyntekgroup.com",
+"profile_url": "https://search.grata.com/c/2EAMSAXK?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "A6CMV8XX",
+"name": "Wescap",
+"domain": "wescap.nl",
+"profile_url": "https://search.grata.com/c/A6CMV8XX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BHSUBPXM",
+"name": "Kriskyle Industries Ltd",
+"domain": "kriskyle.com",
+"profile_url": "https://search.grata.com/c/BHSUBPXM?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "L2CF885X",
+"name": "Meunier Électrique",
+"domain": "meunierelectrique.ca",
+"profile_url": "https://search.grata.com/c/L2CF885X?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "RFCA6VUY",
+"name": "Elmah S De Rl.Cv",
+"domain": "elmahn.com",
+"profile_url": "https://search.grata.com/c/RFCA6VUY?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4FGFFXP8",
+"name": "Ning Fan Bearing",
+"domain": "ningfan.com",
+"profile_url": "https://search.grata.com/c/4FGFFXP8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "G2R8SR5M",
+"name": "Electric Motor Service",
+"domain": "electricmotorservice.ca",
+"profile_url": "https://search.grata.com/c/G2R8SR5M?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "337KKUF8",
+"name": "Fader Agencies",
+"domain": "faderagencies.ca",
+"profile_url": "https://search.grata.com/c/337KKUF8?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "ZB52VZZ4",
+"name": "Lofgham",
+"domain": "lofgham.com",
+"profile_url": "https://search.grata.com/c/ZB52VZZ4?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CV6WBS76",
+"name": "Carbon Brush Supply",
+"domain": "carbonbrushsupply.com",
+"profile_url": "https://search.grata.com/c/CV6WBS76?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "R3TQ3VZF",
+"name": "Cixi Waylead Motor Manufacturing Co., Ltd.",
+"domain": "waylead.com.cn",
+"profile_url": "https://search.grata.com/c/R3TQ3VZF?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XE6P6EBC",
+"name": "EMZ Industries, Inc",
+"domain": "emzmotor.com",
+"profile_url": "https://search.grata.com/c/XE6P6EBC?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "CG84Y9EZ",
+"name": "Anhui Wannan Electric Machine Co., Ltd.",
+"domain": "wannanmotor.net",
+"profile_url": "https://search.grata.com/c/CG84Y9EZ?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "56TFW5WT",
+"name": "Ningbo Mairui Machinery Co., Ltd.",
+"domain": "nbmairui.com",
+"profile_url": "https://search.grata.com/c/56TFW5WT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "HGKGXT8C",
+"name": "Shenyang Daming Motor Co., Ltd.",
+"domain": "brimoch.com",
+"profile_url": "https://search.grata.com/c/HGKGXT8C?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "3J7BM55N",
+"name": "Keliang.Com",
+"domain": "keliang.com",
+"profile_url": "https://search.grata.com/c/3J7BM55N?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "NEMD8JFX",
+"name": "Evans Electric",
+"domain": "evanselectric.co.in",
+"profile_url": "https://search.grata.com/c/NEMD8JFX?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "WEAALMB7",
+"name": "Areurmot",
+"domain": "areurmot.com",
+"profile_url": "https://search.grata.com/c/WEAALMB7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "7K4G7Z96",
+"name": "Electromotor",
+"domain": "electromotorspa.com",
+"profile_url": "https://search.grata.com/c/7K4G7Z96?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "UNXQ85D7",
+"name": "Elektroullrich",
+"domain": "elektroullrich.de",
+"profile_url": "https://search.grata.com/c/UNXQ85D7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "843WVCZ6",
+"name": "Hrbobinados",
+"domain": "hrbobinados.com",
+"profile_url": "https://search.grata.com/c/843WVCZ6?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BPVQ8NA9",
+"name": "Marro",
+"domain": "marro.mx",
+"profile_url": "https://search.grata.com/c/BPVQ8NA9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "XLHNAQCT",
+"name": "Em Inca",
+"domain": "eminca.com",
+"profile_url": "https://search.grata.com/c/XLHNAQCT?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "PH562S6V",
+"name": "Ltesas",
+"domain": "ltesas.com",
+"profile_url": "https://search.grata.com/c/PH562S6V?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "S2U4NGX9",
+"name": "Zhi Xing",
+"domain": "zhi-xing.com",
+"profile_url": "https://search.grata.com/c/S2U4NGX9?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "GWAGE6A7",
+"name": "Discount Electric Motors Inc",
+"domain": "discountelectricmotorsinc.com",
+"profile_url": "https://search.grata.com/c/GWAGE6A7?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "4P9MCQGN",
+"name": "Earth Inc",
+"domain": "1earthinc.com",
+"profile_url": "https://search.grata.com/c/4P9MCQGN?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "BLDEFJGL",
+"name": "Emrconsulting.No",
+"domain": "emrconsulting.no",
+"profile_url": "https://search.grata.com/c/BLDEFJGL?utm_source=mcp&utm_medium=get_companies_in_list"
+},
+{
+"id": "M48FE5SZ",
+"name": "Matelec SA",
+"domain": "matelec.com.pe",
+"profile_url": "https://search.grata.com/c/M48FE5SZ?utm_source=mcp&utm_medium=get_companies_in_list"
+}
+]
+}

@@ -1,0 +1,297 @@
+{
+ "_meta": {
+  "unknown_revenue_note": "Unknown-revenue pool derived arithmetically: bucket total minus sum of the five revenue bands. For T1 this is 0, i.e. Grata carries a revenue estimate for every company in the filter set.",
+  "seller_intent": "UNAVAILABLE - Grata returned HTTP 403: 'Your organization does not have access to Seller Intent.'",
+  "hold_period_signal": "UNAVAILABLE - API silently remaps hold_period_signal to transaction_signal; returned 0 for T1. Only founder_age_signal is usable."
+ },
+ "T1": {
+  "total": 175,
+  "revenue": {
+   "<5M": 84,
+   "5-15M": 48,
+   "15-30M": 29,
+   "30-50M": 9,
+   "50M+": 5
+  },
+  "in_box_5_50M": 86,
+  "unknown_revenue_pool": 0,
+  "region": {
+   "Northeast": 36,
+   "Southeast": 50,
+   "Midwest": 24,
+   "Texas+South Central": 23,
+   "West": 37
+  },
+  "ownership": {
+   "bootstrapped": 175,
+   "pe_backed": 21,
+   "public+public_sub": 10
+  },
+  "exit": {
+   "founder_age_signal": 35,
+   "hold_period_signal": 0,
+   "seller_intent_high": null
+  }
+ },
+ "T2": {
+  "total": 273,
+  "revenue": {
+   "<5M": 126,
+   "5-15M": 87,
+   "15-30M": 38,
+   "30-50M": 17,
+   "50M+": 5
+  },
+  "in_box_5_50M": 142,
+  "unknown_revenue_pool": 0,
+  "region": {
+   "Northeast": 50,
+   "Southeast": 90,
+   "Midwest": 46,
+   "Texas+South Central": 32,
+   "West": 55
+  },
+  "ownership": {
+   "bootstrapped": 265,
+   "pe_backed": 41,
+   "public+public_sub": 15
+  },
+  "exit": {
+   "founder_age_signal": 51,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ },
+ "T3": {
+  "total": 102,
+  "revenue": {
+   "<5M": 28,
+   "5-15M": 36,
+   "15-30M": 20,
+   "30-50M": 12,
+   "50M+": 6
+  },
+  "in_box_5_50M": 68,
+  "unknown_revenue_pool": 0,
+  "region": {
+   "Northeast": 12,
+   "Southeast": 20,
+   "Midwest": 25,
+   "Texas+South Central": 18,
+   "West": 27
+  },
+  "ownership": {
+   "bootstrapped": 95,
+   "pe_backed": 10,
+   "public+public_sub": 6
+  },
+  "exit": {
+   "founder_age_signal": 14,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ },
+ "T4": {
+  "total": 1718,
+  "revenue": {
+   "<5M": 531,
+   "5-15M": 735,
+   "15-30M": 272,
+   "30-50M": 124,
+   "50M+": 56
+  },
+  "in_box_5_50M": 1131,
+  "unknown_revenue_pool": 0,
+  "region": {
+   "Northeast": 292,
+   "Southeast": 410,
+   "Midwest": 452,
+   "Texas+South Central": 190,
+   "West": 371
+  },
+  "ownership": {
+   "bootstrapped": 1709,
+   "pe_backed": 46,
+   "public+public_sub": 14
+  },
+  "exit": {
+   "founder_age_signal": 222,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ },
+ "T5": {
+  "total": 1256,
+  "revenue": {
+   "<5M": 377,
+   "5-15M": 548,
+   "15-30M": 205,
+   "30-50M": 89,
+   "50M+": 36
+  },
+  "in_box_5_50M": 842,
+  "unknown_revenue_pool": 1,
+  "region": {
+   "Northeast": 216,
+   "Southeast": 365,
+   "Midwest": 246,
+   "Texas+South Central": 123,
+   "West": 304
+  },
+  "ownership": {
+   "bootstrapped": 1252,
+   "pe_backed": 16,
+   "public+public_sub": 11
+  },
+  "exit": {
+   "founder_age_signal": 161,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ },
+ "T6": {
+  "total": 3018,
+  "revenue": {
+   "<5M": 1689,
+   "5-15M": 886,
+   "15-30M": 259,
+   "30-50M": 119,
+   "50M+": 63
+  },
+  "in_box_5_50M": 1264,
+  "unknown_revenue_pool": 2,
+  "region": {
+   "Northeast": 495,
+   "Southeast": 856,
+   "Midwest": 644,
+   "Texas+South Central": 315,
+   "West": 704
+  },
+  "ownership": {
+   "bootstrapped": 2933,
+   "pe_backed": 233,
+   "public+public_sub": 113
+  },
+  "exit": {
+   "founder_age_signal": 416,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ },
+ "S7": {
+  "total": 281,
+  "revenue": {
+   "<5M": 181,
+   "5-15M": 60,
+   "15-30M": 27,
+   "30-50M": 7,
+   "50M+": 6
+  },
+  "in_box_5_50M": 94,
+  "unknown_revenue_pool": 0,
+  "region": {
+   "Northeast": 35,
+   "Southeast": 64,
+   "Midwest": 72,
+   "Texas+South Central": 55,
+   "West": 55
+  },
+  "ownership": {
+   "bootstrapped": 278,
+   "pe_backed": 31,
+   "public+public_sub": 8
+  },
+  "exit": {
+   "founder_age_signal": 35,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ },
+ "S8": {
+  "total": 191,
+  "revenue": {
+   "<5M": 56,
+   "5-15M": 76,
+   "15-30M": 36,
+   "30-50M": 15,
+   "50M+": 8
+  },
+  "in_box_5_50M": 127,
+  "unknown_revenue_pool": 0,
+  "region": {
+   "Northeast": 24,
+   "Southeast": 47,
+   "Midwest": 42,
+   "Texas+South Central": 23,
+   "West": 55
+  },
+  "ownership": {
+   "bootstrapped": 188,
+   "pe_backed": 14,
+   "public+public_sub": 7
+  },
+  "exit": {
+   "founder_age_signal": 22,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ },
+ "S9": {
+  "total": 490,
+  "revenue": {
+   "<5M": 147,
+   "5-15M": 210,
+   "15-30M": 76,
+   "30-50M": 36,
+   "50M+": 20
+  },
+  "in_box_5_50M": 322,
+  "unknown_revenue_pool": 1,
+  "region": {
+   "Northeast": 88,
+   "Southeast": 110,
+   "Midwest": 86,
+   "Texas+South Central": 31,
+   "West": 175
+  },
+  "ownership": {
+   "bootstrapped": 452,
+   "pe_backed": 32,
+   "public+public_sub": 26
+  },
+  "exit": {
+   "founder_age_signal": 67,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ },
+ "S10": {
+  "total": 197,
+  "revenue": {
+   "<5M": 87,
+   "5-15M": 71,
+   "15-30M": 27,
+   "30-50M": 8,
+   "50M+": 4
+  },
+  "in_box_5_50M": 106,
+  "unknown_revenue_pool": 0,
+  "region": {
+   "Northeast": 26,
+   "Southeast": 84,
+   "Midwest": 33,
+   "Texas+South Central": 28,
+   "West": 26
+  },
+  "ownership": {
+   "bootstrapped": 194,
+   "pe_backed": 18,
+   "public+public_sub": 7
+  },
+  "exit": {
+   "founder_age_signal": 33,
+   "hold_period_signal": null,
+   "seller_intent_high": null
+  }
+ }
+}

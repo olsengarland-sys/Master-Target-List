@@ -1,0 +1,368 @@
+{
+ "as_of": "2026-09-01",
+ "spend_grata_tokens": {
+  "transactions": 30,
+  "live_deals": 10,
+  "bankers": 3,
+  "buyers": 4
+ },
+ "transactions": {
+  "universe": {
+   "electrical_contractors_5yr_US": 846,
+   "industrial_repair_3yr_US": 334
+  },
+  "multiples_note": "Only 9 of 846 electrical-contractor deals in 10 years disclose a multiple - the LMM trade is opaque. Disclosed real-contractor deals cluster at 9.0-9.7x EV/EBITDA and 0.2-1.1x EV/Revenue, vs 13-32x on the listed comps. Solar-era outliers (Kuubix 2.9x rev) excluded from the read.",
+  "disclosed_multiples": [
+   {
+    "target": "Walker Engineering",
+    "buyer": "Comfort Systems USA",
+    "date": "2019-02",
+    "ev": 203000000,
+    "ebitda": 22500000,
+    "ev_ebitda": 9.0,
+    "note": "TX commercial/industrial electrical + tech services"
+   },
+   {
+    "target": "Whitlow Electric",
+    "buyer": "Hill & Smith",
+    "date": "2024-09",
+    "ev": 30200000,
+    "rev": 27400000,
+    "ebitda": 3100000,
+    "ev_ebitda": 9.7,
+    "ev_rev": 1.1,
+    "note": "substation/transmission structures - closest size to thesis box"
+   },
+   {
+    "target": "CSI Electrical Contractors",
+    "buyer": "MYR Group",
+    "date": "2019-07",
+    "ev": 79700000,
+    "rev": 265000000,
+    "ev_rev": 0.3,
+    "note": "banker: FMI"
+   },
+   {
+    "target": "Huen Electric",
+    "buyer": "MYR Group",
+    "date": "2018-07",
+    "ev": 47100000,
+    "rev": 130000000,
+    "ev_rev": 0.4
+   },
+   {
+    "target": "5 Star Electric",
+    "buyer": "Mammoth Energy",
+    "date": "2017-07",
+    "ev": 2400000,
+    "rev": 13970000,
+    "ev_rev": 0.2,
+    "note": "negative EBITDA - distressed"
+   }
+  ],
+  "notable_recent": [
+   {
+    "target": "Saber Power",
+    "buyer": "Veritas Capital",
+    "date": "2026-08",
+    "type": "PE Platform",
+    "note": "electrical testing/maintenance/engineering platform, 2,621 FTE - proof the T1/T2 service thesis is being institutionalized at scale"
+   },
+   {
+    "target": "Bowe & Gant",
+    "buyer": "Greenbelt Capital",
+    "date": "2026-07",
+    "type": "PE Platform",
+    "note": "54-FTE NJ commercial/industrial electrical w/ testing & maintenance - a PLATFORM at exactly the client's target size"
+   },
+   {
+    "target": "Sunbelt Solomon",
+    "buyer": "TJC",
+    "date": "2026-07",
+    "type": "PE Platform",
+    "note": "transformer sales+service (T2 analog), 1,116 FTE"
+   },
+   {
+    "target": "Superior Group",
+    "buyer": "MasTec",
+    "date": "2026-07",
+    "type": "Corp",
+    "ev": 1650000000,
+    "note": "data-center electrical at $732K EV/employee"
+   },
+   {
+    "target": "Schmidt Electric",
+    "buyer": "EMCOR",
+    "date": "2026-07",
+    "type": "Corp",
+    "note": "395-FTE TX contractor"
+   },
+   {
+    "target": "Carter Electric",
+    "buyer": "Grupo Visabeira (Nearing)",
+    "date": "2026-08",
+    "type": "Corp",
+    "note": "273-FTE FL contractor - European strategic entering US"
+   },
+   {
+    "target": "Koffler Electrical Mechanical Repair",
+    "buyer": "Industrial Service Solutions",
+    "date": "2026-07",
+    "type": "PE Add-On",
+    "note": "S7 motor/apparatus consolidator active NOW"
+   }
+  ]
+ },
+ "live_deals": [
+  {
+   "name": "Scalable Electrical Contractor with Systemized Operations",
+   "rev": 8100000,
+   "ebitda": 3400000,
+   "margin": 0.42,
+   "location": "United States",
+   "advisor": "Woodbridge International",
+   "verified": true,
+   "active": "2026-07-10",
+   "read": "IN BOX. 42% margin is exceptional for the trade - verify it is not owner-comp-adjusted or product-mixed."
+  },
+  {
+   "name": "Project Spark - Electrical Contractor",
+   "rev": 18000000,
+   "ebitda": 3500000,
+   "margin": 0.19,
+   "location": "United States",
+   "advisor": "Sellside Group",
+   "verified": true,
+   "active": "2026-02-11",
+   "read": "IN BOX. 19% margin is a healthy service-mix signal."
+  },
+  {
+   "name": "Electrical Company (Oklahoma)",
+   "rev": 7310202,
+   "ebitda": 1596042,
+   "ask": 7000000,
+   "ask_multiple": 4.4,
+   "advisor": "VR Business Brokers Charlotte",
+   "read": "In box on size; new-construction-led incl. residential - thesis flags. Owner absentee."
+  },
+  {
+   "name": "Fiber Installation Company (North Carolina)",
+   "rev": 23138826,
+   "ebitda": 5309843,
+   "ask": 26549000,
+   "ask_multiple": 5.0,
+   "advisor": "Priority Business Brokers",
+   "read": "Off-thesis (fiber/telecom) but shows LMM infra-services ask levels."
+  },
+  {
+   "name": "Commercial Mechanical Contractor (California)",
+   "rev": 56908143,
+   "ebitda": 7059152,
+   "ask_multiple": 6.0,
+   "advisor": "NEBBA-Plus",
+   "read": "Off-trade (HVAC/plumbing) - pricing benchmark only."
+  },
+  {
+   "name": "Engineering Firm (Ohio)",
+   "rev": 4021742,
+   "ebitda": 556458,
+   "ask_multiple": 3.2,
+   "advisor": "NEBBA-Plus/Transworld",
+   "read": "Off-thesis (E12-type). Benchmark only."
+  }
+ ],
+ "ask_multiple_read": "Live-mandate asking multiples run 3.2-6.0x EBITDA; disclosed closed deals for real contractors 9.0-9.7x at $20M+ EBITDA. The gap IS the size discount, observed directly.",
+ "bankers": {
+  "sector_specialists": [
+   {
+    "name": "SF&P Advisors",
+    "domain": "sfpadvisors.com",
+    "hq": "Florida",
+    "why": "service-contractor M&A specialist: HVAC/plumbing/ELECTRICAL/mechanical - the sell-side shop for trades businesses"
+   },
+   {
+    "name": "BaseRock Partners",
+    "domain": "baserockpartners.com",
+    "hq": "Denver, CO",
+    "why": "exclusively engineering & construction M&A incl. contractors; ESOP capability"
+   },
+   {
+    "name": "Romanchuk & Co.",
+    "domain": "romanchukco.com",
+    "hq": "The Woodlands, TX",
+    "why": "power/infrastructure/energy-transition boutique for founder-owned businesses"
+   },
+   {
+    "name": "League Park Advisors",
+    "domain": "leaguepark.com",
+    "hq": "Cleveland, OH",
+    "why": "commercial & industrial services sell-side"
+   },
+   {
+    "name": "GulfStar Group",
+    "domain": "gulfstargroup.com",
+    "hq": "Houston, TX",
+    "why": "Houston middle-market industrials"
+   },
+   {
+    "name": "Mufson Howe Hunter",
+    "domain": "mhhco.com",
+    "hq": "Philadelphia, PA",
+    "why": "manufacturing & industrial services MM bank"
+   },
+   {
+    "name": "Wilcox Investment Bankers",
+    "domain": "wilcoxinvestmentbankers.com",
+    "hq": "Coppell, TX",
+    "why": "commercial/industrial $20-250M revenue"
+   }
+  ],
+  "deal_evidenced": [
+   {
+    "name": "FMI Corporation",
+    "evidence": "sold CSI Electrical to MYR (2019) - the construction-industry IB"
+   },
+   {
+    "name": "D.A. Davidson",
+    "evidence": "sold Walker Engineering to Comfort Systems (2019)"
+   },
+   {
+    "name": "Woodbridge International",
+    "evidence": "currently marketing the $3.4M-EBITDA electrical contractor mandate"
+   },
+   {
+    "name": "Sellside Group",
+    "evidence": "currently marketing Project Spark ($3.5M EBITDA)"
+   },
+   {
+    "name": "Everingham & Kerr",
+    "evidence": "sold Saunders Contracting (2026) - LMM industrials"
+   },
+   {
+    "name": "Intrepid Investment Bankers",
+    "evidence": "buy-side on Astro Pak/Frontline (2026)"
+   },
+   {
+    "name": "Generational Group",
+    "evidence": "sold Indesco (2026) - LMM sell-side volume shop"
+   }
+  ]
+ },
+ "buyers": {
+  "pe_sponsors_lmm": [
+   {
+    "name": "Alpine Investors",
+    "matching_portfolio": 70,
+    "note": "70 matching electrical-adjacent portfolio cos - the most active services compounder; PeopleFirst/CEO-in-training model competes directly with an owner-operator buyer"
+   },
+   {
+    "name": "Tenex Capital",
+    "matching_portfolio": 10
+   },
+   {
+    "name": "Kian Capital",
+    "matching_portfolio": 8
+   },
+   {
+    "name": "ONCAP",
+    "matching_portfolio": 7
+   },
+   {
+    "name": "Tower Arch Capital",
+    "matching_portfolio": 6
+   },
+   {
+    "name": "CenterOak Partners",
+    "matching_portfolio": 6
+   },
+   {
+    "name": "Grove Mountain Partners",
+    "matching_portfolio": 6
+   },
+   {
+    "name": "KLH Capital",
+    "matching_portfolio": 5
+   },
+   {
+    "name": "Sunny River Management",
+    "matching_portfolio": 5,
+    "note": "$1-20M EBITDA explicit mandate"
+   },
+   {
+    "name": "Highview Capital",
+    "matching_portfolio": 5
+   },
+   {
+    "name": "Blackford Capital",
+    "matching_portfolio": 4
+   },
+   {
+    "name": "Platte River Equity",
+    "matching_portfolio": 4
+   },
+   {
+    "name": "Hamilton Robinson",
+    "matching_portfolio": 4
+   },
+   {
+    "name": "Guardian Capital Partners",
+    "matching_portfolio": 4
+   },
+   {
+    "name": "Dubin Clark",
+    "matching_portfolio": 4
+   },
+   {
+    "name": "MRE Capital",
+    "matching_portfolio": 4
+   }
+  ],
+  "pe_universe_count": 132,
+  "strategics": [
+   {
+    "name": "Quanta Services",
+    "matching_portfolio": 11
+   },
+   {
+    "name": "MasTec",
+    "matching_portfolio": 11
+   },
+   {
+    "name": "Comfort Systems USA",
+    "matching_portfolio": 11
+   },
+   {
+    "name": "EMCOR Group",
+    "matching_portfolio": 10
+   },
+   {
+    "name": "APi Group",
+    "matching_portfolio": 10
+   },
+   {
+    "name": "Dycom",
+    "matching_portfolio": 10
+   },
+   {
+    "name": "VINCI",
+    "matching_portfolio": 18,
+    "note": "European - also Eiffage (13); Grupo Visabeira just bought Carter Electric: Europeans entering US electrical services"
+   },
+   {
+    "name": "Legrand",
+    "matching_portfolio": 13
+   },
+   {
+    "name": "Schneider Electric",
+    "matching_portfolio": 12
+   },
+   {
+    "name": "NearU",
+    "matching_portfolio": 10,
+    "note": "PE-backed resi/light-commercial roll-up"
+   }
+  ],
+  "strategic_universe_count": 4466,
+  "read": "132 PE sponsors and 4,466 strategics have bought in or around this trade. Consolidator pressure is real and current (Veritas/Saber, Greenbelt/Bowe & Gant, TJC/Sunbelt Solomon all closed platform deals in July-Aug 2026). For an owner-operator this cuts both ways: competition for targets now, a deep exit market later."
+ }
+}

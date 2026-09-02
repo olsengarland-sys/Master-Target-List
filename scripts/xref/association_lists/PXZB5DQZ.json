@@ -1,0 +1,249 @@
+{
+ "header": {
+  "list_id": "PXZB5DQZ",
+  "name": "NECA Northwest Line Contractors Chapter 2025",
+  "total_reported": 37,
+  "rows_fetched": 37,
+  "truncated": false,
+  "note": "Complete: single page returned all rows. Rows after the top 5 are id/name/domain stubs."
+ },
+ "companies": [
+  {
+   "id": "BU7B6PJD",
+   "name": "Rosendin Electric, Inc.",
+   "domain": "rosendin.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "San Jose, CA",
+   "year_founded": 1919,
+   "revenue": 10101550000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 24686,
+    "linkedin": 6235
+   },
+   "funding_stage": "No Funding",
+   "description": "Rosendin Electric, Inc. is an electrical engineering, design, and construction company. They provide services such as preconstruction, electrical construction, and electrical service and maintenance. Their typical customers include commercial, healthcare, education, and renewable energy sectors. Rosendin claims to differentiate themselves through their commitment to safety, quality, and innovation, as well as their unique approach to project delivery and customer service."
+  },
+  {
+   "id": "D5NV8SXL",
+   "name": "Black & McDonald Limited",
+   "domain": "blackandmcdonald.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Toronto, Canada",
+   "year_founded": 1921,
+   "revenue": 2743858000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 9711,
+    "linkedin": 3077
+   },
+   "funding_stage": "No Funding",
+   "description": "Black & McDonald Limited provides integrated multi-trade construction and facilities management services for government, institutional and industry clients, supplemented by utility, energy, nuclear, engineering, fabrication and EV charging offerings. They target institutional and industrial customers and position themselves as a full lifecycle service provider with long-standing sector experience and a stated mission to \u201cdo it right.\u201d"
+  },
+  {
+   "id": "AARR9YLJ",
+   "name": "Sturgeon Electric Company, Inc.",
+   "domain": "sturgeonelectric.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Henderson, CO",
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 4213,
+    "linkedin": 1023
+   },
+   "description": "Sturgeon Electric Company, Inc. is a full-service electrical contractor specializing in power and electrical construction for utilities, energy developers, industrial facilities and commercial clients. They offer engineering, design-build, prefabrication, substation and transmission/distribution construction, testing and maintenance, and outage support, and position themselves as an integrated provider able to manage complex electrical infrastructure projects from design through commissioning."
+  },
+  {
+   "id": "2S8H8S6N",
+   "name": "Michels Corporation",
+   "domain": "michels.us",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Brownsville, WI",
+   "year_founded": 1959,
+   "revenue": 1230435000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 3783,
+    "linkedin": 4135
+   },
+   "funding_stage": "No Funding",
+   "description": "Michels Corporation is a heavy civil and utility infrastructure contractor that delivers pipeline construction, directional drilling, electrical transmission and distribution, telecommunications/fiber installation, fabrication, and project management services to utilities, energy companies, municipalities, and industrial clients. They position themselves as a single-source provider able to execute engineering, construction, and maintenance work across energy and communications infrastructure, and they emphasize integrated service capabilities and specialized construction methods."
+  },
+  {
+   "id": "SEXJVARN",
+   "name": "Cache Valley Electric Company",
+   "domain": "cve.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Logan, UT",
+   "year_founded": 1915,
+   "revenue": 1082469000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 3253,
+    "linkedin": 815
+   },
+   "funding_stage": "No Funding",
+   "description": "Cache Valley Electric (CVE) is an electrical contracting company that provides a wide range of services, including electrical construction, design-build, technology, and renewable energy solutions. Their typical customers include commercial and industrial clients, as well as government and public sector organizations. CVE claims to differentiate themselves through their commitment to safety, quality, and innovation, as well as their ability to deliver complex projects on time and within budget."
+  },
+  {
+   "id": "ZATPWREL",
+   "name": "PAR Electrical Contractors, Inc.",
+   "domain": "parelectric.com"
+  },
+  {
+   "id": "22ZEWJW2",
+   "name": "Mass. Electric Construction Co.",
+   "domain": "masselec.com"
+  },
+  {
+   "id": "Y5ZAQ2PW",
+   "name": "EC Electric",
+   "domain": "ecpowerslife.com"
+  },
+  {
+   "id": "LW56NFTP",
+   "name": "Potelco Inc",
+   "domain": "potelco.net"
+  },
+  {
+   "id": "GFYLCKDS",
+   "name": "SERVICE ELECTRIC Company",
+   "domain": "serviceelectricco.com"
+  },
+  {
+   "id": "225KYUB6",
+   "name": "Summit Line Construction",
+   "domain": "summitlineconstruction.com"
+  },
+  {
+   "id": "EYYT2QH9",
+   "name": "PAR Western Line Contractors, LLC",
+   "domain": "parwlc.com"
+  },
+  {
+   "id": "E48DVWHB",
+   "name": "International Line Builders Inc.",
+   "domain": "ilbinc.com"
+  },
+  {
+   "id": "NLGMK6UF",
+   "name": "Cannon Companies",
+   "domain": "teamcannon.com"
+  },
+  {
+   "id": "CV3RHV6R",
+   "name": "Wilson Construction Company",
+   "domain": "wilsonconst.com"
+  },
+  {
+   "id": "XJC8H4X8",
+   "name": "Christenson Electric",
+   "domain": "christenson.com"
+  },
+  {
+   "id": "HTD2LHEU",
+   "name": "Power City Electric",
+   "domain": "powercityelectric.com"
+  },
+  {
+   "id": "FQXNTUXY",
+   "name": "Dj Electrical",
+   "domain": "djselectrical.com"
+  },
+  {
+   "id": "79HSE4CJ",
+   "name": "Wasatch Electric",
+   "domain": "wasatchelectric.com"
+  },
+  {
+   "id": "QZXL4ESU",
+   "name": "Robinson Brothers Construction, LLC",
+   "domain": "rbc-utility.com"
+  },
+  {
+   "id": "QBSSCW3D",
+   "name": "Mountain Power Construction Co",
+   "domain": "mountainpower.com"
+  },
+  {
+   "id": "9NHYJ44Y",
+   "name": "Holmes Electric",
+   "domain": "hecowa.com"
+  },
+  {
+   "id": "79CSC269",
+   "name": "NW Utility Services LLC",
+   "domain": "nwutility.com"
+  },
+  {
+   "id": "9C5R7XW3",
+   "name": "Tice Electric",
+   "domain": "ticeelectric.com"
+  },
+  {
+   "id": "RQ7ZFS2L",
+   "name": "Key Line Construction, Inc.",
+   "domain": "keylineconstruction.net"
+  },
+  {
+   "id": "5RCBRWZD",
+   "name": "Power Technology Inc",
+   "domain": "powerti.net"
+  },
+  {
+   "id": "FPYUMXB9",
+   "name": "Palouse Power",
+   "domain": "palousepower.com"
+  },
+  {
+   "id": "TZ6SAZ86",
+   "name": "Salish Construction",
+   "domain": "salishelectric.com"
+  },
+  {
+   "id": "L3JF3T48",
+   "name": "RiverLine Power, LLC.",
+   "domain": "riverlinepower.com"
+  },
+  {
+   "id": "9D59J2QF",
+   "name": "Olympic Electric",
+   "domain": "olympicelectric.net"
+  },
+  {
+   "id": "PPA4QFSW",
+   "name": "O'Neill Construction Group",
+   "domain": "oneillconstructiongroup.com"
+  },
+  {
+   "id": "XTTKR9S7",
+   "name": "Jaco Testing",
+   "domain": "jacotesting.com"
+  },
+  {
+   "id": "L4DRR6VB",
+   "name": "Burke Electric LLC",
+   "domain": "burkeelectric.com"
+  },
+  {
+   "id": "NWHEUN7A",
+   "name": "FB Titan",
+   "domain": "fbtitan.com"
+  },
+  {
+   "id": "LWCE2U9J",
+   "name": "Yateslineco.Com",
+   "domain": "yateslineco.com"
+  },
+  {
+   "id": "FDK6F2AZ",
+   "name": "Auuinc.Com",
+   "domain": "auuinc.com"
+  },
+  {
+   "id": "R58Y7T8C",
+   "name": "1884 Line Co",
+   "domain": "1884lineco.com"
+  }
+ ]
+}

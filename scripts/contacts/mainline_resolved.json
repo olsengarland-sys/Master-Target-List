@@ -1,0 +1,89 @@
+{
+ "generated": "2026-09-01",
+ "held_companies": 245,
+ "resolved": 8,
+ "mainline_matches": 1,
+ "note": "The HQ/mainline check could not be run at scale: Inven company records carry no phone field and web egress is blocked, so the only source left was the ~2% of Grata contacts that carry a phone. That resolved 8 of 245 held companies (~3%). Of those, 1 hold the company switchboard and need a cell; the rest differ from the published office line and are likely already direct or personal numbers. The remaining 237 are still UNKNOWN - not cleared.",
+ "results": [
+  {
+   "domain": "abstractelectric.com",
+   "company": "Abstract Electric",
+   "phone_on_file": "+1 920-889-1547",
+   "grata_office": [
+    "9208714014"
+   ],
+   "is_mainline": false,
+   "verdict": "differs from switchboard - likely already a direct line"
+  },
+  {
+   "domain": "bibleelectric.com",
+   "company": "Bible Electric, Inc.",
+   "phone_on_file": "+1 719-264-9988",
+   "grata_office": [
+    "7192655066"
+   ],
+   "is_mainline": false,
+   "verdict": "differs from switchboard - likely already a direct line"
+  },
+  {
+   "domain": "cusaconsulting.com",
+   "company": "CUSA Consulting Corp",
+   "phone_on_file": "+1 603-498-4549",
+   "grata_office": [
+    "6039265895"
+   ],
+   "is_mainline": false,
+   "verdict": "differs from switchboard - likely already a direct line"
+  },
+  {
+   "domain": "masterelectric.com",
+   "company": "Master Electric",
+   "phone_on_file": "+1 952-890-3555",
+   "grata_office": [
+    "9528903555"
+   ],
+   "is_mainline": true,
+   "verdict": "MAINLINE - still needs a cell"
+  },
+  {
+   "domain": "rosecityelectricco.com",
+   "company": "Rose City Electric Co.",
+   "phone_on_file": "+1 503-867-4203",
+   "grata_office": [
+    "5032876164"
+   ],
+   "is_mainline": false,
+   "verdict": "differs from switchboard - likely already a direct line"
+  },
+  {
+   "domain": "seahurst.com",
+   "company": "Seahurst Electric, Inc.",
+   "phone_on_file": "+1 425-508-9740",
+   "grata_office": [
+    "4252581882"
+   ],
+   "is_mainline": false,
+   "verdict": "differs from switchboard - likely already a direct line"
+  },
+  {
+   "domain": "sselectric.com",
+   "company": "Sunshine State Electric of Florida, Inc.",
+   "phone_on_file": "+1 954-444-6207",
+   "grata_office": [
+    "9545651153"
+   ],
+   "is_mainline": false,
+   "verdict": "differs from switchboard - likely already a direct line"
+  },
+  {
+   "domain": "swelectricinc.com",
+   "company": "S&W Electrical Contractors, Inc.",
+   "phone_on_file": "+1 508-294-1655",
+   "grata_office": [
+    "5086979680"
+   ],
+   "is_mainline": false,
+   "verdict": "differs from switchboard - likely already a direct line"
+  }
+ ]
+}

@@ -1,0 +1,2772 @@
+{
+ "header": {
+  "list_id": "NEJPTRNT",
+  "name": "NECA National Member Directory 2025",
+  "total_reported": 2639,
+  "rows_fetched": 500,
+  "truncated": true,
+  "note": "HTTP 403 on page 6 (page_size=100), i.e. past row 500. Endpoint returns largest companies first; rows after the top 5 of each page are id/name/domain stubs."
+ },
+ "companies": [
+  {
+   "id": "BD5M4HSJ",
+   "name": "Dollar Tree, Inc.",
+   "domain": "dollartree.com",
+   "ownership": "Public",
+   "headquarters_pretty": "Chesapeake, VA",
+   "year_founded": 1986,
+   "revenue": 20068700000.0,
+   "primary_business_model_name": "Retailer",
+   "employees_estimate": {
+    "grata": 150302,
+    "linkedin": 60104
+   },
+   "description": "Dollar Tree operates a national discount variety retail chain selling a wide assortment of low\u2011priced general merchandise to individual consumers. They focus on high\u2011volume sales of everyday consumables, household items, party and seasonal products, and basic personal care and grocery items, and they market themselves as a value retailer offering fixed low prices and convenient assortment across stores and digital channels."
+  },
+  {
+   "id": "M4YDHSBM",
+   "name": "Allied Universal",
+   "domain": "aus.com",
+   "ownership": "Private Subsidiary",
+   "headquarters_pretty": "Irvine, CA",
+   "year_founded": 1957,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 320041,
+    "linkedin": 106214
+   },
+   "funding_stage": "Pre-IPO Funding",
+   "total_funding_amount": 452800000,
+   "latest_funding_amount": 2700000,
+   "latest_funding_date": "08/01/2024",
+   "description": "Allied Universal provides integrated security and facility services to organizations, delivering on-site security personnel combined with technology and professional services for businesses and institutions; they serve corporate, event, property management, and institutional customers and position themselves as a nationally supported, locally delivered partner using a risk-based, people-plus-technology approach."
+  },
+  {
+   "id": "RE46GRW9",
+   "name": "Emerson Electric Co.",
+   "domain": "emerson.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Missouri, USA",
+   "year_founded": 1890,
+   "primary_business_model_name": "Manufacturer, Software Enabled",
+   "employees_estimate": {
+    "grata": 166151,
+    "linkedin": 51759
+   },
+   "description": "Emerson Electric Co. designs and manufactures automation and control technologies, including process control systems, valves and actuators, sensing and analytical instruments, and HVAC/refrigeration controls, and provides related software and services. They primarily sell to industrial operators, OEMs, building and facilities managers, and systems integrators. They position themselves as a single-source supplier of control hardware, instrumentation, and software to support operational control and equipment lifecycle needs."
+  },
+  {
+   "id": "7YVRUMW8",
+   "name": "Meta Platforms, Inc.",
+   "domain": "meta.com",
+   "ownership": "Public",
+   "headquarters_pretty": "Menlo Park, CA",
+   "year_founded": 2004,
+   "revenue": 228246994000.0,
+   "primary_business_model_name": "Software",
+   "employees_estimate": {
+    "grata": 164941,
+    "linkedin": 163957
+   },
+   "description": "Meta Platforms, Inc. develops and operates widely used social networking and messaging applications and an advertising platform for businesses, while also building augmented/virtual reality hardware and software. They serve individual users who access their social and communication services and businesses that use their advertising, analytics, and developer tools. They position themselves as a provider of social connectivity and immersive experience technologies that enable communication, content sharing, and immersive computing."
+  },
+  {
+   "id": "96T7UEG3",
+   "name": "Google",
+   "domain": "google.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Mountain View, CA",
+   "year_founded": 1998,
+   "revenue": 91341848000.0,
+   "primary_business_model_name": "Software",
+   "employees_estimate": {
+    "grata": 319402,
+    "linkedin": 317497
+   },
+   "description": "Google is a multinational technology company that specializes in internet-related products and services. Its offerings include online advertising technologies, search engine, cloud computing, software, and hardware. Google's typical customers include consumers, businesses, advertisers, and publishers who use its various products and services for different reasons. Google positions itself as a company that offers innovative and user-friendly technology solutions that aim to make the world's information accessible and useful."
+  },
+  {
+   "id": "KV8ZNSCY",
+   "name": "Securitas Security Services USA, Inc.",
+   "domain": "securitasinc.com"
+  },
+  {
+   "id": "A4FDKSZP",
+   "name": "Johnson Controls International plc",
+   "domain": "johnsoncontrols.com"
+  },
+  {
+   "id": "UPCCE7SB",
+   "name": "Kiewit Corp.",
+   "domain": "kiewit.com"
+  },
+  {
+   "id": "MZVT2EKH",
+   "name": "ABM Industries Incorporated",
+   "domain": "abm.com"
+  },
+  {
+   "id": "9UA95EX9",
+   "name": "L'Air Liquide S.A.",
+   "domain": "airliquide.com"
+  },
+  {
+   "id": "XTBHQW8U",
+   "name": "Tetra Tech, Inc.",
+   "domain": "tetratech.com"
+  },
+  {
+   "id": "WY5S4PC3",
+   "name": "American Electric Power Company, Inc.",
+   "domain": "aep.com"
+  },
+  {
+   "id": "L2DU2KTV",
+   "name": "Securitas Group",
+   "domain": "securitas.com"
+  },
+  {
+   "id": "3F8DFJTL",
+   "name": "Quanta Services, Inc.",
+   "domain": "quantaservices.com"
+  },
+  {
+   "id": "BU7B6PJD",
+   "name": "Rosendin Electric, Inc.",
+   "domain": "rosendin.com"
+  },
+  {
+   "id": "79R3JR8E",
+   "name": "Hubbell Incorporated",
+   "domain": "hubbell.com"
+  },
+  {
+   "id": "M3P2UKRY",
+   "name": "Johnson Electric Holdings Limited",
+   "domain": "johnsonelectric.com"
+  },
+  {
+   "id": "9W8XEGVJ",
+   "name": "Black & Veatch",
+   "domain": "bv.com"
+  },
+  {
+   "id": "9FJCS89A",
+   "name": "Brock Group",
+   "domain": "brockgroup.com"
+  },
+  {
+   "id": "75WBQYV3",
+   "name": "USI Insurance Services",
+   "domain": "usi.com"
+  },
+  {
+   "id": "QBYYHYT7",
+   "name": "CDM Smith Inc.",
+   "domain": "cdmsmith.com"
+  },
+  {
+   "id": "H255AWFB",
+   "name": "EMCOR Group, Inc.",
+   "domain": "emcorgroup.com"
+  },
+  {
+   "id": "N3VPR3YC",
+   "name": "Los Angeles Department of Water and Power",
+   "domain": "ladwp.com"
+  },
+  {
+   "id": "2ZGV586X",
+   "name": "Generac Power Systems, Inc.",
+   "domain": "generac.com"
+  },
+  {
+   "id": "U6NCK6JX",
+   "name": "Day & Zimmermann",
+   "domain": "dayzim.com"
+  },
+  {
+   "id": "D9BWU8EG",
+   "name": "Valaris Limited",
+   "domain": "valaris.com"
+  },
+  {
+   "id": "KPZQPCJK",
+   "name": "Controls and Switchgear",
+   "domain": "cselectric.co.in"
+  },
+  {
+   "id": "D5NV8SXL",
+   "name": "Black & McDonald Limited",
+   "domain": "blackandmcdonald.com"
+  },
+  {
+   "id": "CHPLCYTA",
+   "name": "Rehlko",
+   "domain": "heilatech.com"
+  },
+  {
+   "id": "7633GW3Z",
+   "name": "Rackspace Technology",
+   "domain": "rackspace.com"
+  },
+  {
+   "id": "ERLV2733",
+   "name": "Centuri Group, Inc.",
+   "domain": "centuri.com"
+  },
+  {
+   "id": "TAXSEPN6",
+   "name": "Juniper Networks, Inc.",
+   "domain": "juniper.net"
+  },
+  {
+   "id": "6MRNEDG9",
+   "name": "ACCO Engineered Systems",
+   "domain": "accoes.com"
+  },
+  {
+   "id": "M5595G4U",
+   "name": "Miller Electric Company",
+   "domain": "mecojax.com"
+  },
+  {
+   "id": "MXPXJ5NT",
+   "name": "BHI Energy",
+   "domain": "bhienergy.com"
+  },
+  {
+   "id": "3HV6ZQU6",
+   "name": "MacDonald-Miller",
+   "domain": "macmiller.com"
+  },
+  {
+   "id": "PCTMQC5E",
+   "name": "Avi-Spl",
+   "domain": "avispl.com"
+  },
+  {
+   "id": "WXUFJ923",
+   "name": "Thryv, Inc.",
+   "domain": "thryv.com"
+  },
+  {
+   "id": "HBEEPX7E",
+   "name": "Black Box Corporation",
+   "domain": "blackbox.com"
+  },
+  {
+   "id": "25GNTETV",
+   "name": "Dashiell Corporation",
+   "domain": "dashiell.com"
+  },
+  {
+   "id": "VH3FNZ6S",
+   "name": "The Newtron Group",
+   "domain": "thenewtrongroup.com"
+  },
+  {
+   "id": "NSF3QL9L",
+   "name": "Shambaugh & Son, L.P.",
+   "domain": "shambaugh.com"
+  },
+  {
+   "id": "X6BGPZKQ",
+   "name": "The Brandt Companies",
+   "domain": "brandt.us"
+  },
+  {
+   "id": "A2JXPR5D",
+   "name": "The State Group",
+   "domain": "stategroup.com"
+  },
+  {
+   "id": "XU5VBZP6",
+   "name": "ADT Inc.",
+   "domain": "adt.com"
+  },
+  {
+   "id": "H2WT8W38",
+   "name": "Southland Industries",
+   "domain": "southlandind.com"
+  },
+  {
+   "id": "AARR9YLJ",
+   "name": "Sturgeon Electric Company, Inc.",
+   "domain": "sturgeonelectric.com"
+  },
+  {
+   "id": "RAB84DNS",
+   "name": "MYR Group Inc.",
+   "domain": "myrgroup.com"
+  },
+  {
+   "id": "HN3N29DK",
+   "name": "The Waldinger Corporation",
+   "domain": "waldinger.com"
+  },
+  {
+   "id": "VLYMWYJM",
+   "name": "RailWorks Corporation",
+   "domain": "railworks.com"
+  },
+  {
+   "id": "2S8H8S6N",
+   "name": "Michels Corporation",
+   "domain": "michels.us"
+  },
+  {
+   "id": "HFMS3FUY",
+   "name": "Limbach Holdings Inc.",
+   "domain": "limbachinc.com"
+  },
+  {
+   "id": "8SYZCN3Z",
+   "name": "M. J. Electric, LLC",
+   "domain": "mjelectric.com"
+  },
+  {
+   "id": "KEGXNWAJ",
+   "name": "ArchKey Solutions LLC",
+   "domain": "archkey.com"
+  },
+  {
+   "id": "SEXJVARN",
+   "name": "Cache Valley Electric Company",
+   "domain": "cve.com"
+  },
+  {
+   "id": "SWUUT64B",
+   "name": "Enerfab, LLC.",
+   "domain": "enerfab.com"
+  },
+  {
+   "id": "ZATPWREL",
+   "name": "PAR Electrical Contractors, Inc.",
+   "domain": "parelectric.com"
+  },
+  {
+   "id": "BTVSGJ4P",
+   "name": "InfraSource",
+   "domain": "infrasourceus.com"
+  },
+  {
+   "id": "22ZEWJW2",
+   "name": "Mass. Electric Construction Co.",
+   "domain": "masselec.com"
+  },
+  {
+   "id": "GN58DX3V",
+   "name": "Crescent Electric Supply Company",
+   "domain": "crescentelectric.com"
+  },
+  {
+   "id": "MFU66A72",
+   "name": "Intren, LLC",
+   "domain": "intren.com"
+  },
+  {
+   "id": "GBZA9SFN",
+   "name": "Fisk Electric Co.",
+   "domain": "fiskcorp.com"
+  },
+  {
+   "id": "A4AGVCF6",
+   "name": "RS Group",
+   "domain": "rsgroup.com"
+  },
+  {
+   "id": "X975N4RM",
+   "name": "LS ELECTRIC Co., Ltd.",
+   "domain": "ls-electric.com"
+  },
+  {
+   "id": "2333H3VZ",
+   "name": "CSI Electrical Contractors, Inc.",
+   "domain": "csielectric.com"
+  },
+  {
+   "id": "Y5ZAQ2PW",
+   "name": "EC Electric",
+   "domain": "ecpowerslife.com"
+  },
+  {
+   "id": "NG8FZYTE",
+   "name": "Hatzel and Buehler, Inc",
+   "domain": "hatzelandbuehler.com"
+  },
+  {
+   "id": "MLTDHENJ",
+   "name": "Hunt Electric Corporation",
+   "domain": "huntelec.com"
+  },
+  {
+   "id": "QZSA43ZD",
+   "name": "Mayer",
+   "domain": "mayerelectric.com"
+  },
+  {
+   "id": "ZPXSFXCQ",
+   "name": "Riggs Distler",
+   "domain": "riggsdistler.com"
+  },
+  {
+   "id": "LW56NFTP",
+   "name": "Potelco Inc",
+   "domain": "potelco.net"
+  },
+  {
+   "id": "XEA5LKJQ",
+   "name": "Ace Electric, Inc",
+   "domain": "aceelectric.net"
+  },
+  {
+   "id": "MBXHZBLQ",
+   "name": "VECA Electric & Technologies",
+   "domain": "veca.com"
+  },
+  {
+   "id": "S7WZJMX9",
+   "name": "Haugland Group LLC",
+   "domain": "hauglandgroup.us"
+  },
+  {
+   "id": "VY9ZG3FH",
+   "name": "McKinstry",
+   "domain": "mckinstry.com"
+  },
+  {
+   "id": "NHSVZCLL",
+   "name": "Qualus Corp.",
+   "domain": "qualuscorp.com"
+  },
+  {
+   "id": "A5WR5747",
+   "name": "P1 Group, Inc.",
+   "domain": "p1group.com"
+  },
+  {
+   "id": "Y72UH7SJ",
+   "name": "Therma",
+   "domain": "therma.com"
+  },
+  {
+   "id": "XY7QA2TU",
+   "name": "Superior",
+   "domain": "superiorgroup.net"
+  },
+  {
+   "id": "GFYLCKDS",
+   "name": "SERVICE ELECTRIC Company",
+   "domain": "serviceelectricco.com"
+  },
+  {
+   "id": "K25NXNT9",
+   "name": "E-J Electric Installation Co.",
+   "domain": "ej1899.com"
+  },
+  {
+   "id": "UMVMFUWN",
+   "name": "Baker Group",
+   "domain": "thebakergroup.com"
+  },
+  {
+   "id": "5C7T954V",
+   "name": "BMWC Constructors",
+   "domain": "bmwc.com"
+  },
+  {
+   "id": "SQCSK8VB",
+   "name": "Cupertino Electric, Inc.",
+   "domain": "cei.com"
+  },
+  {
+   "id": "V8S7CW2M",
+   "name": "Yunex GmbH",
+   "domain": "yunextraffic.com"
+  },
+  {
+   "id": "ZVYKC3J7",
+   "name": "OZZ Electric",
+   "domain": "ozzelectric.com"
+  },
+  {
+   "id": "LSRDGVUL",
+   "name": "Tri-City Electric Co.",
+   "domain": "tricityelectric.com"
+  },
+  {
+   "id": "TEY9MM4M",
+   "name": "Oegpoweron",
+   "domain": "oeg.us.com"
+  },
+  {
+   "id": "UQ89WJ3S",
+   "name": "Redwood Electric Group",
+   "domain": "redwoodeg.com"
+  },
+  {
+   "id": "BWJ7N5Y2",
+   "name": "Underground Construction",
+   "domain": "undergroundconstruction.com"
+  },
+  {
+   "id": "KMK52TTD",
+   "name": "New River Electrical Corporation",
+   "domain": "newriverelectrical.com"
+  },
+  {
+   "id": "YYFDAVWB",
+   "name": "Harris Co.",
+   "domain": "harriscompany.com"
+  },
+  {
+   "id": "PY3D7UAQ",
+   "name": "Egan Company",
+   "domain": "eganco.com"
+  },
+  {
+   "id": "JLUPL2P9",
+   "name": "Commonwealth Electric Company of the Midwest",
+   "domain": "commonwealthelectric.com"
+  },
+  {
+   "id": "LQJAHJEP",
+   "name": "Morrow-Meadows Corporation",
+   "domain": "morrow-meadows.com"
+  },
+  {
+   "id": "WRYPYTWM",
+   "name": "The Lane Construction Corporation",
+   "domain": "laneconstruct.com"
+  },
+  {
+   "id": "838F5UNJ",
+   "name": "Power Solutions, LLC",
+   "domain": "powersolutions-llc.com"
+  },
+  {
+   "id": "VWX5KNVU",
+   "name": "RESA Power, LLC",
+   "domain": "resapower.com"
+  },
+  {
+   "id": "QMWPPAA3",
+   "name": "Big State Electric Ltd",
+   "domain": "bigstateelectric.com"
+  },
+  {
+   "id": "VQTVYJSW",
+   "name": "North Houston Pole Line",
+   "domain": "nhplc.com"
+  },
+  {
+   "id": "225KYUB6",
+   "name": "Summit Line Construction",
+   "domain": "summitlineconstruction.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Heber City, UT",
+   "year_founded": 2009,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 1617,
+    "linkedin": 346
+   },
+   "description": "Summit Line Construction provides electrical utility construction services focused on transmission and distribution line work, energized operations, substation construction, and foundations/drilling for grid projects. They serve utilities, renewable energy developers and large infrastructure contractors and claim to differentiate through a stated safety culture, labor affiliation, and emphasis on linking sustainable energy to the grid."
+  },
+  {
+   "id": "4QRSJ46R",
+   "name": "Verra Mobility Corporation",
+   "domain": "verramobility.com",
+   "ownership": "Private Equity Add-On",
+   "headquarters_pretty": "Mesa, AZ",
+   "year_founded": 1987,
+   "revenue": 742146000.0,
+   "primary_business_model_name": "Software",
+   "employees_estimate": {
+    "grata": 1533,
+    "linkedin": 1526
+   },
+   "description": "Verra Mobility Corporation is a leading provider of tech-enabled smart transportation solutions, including tolling, violations, and title and registration services. Their typical customers include transportation agencies, rental car companies, fleet owners, and municipalities. They differentiate themselves by offering innovative and reliable solutions that improve mobility and safety while also creating a seamless and convenient experience for both customers and end users."
+  },
+  {
+   "id": "CZPCE9LP",
+   "name": "DeBra-Kuempel Inc.",
+   "domain": "dkemcor.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Cincinnati, OH",
+   "year_founded": 1946,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 1521,
+    "linkedin": 367
+   },
+   "description": "DeBra-Kuempel Inc. is a mechanical construction and maintenance company that offers a range of services, including HVAC, plumbing, process piping, and industrial ventilation. Their typical customers are commercial and industrial clients in various sectors, such as healthcare, education, manufacturing, and government. DeBra-Kuempel Inc. differentiates themselves by emphasizing their extensive experience, technical expertise, and commitment to customer satisfaction. They position themselves as a trusted partner for mechanical construction and maintenance needs, providing high-quality solutions tailored to each client's specific requirements."
+  },
+  {
+   "id": "NGMK6XWV",
+   "name": "Aldridge Group",
+   "domain": "aldridgegroup.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Libertyville, IL",
+   "year_founded": 1932,
+   "revenue": 921949000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 1508,
+    "linkedin": 1058
+   },
+   "funding_stage": "No Funding",
+   "description": "Aldridge Group provides IT consulting, managed services, cybersecurity solutions, cloud services, and digital transformation services. Their typical customers are businesses of all sizes, from small companies to large enterprises, across various industries. They position themselves as a trusted partner that helps their clients leverage technology to achieve their business goals. They claim to differentiate themselves through their proactive approach to IT management, personalized customer service, and their expertise in cybersecurity."
+  },
+  {
+   "id": "PWXT657C",
+   "name": "Danella Companies",
+   "domain": "danella.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Plymouth Meeting, PA",
+   "year_founded": 1972,
+   "revenue": 594329000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 1477,
+    "linkedin": 403
+   },
+   "funding_stage": "No Funding",
+   "description": "Danella Companies provides heavy civil and infrastructure construction services focused on site development, underground utilities and electrical/traffic systems, and roadway construction and paving for public agencies and private developers. They position themselves as a full\u2011service contractor with integrated capabilities and in\u2011house equipment to manage large-scale infrastructure projects from excavation through final paving and systems installation."
+  },
+  {
+   "id": "YJ8N9D8V",
+   "name": "EPB",
+   "domain": "epb.com"
+  },
+  {
+   "id": "JXPYVTQ5",
+   "name": "Sargent Electric Company",
+   "domain": "sargentelectric.com"
+  },
+  {
+   "id": "DS7LK6FJ",
+   "name": "Lighthouse Electric",
+   "domain": "lighthouseelectric.com"
+  },
+  {
+   "id": "3487FKR8",
+   "name": "Motor City Electric Co.",
+   "domain": "mceco.com"
+  },
+  {
+   "id": "L98KRSZP",
+   "name": "Freestate Electric",
+   "domain": "freestateelectric.com"
+  },
+  {
+   "id": "B3W5759S",
+   "name": "Taft Electric Co",
+   "domain": "taftelectric.com"
+  },
+  {
+   "id": "EFNVT6Y5",
+   "name": "United Utility Services LLC",
+   "domain": "unitedutility.com"
+  },
+  {
+   "id": "QQEFHM63",
+   "name": "TA Services",
+   "domain": "taservices.com"
+  },
+  {
+   "id": "74S74ZWE",
+   "name": "CR Meyer",
+   "domain": "crmeyer.com"
+  },
+  {
+   "id": "VPWW24AF",
+   "name": "Kokosing",
+   "domain": "kokosing.biz"
+  },
+  {
+   "id": "V3FNFSZN",
+   "name": "Helm Group",
+   "domain": "helmgroup.com"
+  },
+  {
+   "id": "GQR3HLH7",
+   "name": "Intermountain Electric, Inc.",
+   "domain": "imelect.com"
+  },
+  {
+   "id": "RYKSEAD6",
+   "name": "Continental Electrical Construction Company, LLC",
+   "domain": "cecco.com"
+  },
+  {
+   "id": "S5QU2WVG",
+   "name": "HYLAN",
+   "domain": "hylan.com"
+  },
+  {
+   "id": "VR7SKNQ4",
+   "name": "B&D Industries, Inc.",
+   "domain": "banddindustries.com"
+  },
+  {
+   "id": "DZ6R3HQ3",
+   "name": "Hayes Mechanical",
+   "domain": "hayesmechanical.com"
+  },
+  {
+   "id": "MJ48CR4Y",
+   "name": "Porch Group",
+   "domain": "porchgroup.com"
+  },
+  {
+   "id": "XF8M3KK8",
+   "name": "Quality \"Plus\" Services, Inc.",
+   "domain": "qpsisbest.com"
+  },
+  {
+   "id": "URBL2C9D",
+   "name": "Sterling Industrial, LLC",
+   "domain": "sterlingindustrialllc.com"
+  },
+  {
+   "id": "DZW945QR",
+   "name": "Matrix NAC",
+   "domain": "matrixnac.com"
+  },
+  {
+   "id": "78ZEX8K3",
+   "name": "Lake Erie Electric",
+   "domain": "lakeerieelectric.com"
+  },
+  {
+   "id": "N4WEGQVT",
+   "name": "Gurtz Electric Co.",
+   "domain": "gurtzelectric.com"
+  },
+  {
+   "id": "HUYVPTEJ",
+   "name": "Collins Electrical Company, Inc.",
+   "domain": "collinselectric.com"
+  },
+  {
+   "id": "2GRDR23W",
+   "name": "SASCO",
+   "domain": "sasco.com"
+  },
+  {
+   "id": "EJWASVYS",
+   "name": "Dynalectric Oregon",
+   "domain": "dyna-oregon.com"
+  },
+  {
+   "id": "S6P9WXHM",
+   "name": "PayneCrest Electric, Inc.",
+   "domain": "paynecrest.com"
+  },
+  {
+   "id": "RHNCBUMU",
+   "name": "I.B. Abel, Inc.",
+   "domain": "ib-abel.com"
+  },
+  {
+   "id": "JVXSZHDH",
+   "name": "Thompson Solutions Group",
+   "domain": "thompsonsolutionsgroup.com"
+  },
+  {
+   "id": "4RT5VBUA",
+   "name": "Newkirk Electric Associates",
+   "domain": "newkirk-electric.com"
+  },
+  {
+   "id": "EER5QC9V",
+   "name": "Baker Electric",
+   "domain": "baker-electric.com"
+  },
+  {
+   "id": "KB6AGEUZ",
+   "name": "Kent Power",
+   "domain": "kentpower.com"
+  },
+  {
+   "id": "JZFKHGM3",
+   "name": "VarcoMac LLC",
+   "domain": "varcomac.com"
+  },
+  {
+   "id": "EYYT2QH9",
+   "name": "PAR Western Line Contractors, LLC",
+   "domain": "parwlc.com"
+  },
+  {
+   "id": "YAZHTMQB",
+   "name": "J.M. Brennan, Inc.",
+   "domain": "jmbrennan.com"
+  },
+  {
+   "id": "ERREE24D",
+   "name": "Westphal & Company, Inc.",
+   "domain": "westphalec.com"
+  },
+  {
+   "id": "4ALWT55X",
+   "name": "Van Ert Electric Company, Inc.",
+   "domain": "vanert.com"
+  },
+  {
+   "id": "FLU5XZEF",
+   "name": "Huston Electric, Inc",
+   "domain": "hustonelectric.com"
+  },
+  {
+   "id": "MH8QMPSU",
+   "name": "Utility Supply and Construction Company",
+   "domain": "uscco.com"
+  },
+  {
+   "id": "9JBS33PR",
+   "name": "Prime Electric, Inc.",
+   "domain": "primee.com"
+  },
+  {
+   "id": "5AF93Z42",
+   "name": "Rudolph Libbe Inc.",
+   "domain": "rlgbuilds.com"
+  },
+  {
+   "id": "W4RCFXEA",
+   "name": "Alterman, Inc.",
+   "domain": "goalterman.com"
+  },
+  {
+   "id": "A8AURZ5Y",
+   "name": "Briggs Electric",
+   "domain": "briggselectric.com"
+  },
+  {
+   "id": "D3MH48P9",
+   "name": "ESI Electrical Contractors",
+   "domain": "esielectrical.com"
+  },
+  {
+   "id": "E48DVWHB",
+   "name": "International Line Builders Inc.",
+   "domain": "ilbinc.com"
+  },
+  {
+   "id": "7PGXLXBE",
+   "name": "Schmidt Electric Co., Inc.",
+   "domain": "schmidt-electric.com"
+  },
+  {
+   "id": "K9QEXSYJ",
+   "name": "LONG Building Technologies",
+   "domain": "long.com"
+  },
+  {
+   "id": "HPPXZHZE",
+   "name": "Ferguson Electric",
+   "domain": "fergusonelectric.com"
+  },
+  {
+   "id": "PF9KA9CK",
+   "name": "Gibson Electric Co., Inc.",
+   "domain": "gibsonelec.com"
+  },
+  {
+   "id": "KEQ6SV3Z",
+   "name": "Northline Utilities, LLC.",
+   "domain": "northlineutilitiesllc.com"
+  },
+  {
+   "id": "8CLFBS9A",
+   "name": "Capital Electric Construction Co., Inc.",
+   "domain": "capitalelectric.com"
+  },
+  {
+   "id": "5SKH9TPK",
+   "name": "National Electrical Contractors Association (NECA)",
+   "domain": "necanet.org"
+  },
+  {
+   "id": "97F8GAVJ",
+   "name": "Hampton Tedder Electric",
+   "domain": "hamptontedder.com"
+  },
+  {
+   "id": "2FCBEWXU",
+   "name": "COSCO Fire Protection",
+   "domain": "coscofire.com"
+  },
+  {
+   "id": "GLD8LARG",
+   "name": "Lee Mechanical",
+   "domain": "selectlee.com"
+  },
+  {
+   "id": "6ZPUGCZD",
+   "name": "Huen Electric",
+   "domain": "huenelectric.com"
+  },
+  {
+   "id": "E7Z83VEQ",
+   "name": "McCarl's",
+   "domain": "mccarl.com"
+  },
+  {
+   "id": "JYLL7LP3",
+   "name": "McMillan Electric",
+   "domain": "mcmillanco.com"
+  },
+  {
+   "id": "3WXAR72H",
+   "name": "Anvil Builders Inc.",
+   "domain": "anvilbuilders.com"
+  },
+  {
+   "id": "S6GDQWKL",
+   "name": "Connelly Electric Co",
+   "domain": "connellyelectric.com"
+  },
+  {
+   "id": "3G33SUTV",
+   "name": "Morley Moss Inc.",
+   "domain": "morleymoss.com"
+  },
+  {
+   "id": "SP8AYFPM",
+   "name": "Industrial Electric Inc.",
+   "domain": "industelectric.com"
+  },
+  {
+   "id": "VDYB8KBZ",
+   "name": "JHKelly, LLC",
+   "domain": "jhkelly.com"
+  },
+  {
+   "id": "7V6G7CBZ",
+   "name": "Electric Plus",
+   "domain": "electricplus.com"
+  },
+  {
+   "id": "8YCF4LBQ",
+   "name": "Koontz-Wagner",
+   "domain": "koontzwagnerservices.com"
+  },
+  {
+   "id": "E3ZQGZ92",
+   "name": "Millennium Challenge Corporation",
+   "domain": "mcc.gov"
+  },
+  {
+   "id": "S5TNUBQT",
+   "name": "Metro Electric",
+   "domain": "metroelectric.com"
+  },
+  {
+   "id": "35B3X9EQ",
+   "name": "J. J. White, Inc.",
+   "domain": "jjwhiteinc.com"
+  },
+  {
+   "id": "L3M6RPU5",
+   "name": "Hot Line Construction, Inc.",
+   "domain": "hotlineconstructioninc.com"
+  },
+  {
+   "id": "WUA4VRBC",
+   "name": "Teldat Group",
+   "domain": "teldat.com"
+  },
+  {
+   "id": "X78QPVEA",
+   "name": "Potter Electric Signal Company, LLC",
+   "domain": "pottersignal.com"
+  },
+  {
+   "id": "NJLFWW64",
+   "name": "Adman Electric, Inc.",
+   "domain": "admanelectric.com"
+  },
+  {
+   "id": "4ZAMVWAJ",
+   "name": "White Electrical Construction Company",
+   "domain": "white-electrical.com"
+  },
+  {
+   "id": "92Q5WR8R",
+   "name": "Oklahoma Electrical Supply Co",
+   "domain": "oesco.com"
+  },
+  {
+   "id": "9C4HVWA9",
+   "name": "Cherry City Electric",
+   "domain": "cherrycityelectric.com"
+  },
+  {
+   "id": "HBWGH69R",
+   "name": "Ward Electric Company, Inc.",
+   "domain": "wardelectriccompany.com"
+  },
+  {
+   "id": "YBT3XTKB",
+   "name": "Gaston Electrical",
+   "domain": "gastonelectrical.com"
+  },
+  {
+   "id": "DXW46S2Q",
+   "name": "Delta Services and it's licensors",
+   "domain": "deltaservicesllc.com"
+  },
+  {
+   "id": "XYCT8G3N",
+   "name": "MP Systems Inc.",
+   "domain": "mp-systemsinc.com"
+  },
+  {
+   "id": "7CV2G3TA",
+   "name": "Alpha Energy Solutions",
+   "domain": "alphamechanicalservice.com"
+  },
+  {
+   "id": "2LKKAR42",
+   "name": "Inglett & Stubbs LLC",
+   "domain": "inglett-stubbs.com"
+  },
+  {
+   "id": "HCLYC6HK",
+   "name": "The Stoner Electric Group",
+   "domain": "stonergroup.com"
+  },
+  {
+   "id": "V5H3LSB4",
+   "name": "Pieper Electric, Inc.",
+   "domain": "pieperpower.com"
+  },
+  {
+   "id": "QTYB2GAX",
+   "name": "Schumacher Electric Corporation",
+   "domain": "schumacherelectric.com"
+  },
+  {
+   "id": "W67LESHT",
+   "name": "Buckeye Broadband",
+   "domain": "buckeyebroadband.com"
+  },
+  {
+   "id": "H84QX8UG",
+   "name": "Zenith Systems LLC",
+   "domain": "zenithsystems.com"
+  },
+  {
+   "id": "63JL5NQG",
+   "name": "Bluestone Communications, Inc.",
+   "domain": "bluestonecomm.com"
+  },
+  {
+   "id": "NLGMK6UF",
+   "name": "Cannon Companies",
+   "domain": "teamcannon.com"
+  },
+  {
+   "id": "P9W9UHW8",
+   "name": "Bancker Construction Corp",
+   "domain": "bancker.com"
+  },
+  {
+   "id": "TPBTZKVV",
+   "name": "Neal Electric Corp.",
+   "domain": "nealelectric.com"
+  },
+  {
+   "id": "ACGD9MHJ",
+   "name": "Electrical Corporation of America, Inc.",
+   "domain": "ecahq.com"
+  },
+  {
+   "id": "3U544JL4",
+   "name": "Allison Smith Company LLC",
+   "domain": "allisonsmith.com"
+  },
+  {
+   "id": "6XBRXX2V",
+   "name": "Cochran, Inc",
+   "domain": "cochraninc.com"
+  },
+  {
+   "id": "FAVRX4YV",
+   "name": "Diversified Utility Services, Inc.",
+   "domain": "diversifiedutilityservices.com"
+  },
+  {
+   "id": "RLSDVZK3",
+   "name": "Industrial Power Systems (IPS)",
+   "domain": "ipscontractor.com"
+  },
+  {
+   "id": "CV3RHV6R",
+   "name": "Wilson Construction Company",
+   "domain": "wilsonconst.com"
+  },
+  {
+   "id": "MK56SBS2",
+   "name": "J & M Brown Company, Inc.",
+   "domain": "jmbco.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Boston, MA",
+   "year_founded": 1921,
+   "revenue": 151677000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 485,
+    "linkedin": 121
+   },
+   "funding_stage": "No Funding",
+   "description": "J & M Brown Company, Inc. is an electrical contracting firm that delivers electrical construction and low-voltage system services to construction managers, owners, and developers in commercial, institutional, and life science sectors; they emphasize integrated electrical, fire alarm, security and tel/data capabilities, a safety-first workforce, and project coordination to support complex builds."
+  },
+  {
+   "id": "UMA7MPSY",
+   "name": "Cerris",
+   "domain": "cerris.com",
+   "ownership": "Private Subsidiary",
+   "headquarters_pretty": "Lenexa, KS",
+   "year_founded": 1932,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 483,
+    "linkedin": 150
+   },
+   "description": "Cerris is a national commercial construction and MEP contractor offering general contracting, design-build, preconstruction, construction management, building automation, and service for commercial clients; they emphasize integrated solutions for complex projects, long-term client relationships, and employee ownership."
+  },
+  {
+   "id": "TVE6FKYH",
+   "name": "Allan Briteway Electrical Utility Contractors, Inc.",
+   "domain": "allanbriteway.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "New York, NY",
+   "year_founded": 1954,
+   "revenue": 148582000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 480,
+    "linkedin": 6
+   },
+   "funding_stage": "No Funding",
+   "description": "Allan Briteway Electrical Utility Contractors, Inc. is an electrical contracting firm that provides electrical installation and contractor services to Fortune 500 companies and commercial, pharmaceutical, industrial, medical, educational, communications, and municipal organizations; they emphasize over 60 years of experience and position themselves as a trusted, reliable provider built from merged predecessor firms."
+  },
+  {
+   "id": "LMAA59H5",
+   "name": "Eii Electric Inc",
+   "domain": "eiielectric.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Cranford, NJ",
+   "year_founded": 1984,
+   "revenue": 119175000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 480,
+    "linkedin": 15
+   },
+   "funding_stage": "No Funding",
+   "description": "Eii Electric Inc. is an electrical and mechanical contracting firm serving commercial and industrial clients with electrical construction, mechanical construction, communications/security systems, and maintenance services, and they emphasize a multi-disciplinary team approach built from decades of experience and targeted business growth."
+  },
+  {
+   "id": "UXTWFW4C",
+   "name": "Carr & Duff, Inc",
+   "domain": "carrduff.com",
+   "ownership": "Private Equity Platform",
+   "headquarters_pretty": "Huntingdon Valley, PA",
+   "year_founded": 1958,
+   "revenue": 142700000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 478,
+    "linkedin": 119
+   },
+   "description": "Carr & Duff, Inc provides electrical construction and contracting services with an emphasis on 24/7 emergency response, utility and communication systems construction, and deployment of manpower and equipment for projects serving utilities, transportation, healthcare, wireless communications, industrial, commercial, and institutional clients."
+  },
+  {
+   "id": "XW4MA3GA",
+   "name": "Heim Company",
+   "domain": "edwinlheim.com"
+  },
+  {
+   "id": "CJTUX8MD",
+   "name": "Bragg Companies",
+   "domain": "braggcompanies.com"
+  },
+  {
+   "id": "A466EC85",
+   "name": "W.J. O'Neil Company",
+   "domain": "wjo.com"
+  },
+  {
+   "id": "8XGRSSN5",
+   "name": "Baker Electric Home Energy",
+   "domain": "bakerhomeenergy.com"
+  },
+  {
+   "id": "ZXLJ3TSS",
+   "name": "Preferred Electric Co., Inc.",
+   "domain": "peci-elect.com"
+  },
+  {
+   "id": "KQ2Q2QP8",
+   "name": "Hooper",
+   "domain": "hoopercorp.com"
+  },
+  {
+   "id": "ER7H5KTH",
+   "name": "Electrical Equipment Company",
+   "domain": "eecoonline.com"
+  },
+  {
+   "id": "5AXKFUC3",
+   "name": "Guarantee Electrical Company",
+   "domain": "geco.com"
+  },
+  {
+   "id": "Y3WJM83K",
+   "name": "B&B Electric Inc.",
+   "domain": "bandbelectric.com"
+  },
+  {
+   "id": "DURSFR6C",
+   "name": "PerLectric, Inc.",
+   "domain": "perlectric.com"
+  },
+  {
+   "id": "XHYUPXP2",
+   "name": "Werner Electric",
+   "domain": "onewerner.com"
+  },
+  {
+   "id": "KZ9PX64G",
+   "name": "Collins Electrical",
+   "domain": "collinsmn.com"
+  },
+  {
+   "id": "BSTZCFJ9",
+   "name": "City Light & Power, Inc.",
+   "domain": "clpinc.com"
+  },
+  {
+   "id": "46767B3V",
+   "name": "Grp|Wegman",
+   "domain": "grpwegman.com"
+  },
+  {
+   "id": "2UTP6KFZ",
+   "name": "NEAD Organization",
+   "domain": "neadorganization.com"
+  },
+  {
+   "id": "9NX4RLLU",
+   "name": "High Voltage Maintenance",
+   "domain": "hvmcorp.com"
+  },
+  {
+   "id": "JC9LDKCY",
+   "name": "Rauhorn Electric, Inc.",
+   "domain": "rauhornelectric.com"
+  },
+  {
+   "id": "8BLNRVUZ",
+   "name": "Cleveland Electric Company",
+   "domain": "clevelandelectric.com"
+  },
+  {
+   "id": "SB4NBPW2",
+   "name": "Decker Electric",
+   "domain": "deckerelectric.com"
+  },
+  {
+   "id": "UZTKBNDY",
+   "name": "NorthEast Electrical",
+   "domain": "needco.com"
+  },
+  {
+   "id": "Y49C6XAN",
+   "name": "De-Cal Mechanical Contractors",
+   "domain": "de-cal.com"
+  },
+  {
+   "id": "FKEKE92T",
+   "name": "Holaday-Parks, Inc.",
+   "domain": "holadayparks.com"
+  },
+  {
+   "id": "V2AQEAL5",
+   "name": "Baker Electric-Iowa",
+   "domain": "bakerelectric.com"
+  },
+  {
+   "id": "KLBZL28F",
+   "name": "Staff Electric Co.",
+   "domain": "staffelectric.com"
+  },
+  {
+   "id": "K5NZWBB3",
+   "name": "McDonald Electric Corporation",
+   "domain": "mcdonaldcorp.com"
+  },
+  {
+   "id": "SXM26HDQ",
+   "name": "Miller Bros",
+   "domain": "millerbros.us"
+  },
+  {
+   "id": "UP2GAFME",
+   "name": "Bodine Electric of Decatur",
+   "domain": "bodinedecatur.com"
+  },
+  {
+   "id": "ZMZ98BWZ",
+   "name": "Lawson Electric Co.",
+   "domain": "lawsonelectric.com"
+  },
+  {
+   "id": "B4DSM7JH",
+   "name": "Frischhertz Electric Company, Inc.",
+   "domain": "frischhertz.com"
+  },
+  {
+   "id": "MS2SEHME",
+   "name": "Cannon & Wendt Electric Company",
+   "domain": "cannon-wendt.com"
+  },
+  {
+   "id": "SS5ZYSW4",
+   "name": "Broadway Electric Service Company LLC (BESCO)",
+   "domain": "besco.com"
+  },
+  {
+   "id": "7QTTDVAK",
+   "name": "State Electric Corporation",
+   "domain": "stateelectriccorp.com"
+  },
+  {
+   "id": "JNSBAD4U",
+   "name": "Muska Companies",
+   "domain": "muskacompanies.com"
+  },
+  {
+   "id": "75YRBA9F",
+   "name": "Edward G. Sawyer Co., Inc.",
+   "domain": "egsawyer.com"
+  },
+  {
+   "id": "NFSAMB9J",
+   "name": "Groves Electrical Services",
+   "domain": "wegroves.com"
+  },
+  {
+   "id": "UYPYWZ8S",
+   "name": "Gephart Electric",
+   "domain": "gephartelectric.com"
+  },
+  {
+   "id": "7LMZMYCL",
+   "name": "Lecom Utility Contractors",
+   "domain": "lecomutility.com"
+  },
+  {
+   "id": "T9M45W3N",
+   "name": "Braun Electric Company, Inc.",
+   "domain": "braunelec.com"
+  },
+  {
+   "id": "GVJFKVUG",
+   "name": "Kelso-Burnett Co.",
+   "domain": "kelso-burnett.com"
+  },
+  {
+   "id": "L6552WN7",
+   "name": "MZI Group, Inc.",
+   "domain": "mzigroup.com"
+  },
+  {
+   "id": "QEAVFP93",
+   "name": "Cal Coast Telecom",
+   "domain": "cctcom.net"
+  },
+  {
+   "id": "NUXW2BYS",
+   "name": "SECO Energy",
+   "domain": "secoenergy.com"
+  },
+  {
+   "id": "9GJGGZ8N",
+   "name": "Mid-City Electric/Technologies",
+   "domain": "midcityelectric.com"
+  },
+  {
+   "id": "XJC8H4X8",
+   "name": "Christenson Electric",
+   "domain": "christenson.com"
+  },
+  {
+   "id": "FK33ETQX",
+   "name": "Horwitz Inc",
+   "domain": "horwitzllc.com"
+  },
+  {
+   "id": "EWAXEW25",
+   "name": "Titan Electric Inc",
+   "domain": "titanelectric.net"
+  },
+  {
+   "id": "XMCQWJST",
+   "name": "B&G Electrical Contractors of New York",
+   "domain": "bgelectrical.com"
+  },
+  {
+   "id": "YJX3YAMZ",
+   "name": "VFC Group",
+   "domain": "vfclp.com"
+  },
+  {
+   "id": "8P8ASHGV",
+   "name": "CBF Electric & Data",
+   "domain": "cbfelectric.com"
+  },
+  {
+   "id": "7BT7SQXQ",
+   "name": "Wm. T. Spaeder Company",
+   "domain": "spaeder.com"
+  },
+  {
+   "id": "7T9EYRXN",
+   "name": "Bruce & Merrilees",
+   "domain": "bruceandmerrilees.com"
+  },
+  {
+   "id": "JRRYXEZN",
+   "name": "Automation & Electronics, Inc.",
+   "domain": "autoelect.com"
+  },
+  {
+   "id": "X985CBQZ",
+   "name": "Beltline Electric",
+   "domain": "beltlineelectric.com"
+  },
+  {
+   "id": "KWJRT4NG",
+   "name": "CH Reynolds",
+   "domain": "chreynolds.com"
+  },
+  {
+   "id": "FF2N53UV",
+   "name": "Hi-Tech Electric Company",
+   "domain": "hi-techelectric.net"
+  },
+  {
+   "id": "7XPK873U",
+   "name": "Pro Energy Services Group LLC",
+   "domain": "proeservices.com"
+  },
+  {
+   "id": "W2XNXUS3",
+   "name": "Capital Electric Line Builders",
+   "domain": "capitalelectriclinebuilders.com"
+  },
+  {
+   "id": "CYRVGK6X",
+   "name": "O'Connell Electric Company",
+   "domain": "oconnellelectric.com"
+  },
+  {
+   "id": "8DMEXXMU",
+   "name": "Skyline Construction",
+   "domain": "skylineconstruction.build"
+  },
+  {
+   "id": "B2UEJZ5T",
+   "name": "Rocky Mountain Contractors",
+   "domain": "rockymountaincontractors.com"
+  },
+  {
+   "id": "7KEYQ9NA",
+   "name": "Elcor Electric, Inc.",
+   "domain": "elcorelectric.com"
+  },
+  {
+   "id": "ALLALV3Y",
+   "name": "Air Systems, Inc.",
+   "domain": "airsystemsinc.com"
+  },
+  {
+   "id": "94EBEQKT",
+   "name": "1901 INC.",
+   "domain": "1901inc.com"
+  },
+  {
+   "id": "QFL2DMVV",
+   "name": "John A. Penney Company, Inc.",
+   "domain": "johnpenney.com"
+  },
+  {
+   "id": "DNN8P4PD",
+   "name": "Hilscher-Clarke Electric Company",
+   "domain": "hilscher-clarke.com"
+  },
+  {
+   "id": "8WJUZRVH",
+   "name": "Outsource Utility Contractor Corporation",
+   "domain": "outsourceucc.com"
+  },
+  {
+   "id": "KHVZQYLF",
+   "name": "ANDA Networks",
+   "domain": "telco.com"
+  },
+  {
+   "id": "T8TZFLRM",
+   "name": "Standard Electric",
+   "domain": "standardelectricco.com"
+  },
+  {
+   "id": "89MWBVT7",
+   "name": "EC Source Services",
+   "domain": "ecsourceservices.com"
+  },
+  {
+   "id": "PYLZEJU2",
+   "name": "Town of Mansfield, MA",
+   "domain": "mansfieldma.com"
+  },
+  {
+   "id": "M3XZE3S4",
+   "name": "Dynalectric Washington, DC",
+   "domain": "dynalectric-dc.com"
+  },
+  {
+   "id": "3824VLDJ",
+   "name": "Verde Electric Corporation",
+   "domain": "verdeelectric.com"
+  },
+  {
+   "id": "NG49TV4U",
+   "name": "National Technologies (NTI)",
+   "domain": "ntitech.com"
+  },
+  {
+   "id": "5VBC7L7E",
+   "name": "Sletten Construction Company",
+   "domain": "slettencompanies.com"
+  },
+  {
+   "id": "NJR4FYNG",
+   "name": "Thompson Electric, Inc",
+   "domain": "thompsonelectric.com"
+  },
+  {
+   "id": "H84R82NH",
+   "name": "KDC Inc.",
+   "domain": "kdcinc.com"
+  },
+  {
+   "id": "E7NDVPJ3",
+   "name": "Sequoyah Electric & Network Services",
+   "domain": "sequoyah.com"
+  },
+  {
+   "id": "5PPAYJEA",
+   "name": "Harlan Electric Company",
+   "domain": "harlanelectric.com"
+  },
+  {
+   "id": "6NPFNH5Q",
+   "name": "J. Ranck Electric, Inc.",
+   "domain": "jranck.com"
+  },
+  {
+   "id": "E33DNDF8",
+   "name": "Mills Electric",
+   "domain": "millselectric.com"
+  },
+  {
+   "id": "WMRWKCJG",
+   "name": "ERMCO, Inc.",
+   "domain": "ermco.com"
+  },
+  {
+   "id": "HDSNYNFB",
+   "name": "Maron Electric Company",
+   "domain": "maronelectric.com"
+  },
+  {
+   "id": "MALHJD3Z",
+   "name": "Gilston Electrical Contracting LLC",
+   "domain": "gilstonelectric.com"
+  },
+  {
+   "id": "WUAJ8R46",
+   "name": "MDE Electric Company",
+   "domain": "mde-electric.com"
+  },
+  {
+   "id": "VNW3XNCG",
+   "name": "Marking Services, Inc",
+   "domain": "markserv.com"
+  },
+  {
+   "id": "FSK7QTJE",
+   "name": "Center Line Electric, Inc.",
+   "domain": "centerline-elec.com"
+  },
+  {
+   "id": "2WZ5Z3R7",
+   "name": "BK Technologies Inc.",
+   "domain": "bktechnologies.com"
+  },
+  {
+   "id": "ADK284XM",
+   "name": "Billitier Electric, Inc",
+   "domain": "billitierelectric.com"
+  },
+  {
+   "id": "AJ23XNGL",
+   "name": "Scott Electric Company",
+   "domain": "scott-electric.com"
+  },
+  {
+   "id": "C6HEB8WQ",
+   "name": "Schuler-Haas Electric Corp.",
+   "domain": "schuler-haas.com"
+  },
+  {
+   "id": "E4V4673Z",
+   "name": "A-C Electric Company",
+   "domain": "a-celectric.com"
+  },
+  {
+   "id": "TQYWY4MF",
+   "name": "Atlas Acon Electric Service Corp.",
+   "domain": "atlasacon.com"
+  },
+  {
+   "id": "LUXEUZE5",
+   "name": "Miller Electrical Contractors",
+   "domain": "millerelectrical.net"
+  },
+  {
+   "id": "TKQ9CUJB",
+   "name": "Winger Companies",
+   "domain": "wingercompanies.com"
+  },
+  {
+   "id": "LBXAEGZS",
+   "name": "Advanced Electrical Systems, Inc.",
+   "domain": "aeslou.com"
+  },
+  {
+   "id": "BR856QDC",
+   "name": "Ready Electric Company, Inc.",
+   "domain": "readyelec.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Louisville, KY",
+   "year_founded": 1949,
+   "revenue": 83895000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 312,
+    "linkedin": 119
+   },
+   "funding_stage": "No Funding",
+   "description": "Ready Electric Company, Inc. provides design-build electrical construction and technology services for business and institutional clients, focusing on BIM modeling, prefabrication, power distribution, low-voltage systems, and 24/7 service. They serve sectors such as healthcare, industrial, institutional, sports venues and data centers, and they claim faster, more accurate installations through in-house prefabrication and geospatial/Trimble technology and by operating as an ESOP."
+  },
+  {
+   "id": "J6BY7THW",
+   "name": "MGE Underground, Inc.",
+   "domain": "mgeunderground.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Paso Robles, CA",
+   "year_founded": 1997,
+   "revenue": 105864000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 310,
+    "linkedin": 220
+   },
+   "funding_stage": "No Funding",
+   "description": "MGE Underground provides underground utility and electrical distribution construction services for utilities and infrastructure owners, focusing on electric distribution work, trenchless installation, EPC project delivery, and emergency response. They emphasize safety-first operations, organized project management, and specialized crews as differentiators."
+  },
+  {
+   "id": "TRYYEAUJ",
+   "name": "Mill Plain Electric",
+   "domain": "mp-electric.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Vancouver, WA",
+   "year_founded": 1979,
+   "revenue": 95649000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 309,
+    "linkedin": 88
+   },
+   "funding_stage": "No Funding",
+   "description": "Mill Plain Electric is a full-service electrical contractor specializing in traffic signals and roadway lighting while also providing industrial, commercial, healthcare, and design-build electrical services to business and government customers; they emphasize long-term customer relationships, a well-trained staff, and multi-decade experience."
+  },
+  {
+   "id": "N9L9NVZ6",
+   "name": "Kroeschell Inc.",
+   "domain": "kroeschell.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Arlington Heights, IL",
+   "year_founded": 1879,
+   "revenue": 78117000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 307,
+    "linkedin": 184
+   },
+   "funding_stage": "No Funding",
+   "description": "Kroeschell Inc. provides design-build MEP engineering and turnkey facility services for institutional and commercial clients, offering project delivery (general contracting and MEP design-build) plus ongoing maintenance and operations for critical building systems. They serve large corporations, healthcare, government, education, industrial and data center clients and position themselves as an experienced, employee-owned facilities engineering and operations partner focused on proactive maintenance, safety and sustainability."
+  },
+  {
+   "id": "3F93Q87M",
+   "name": "LVC Companies, Inc.",
+   "domain": "lvcinc.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Golden Valley, MN",
+   "year_founded": 2011,
+   "revenue": 17314000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 303,
+    "linkedin": 171
+   },
+   "funding_stage": "No Funding",
+   "description": "LVC Companies provides design, installation, integration, inspection, maintenance, monitoring, and emergency service for fire protection, life-safety, security, and communications systems for commercial, industrial, government, education, healthcare, and property management customers. They position themselves as simplifying complex technology and offering 24-hour service while emphasizing safety, connectivity, and customer-focused solutions."
+  },
+  {
+   "id": "GP5CQM58",
+   "name": "All-Pro Electric",
+   "domain": "allproelectric.com"
+  },
+  {
+   "id": "Q49MPP2V",
+   "name": "Revere Control Systems",
+   "domain": "reverecontrol.com"
+  },
+  {
+   "id": "K85LDNG6",
+   "name": "Uihlein Electric",
+   "domain": "uihleinelectric.com"
+  },
+  {
+   "id": "DLBC378R",
+   "name": "Mid-West Electric",
+   "domain": "mid-westelectric.com"
+  },
+  {
+   "id": "B66VE8GX",
+   "name": "Robinson Electric",
+   "domain": "robinsonelectric.com"
+  },
+  {
+   "id": "X7TGA993",
+   "name": "Frey Electric Construction Co.",
+   "domain": "frey-electric.com"
+  },
+  {
+   "id": "JZAJB6UC",
+   "name": "Anderson Howard",
+   "domain": "aandh.com"
+  },
+  {
+   "id": "YTJLQSFR",
+   "name": "Young Electric and Communications",
+   "domain": "youngelec.com"
+  },
+  {
+   "id": "VTYH8M4F",
+   "name": "Control Solutions, Inc.",
+   "domain": "controlsolutionsinc.com"
+  },
+  {
+   "id": "FDHVMED4",
+   "name": "Fred Geller Electrical, Inc.",
+   "domain": "fgeusa.com"
+  },
+  {
+   "id": "BFUNQKH4",
+   "name": "Electro Design Engineering, Inc.",
+   "domain": "edeusa.com"
+  },
+  {
+   "id": "4FMZU2XP",
+   "name": "Titan Systems",
+   "domain": "titanlv.com"
+  },
+  {
+   "id": "H8M33KJL",
+   "name": "Sierra Electric",
+   "domain": "sierraelectric.com"
+  },
+  {
+   "id": "T3WAHHK3",
+   "name": "Maddox Electric Company, Inc.",
+   "domain": "mecofl.com"
+  },
+  {
+   "id": "D8KSC7Q8",
+   "name": "Superior Electric Great Lakes Company",
+   "domain": "seglc.com"
+  },
+  {
+   "id": "T9BEDSQF",
+   "name": "Anderson Electric, Inc",
+   "domain": "anderson-electric.com"
+  },
+  {
+   "id": "X7VENGDE",
+   "name": "Xtreme Powerline Construction",
+   "domain": "xtremepowerline.com"
+  },
+  {
+   "id": "Q8WH58XV",
+   "name": "Faith Electric, LLC",
+   "domain": "faithelectricllc.com"
+  },
+  {
+   "id": "PG52K5PG",
+   "name": "Charge, Inc.",
+   "domain": "chargeepc.com"
+  },
+  {
+   "id": "2K9KDT4A",
+   "name": "Energy Group, Inc.",
+   "domain": "energygroupusa.com"
+  },
+  {
+   "id": "QV56Z7WW",
+   "name": "H.B. Frazer Company",
+   "domain": "hbfrazer.com"
+  },
+  {
+   "id": "UL4VP8CP",
+   "name": "Williams Electric Company",
+   "domain": "williamselectriccompany.org"
+  },
+  {
+   "id": "567GEFVX",
+   "name": "Staco Electric Construction Co",
+   "domain": "stacoelectric.com"
+  },
+  {
+   "id": "MCGP3HDM",
+   "name": "Total Mechanical",
+   "domain": "total-mechanical.com"
+  },
+  {
+   "id": "5NXV469M",
+   "name": "Comet Electric",
+   "domain": "cometelectric.com"
+  },
+  {
+   "id": "HJNSARCA",
+   "name": "Gordon L. Seaman, Inc.",
+   "domain": "gordonlseaman.com"
+  },
+  {
+   "id": "72S46GDW",
+   "name": "Preferred Electric",
+   "domain": "preferred-electric.com"
+  },
+  {
+   "id": "9NYG9RB9",
+   "name": "Ferndale Electric Company, Inc.",
+   "domain": "ferndale-electric.com"
+  },
+  {
+   "id": "CHVSQ8N6",
+   "name": "SRT Communications",
+   "domain": "srt.com"
+  },
+  {
+   "id": "KMCGP9E8",
+   "name": "Allran Electric",
+   "domain": "nyallran.com"
+  },
+  {
+   "id": "7N5TESBG",
+   "name": "Intertech Mechanical Services",
+   "domain": "intertechmechanical.com"
+  },
+  {
+   "id": "HTD2LHEU",
+   "name": "Power City Electric",
+   "domain": "powercityelectric.com"
+  },
+  {
+   "id": "U9PYQD52",
+   "name": "The L.E. Myers Co.",
+   "domain": "lemyers.com"
+  },
+  {
+   "id": "PJLTQ8HF",
+   "name": "Crawford Company",
+   "domain": "crawford-company.com"
+  },
+  {
+   "id": "6KT2WATV",
+   "name": "Nitro Construction Services, Inc.",
+   "domain": "nitroconstructionservices.com"
+  },
+  {
+   "id": "3TKN8A4D",
+   "name": "TEC Electric",
+   "domain": "tec-electric.com"
+  },
+  {
+   "id": "H5QWZXS3",
+   "name": "Miller Electric Company of Omaha",
+   "domain": "millerelect.com"
+  },
+  {
+   "id": "54EK9JC3",
+   "name": "Northside Electric",
+   "domain": "northsideelectric.com"
+  },
+  {
+   "id": "J2FT82HH",
+   "name": "AM Ortega Construction",
+   "domain": "amortega.com"
+  },
+  {
+   "id": "8YB69REZ",
+   "name": "Schetter Electric",
+   "domain": "schetter.com"
+  },
+  {
+   "id": "V5PUVNN8",
+   "name": "NG Gilbert Services",
+   "domain": "nggilbert.com"
+  },
+  {
+   "id": "ZTGYEQ9A",
+   "name": "ABcom LLC",
+   "domain": "abcomllc.com"
+  },
+  {
+   "id": "F9P3XWYM",
+   "name": "T&R Electric Supply Company, Inc.",
+   "domain": "t-r.com"
+  },
+  {
+   "id": "PGNWKV4B",
+   "name": "P&E Constructors",
+   "domain": "peconstruct.com"
+  },
+  {
+   "id": "CQCUVLP2",
+   "name": "United Electric Company, Inc.",
+   "domain": "unitedelec.com"
+  },
+  {
+   "id": "3JEVR8PD",
+   "name": "John Burns Construction Company",
+   "domain": "jbconstructionco.com"
+  },
+  {
+   "id": "YGBG8URG",
+   "name": "H & L Electric, Inc.",
+   "domain": "hlelectric.com"
+  },
+  {
+   "id": "3T5RVXJV",
+   "name": "Kleinknecht Electric Company",
+   "domain": "kecny.com"
+  },
+  {
+   "id": "FQXNTUXY",
+   "name": "Dj Electrical",
+   "domain": "djselectrical.com"
+  },
+  {
+   "id": "RPD3W4ZW",
+   "name": "Fischbach & Moore",
+   "domain": "fbmpower.com"
+  },
+  {
+   "id": "DKRW7Q9T",
+   "name": "Aldon Electric, Inc.",
+   "domain": "aldonelectric.com"
+  },
+  {
+   "id": "Z4Y6ZK7L",
+   "name": "The Morse Group",
+   "domain": "themorsegroup.com"
+  },
+  {
+   "id": "NE4J4EKT",
+   "name": "J.F. Electric, Incorporated",
+   "domain": "jfelectric.com"
+  },
+  {
+   "id": "2BY8S9DL",
+   "name": "Striano Electric Co., Inc.",
+   "domain": "strianoelectric.com"
+  },
+  {
+   "id": "45UQBGCD",
+   "name": "Britain Electric",
+   "domain": "britainelectric.com"
+  },
+  {
+   "id": "ZC2N8KKM",
+   "name": "Pro Traffic Services, Inc.",
+   "domain": "protrafficservicesinc.com"
+  },
+  {
+   "id": "E5FXZ3RQ",
+   "name": "Action Electric Co., Inc.",
+   "domain": "actioncontractors.com"
+  },
+  {
+   "id": "JLPXKMKX",
+   "name": "AP4 Group",
+   "domain": "ap4.com"
+  },
+  {
+   "id": "ECZHKNGD",
+   "name": "Tore Electric Company",
+   "domain": "toreelectric.com"
+  },
+  {
+   "id": "59UVSSGA",
+   "name": "Ozarks Electric Cooperative",
+   "domain": "ozarksecc.com"
+  },
+  {
+   "id": "7LQHTZR8",
+   "name": "Jamerson & Bauwens Electrical Contractors, Inc.",
+   "domain": "jbelectric.com"
+  },
+  {
+   "id": "D275SYPM",
+   "name": "Schmitt Electric Inc",
+   "domain": "schmittelectric.com"
+  },
+  {
+   "id": "RN49WJ85",
+   "name": "G.R. Sponaugle",
+   "domain": "grsponaugle.com"
+  },
+  {
+   "id": "5GSAN99Z",
+   "name": "Robert B. Samuels",
+   "domain": "rbsamuels.com"
+  },
+  {
+   "id": "CR42WWSH",
+   "name": "St Francis Electric, LLC",
+   "domain": "stfranciselectric.com"
+  },
+  {
+   "id": "DRSK3M7C",
+   "name": "Furness Electric",
+   "domain": "furnesselectric.com"
+  },
+  {
+   "id": "GSHVA3VV",
+   "name": "Appellation Construction Services, Llc",
+   "domain": "appellationconstruction.com"
+  },
+  {
+   "id": "VJK5YD5C",
+   "name": "Malek Inc.",
+   "domain": "malekinc.com"
+  },
+  {
+   "id": "LK5R6FHP",
+   "name": "Fairway Electric Inc.",
+   "domain": "fairwayelectricinc.com"
+  },
+  {
+   "id": "T6F23GXE",
+   "name": "KLA Laboratories, Inc.",
+   "domain": "klalabs.com"
+  },
+  {
+   "id": "9WUFQW32",
+   "name": "Valley Electric Company",
+   "domain": "velectric.com"
+  },
+  {
+   "id": "SG5G7YVN",
+   "name": "Quality Electric Inc.",
+   "domain": "qeidaho.com"
+  },
+  {
+   "id": "ZPKSJ6T5",
+   "name": "Skyline Electric Company",
+   "domain": "skyline.us"
+  },
+  {
+   "id": "U8HDYK39",
+   "name": "Precision Electric Company",
+   "domain": "precisionelectricco.com"
+  },
+  {
+   "id": "H297SGDJ",
+   "name": "Alcantel Division of Alcan Electric",
+   "domain": "alcanelectric.com"
+  },
+  {
+   "id": "BUW6CUZL",
+   "name": "HMT Electric Inc.",
+   "domain": "hmtelectric.com"
+  },
+  {
+   "id": "D6VUBYDV",
+   "name": "Melton Electrical and Structured Cabling",
+   "domain": "meltonelectric.com"
+  },
+  {
+   "id": "5UKC2TUU",
+   "name": "Quality Sound",
+   "domain": "qualitysound.net"
+  },
+  {
+   "id": "8HAEBALR",
+   "name": "M&L Electrical, Inc.",
+   "domain": "mlelectrical.com"
+  },
+  {
+   "id": "J6AZPZWP",
+   "name": "Miller-Eads Company",
+   "domain": "miller-eads.com"
+  },
+  {
+   "id": "ADDSULWS",
+   "name": "Sidney Electric",
+   "domain": "sidneyelectric.com"
+  },
+  {
+   "id": "A2F7R9SR",
+   "name": "McCrossin, Inc.",
+   "domain": "mccrossin.com"
+  },
+  {
+   "id": "86YF8F5P",
+   "name": "The Robert Henry Corporation",
+   "domain": "roberthenrycorp.com"
+  },
+  {
+   "id": "K3R36N3D",
+   "name": "Elecnor Hawkeye",
+   "domain": "elecnorhawkeye.com"
+  },
+  {
+   "id": "GBLRX76U",
+   "name": "J.F. White Contracting Co.",
+   "domain": "jfwhite.com"
+  },
+  {
+   "id": "XQ8HEH9Q",
+   "name": "Dynalectric San Diego",
+   "domain": "dyna-sd.com"
+  },
+  {
+   "id": "DANXK6DZ",
+   "name": "TouchTel Electric & Datacom",
+   "domain": "ttedi.com"
+  },
+  {
+   "id": "DDEXPX9G",
+   "name": "Block Electric Company, Inc.",
+   "domain": "blockelectric.com"
+  },
+  {
+   "id": "SZQGQKPQ",
+   "name": "Sullivan & McLaughlin",
+   "domain": "sullymac.com"
+  },
+  {
+   "id": "HYDM7QPB",
+   "name": "Battaglia Electric, Inc.",
+   "domain": "battag.com"
+  },
+  {
+   "id": "K5VP3TQ4",
+   "name": "Integrity Networks, Inc.",
+   "domain": "integritynetworksinc.com"
+  },
+  {
+   "id": "R9EDVX7D",
+   "name": "Asr Electrical",
+   "domain": "asrelectric.com"
+  },
+  {
+   "id": "QLFC9SZ2",
+   "name": "Birdi Systems, Inc.",
+   "domain": "birdi-inc.com"
+  },
+  {
+   "id": "MH8LZZCN",
+   "name": "Pritchard Electric",
+   "domain": "pritchardelectric.com"
+  },
+  {
+   "id": "TXEGENKS",
+   "name": "Modern Electric",
+   "domain": "modern-electric.com"
+  },
+  {
+   "id": "G7NULHBY",
+   "name": "Precision Electric Group",
+   "domain": "precisionelectricgroup.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Redmond, WA",
+   "year_founded": 2004,
+   "revenue": 65696000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 214,
+    "linkedin": 86
+   },
+   "funding_stage": "No Funding",
+   "description": "Precision Electric Group provides electrical construction and contracting services for commercial and institutional clients, covering ground-up projects, build-outs, renovations, installations, design-build, and maintenance; they emphasize delivering projects on time and on budget, flexibility to work around client schedules, and acting as an ongoing maintenance partner."
+  },
+  {
+   "id": "DQUHN3UV",
+   "name": "Standard Electric",
+   "domain": "standardelectric.com",
+   "ownership": "Private Subsidiary",
+   "headquarters_pretty": "Wilmington, MA",
+   "year_founded": 1952,
+   "primary_business_model_name": "Distributor",
+   "employees_estimate": {
+    "grata": 211,
+    "linkedin": 102
+   },
+   "description": "Standard Electric is a distributor and retailer of electrical and lighting supplies serving trade professionals and business customers as well as retail shoppers; they offer a broad product catalog (lamps, ballasts, conduit, wiring, tools, batteries) through an online ordering platform with business account features, branch pickup, and customer support."
+  },
+  {
+   "id": "6QK7ST72",
+   "name": "Escoe Industrial",
+   "domain": "escoeindustrial.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Georgia, USA",
+   "revenue": 19698000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 210,
+    "linkedin": 50
+   },
+   "funding_stage": "No Funding",
+   "description": "Escoe Industrial provides industrial and commercial maintenance and fabrication services to manufacturing and commercial operations. They offer custom metal fabrication and welding, electrical installations and controls, and mechanical services including millwright work and plant relocations. They market themselves as a 24-hour service provider with broad shop capabilities, trained staff, and an emphasis on efficiency and fair pricing."
+  },
+  {
+   "id": "DQ65RKUS",
+   "name": "Mayers Electric Co., Inc.",
+   "domain": "mayerselectric.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Cincinnati, OH",
+   "year_founded": 1946,
+   "revenue": 64468000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 210,
+    "linkedin": 53
+   },
+   "description": "Mayers Electric Co., Inc. is an electrical contracting firm that provides emergency electrical service, construction and renovation wiring, design/build projects, machinery wiring, lighting controls, data/communications cabling, fire alarm installation, and thermal scanning for commercial and institutional clients; they emphasize licensed operations, round-the-clock service, and a long operating history."
+  },
+  {
+   "id": "YPJDL8TB",
+   "name": "Mark One Electric",
+   "domain": "markone.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Kansas City, MO",
+   "year_founded": 1974,
+   "revenue": 63854000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 208,
+    "linkedin": 208
+   },
+   "funding_stage": "No Funding",
+   "description": "Mark One Electric provides advanced electrical knowledge, experience, and service to general contractors, developers, facility managers, and business owners across the Midwest region. Their offerings include power, data, lighting, and renewable energy solutions. They position themselves as Kansas City's most trusted electrical partner, highlighting their expertise, safety record, and ability to handle various project types in the sports, infrastructure, entertainment, civic, data center, industrial, healthcare, and education sectors."
+  },
+  {
+   "id": "39DS3W9C",
+   "name": "Bockmon & Woody Electric Co., Inc.",
+   "domain": "bockmonwoody.com"
+  },
+  {
+   "id": "79HSE4CJ",
+   "name": "Wasatch Electric",
+   "domain": "wasatchelectric.com"
+  },
+  {
+   "id": "WDN3HAD6",
+   "name": "Paganini Electric Corporation",
+   "domain": "pagcos.com"
+  },
+  {
+   "id": "2Y6WG8S3",
+   "name": "Brooks Berry Haynie & Associates, Inc.",
+   "domain": "bbhelectric.com"
+  },
+  {
+   "id": "7SGTMV6H",
+   "name": "B & B Electric, Inc",
+   "domain": "bbelectricinc.com"
+  },
+  {
+   "id": "9XCP7EDY",
+   "name": "Dagle Electrical Construction Corp",
+   "domain": "deccorp.com"
+  },
+  {
+   "id": "5MVPSH68",
+   "name": "Kasselman Electric Co., Inc.",
+   "domain": "kasselmanelectric.com"
+  },
+  {
+   "id": "G6MY7EY9",
+   "name": "Bombard Electric, LLC",
+   "domain": "bombardelectric.com"
+  },
+  {
+   "id": "5BTP4PM7",
+   "name": "Contra Costa Electric, Inc.",
+   "domain": "ccelectric.com"
+  },
+  {
+   "id": "WSCSS8RU",
+   "name": "M B Herzog Electric",
+   "domain": "herzogelectric.com"
+  },
+  {
+   "id": "6FPEXYQH",
+   "name": "Binsky Snyder",
+   "domain": "binsky.com"
+  },
+  {
+   "id": "4LSNWZ4R",
+   "name": "Morton Electric, Inc.",
+   "domain": "mortonelectricinc.com"
+  },
+  {
+   "id": "JKHLKMSS",
+   "name": "Atlas Industrial Contractors",
+   "domain": "atlascos.com"
+  },
+  {
+   "id": "N5TTP78A",
+   "name": "Speelman Electric, Inc.",
+   "domain": "speelmanelectric.com"
+  },
+  {
+   "id": "D5HP3CDH",
+   "name": "TC Electric",
+   "domain": "tcelect.net"
+  },
+  {
+   "id": "4LURUADA",
+   "name": "TTR Substations, Inc.",
+   "domain": "ttrsubstations.com"
+  },
+  {
+   "id": "5MEVBFPH",
+   "name": "Medina Electric, LLC.",
+   "domain": "medinaelectric.net"
+  },
+  {
+   "id": "5PHV3WKR",
+   "name": "TriNova, Inc.",
+   "domain": "trinovainc.com"
+  },
+  {
+   "id": "XBZATTQ4",
+   "name": "Shade Tree",
+   "domain": "stsco.net"
+  },
+  {
+   "id": "USYZHBLB",
+   "name": "Myers Electric Company Inc",
+   "domain": "meyerelectric.net"
+  },
+  {
+   "id": "LJ64VU24",
+   "name": "Contemporary Electrical Services, Inc.",
+   "domain": "cont-elec.com"
+  },
+  {
+   "id": "2YUYFFV5",
+   "name": "UHL Company, Inc.",
+   "domain": "uhlcompany.com"
+  },
+  {
+   "id": "RWETGHHP",
+   "name": "Fontanesi and Kann Company",
+   "domain": "ezhvac.com"
+  },
+  {
+   "id": "LP57ZGR7",
+   "name": "BCU Electric, Inc.",
+   "domain": "bcuelectric.com"
+  },
+  {
+   "id": "PUDTX3D2",
+   "name": "Electric Company of Omaha, Inc.",
+   "domain": "ecomaha.com"
+  },
+  {
+   "id": "EBPK6NAB",
+   "name": "Corporate Electric Group, Inc.",
+   "domain": "corporateelectricgroup.com"
+  },
+  {
+   "id": "ARH3FFK5",
+   "name": "Tri-State Electrical Contractors",
+   "domain": "tristateec.com"
+  },
+  {
+   "id": "A8SV685J",
+   "name": "American Electric Company LLC",
+   "domain": "americanelectric.com"
+  },
+  {
+   "id": "S54KW3U3",
+   "name": "Cannon Construction Inc",
+   "domain": "cannongroup.com"
+  },
+  {
+   "id": "MEEFMEEA",
+   "name": "Duke Electric Co., Inc.",
+   "domain": "dukeelec.com"
+  },
+  {
+   "id": "EX6Q5EWS",
+   "name": "American Electrical Contractors, Inc.",
+   "domain": "aecinc.us"
+  },
+  {
+   "id": "JZQ47F72",
+   "name": "GrowthZone AMS",
+   "domain": "growthzone.com"
+  },
+  {
+   "id": "WBF9EFW5",
+   "name": "Capitol City Electric",
+   "domain": "capitolcityelectricinc.com"
+  },
+  {
+   "id": "9YX4LCQZ",
+   "name": "Albarell Electric, Inc.",
+   "domain": "albarell.com"
+  },
+  {
+   "id": "WZ2AD3N7",
+   "name": "Kirby Electric Inc.",
+   "domain": "kirbyelectric.com"
+  },
+  {
+   "id": "QQ8QRVWA",
+   "name": "GSI",
+   "domain": "securityandnetworks.com"
+  },
+  {
+   "id": "KAWPVNWJ",
+   "name": "Bennett Electrical Inc",
+   "domain": "bennett-electric.com"
+  },
+  {
+   "id": "7D4GL5L8",
+   "name": "Polo Electric",
+   "domain": "poloelectric.com"
+  },
+  {
+   "id": "SAUJWWUX",
+   "name": "ADCO Electrical Corp.",
+   "domain": "adcoonline.com"
+  },
+  {
+   "id": "GXH7M5AM",
+   "name": "Premier Electrical Corporation",
+   "domain": "premiercorp.net"
+  },
+  {
+   "id": "E2C99AQR",
+   "name": "Southern Contracting",
+   "domain": "southerncontracting.com"
+  },
+  {
+   "id": "F779YMPL",
+   "name": "BEI Construction, Inc.",
+   "domain": "beiconstruction.com"
+  },
+  {
+   "id": "HRUEQ7NC",
+   "name": "Sylvan",
+   "domain": "sylvan-inc.com"
+  },
+  {
+   "id": "V4ES8QLK",
+   "name": "Cogburn Bros. Inc",
+   "domain": "cogburnbros.com"
+  },
+  {
+   "id": "SAPH52BM",
+   "name": "Kleinberg Electric",
+   "domain": "kleinbergelectric.net"
+  },
+  {
+   "id": "R4ZN44L9",
+   "name": "Einheit Electric Construction Co.",
+   "domain": "einheitelectric.com"
+  },
+  {
+   "id": "VU3ESYCF",
+   "name": "Henderson Services LLC",
+   "domain": "henderson-services.com"
+  },
+  {
+   "id": "YWJZBGGY",
+   "name": "Island Computer Products, Inc (Icp)",
+   "domain": "icpcorp.com"
+  },
+  {
+   "id": "K5VCQ8DZ",
+   "name": "Ostrow Electric Co",
+   "domain": "ostrowelectric.com"
+  },
+  {
+   "id": "FG7LX4NV",
+   "name": "Hyre Electric Co",
+   "domain": "emcorhyre.com"
+  },
+  {
+   "id": "83PBL5H5",
+   "name": "Blackwater Electric",
+   "domain": "blackwaterelectric.com"
+  },
+  {
+   "id": "XSPG4VXQ",
+   "name": "Modern Electric Co",
+   "domain": "modernelectric.com"
+  },
+  {
+   "id": "3PXLTPLS",
+   "name": "Walton Electric Corporation",
+   "domain": "waltonelectriccorp.com"
+  },
+  {
+   "id": "Q9SF9SZZ",
+   "name": "EMCOR Services Combustioneer",
+   "domain": "combustioneer.com"
+  },
+  {
+   "id": "LJYJKCQZ",
+   "name": "Valiant Energy Service",
+   "domain": "valiantenergyservice.com"
+  },
+  {
+   "id": "2TY6M84T",
+   "name": "DualTemp Clauger",
+   "domain": "dualtempclauger.com"
+  },
+  {
+   "id": "NFQZBCJ2",
+   "name": "ConvergeOne (C1)",
+   "domain": "onec1.com"
+  },
+  {
+   "id": "7Y53MPEJ",
+   "name": "LAN-TEL Communications, Inc.",
+   "domain": "lan-tel.com"
+  },
+  {
+   "id": "G8Y8WRVF",
+   "name": "Lakeland Electric, Inc.",
+   "domain": "lakelandohio.com"
+  },
+  {
+   "id": "AR2KXTHT",
+   "name": "Laibe Electric/Technology",
+   "domain": "laibe.com"
+  },
+  {
+   "id": "ZK8AAXPL",
+   "name": "Industrial Contractors, Inc.",
+   "domain": "icinorthdakota.com"
+  },
+  {
+   "id": "NXLCS679",
+   "name": "Star-Lo Electric, Inc.",
+   "domain": "star-lo.com"
+  },
+  {
+   "id": "W75WAQXE",
+   "name": "Stetner Construction Group",
+   "domain": "stetner.com"
+  },
+  {
+   "id": "78GXMJYF",
+   "name": "Walker Telecomm Inc.",
+   "domain": "walkertelecomm.com"
+  },
+  {
+   "id": "89735WG8",
+   "name": "Chewning + Wilmer, Inc.",
+   "domain": "cw1924.com"
+  },
+  {
+   "id": "SV2XAY28",
+   "name": "Utilitra",
+   "domain": "utilitra.com"
+  },
+  {
+   "id": "EX7EBKVK",
+   "name": "Barth Electric Company, Inc.",
+   "domain": "barthelectric.com"
+  },
+  {
+   "id": "B5QNG3SE",
+   "name": "Windsor Electric Company Inc",
+   "domain": "windsorelectric.com"
+  },
+  {
+   "id": "SBLKRFKC",
+   "name": "Egg Electric, Inc.",
+   "domain": "eggelectric.com"
+  },
+  {
+   "id": "BKWUZHPK",
+   "name": "PM Contracting, Inc.",
+   "domain": "pmc-kc.com"
+  },
+  {
+   "id": "2MHU6LHR",
+   "name": "Ullman Electric",
+   "domain": "ullmanelectric.com"
+  },
+  {
+   "id": "J3YKWZF9",
+   "name": "Leed Electric",
+   "domain": "leedelectric.com"
+  },
+  {
+   "id": "9TNJAUB3",
+   "name": "VEC, Inc.",
+   "domain": "vecohio.com"
+  },
+  {
+   "id": "KVNXV7MC",
+   "name": "Shaw Electric Co.",
+   "domain": "shawelectric.com"
+  },
+  {
+   "id": "3N33KMTS",
+   "name": "Thayer Power and Communication Line Construction Co., LLC",
+   "domain": "thayerpc.com"
+  },
+  {
+   "id": "HMTQZ64E",
+   "name": "NABCO Electric Company, Inc.",
+   "domain": "nabcoelectric.com"
+  },
+  {
+   "id": "JDT4S9S7",
+   "name": "Fountain Construction Company, Inc.",
+   "domain": "fountainconstruction.com"
+  },
+  {
+   "id": "44CMRSMP",
+   "name": "Phalcon",
+   "domain": "phalconusa.com"
+  },
+  {
+   "id": "CCV5MX5X",
+   "name": "Johnson Contractors, Inc.",
+   "domain": "johnsoncont.com"
+  },
+  {
+   "id": "3H35DWGB",
+   "name": "Strategic Mechanical, Inc.",
+   "domain": "strategicmechanical.com"
+  },
+  {
+   "id": "GKBV2W3B",
+   "name": "Syserco",
+   "domain": "syserco.com"
+  },
+  {
+   "id": "37JWEWXR",
+   "name": "Armour & Sons Electric",
+   "domain": "armourandsons.com"
+  },
+  {
+   "id": "X8Q56SZP",
+   "name": "Glenwood Electric",
+   "domain": "glenwoodelectric.com"
+  },
+  {
+   "id": "SWH4WUQB",
+   "name": "A. Murphy Inc.",
+   "domain": "amurphy.com"
+  },
+  {
+   "id": "VYYPG4AN",
+   "name": "Comtel Systems Technology, Inc.",
+   "domain": "comtelsys.com"
+  },
+  {
+   "id": "4PNZKBJL",
+   "name": "Irish Communication Company",
+   "domain": "irishteam.net"
+  },
+  {
+   "id": "ZJKAJ9F7",
+   "name": "Kaemmerlen Electric",
+   "domain": "kaemmerlen.com"
+  },
+  {
+   "id": "UGEF6CBN",
+   "name": "Uptime Electric Inc.",
+   "domain": "uptimeelectric.com"
+  },
+  {
+   "id": "2GEZ8B24",
+   "name": "Capitol Electric Construction Company",
+   "domain": "capitolelectric.com"
+  },
+  {
+   "id": "8ALNARSL",
+   "name": "Aarow Electrical Solutions",
+   "domain": "aarowelectricalsolutions.com"
+  },
+  {
+   "id": "PF5DVGK5",
+   "name": "Geiger Brothers, Inc.",
+   "domain": "geigerbrothers.com"
+  },
+  {
+   "id": "PVK4MSSX",
+   "name": "Lemberg",
+   "domain": "lembergelectric.com"
+  },
+  {
+   "id": "Y7H2B8L4",
+   "name": "Ace Electrical Contractors, Inc.",
+   "domain": "aceelectrical.net"
+  },
+  {
+   "id": "P7BVE3B8",
+   "name": "Schenectady Hardware & Electric",
+   "domain": "sheinc.com"
+  },
+  {
+   "id": "XEB9HJBF",
+   "name": "JCT Solutions",
+   "domain": "jctnj.com"
+  }
+ ]
+}

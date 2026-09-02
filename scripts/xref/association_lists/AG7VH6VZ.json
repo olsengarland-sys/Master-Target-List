@@ -1,0 +1,314 @@
+{
+ "header": {
+  "list_id": "AG7VH6VZ",
+  "name": "FSG Top 50 Electrical Contractors 2025",
+  "total_reported": 50,
+  "rows_fetched": 50,
+  "truncated": false,
+  "note": "Complete: single page returned all rows. Rows after the top 5 are id/name/domain stubs."
+ },
+ "companies": [
+  {
+   "id": "3F8DFJTL",
+   "name": "Quanta Services, Inc.",
+   "domain": "quantaservices.com",
+   "ownership": "Public",
+   "headquarters_pretty": "Houston, TX",
+   "year_founded": 1997,
+   "revenue": 32905140000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 30004,
+    "linkedin": 6397
+   },
+   "description": "Quanta Services, Inc. provides specialty contracting services for electric power, pipeline and communications infrastructure. They serve utilities, energy companies, telecommunications network owners and large industrial customers with engineering, construction, installation, maintenance and repair services. They position themselves as an integrated platform of specialized operating companies delivering end-to-end infrastructure solutions at scale for grid modernization, pipelines and communications networks."
+  },
+  {
+   "id": "BU7B6PJD",
+   "name": "Rosendin Electric, Inc.",
+   "domain": "rosendin.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "San Jose, CA",
+   "year_founded": 1919,
+   "revenue": 10101550000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 24686,
+    "linkedin": 6235
+   },
+   "funding_stage": "No Funding",
+   "description": "Rosendin Electric, Inc. is an electrical engineering, design, and construction company. They provide services such as preconstruction, electrical construction, and electrical service and maintenance. Their typical customers include commercial, healthcare, education, and renewable energy sectors. Rosendin claims to differentiate themselves through their commitment to safety, quality, and innovation, as well as their unique approach to project delivery and customer service."
+  },
+  {
+   "id": "H255AWFB",
+   "name": "EMCOR Group, Inc.",
+   "domain": "emcorgroup.com",
+   "ownership": "Public",
+   "headquarters_pretty": "Norwalk, CT",
+   "year_founded": 1994,
+   "revenue": 18597775000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 13844,
+    "linkedin": 3363
+   },
+   "description": "EMCOR Group provides mechanical and electrical construction and integrated facilities services for commercial, institutional, and industrial clients. They serve property owners, facility managers, and infrastructure operators with offerings that span building systems installation, energy services, and ongoing operations and maintenance. They position themselves as an end\u2011to\u2011end provider that links construction delivery with long\u2011term facility services and energy management."
+  },
+  {
+   "id": "S4SC3XFW",
+   "name": "Integrated Electrical Services (IES)",
+   "domain": "ies-co.com",
+   "ownership": "Public",
+   "headquarters_pretty": "Sugar Land, TX",
+   "year_founded": 1997,
+   "revenue": 3985742000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 11926,
+    "linkedin": 2878
+   },
+   "description": "IES Holdings provides electrical construction, systems integration, and related industrial services to commercial, institutional, industrial and utility customers. They deliver design-build electrical contracting, installation and maintenance work and offer prefabricated/modular electrical solutions and component supply through subsidiaries. They emphasize integrated, end-to-end electrical and systems capabilities and turnkey prefabrication as distinguishing aspects of their offering."
+  },
+  {
+   "id": "QAPXEZP2",
+   "name": "Helix Electric",
+   "domain": "helixelectric.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "San Diego, CA",
+   "year_founded": 1985,
+   "revenue": 2917952000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 7166,
+    "linkedin": 1796
+   },
+   "funding_stage": "No Funding",
+   "description": "Helix Electric provides electrical construction and integrated electrical services for commercial, industrial, data center, utility-scale renewable energy, and EV charging projects. They serve developers, industrial firms, utilities, general contractors, and organizations deploying charging infrastructure, and they claim differentiation through design-build capabilities, prefabrication, and full lifecycle electrical project delivery."
+  },
+  {
+   "id": "M5595G4U",
+   "name": "Miller Electric Company",
+   "domain": "mecojax.com"
+  },
+  {
+   "id": "9JN3TWA2",
+   "name": "Gaylor Electric",
+   "domain": "gaylor.com"
+  },
+  {
+   "id": "Y6FW3A57",
+   "name": "Facility Solutions Group",
+   "domain": "fsg.com"
+  },
+  {
+   "id": "HYFL644S",
+   "name": "Bergelectric",
+   "domain": "bergelectric.com"
+  },
+  {
+   "id": "L4M64B3R",
+   "name": "ISC Constructors, LLC",
+   "domain": "iscgrp.com"
+  },
+  {
+   "id": "VH3FNZ6S",
+   "name": "The Newtron Group",
+   "domain": "thenewtrongroup.com"
+  },
+  {
+   "id": "VS3TUWHT",
+   "name": "CEC",
+   "domain": "cecfg.com"
+  },
+  {
+   "id": "RRDCNU7B",
+   "name": "MMR Group",
+   "domain": "mmrgrp.com"
+  },
+  {
+   "id": "RAB84DNS",
+   "name": "MYR Group Inc.",
+   "domain": "myrgroup.com"
+  },
+  {
+   "id": "7LV68H6D",
+   "name": "M.C. Dean, Inc.",
+   "domain": "mcdean.com"
+  },
+  {
+   "id": "KEGXNWAJ",
+   "name": "ArchKey Solutions LLC",
+   "domain": "archkey.com"
+  },
+  {
+   "id": "SEXJVARN",
+   "name": "Cache Valley Electric Company",
+   "domain": "cve.com"
+  },
+  {
+   "id": "Q5U893EL",
+   "name": "Faith Technologies Incorporated (FTI)",
+   "domain": "faithtechinc.com"
+  },
+  {
+   "id": "2AYLERRK",
+   "name": "Rogers Electric",
+   "domain": "rogerselectric.com"
+  },
+  {
+   "id": "QF73JQU6",
+   "name": "Power Design Inc.",
+   "domain": "powerdesigninc.us"
+  },
+  {
+   "id": "AV6XA4K9",
+   "name": "Wayne J. Griffin Electric, Inc.",
+   "domain": "waynejgriffinelectric.com"
+  },
+  {
+   "id": "MLTDHENJ",
+   "name": "Hunt Electric Corporation",
+   "domain": "huntelec.com"
+  },
+  {
+   "id": "YZP7N73S",
+   "name": "Encore Electric, Inc.",
+   "domain": "encoreelectric.com"
+  },
+  {
+   "id": "XEA5LKJQ",
+   "name": "Ace Electric, Inc",
+   "domain": "aceelectric.net"
+  },
+  {
+   "id": "MBXHZBLQ",
+   "name": "VECA Electric & Technologies",
+   "domain": "veca.com"
+  },
+  {
+   "id": "DZ9T6BYQ",
+   "name": "ICS Holding, LLC",
+   "domain": "icsholdingllc.com"
+  },
+  {
+   "id": "K25NXNT9",
+   "name": "E-J Electric Installation Co.",
+   "domain": "ej1899.com"
+  },
+  {
+   "id": "LSRDGVUL",
+   "name": "Tri-City Electric Co.",
+   "domain": "tricityelectric.com"
+  },
+  {
+   "id": "UQ89WJ3S",
+   "name": "Redwood Electric Group",
+   "domain": "redwoodeg.com"
+  },
+  {
+   "id": "JLUPL2P9",
+   "name": "Commonwealth Electric Company of the Midwest",
+   "domain": "commonwealthelectric.com"
+  },
+  {
+   "id": "QMWPPAA3",
+   "name": "Big State Electric Ltd",
+   "domain": "bigstateelectric.com"
+  },
+  {
+   "id": "NGMK6XWV",
+   "name": "Aldridge Group",
+   "domain": "aldridgegroup.com"
+  },
+  {
+   "id": "JXPYVTQ5",
+   "name": "Sargent Electric Company",
+   "domain": "sargentelectric.com"
+  },
+  {
+   "id": "3487FKR8",
+   "name": "Motor City Electric Co.",
+   "domain": "mceco.com"
+  },
+  {
+   "id": "L98KRSZP",
+   "name": "Freestate Electric",
+   "domain": "freestateelectric.com"
+  },
+  {
+   "id": "9ZMQBMDR",
+   "name": "Interstates",
+   "domain": "interstates.com"
+  },
+  {
+   "id": "RYKSEAD6",
+   "name": "Continental Electrical Construction Company, LLC",
+   "domain": "cecco.com"
+  },
+  {
+   "id": "78ZEX8K3",
+   "name": "Lake Erie Electric",
+   "domain": "lakeerieelectric.com"
+  },
+  {
+   "id": "W4RCFXEA",
+   "name": "Alterman, Inc.",
+   "domain": "goalterman.com"
+  },
+  {
+   "id": "2LKKAR42",
+   "name": "Inglett & Stubbs LLC",
+   "domain": "inglett-stubbs.com"
+  },
+  {
+   "id": "559J4JY4",
+   "name": "JMEG Electrical Contractors",
+   "domain": "jmeg.us"
+  },
+  {
+   "id": "5AXKFUC3",
+   "name": "Guarantee Electrical Company",
+   "domain": "geco.com"
+  },
+  {
+   "id": "8BLNRVUZ",
+   "name": "Cleveland Electric Company",
+   "domain": "clevelandelectric.com"
+  },
+  {
+   "id": "MS822MCS",
+   "name": "Everus Construction Group, Inc.",
+   "domain": "everus.com"
+  },
+  {
+   "id": "CYRVGK6X",
+   "name": "O'Connell Electric Company",
+   "domain": "oconnellelectric.com"
+  },
+  {
+   "id": "WMRWKCJG",
+   "name": "ERMCO, Inc.",
+   "domain": "ermco.com"
+  },
+  {
+   "id": "Z4Y6ZK7L",
+   "name": "The Morse Group",
+   "domain": "themorsegroup.com"
+  },
+  {
+   "id": "NE4J4EKT",
+   "name": "J.F. Electric, Incorporated",
+   "domain": "jfelectric.com"
+  },
+  {
+   "id": "D5HP3CDH",
+   "name": "TC Electric",
+   "domain": "tcelect.net"
+  },
+  {
+   "id": "XZ7PU999",
+   "name": "Willison Electric",
+   "domain": "wilsonelectric.net"
+  }
+ ]
+}

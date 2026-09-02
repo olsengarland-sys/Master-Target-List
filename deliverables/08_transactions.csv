@@ -1,0 +1,13 @@
+kind,target,buyer,date,type,ev,ebitda,ev_ebitda,note
+disclosed multiple,Walker Engineering,Comfort Systems USA,2019-02,,203000000,22500000,9.0,TX commercial/industrial electrical + tech services
+disclosed multiple,Whitlow Electric,Hill & Smith,2024-09,,30200000,3100000,9.7,substation/transmission structures - closest size to thesis box
+disclosed multiple,CSI Electrical Contractors,MYR Group,2019-07,,79700000,,,banker: FMI
+disclosed multiple,Huen Electric,MYR Group,2018-07,,47100000,,,
+disclosed multiple,5 Star Electric,Mammoth Energy,2017-07,,2400000,,,negative EBITDA - distressed
+notable recent,Saber Power,Veritas Capital,2026-08,PE Platform,,,,"electrical testing/maintenance/engineering platform, 2,621 FTE - proof the T1/T2 service thesis is being institutionalized at scale"
+notable recent,Bowe & Gant,Greenbelt Capital,2026-07,PE Platform,,,,54-FTE NJ commercial/industrial electrical w/ testing & maintenance - a PLATFORM at exactly the client's target size
+notable recent,Sunbelt Solomon,TJC,2026-07,PE Platform,,,,"transformer sales+service (T2 analog), 1,116 FTE"
+notable recent,Superior Group,MasTec,2026-07,Corp,1650000000,,,data-center electrical at $732K EV/employee
+notable recent,Schmidt Electric,EMCOR,2026-07,Corp,,,,395-FTE TX contractor
+notable recent,Carter Electric,Grupo Visabeira (Nearing),2026-08,Corp,,,,273-FTE FL contractor - European strategic entering US
+notable recent,Koffler Electrical Mechanical Repair,Industrial Service Solutions,2026-07,PE Add-On,,,,S7 motor/apparatus consolidator active NOW

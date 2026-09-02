@@ -1,0 +1,48 @@
+{
+ "generated": "2026-09-01",
+ "source": "Grata get_companies_in_list (free)",
+ "lists": [
+  {
+   "list_id": "NEJPTRNT",
+   "name": "NECA National Member Directory 2025",
+   "total_reported": 2639,
+   "rows_fetched": 500,
+   "truncated": true
+  },
+  {
+   "list_id": "55X5CPA6",
+   "name": "AGC Kentucky Member Directory 2026",
+   "total_reported": 440,
+   "rows_fetched": 440,
+   "truncated": false
+  },
+  {
+   "list_id": "B2P5ZX2E",
+   "name": "NECA Contractor Minnesota 2024",
+   "total_reported": 140,
+   "rows_fetched": 140,
+   "truncated": false
+  },
+  {
+   "list_id": "TC959LXU",
+   "name": "BBB Electrical Contractors Salt Lake City UT 2024",
+   "total_reported": 57,
+   "rows_fetched": 57,
+   "truncated": false
+  },
+  {
+   "list_id": "AG7VH6VZ",
+   "name": "FSG Top 50 Electrical Contractors 2025",
+   "total_reported": 50,
+   "rows_fetched": 50,
+   "truncated": false
+  },
+  {
+   "list_id": "PXZB5DQZ",
+   "name": "NECA Northwest Line Contractors Chapter 2025",
+   "total_reported": 37,
+   "rows_fetched": 37,
+   "truncated": false
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "T1": {
+  "name": "Testing & Commissioning",
+  "inven": "US private companies whose primary business is FIELD SERVICE: electrical acceptance and maintenance testing, power system commissioning, protective relay testing and calibration, arc flash studies, infrared thermography of electrical systems - NETA-type independent testing firms serving commercial, industrial and utility power systems. STRICTLY EXCLUDE test-equipment manufacturers, instrument makers, equipment distributors, calibration labs for instruments, and engineering-design-only firms - we want companies that send technicians to customer sites. Revenue $5M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential electrical, solar installation, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "arc flash study",
+    "power quality analysis",
+    "infrared thermography electrical"
+   ],
+   [
+    "protective relay testing",
+    "commissioning services electrical"
+   ]
+  ]
+ },
+ "T2": {
+  "name": "Apparatus Service",
+  "inven": "US private companies providing shop and field repair, reconditioning, rebuild and life-extension services for electrical apparatus: circuit breakers, switchgear, transformers, load tap changers, protective relays. EASA/PEARL-type apparatus service shops. STRICTLY EXCLUDE OEM manufacturers, remanufacturers who primarily sell equipment, parts distributors and resellers - we want service businesses. Revenue $5M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential, solar, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "transformer oil processing",
+    "load tap changer service",
+    "substation equipment maintenance"
+   ],
+   [
+    "switchgear modernization",
+    "circuit breaker retrofit"
+   ]
+  ]
+ },
+ "T3": {
+  "name": "Utility Line & Substation",
+  "inven": "US private utility line contractors: overhead and underground electric distribution and transmission line construction and maintenance, substation construction and maintenance, storm restoration, live-line work for electric utilities, cooperatives and municipals. STRICTLY EXCLUDE heavy-civil general contractors, telecom-only contractors, and equipment manufacturers. Revenue $5M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential, solar, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "storm restoration electric utility",
+    "overhead distribution construction"
+   ],
+   [
+    "underground electric distribution construction",
+    "substation maintenance contractor"
+   ]
+  ]
+ },
+ "T4": {
+  "name": "Industrial Plant Electrical",
+  "inven": "US private industrial electrical service companies serving manufacturing plants and process facilities: plant electrical maintenance, medium-voltage work inside plants, motor control centers, VFDs, industrial controls and automation service, shutdown/turnaround electrical work. STRICTLY EXCLUDE panel-shop-only manufacturers, product OEMs and distributors - we want service providers with field crews. Revenue $5M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential, solar, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "plant shutdown electrical services",
+    "industrial electrical troubleshooting"
+   ],
+   [
+    "motor control center service",
+    "VFD repair"
+   ]
+  ]
+ },
+ "T5": {
+  "name": "Commercial & Institutional",
+  "inven": "US private commercial electrical contractors whose revenue is led by RECURRING SERVICE AND MAINTENANCE - service departments, preventive maintenance programs, 24/7 emergency electrical response for commercial, institutional and light-industrial facilities. STRICTLY EXCLUDE pure design-build or new-construction-led contractors and tenant-fit-out specialists - the recurring service line is the thesis. Revenue $5M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential, solar, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "electrical preventive maintenance program",
+    "facility electrical services"
+   ],
+   [
+    "emergency electrical service commercial",
+    "electrical service department"
+   ]
+  ]
+ },
+ "T6": {
+  "name": "Critical Power & Data Ctr",
+  "inven": "US private critical-power service companies: UPS maintenance and repair, battery system service and replacement, standby generator maintenance, data center electrical services, emergency power system testing for mission-critical facilities. STRICTLY EXCLUDE UPS/generator manufacturers and pure equipment distributors or rental houses - we want the service organizations. Revenue $5M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential, solar, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "generator preventive maintenance",
+    "emergency power system testing"
+   ],
+   [
+    "UPS battery replacement service",
+    "data center commissioning"
+   ]
+  ]
+ },
+ "S7": {
+  "name": "Motor & Generator",
+  "inven": "US private electric motor and generator repair shops: motor rewinding, rebuild, dynamic balancing, vibration analysis, field service for rotating electrical equipment - EASA-type shops serving industrial customers. STRICTLY EXCLUDE motor manufacturers and pure motor/parts distributors - repair and field service must lead. Revenue $2M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential, solar, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "dynamic balancing service",
+    "vibration analysis rotating equipment"
+   ],
+   [
+    "generator rewind",
+    "traction motor repair"
+   ]
+  ]
+ },
+ "S8": {
+  "name": "Traffic Signals & Lighting",
+  "inven": "US private contractors specializing in traffic signal construction and maintenance, street and roadway lighting maintenance, intelligent transportation systems (ITS) installation, airport lighting - serving DOTs, municipalities and public agencies. STRICTLY EXCLUDE fixture/pole manufacturers and sign-only companies. Revenue $5M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential, solar, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "intelligent transportation systems installation",
+    "highway lighting contractor"
+   ],
+   [
+    "airfield lighting maintenance",
+    "sports lighting installation"
+   ]
+  ]
+ },
+ "S9": {
+  "name": "EV Charging",
+  "inven": "US private companies providing EV charging infrastructure SERVICES for commercial and fleet customers: EVSE installation, ongoing operations and maintenance of DC fast chargers and Level 2 networks, charger repair and uptime contracts. STRICTLY EXCLUDE charger manufacturers, charging network owners/operators funded by VC to own assets, car dealerships, and LED-retrofit firms that merely mention EV. Revenue $2M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential, solar-only, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "EV charger maintenance",
+    "DC fast charger installation"
+   ],
+   [
+    "fleet electrification infrastructure services"
+   ]
+  ]
+ },
+ "S10": {
+  "name": "Lightning Protection",
+  "inven": "US private installers of lightning protection systems, grounding and bonding systems, and surge protection for commercial, industrial and institutional structures - UL-listed / LPI-certified system installers. STRICTLY EXCLUDE component manufacturers and pure surge-device distributors. Revenue $2M-$50M (include unknown-revenue companies when employee count is 10-250), employees 10-250. Ownership: any private company that is not PE-backed and not a subsidiary; exclude PE-backed, public, and subsidiaries. Exclude residential-only, solar, fire alarm, structured cabling, security systems, home services.",
+  "grata_variants": [
+   [
+    "lightning protection installation",
+    "ground grid testing"
+   ],
+   [
+    "cathodic protection services"
+   ]
+  ]
+ }
+}

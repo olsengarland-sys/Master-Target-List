@@ -1,0 +1,958 @@
+{
+ "events": [
+  {
+   "id": "TFVUM5C3",
+   "name": "Electro-Mechanical Authority (EASA) Conventions & Solutions Expo 2026",
+   "series": "The Electro-Mechanical Authority (EASA) Conventions + Solutions Expo",
+   "start_date": "2026-06-13",
+   "end_date": "2026-06-16",
+   "city": "Orlando",
+   "state": "FL",
+   "source_link": "https://easa.com/convention",
+   "grata_url": "https://search.grata.com/lists/TFVUM5C3/companies",
+   "company_count": 336,
+   "kept_reason": "Core electric motor & apparatus repair trade show (T2/S7 thesis center); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "aandwelectric.com",
+     "name": "A&W Electric, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "aesintl.com",
+     "name": "AES, Inc.",
+     "bucket": "T2",
+     "wave": "W1"
+    },
+    {
+     "domain": "bradleysmotors.com",
+     "name": "Bradleys, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "brandonclark.com",
+     "name": "Brandon & Clark, Inc",
+     "bucket": "T4",
+     "wave": "W2"
+    },
+    {
+     "domain": "burfordinc.com",
+     "name": "Burford Electric Service, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "cascade-machinery.com",
+     "name": "Cascade Machinery & Electric, Inc.",
+     "bucket": "T5",
+     "wave": "W2"
+    },
+    {
+     "domain": "cecmotoru.com",
+     "name": "Cec Motor & Utility Services, LLC",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "coleelectricms.com",
+     "name": "Cole Tech, Inc.",
+     "bucket": "S7",
+     "wave": "W1"
+    },
+    {
+     "domain": "decaturindustrial.com",
+     "name": "Decatur Industrial Electric, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "eemsco.com",
+     "name": "Eemsco, INC.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "electricmotorservices.net",
+     "name": "Electric Motor Services, Inc.",
+     "bucket": "T2",
+     "wave": "W1"
+    },
+    {
+     "domain": "electrominst.com",
+     "name": "Electrom Instruments",
+     "bucket": "S7",
+     "wave": "W3"
+    },
+    {
+     "domain": "emsindustrial.com",
+     "name": "EMS Industrial, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "flolo.com",
+     "name": "The Flolo Corporation",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "hillsindustrial.com",
+     "name": "Hill's Industrial",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "iemco.com",
+     "name": "Independent Electric Machinery Company",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "jenkinselectric.com",
+     "name": "Jenkins Electric Company",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "maltonelectric.com",
+     "name": "Malton Electric Company",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "nelsonele.com",
+     "name": "G. Nelson Electric Motors, Inc. dba Nelson Electric Motor Service / Nelson Electric Motors",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "rselectriccorp.com",
+     "name": "R/S Electric Corp.",
+     "bucket": "T4",
+     "wave": "W2"
+    },
+    {
+     "domain": "semw.net",
+     "name": "Stewart's Electric Motor Works, Inc.",
+     "bucket": "T5",
+     "wave": "W2"
+    },
+    {
+     "domain": "sidewindersllc.com",
+     "name": "Sidewinders, LLC",
+     "bucket": "S7",
+     "wave": "W2"
+    },
+    {
+     "domain": "southernapparatus.com",
+     "name": "Southern Apparatus Services, INC",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "southernwinding.com",
+     "name": "Southern Winding Service, INC",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "uigcorp.com",
+     "name": "United Industrial Group, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "walcokip.com",
+     "name": "Walco Electric",
+     "bucket": "S7",
+     "wave": "W2"
+    },
+    {
+     "domain": "westside-electric.com",
+     "name": "Westside Electric",
+     "bucket": "T2",
+     "wave": "W1"
+    },
+    {
+     "domain": "yorkrepair.com",
+     "name": "York Repair Inc.",
+     "bucket": "S7",
+     "wave": "W1"
+    }
+   ],
+   "candidates_attending_count": 39,
+   "master_attending_count": 8,
+   "master_attending_domains": [
+    "elongo.com",
+    "hecoinc.com",
+    "hobgoodelectric.com",
+    "hollandindustrial.com",
+    "midkansaswinding.com",
+    "motortechnologyinc.com",
+    "pdma.com",
+    "wardenelectric.com"
+   ],
+   "candidates_attending_domains": [
+    "aandwelectric.com",
+    "aceviking.com",
+    "advrotors.com",
+    "aesintl.com",
+    "baymotorwinding.com",
+    "bradleysmotors.com",
+    "brandonclark.com",
+    "burfordinc.com",
+    "cascade-machinery.com",
+    "cecmotoru.com",
+    "coleelectricms.com",
+    "decaturindustrial.com",
+    "eemsco.com",
+    "electricmotorservices.net",
+    "electrominst.com",
+    "emsindustrial.com",
+    "flolo.com",
+    "goemc.com",
+    "hillsindustrial.com",
+    "iemco.com",
+    "iemsavannah.com",
+    "jenkinselectric.com",
+    "ludeca.com",
+    "maltonelectric.com",
+    "nelsonele.com",
+    "owensboroelectricmotor.com",
+    "precision-elec.com",
+    "riemr.com",
+    "rogersequip.com",
+    "rselectriccorp.com",
+    "semw.net",
+    "sidewindersllc.com",
+    "southernapparatus.com",
+    "southernwinding.com",
+    "uigcorp.com",
+    "walcokip.com",
+    "westside-electric.com",
+    "wildeelectricmotors.com",
+    "yorkrepair.com"
+   ]
+  },
+  {
+   "id": "CP5545GX",
+   "name": "Electro-Mechanical Authority (EASA) Conventions & Solutions Expo 2025",
+   "series": "The Electro-Mechanical Authority (EASA) Conventions + Solutions Expo",
+   "start_date": "2025-07-19",
+   "end_date": "2025-07-22",
+   "city": "Nashville",
+   "state": "TN",
+   "source_link": "https://easa.com/convention",
+   "grata_url": "https://search.grata.com/lists/CP5545GX/companies",
+   "company_count": 274,
+   "kept_reason": "Prior-year EASA edition; motor/apparatus repair shops (T2/S7); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "aandwelectric.com",
+     "name": "A&W Electric, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "aesintl.com",
+     "name": "AES, Inc.",
+     "bucket": "T2",
+     "wave": "W1"
+    },
+    {
+     "domain": "bradleysmotors.com",
+     "name": "Bradleys, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "brandonclark.com",
+     "name": "Brandon & Clark, Inc",
+     "bucket": "T4",
+     "wave": "W2"
+    },
+    {
+     "domain": "coleelectricms.com",
+     "name": "Cole Tech, Inc.",
+     "bucket": "S7",
+     "wave": "W1"
+    },
+    {
+     "domain": "decaturindustrial.com",
+     "name": "Decatur Industrial Electric, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "electricmotorservices.net",
+     "name": "Electric Motor Services, Inc.",
+     "bucket": "T2",
+     "wave": "W1"
+    },
+    {
+     "domain": "electrominst.com",
+     "name": "Electrom Instruments",
+     "bucket": "S7",
+     "wave": "W3"
+    },
+    {
+     "domain": "emsindustrial.com",
+     "name": "EMS Industrial, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "iemco.com",
+     "name": "Independent Electric Machinery Company",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "jenkinselectric.com",
+     "name": "Jenkins Electric Company",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "krauthelectric.com",
+     "name": "Krauth Electric Co., Inc.",
+     "bucket": "S7",
+     "wave": "W2"
+    },
+    {
+     "domain": "maltonelectric.com",
+     "name": "Malton Electric Company",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "ouachitaelectric.com",
+     "name": "Ouachita Electric Service",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "southernwinding.com",
+     "name": "Southern Winding Service, INC",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "uigcorp.com",
+     "name": "United Industrial Group, Inc.",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "walcokip.com",
+     "name": "Walco Electric",
+     "bucket": "S7",
+     "wave": "W2"
+    },
+    {
+     "domain": "yorkrepair.com",
+     "name": "York Repair Inc.",
+     "bucket": "S7",
+     "wave": "W1"
+    }
+   ],
+   "candidates_attending_count": 25,
+   "master_attending_count": 7,
+   "master_attending_domains": [
+    "elongo.com",
+    "hecoinc.com",
+    "integratedcontroltech.com",
+    "ip-co.net",
+    "motortechnologyinc.com",
+    "pdma.com",
+    "wardenelectric.com"
+   ],
+   "candidates_attending_domains": [
+    "aandwelectric.com",
+    "advrotors.com",
+    "aesintl.com",
+    "baymotorwinding.com",
+    "bradleysmotors.com",
+    "brandonclark.com",
+    "coleelectricms.com",
+    "decaturindustrial.com",
+    "electricmotorservices.net",
+    "electrominst.com",
+    "emsindustrial.com",
+    "goemc.com",
+    "iemco.com",
+    "jenkinselectric.com",
+    "krauthelectric.com",
+    "ludeca.com",
+    "maltonelectric.com",
+    "ouachitaelectric.com",
+    "precision-elec.com",
+    "rogersequip.com",
+    "southernwinding.com",
+    "uigcorp.com",
+    "walcokip.com",
+    "wildeelectricmotors.com",
+    "yorkrepair.com"
+   ]
+  },
+  {
+   "id": "8VNSQJ68",
+   "name": "National Rural Electric Cooperative Association (NRECA) PowerXchange 2026",
+   "series": "National Rural Electric Cooperative Association (NRECA) PowerXchange",
+   "start_date": "2026-03-06",
+   "end_date": "2026-03-11",
+   "city": "Nashville",
+   "state": "TN",
+   "source_link": "https://www.cooperative.com/conferences-education/meetings/powerxchange/Pages/default.aspx",
+   "grata_url": "https://search.grata.com/lists/8VNSQJ68/companies",
+   "company_count": 490,
+   "kept_reason": "Flagship electric co-op conference (co-op/municipal utility thesis); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "geoforceutilitytech.com",
+     "name": "GeoForce Utility Technologies",
+     "bucket": "T3",
+     "wave": "W2"
+    },
+    {
+     "domain": "mdrpowerline.com",
+     "name": "MDR Construction, Inc.",
+     "bucket": "T3",
+     "wave": "W1"
+    },
+    {
+     "domain": "onesourcerestorationllc.com",
+     "name": "OneSource Restoration",
+     "bucket": "T3",
+     "wave": "W2"
+    }
+   ],
+   "candidates_attending_count": 7,
+   "master_attending_count": 7,
+   "master_attending_domains": [
+    "alamon.com",
+    "clp-engineering.com",
+    "eepowersolutions.com",
+    "infratechcorp.com",
+    "milsoft.com",
+    "powermonitors.com",
+    "praxel.energy"
+   ],
+   "candidates_attending_domains": [
+    "crossdiscipline.com",
+    "firstpowergroupllc.com",
+    "geoforceutilitytech.com",
+    "mccallthomas.com",
+    "mdrpowerline.com",
+    "onesourcerestorationllc.com",
+    "uus.coop"
+   ]
+  },
+  {
+   "id": "SA4DGTGJ",
+   "name": "Southeastern Electric Exchange (S.E.E.) Annual Conference & Trade Show 2026",
+   "series": "Southeastern Electric Exchange (S.E.E.) Annual Conference & Trade Show",
+   "start_date": "2026-06-23",
+   "end_date": "2026-06-26",
+   "city": "Grapevine",
+   "state": "TX",
+   "source_link": "https://www.theexchange.org/conference",
+   "grata_url": "https://search.grata.com/lists/SA4DGTGJ/companies",
+   "company_count": 181,
+   "kept_reason": "Investor-owned utility T&D operations exchange; utility services contractors attend; fetched fully",
+   "p2_attending": [
+    {
+     "domain": "fbtimberline.com",
+     "name": "FB Timberline",
+     "bucket": "T3",
+     "wave": "W1"
+    },
+    {
+     "domain": "onesourcerestorationllc.com",
+     "name": "OneSource Restoration",
+     "bucket": "T3",
+     "wave": "W2"
+    }
+   ],
+   "candidates_attending_count": 5,
+   "master_attending_count": 8,
+   "master_attending_domains": [
+    "fairwayelectricinc.com",
+    "infratechcorp.com",
+    "oconnellelectric.com",
+    "silvey.com",
+    "subengco.com",
+    "utili-serve.com",
+    "victorypowerlineservices.com",
+    "wegroves.com"
+   ],
+   "candidates_attending_domains": [
+    "fbtimberline.com",
+    "mccallthomas.com",
+    "mdhenryco.com",
+    "onesourcerestorationllc.com",
+    "tappinc.com"
+   ]
+  },
+  {
+   "id": "X5EX4GK7",
+   "name": "The Expo at PowerXchange and TechAdvantage 2026",
+   "series": "The Expo at PowerXchange and TechAdvantage",
+   "start_date": "2026-03-09",
+   "end_date": "2026-03-11",
+   "city": "Nashville",
+   "state": "TN",
+   "source_link": "https://www.cooperative.com/conferences-education/meetings/the-expo-at-powerxchange-and-techadvantage/Pages/default.aspx",
+   "grata_url": "https://search.grata.com/lists/X5EX4GK7/companies",
+   "company_count": 387,
+   "kept_reason": "Electric cooperative expo (co-op/utility thesis); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "mdrpowerline.com",
+     "name": "MDR Construction, Inc.",
+     "bucket": "T3",
+     "wave": "W1"
+    },
+    {
+     "domain": "onesourcerestorationllc.com",
+     "name": "OneSource Restoration",
+     "bucket": "T3",
+     "wave": "W2"
+    }
+   ],
+   "candidates_attending_count": 5,
+   "master_attending_count": 4,
+   "master_attending_domains": [
+    "alamon.com",
+    "clp-engineering.com",
+    "infratechcorp.com",
+    "milsoft.com"
+   ],
+   "candidates_attending_domains": [
+    "firstpowergroupllc.com",
+    "mccallthomas.com",
+    "mdrpowerline.com",
+    "onesourcerestorationllc.com",
+    "uus.coop"
+   ]
+  },
+  {
+   "id": "J9R447N9",
+   "name": "National Electrical Contractors Association (NECA) Chicago 2025",
+   "series": "National Electrical Contractors Association (NECA)",
+   "start_date": "2025-09-12",
+   "end_date": "2025-09-15",
+   "city": "Chicago",
+   "state": "IL",
+   "source_link": "https://www.necashow.org/NECA2025/public/enter.aspx",
+   "grata_url": "https://search.grata.com/lists/J9R447N9/companies",
+   "company_count": 409,
+   "kept_reason": "The national electrical contractors trade show (T1/T5 thesis center); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "gstechnologies.com",
+     "name": "G&S Technologies",
+     "bucket": "T2",
+     "wave": "W3"
+    }
+   ],
+   "candidates_attending_count": 3,
+   "master_attending_count": 5,
+   "master_attending_domains": [
+    "graceport.com",
+    "longelectric.com",
+    "mvasvcs.com",
+    "sheaelectricllc.com",
+    "wheelerelectric.com"
+   ],
+   "candidates_attending_domains": [
+    "groupcbs.com",
+    "gstechnologies.com",
+    "jhbotts.com"
+   ]
+  },
+  {
+   "id": "LYRUD3X6",
+   "name": "Professional Electrical Apparatus Reconditioning League (PEARL) Conference & Exhibition 2026",
+   "series": "Professional Electrical Apparatus Reconditioning League (PEARL) Conference and Exhibition",
+   "start_date": "2026-04-23",
+   "end_date": "2026-04-25",
+   "city": "Cleveland",
+   "state": "OH",
+   "source_link": "https://pearl1.org/conference-details-copy/",
+   "grata_url": "https://search.grata.com/lists/LYRUD3X6/companies",
+   "company_count": 28,
+   "kept_reason": "Electrical apparatus reconditioning (PEARL explicitly on-thesis); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "instelpower.com",
+     "name": "Instel Inc",
+     "bucket": "T1",
+     "wave": "W1"
+    }
+   ],
+   "candidates_attending_count": 4,
+   "master_attending_count": 2,
+   "master_attending_domains": [
+    "qualityswitchgear.com",
+    "utilityrelay.com"
+   ],
+   "candidates_attending_domains": [
+    "cbione.com",
+    "groupcbs.com",
+    "instelpower.com",
+    "naswgr.com"
+   ]
+  },
+  {
+   "id": "68UGYVJW",
+   "name": "Advancing Electrical Prefabrication 2026",
+   "series": "Advancing Electrical Prefabrication",
+   "start_date": "2026-07-22",
+   "end_date": "2026-07-24",
+   "city": "Dallas",
+   "state": "TX",
+   "source_link": "https://advancing-electrical-prefabrication.com/",
+   "grata_url": "https://search.grata.com/lists/68UGYVJW/companies",
+   "company_count": 68,
+   "kept_reason": "Electrical construction prefab conference; attendee list is almost all electrical contractors; fetched fully",
+   "p2_attending": [
+    {
+     "domain": "canyonstateelectric.com",
+     "name": "Canyon State Electric",
+     "bucket": "T3",
+     "wave": "W1"
+    }
+   ],
+   "candidates_attending_count": 1,
+   "master_attending_count": 2,
+   "master_attending_domains": [
+    "oconnellelectric.com",
+    "winwardelectric.com"
+   ],
+   "candidates_attending_domains": [
+    "canyonstateelectric.com"
+   ]
+  },
+  {
+   "id": "QUA2T9TM",
+   "name": "Florida Municipal Electric Association (FMEA) Conference 2026",
+   "series": "Florida Municipal Electric Association (FMEA) Conference",
+   "start_date": "2026-07-14",
+   "end_date": "2026-07-16",
+   "city": "Palm Beach",
+   "state": "FL",
+   "source_link": "https://www.flpublicpower.com/2026-fmea-annual-conference",
+   "grata_url": "https://search.grata.com/lists/QUA2T9TM/companies",
+   "company_count": 60,
+   "kept_reason": "Municipal electric utilities + their contractors (T3/utility services); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "powerservetech.com",
+     "name": "Powerserve Technologies",
+     "bucket": "T3",
+     "wave": "W1"
+    }
+   ],
+   "candidates_attending_count": 2,
+   "master_attending_count": 2,
+   "master_attending_domains": [
+    "praxel.energy",
+    "vision-utilities.com"
+   ],
+   "candidates_attending_domains": [
+    "groupcbs.com",
+    "powerservetech.com"
+   ]
+  },
+  {
+   "id": "TCVGVY4P",
+   "name": "Professional Electrical Apparatus Reconditioning League (PEARL) Conference 2023",
+   "series": "Professional Electrical Apparatus Reconditioning League (PEARL) Conference",
+   "start_date": "2023-04-14",
+   "end_date": "2023-04-15",
+   "city": "Portland",
+   "state": "OR",
+   "source_link": "https://pearl1.org/2023-conference/",
+   "grata_url": "https://search.grata.com/lists/TCVGVY4P/companies",
+   "company_count": 16,
+   "kept_reason": "Prior PEARL edition; apparatus reconditioners; fetched fully",
+   "p2_attending": [
+    {
+     "domain": "instelpower.com",
+     "name": "Instel Inc",
+     "bucket": "T1",
+     "wave": "W1"
+    }
+   ],
+   "candidates_attending_count": 2,
+   "master_attending_count": 1,
+   "master_attending_domains": [
+    "qualityswitchgear.com"
+   ],
+   "candidates_attending_domains": [
+    "instelpower.com",
+    "naswgr.com"
+   ]
+  },
+  {
+   "id": "GJUANV9T",
+   "name": "Transmission & Substation Design & Operation Symposium (TSDOS) 2021",
+   "series": "Transmission & Substation Design & Operation Symposium (TSDOS)",
+   "start_date": "2021-09-08",
+   "end_date": "2021-09-10",
+   "city": "Frisco",
+   "state": "TX",
+   "source_link": "https://web.cvent.com/event/cd0bf48a-7a93-46cd-b590-ea7cfce4a5c8/websitePage:e6b4d4a9-4070-423f-9040-51b4dc5ca1c9",
+   "grata_url": "https://search.grata.com/lists/GJUANV9T/companies",
+   "company_count": 108,
+   "kept_reason": "Transmission/substation design & operations (power infrastructure); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "fbtimberline.com",
+     "name": "FB Timberline",
+     "bucket": "T3",
+     "wave": "W1"
+    }
+   ],
+   "candidates_attending_count": 3,
+   "master_attending_count": 1,
+   "master_attending_domains": [
+    "powerconsultingassociates.com"
+   ],
+   "candidates_attending_domains": [
+    "fbtimberline.com",
+    "mccordeng.com",
+    "tappinc.com"
+   ]
+  },
+  {
+   "id": "9HMD9E5U",
+   "name": "Utility Supply Management Alliance (USMA) Conference 2024",
+   "series": "Utility Supply Management Alliance (USMA) Conference",
+   "start_date": "2024-05-19",
+   "end_date": "2024-05-22",
+   "city": "Scottsdale",
+   "state": "AZ",
+   "source_link": "https://usma.com/",
+   "grata_url": "https://search.grata.com/lists/9HMD9E5U/companies",
+   "company_count": 86,
+   "kept_reason": "Electric utility supply chain community; fetched fully",
+   "p2_attending": [
+    {
+     "domain": "gstechnologies.com",
+     "name": "G&S Technologies",
+     "bucket": "T2",
+     "wave": "W3"
+    }
+   ],
+   "candidates_attending_count": 2,
+   "master_attending_count": 1,
+   "master_attending_domains": [
+    "texasmeter.com"
+   ],
+   "candidates_attending_domains": [
+    "gstechnologies.com",
+    "tappinc.com"
+   ]
+  },
+  {
+   "id": "3FE8KK6F",
+   "name": "CEATI Transmission & Distribution Conference 2024",
+   "series": "Transmission & Distribution Conference (CEATI)",
+   "start_date": "2024-11-18",
+   "end_date": "2024-11-22",
+   "city": "Rancho Mirage",
+   "state": "CA",
+   "source_link": "https://site.pheedloop.com/event/transmissionanddistribution/home",
+   "grata_url": "https://search.grata.com/lists/3FE8KK6F/companies",
+   "company_count": 163,
+   "kept_reason": "Utility T&D best-practices conference (grid reliability); fetched fully",
+   "p2_attending": [
+    {
+     "domain": "towerpowergroup.com",
+     "name": "Tower Power Group",
+     "bucket": "S10",
+     "wave": "W2"
+    }
+   ],
+   "candidates_attending_count": 2,
+   "master_attending_count": 1,
+   "master_attending_domains": [
+    "edmlink.com"
+   ],
+   "candidates_attending_domains": [
+    "atecorp.com",
+    "towerpowergroup.com"
+   ]
+  },
+  {
+   "id": "QMXPCQAL",
+   "name": "IEEE PES Transmission and Distribution (T&D) Conference and Exposition 2024",
+   "series": "IEEE Power and Energy Society (PES) Transmission and Distribution (T&D) Conference and Exposition",
+   "start_date": "2024-05-06",
+   "end_date": "2024-05-09",
+   "city": "Anaheim",
+   "state": "CA",
+   "source_link": "https://ieeet-d.org/",
+   "grata_url": "https://search.grata.com/lists/QMXPCQAL/companies",
+   "company_count": 1155,
+   "kept_reason": "Flagship grid/T&D event; ATTENDEE LIST TRUNCATED: 200 of 1,155 fetched (pages 1-2 of 12; deep pages blocked with HTTP 403)",
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "master_attending_domains": [],
+   "candidates_attending_domains": []
+  },
+  {
+   "id": "4XV736PD",
+   "name": "Power-Generation (POWERGEN) International 2024",
+   "series": "Power-Generation (POWERGEN) International",
+   "start_date": "2024-01-23",
+   "end_date": "2024-01-25",
+   "city": "New Orleans",
+   "state": "LA",
+   "source_link": "https://www.powergen.com/",
+   "grata_url": "https://search.grata.com/lists/4XV736PD/companies",
+   "company_count": 595,
+   "kept_reason": "Major power generation industry event; ATTENDEE LIST TRUNCATED: 100 of 595 fetched (page 1 of 6, call budget)",
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "master_attending_domains": [],
+   "candidates_attending_domains": []
+  }
+ ],
+ "discarded_events": [
+  {
+   "name": "Electronica 2026 / Electronica Munich 2022",
+   "reason": "Consumer/industrial electronics manufacturing fair (Munich) - off-thesis manufacturing"
+  },
+  {
+   "name": "Ai4 2026",
+   "reason": "AI/software conference - off-thesis"
+  },
+  {
+   "name": "HumanX 2026",
+   "reason": "AI conference - off-thesis"
+  },
+  {
+   "name": "Web Summit 2020 / Web Summit Rio 2025",
+   "reason": "General tech/startup conference - off-thesis"
+  },
+  {
+   "name": "SiGMA Central Europe 2025",
+   "reason": "iGaming - off-thesis"
+  },
+  {
+   "name": "Aviation Week MRO Americas 2026 / PBExpo 2026",
+   "reason": "Aviation MRO/parts - explicit discard category"
+  },
+  {
+   "name": "Railway Interchange 2026/2025/2023; ASLRRA Conference 2026/2024",
+   "reason": "Rail industry - explicit discard category"
+  },
+  {
+   "name": "Groundbreak 2023",
+   "reason": "Procore construction-software user conference - software, not electrical services"
+  },
+  {
+   "name": "Symposium on Counterfeit Parts and Materials 2026/2020",
+   "reason": "Electronics supply-chain anti-counterfeiting - off-thesis"
+  },
+  {
+   "name": "MJBizCon 2022",
+   "reason": "Cannabis industry - off-thesis"
+  },
+  {
+   "name": "NY NOW Summer 2019",
+   "reason": "Consumer retail/gift trade show - off-thesis"
+  },
+  {
+   "name": "CheeseExpo 2026; Ag Progress Days 2025/2022/2021; Keystone Farm Show 2021",
+   "reason": "Agriculture/dairy - off-thesis"
+  },
+  {
+   "name": "FabTech Chicago 2021; The ASSEMBLY Show 2023; Manufacturing First 2022; SAMA Manufacturing Trade Show 2022; Defense Manufacturing Conference 2022/2017",
+   "reason": "General/defense manufacturing shows - off-thesis"
+  },
+  {
+   "name": "AMPP/NACE corrosion family (AMPP Conference+Expo 2022-2026, Eastern/Central/Gulf Coast, EUROCORR 2024, Western States Corrosion 2025, Corrosion 2016/2020/2021, Balance of Plant Corrosion 2026)",
+   "reason": "Cathodic protection / corrosion control - validated DQ pattern in triage (rule 5)"
+  },
+  {
+   "name": "Water/wastewater family (Texas Water 2020-2026, AWWA ACE 2019-2026, GAWP 2024-2026, AZ Water 2022/2025, NEWWA 2020, WaterJAM 2022/2023/2025, SCEC 2021/2025, Tri-State Seminar 2026, US Water Treatment 2020, AWWA Water Infrastructure 2022)",
+   "reason": "Water/wastewater utilities - off-thesis trade"
+  },
+  {
+   "name": "Oil & gas / storage family (NAPE 2016-2020, Williston Basin 2024/2026, Mexico Natural Gas 2022, ILTA 2025/2026, Aboveground Storage Tank 2026, Turbomachinery & Pump Symposia 2017-2020)",
+   "reason": "Oil & gas / liquid terminals / rotating O&G equipment - off-thesis"
+  },
+  {
+   "name": "Wind/solar/hydro renewables family (CLEANPOWER 2022-2026, RE+ 2023/2025, WindEurope 2024/2025, WindEnergy Hamburg 2022/2026, Husum Wind 2021/2023, AuWE 2023/2024/2026, Mexico WindPower 2023, Winterwind 2025, Global Offshore Wind 2023, IPF 2023, Clean Currents 2021-2026, HydroVision 2021-2023, CEATI Hydropower 2024/2026, CanREA 2024, Global Wind Turbine O&M 2024, Green Hydrogen APAC 2024, Energy Tech Summit 2024)",
+   "reason": "Renewable generation development/manufacturing - tangential to electrical services thesis; deprioritized under attendee-call budget"
+  },
+  {
+   "name": "Facilities shows (SWBFM 2026, NEBFM 2021/2024, Central Ohio Facilities Maintenance 2024, MAA Expo 2026)",
+   "reason": "On-thesis-adjacent facilities management shows, but generalist supplier rosters; not fetched under call budget - revisit if client wants FM channel"
+  },
+  {
+   "name": "Data center events (Datacloud Global Congress 2026 - Cannes, Data Center World 2015-2019)",
+   "reason": "Critical power adjacent but non-US (Datacloud) or stale (DCW 2015-2019); not fetched under call budget"
+  },
+  {
+   "name": "NFPA Conference & Expo 2026",
+   "reason": "Fire protection codes/products - adjacent (NEC publisher) but not an electrical-services hunting ground; not fetched"
+  },
+  {
+   "name": "AGA Operations Conference 2023 (both list ids)",
+   "reason": "Natural gas utility operations - gas, not electric; not fetched"
+  },
+  {
+   "name": "POWERGEN 2020-2023 editions; POWERGEN CONNECT 2021; EPIC 2021/2023/2025",
+   "reason": "Older/smaller editions of kept POWERGEN series - budget spent on 2024 edition"
+  },
+  {
+   "name": "EASA older/duplicate lists (3WYEVK2L 2026 dup, ZER39THX+CW37UWHT 2024, 65Y5BGX5+HKFVUPC8 2023, YVGY65WZ 2022, 4F8SC9PS 2020)",
+   "reason": "Duplicate/older editions of kept EASA series - 2025+2026 editions fetched instead"
+  },
+  {
+   "name": "TechAdvantage 2025 / PowerXchange Expo 2025 (R624QLWH, 23Y854K9)",
+   "reason": "Prior-year editions of kept PowerXchange/TechAdvantage 2026 lists"
+  },
+  {
+   "name": "IEEE PES T&D 2018",
+   "reason": "Older edition of kept IEEE PES T&D 2024"
+  },
+  {
+   "name": "CEATI T&D 2023; USMA 2021",
+   "reason": "Older editions of kept CEATI T&D 2024 / USMA 2024"
+  },
+  {
+   "name": "Coiltech Deutschland 2026; CWIEME Berlin 2021-2024",
+   "reason": "European coil-winding/motor manufacturing supply-chain fairs - non-US manufacturing"
+  },
+  {
+   "name": "ITS New Mexico 2019/2022; ITS Georgia 2021; NM Damage Prevention Summit 2023; Work Fleet Forum 2023; Reliable Plant 2021; Middle East Energy Dubai 2024; International WorkBoat Show 2020/2021; Inland Marine Expo 2021; IAAPA 2021; Executive Hire Show 2026; Sarasota Home Show 2023; Indiana Safety & Health 2020; WasteTech 2019; TribalNet 2017; International Telecoms Week 2017; SME Minnesota 2025; ICDSA 2026; ICEAE 2026; Transmission & Distribution Services misc.",
+   "reason": "Small/old/off-thesis (traffic ITS events tiny+stale; marine, amusement, telecom, mining, academic, misc.) - not fetched"
+  }
+ ],
+ "spend": {
+  "search_conferences_calls": 15,
+  "grata_tokens": 30
+ },
+ "notes": [
+  "Discovery: 196 P2 Grata uids searched in 5 batches of <=40 via search_conferences participant_company_uids; batches returned 58, 4, 20, 52 and 197 events respectively (union taken).",
+  "Batch 5 pagination stopped after page 6 of 8: pages 7-8 held only pre-2021 editions of series already captured (wind/water/POWERGEN/rail); truncation accepted to preserve call budget.",
+  "search_conferences page displays were context-capped by the MCP layer (e.g. 'Showing 19 of 58'), so a few rows per page were elided by the server; discovered-event union is therefore near-complete but not guaranteed complete.",
+  "Keyword discovery call with industries=['Electrical Contractors and Other Wiring Installation Contractors'] returned 0 events (industry facet matches event NAICS classification, which is coarse level-2); no extra call spent retrying.",
+  "get_companies_in_list: 40 calls total (37 successful pages at page_size=100, 1 rejected page_size=500 validation error, 2 HTTP-403s on IEEE PES T&D pages 11-12 - deep pages beyond ~page 10 appear blocked). Free per Grata pricing.",
+  "IEEE PES T&D 2024 attendees truncated (200/1155, pages 1-2; list is sorted large-company-first, so missing rows skew toward smaller firms - i.e. the P2 intersection for this event is likely UNDERSTATED). POWERGEN 2024 truncated (100/595, page 1). All other kept events fetched in full.",
+  "On-thesis events NOT fetched under budget are listed in discarded_events with explicit reasons (facilities shows, NFPA, data center events, renewables family, older editions) - they are candidates for a follow-up pass, not DQs.",
+  "Attendee lists are Grata event rosters (exhibitors/participants); intersections use normalized domains (strip protocol/www, lowercase).",
+  "Wave-2/3 P2s without Grata uids (338 of 534) could not seed discovery; their conferences surface only via attendee intersection.",
+  "Conference attendance is a soft signal: EASA/PEARL attendance corroborates S7/apparatus classification; NECA attendance corroborates T1/T5; per sourcing rule 1, bucket assignment must still come from the company's own description."
+ ]
+}

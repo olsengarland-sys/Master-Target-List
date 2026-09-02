@@ -1,0 +1,812 @@
+{
+ "header": {
+  "list_id": "B2P5ZX2E",
+  "name": "NECA Contractor Minnesota 2024",
+  "total_reported": 140,
+  "rows_fetched": 140,
+  "truncated": false,
+  "note": "Complete: both pages returned. Rows after the top 5 of each page are id/name/domain stubs."
+ },
+ "companies": [
+  {
+   "id": "RHC26U2Y",
+   "name": "Primoris Services Corp.",
+   "domain": "prim.com",
+   "ownership": "Public",
+   "headquarters_pretty": "Dallas, TX",
+   "year_founded": 2006,
+   "revenue": 7284199000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 26266,
+    "linkedin": 5763
+   },
+   "description": "Primoris Services Corp. is an engineering and specialty contracting firm focused on energy and infrastructure projects. They deliver EPC and construction services\u2014notably pipeline, electrical transmission and distribution, fabrication, mechanical and maintenance\u2014to utilities, energy firms, pipeline operators and government agencies, and they market themselves as an integrated provider able to execute multi-discipline, large-scale infrastructure programs."
+  },
+  {
+   "id": "D5NV8SXL",
+   "name": "Black & McDonald Limited",
+   "domain": "blackandmcdonald.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Toronto, Canada",
+   "year_founded": 1921,
+   "revenue": 2743858000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 9711,
+    "linkedin": 3077
+   },
+   "funding_stage": "No Funding",
+   "description": "Black & McDonald Limited provides integrated multi-trade construction and facilities management services for government, institutional and industry clients, supplemented by utility, energy, nuclear, engineering, fabrication and EV charging offerings. They target institutional and industrial customers and position themselves as a full lifecycle service provider with long-standing sector experience and a stated mission to \u201cdo it right.\u201d"
+  },
+  {
+   "id": "AARR9YLJ",
+   "name": "Sturgeon Electric Company, Inc.",
+   "domain": "sturgeonelectric.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Henderson, CO",
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 4213,
+    "linkedin": 1023
+   },
+   "description": "Sturgeon Electric Company, Inc. is a full-service electrical contractor specializing in power and electrical construction for utilities, energy developers, industrial facilities and commercial clients. They offer engineering, design-build, prefabrication, substation and transmission/distribution construction, testing and maintenance, and outage support, and position themselves as an integrated provider able to manage complex electrical infrastructure projects from design through commissioning."
+  },
+  {
+   "id": "RAB84DNS",
+   "name": "MYR Group Inc.",
+   "domain": "myrgroup.com",
+   "ownership": "Public",
+   "headquarters_pretty": "Thornton, CO",
+   "year_founded": 1982,
+   "revenue": 4006051000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 3936,
+    "linkedin": 3936
+   },
+   "description": "MYR Group provides specialty contracting services for electric power infrastructure, focusing on construction, maintenance and restoration of transmission and distribution lines and substation work. They serve electric utilities, power developers, telecommunications providers and large energy consumers. They market themselves as a specialty electrical infrastructure contractor with capabilities in line construction, substation services, communications infrastructure and renewable interconnection projects backed by project management and field execution resources."
+  },
+  {
+   "id": "2S8H8S6N",
+   "name": "Michels Corporation",
+   "domain": "michels.us",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Brownsville, WI",
+   "year_founded": 1959,
+   "revenue": 1230435000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 3783,
+    "linkedin": 4135
+   },
+   "funding_stage": "No Funding",
+   "description": "Michels Corporation is a heavy civil and utility infrastructure contractor that delivers pipeline construction, directional drilling, electrical transmission and distribution, telecommunications/fiber installation, fabrication, and project management services to utilities, energy companies, municipalities, and industrial clients. They position themselves as a single-source provider able to execute engineering, construction, and maintenance work across energy and communications infrastructure, and they emphasize integrated service capabilities and specialized construction methods."
+  },
+  {
+   "id": "8SYZCN3Z",
+   "name": "M. J. Electric, LLC",
+   "domain": "mjelectric.com"
+  },
+  {
+   "id": "KEGXNWAJ",
+   "name": "ArchKey Solutions LLC",
+   "domain": "archkey.com"
+  },
+  {
+   "id": "ZATPWREL",
+   "name": "PAR Electrical Contractors, Inc.",
+   "domain": "parelectric.com"
+  },
+  {
+   "id": "22ZEWJW2",
+   "name": "Mass. Electric Construction Co.",
+   "domain": "masselec.com"
+  },
+  {
+   "id": "MFU66A72",
+   "name": "Intren, LLC",
+   "domain": "intren.com"
+  },
+  {
+   "id": "MLTDHENJ",
+   "name": "Hunt Electric Corporation",
+   "domain": "huntelec.com"
+  },
+  {
+   "id": "GFYLCKDS",
+   "name": "SERVICE ELECTRIC Company",
+   "domain": "serviceelectricco.com"
+  },
+  {
+   "id": "YYFDAVWB",
+   "name": "Harris Co.",
+   "domain": "harriscompany.com"
+  },
+  {
+   "id": "PY3D7UAQ",
+   "name": "Egan Company",
+   "domain": "eganco.com"
+  },
+  {
+   "id": "VQTVYJSW",
+   "name": "North Houston Pole Line",
+   "domain": "nhplc.com"
+  },
+  {
+   "id": "JVXSZHDH",
+   "name": "Thompson Solutions Group",
+   "domain": "thompsonsolutionsgroup.com"
+  },
+  {
+   "id": "D3MH48P9",
+   "name": "ESI Electrical Contractors",
+   "domain": "esielectrical.com"
+  },
+  {
+   "id": "HBWGH69R",
+   "name": "Ward Electric Company, Inc.",
+   "domain": "wardelectriccompany.com"
+  },
+  {
+   "id": "XYCT8G3N",
+   "name": "MP Systems Inc.",
+   "domain": "mp-systemsinc.com"
+  },
+  {
+   "id": "KQ2Q2QP8",
+   "name": "Hooper",
+   "domain": "hoopercorp.com"
+  },
+  {
+   "id": "Y3WJM83K",
+   "name": "B&B Electric Inc.",
+   "domain": "bandbelectric.com"
+  },
+  {
+   "id": "KZ9PX64G",
+   "name": "Collins Electrical",
+   "domain": "collinsmn.com"
+  },
+  {
+   "id": "JNSBAD4U",
+   "name": "Muska Companies",
+   "domain": "muskacompanies.com"
+  },
+  {
+   "id": "UYPYWZ8S",
+   "name": "Gephart Electric",
+   "domain": "gephartelectric.com"
+  },
+  {
+   "id": "FK33ETQX",
+   "name": "Horwitz Inc",
+   "domain": "horwitzllc.com"
+  },
+  {
+   "id": "W2XNXUS3",
+   "name": "Capital Electric Line Builders",
+   "domain": "capitalelectriclinebuilders.com"
+  },
+  {
+   "id": "3F93Q87M",
+   "name": "LVC Companies, Inc.",
+   "domain": "lvcinc.com"
+  },
+  {
+   "id": "CHVSQ8N6",
+   "name": "SRT Communications",
+   "domain": "srt.com"
+  },
+  {
+   "id": "U9PYQD52",
+   "name": "The L.E. Myers Co.",
+   "domain": "lemyers.com"
+  },
+  {
+   "id": "ZTGYEQ9A",
+   "name": "ABcom LLC",
+   "domain": "abcomllc.com"
+  },
+  {
+   "id": "NE4J4EKT",
+   "name": "J.F. Electric, Incorporated",
+   "domain": "jfelectric.com"
+  },
+  {
+   "id": "YPJDL8TB",
+   "name": "Mark One Electric",
+   "domain": "markone.com"
+  },
+  {
+   "id": "5MEVBFPH",
+   "name": "Medina Electric, LLC.",
+   "domain": "medinaelectric.net"
+  },
+  {
+   "id": "XBZATTQ4",
+   "name": "Shade Tree",
+   "domain": "stsco.net"
+  },
+  {
+   "id": "USYZHBLB",
+   "name": "Myers Electric Company Inc",
+   "domain": "meyerelectric.net"
+  },
+  {
+   "id": "2YUYFFV5",
+   "name": "UHL Company, Inc.",
+   "domain": "uhlcompany.com"
+  },
+  {
+   "id": "GXH7M5AM",
+   "name": "Premier Electrical Corporation",
+   "domain": "premiercorp.net"
+  },
+  {
+   "id": "Y7H2B8L4",
+   "name": "Ace Electrical Contractors, Inc.",
+   "domain": "aceelectrical.net"
+  },
+  {
+   "id": "ZGWZVCHL",
+   "name": "NEI Electric",
+   "domain": "neielectric.com"
+  },
+  {
+   "id": "KQV5HYVZ",
+   "name": "Electric Construction Co",
+   "domain": "eccsfsd.com"
+  },
+  {
+   "id": "RZFGKJBK",
+   "name": "Master Electric",
+   "domain": "masterelectric.com"
+  },
+  {
+   "id": "YK7WLTFG",
+   "name": "Fraser Morris Electric",
+   "domain": "frasermorris.com"
+  },
+  {
+   "id": "KVEPUZ7A",
+   "name": "Matrix-NDI",
+   "domain": "matrix-ndi.com"
+  },
+  {
+   "id": "8RJC4GGV",
+   "name": "J.Becher & Associates",
+   "domain": "jbecher.com"
+  },
+  {
+   "id": "KB7WZLFM",
+   "name": "OlympiaTech Electric",
+   "domain": "olympiatech.net"
+  },
+  {
+   "id": "9SJ77WC7",
+   "name": "Castle Contracting, LLC",
+   "domain": "digcastle.com"
+  },
+  {
+   "id": "5BTFDQVP",
+   "name": "Master Technology Group (MTG)",
+   "domain": "callmtg.com"
+  },
+  {
+   "id": "HCWM64CW",
+   "name": "Gilbert Mechanical Contractors, LLC",
+   "domain": "gilbertmech.com"
+  },
+  {
+   "id": "2QSBHEN2",
+   "name": "Gerstner Electric, Inc.",
+   "domain": "gerstnerelectric.com"
+  },
+  {
+   "id": "6NXTBH9U",
+   "name": "Neo Electrical Solutions",
+   "domain": "neoelectrical.com"
+  },
+  {
+   "id": "SGE8H6R2",
+   "name": "Pro-Tec Design",
+   "domain": "pro-tecdesign.com"
+  },
+  {
+   "id": "JPME7PVR",
+   "name": "Electric Supply Co.",
+   "domain": "electricsupplyfsd.com"
+  },
+  {
+   "id": "4LZQR2D2",
+   "name": "Holden Electric Co., Inc",
+   "domain": "holdenelectric.com"
+  },
+  {
+   "id": "CCH9CTUW",
+   "name": "Preferred Electric, Inc",
+   "domain": "preferred-elect.com"
+  },
+  {
+   "id": "8C3H73VL",
+   "name": "Main Electric Construction Inc",
+   "domain": "main-electric.com"
+  },
+  {
+   "id": "3EGQJVFS",
+   "name": "Pulse Electric Inc.",
+   "domain": "pulseelectric.net"
+  },
+  {
+   "id": "JHZT4U79",
+   "name": "Skeels Electric Co",
+   "domain": "skeelselectric.com"
+  },
+  {
+   "id": "4Q666EQL",
+   "name": "Sun Electric",
+   "domain": "sunelectricnd.com"
+  },
+  {
+   "id": "9PRQ7HHH",
+   "name": "MSP Electric",
+   "domain": "msp-electric.com"
+  },
+  {
+   "id": "8TSDLTU8",
+   "name": "BLK Electric, Inc.",
+   "domain": "blkelectric.com"
+  },
+  {
+   "id": "MSK835D6",
+   "name": "Killmer Electric Co",
+   "domain": "killmerelectric.com"
+  },
+  {
+   "id": "UXGEQNU5",
+   "name": "Benson Electric Company",
+   "domain": "bensonelectriccompany.com"
+  },
+  {
+   "id": "HPBBDSET",
+   "name": "Belknap Electric Inc",
+   "domain": "belknapelectric.com"
+  },
+  {
+   "id": "JY7R4FXG",
+   "name": "Premier Electric, Inc.",
+   "domain": "premierelectricinc.net"
+  },
+  {
+   "id": "SJVYTZ5W",
+   "name": "All State Communications, Inc.",
+   "domain": "allstatecom.com"
+  },
+  {
+   "id": "6JGNXTNC",
+   "name": "Assurance Technologies Inc.",
+   "domain": "assurancetechs.com"
+  },
+  {
+   "id": "W68PNMRC",
+   "name": "National Powerline",
+   "domain": "nationalpowerline.com"
+  },
+  {
+   "id": "7PNYAA7H",
+   "name": "Granite Ledge Electrical Contractors, Inc.",
+   "domain": "graniteledgeelectric.com"
+  },
+  {
+   "id": "B6PC9XEG",
+   "name": "Edling Electric",
+   "domain": "edlingelectric.com"
+  },
+  {
+   "id": "PD4QQEEA",
+   "name": "Accord Electric",
+   "domain": "accordelectric.net"
+  },
+  {
+   "id": "G9VC9UEM",
+   "name": "Magnum Boring, Llc",
+   "domain": "magnumboringkc.com"
+  },
+  {
+   "id": "JVJ2BC54",
+   "name": "Rick Electric Inc",
+   "domain": "rickelectric.com"
+  },
+  {
+   "id": "4U8A8RQE",
+   "name": "Gunnar Electric, Inc.",
+   "domain": "gunnarelectric.com"
+  },
+  {
+   "id": "A8649F4F",
+   "name": "Austin Electric",
+   "domain": "austinelectric.net"
+  },
+  {
+   "id": "5DY2VRDJ",
+   "name": "Erickson Electric Company, Inc.",
+   "domain": "ericksonelectricmn.com"
+  },
+  {
+   "id": "TP8HFYTG",
+   "name": "Burns Electric",
+   "domain": "burns-electric.com"
+  },
+  {
+   "id": "HF8R2967",
+   "name": "Mayer Electric, INC",
+   "domain": "mayer-electric.com"
+  },
+  {
+   "id": "QAAUPN59",
+   "name": "Procellis Technology",
+   "domain": "procellis.com"
+  },
+  {
+   "id": "MEU9YQZT",
+   "name": "Simon Electric",
+   "domain": "simon-electric.com"
+  },
+  {
+   "id": "UBKTBHBM",
+   "name": "Bloomington Electric",
+   "domain": "bloomingtonelectric.com"
+  },
+  {
+   "id": "2LQMB23C",
+   "name": "Phasor Electric Company",
+   "domain": "phasorelectric.com"
+  },
+  {
+   "id": "KALKSVMG",
+   "name": "RS Electric Utility Services",
+   "domain": "rselectricutility.com"
+  },
+  {
+   "id": "VPZV2SF4",
+   "name": "HumeraTech",
+   "domain": "humeratech.com"
+  },
+  {
+   "id": "S8NPSNH5",
+   "name": "Wheeler Construction, Inc.",
+   "domain": "wheelerconstruct.com"
+  },
+  {
+   "id": "99LBA8VG",
+   "name": "Rocket AV Inc.",
+   "domain": "rocketav.com"
+  },
+  {
+   "id": "PGLYK8JA",
+   "name": "Merit Electric Company",
+   "domain": "meritelectriccompany.com"
+  },
+  {
+   "id": "9SGUU8JU",
+   "name": "Gefroh Electric",
+   "domain": "gefrohelectric.com"
+  },
+  {
+   "id": "TSWMGHJU",
+   "name": "Max Electric",
+   "domain": "maxelectricms.com"
+  },
+  {
+   "id": "T4E529ZK",
+   "name": "Schammel Electric Inc",
+   "domain": "schammelelectric.com"
+  },
+  {
+   "id": "5QD2WCB7",
+   "name": "O'Neill Electric Inc.",
+   "domain": "oneillelectricmn.com"
+  },
+  {
+   "id": "Z5446SGB",
+   "name": "BlueSky Electric Co.",
+   "domain": "blueskyelectricco.com"
+  },
+  {
+   "id": "4YQ5T4CL",
+   "name": "Modern Electrical Solutions",
+   "domain": "modernelectricalsolutions.com"
+  },
+  {
+   "id": "VS2R8U4T",
+   "name": "Paul's Electric Inc",
+   "domain": "paulselectricinc.com"
+  },
+  {
+   "id": "L4XUCYCX",
+   "name": "Electric Systems of Duluth",
+   "domain": "electricsystemsofduluth.com"
+  },
+  {
+   "id": "N9EPE29W",
+   "name": "United Welding",
+   "domain": "unitedwelding.net"
+  },
+  {
+   "id": "2AFETS63",
+   "name": "Western Edge Electric",
+   "domain": "westernedgeelectricinc.com"
+  },
+  {
+   "id": "PVUZ7U9Q",
+   "name": "Hart Electric Of Northern Minnesota Inc.",
+   "domain": "hartelectricofnorthernmn.com"
+  },
+  {
+   "id": "6BQURLMD",
+   "name": "Service Electric Inc",
+   "domain": "serviceelectricinc.com"
+  },
+  {
+   "id": "6V7KHYPV",
+   "name": "Twenty4Seven Fire & Security",
+   "domain": "twenty4sevenfs.com"
+  },
+  {
+   "id": "6CPJEEU6",
+   "name": "Banks Electric Company",
+   "domain": "bankselectriccompany.com"
+  },
+  {
+   "id": "YW7RFJP3",
+   "name": "Town and Country Electric",
+   "domain": "tacelectric.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Carol Stream, IL",
+   "revenue": 1991000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 9
+   },
+   "funding_stage": "No Funding",
+   "description": "Town and Country Electric, Inc. specializes in providing commercial electrical services and lighting maintenance in the Chicagoland area. Their typical customers are businesses and organizations in need of electrical services, including but not limited to office buildings, retail stores, restaurants, and other commercial establishments. They differentiate themselves by emphasizing their expertise in the commercial sector and their commitment to quality service, reliability, and customer satisfaction."
+  },
+  {
+   "id": "Q3QAKGJS",
+   "name": "Northwestern Electric Inc.",
+   "domain": "northwestern-electric.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Minot, ND",
+   "year_founded": 1951,
+   "revenue": 2033000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 9,
+    "linkedin": 14
+   },
+   "funding_stage": "No Funding",
+   "description": "Northwestern Electric Inc. is a residential and commercial electrical contractor that performs electrical installations, lighting retrofits, fire alarm and boiler electrical work, and emergency electrical service for homeowners, multi-family housing and local businesses such as restaurants and hotels. They emphasize expert support, emergency responsiveness, team-based service delivery, and community involvement."
+  },
+  {
+   "id": "MC4D57SE",
+   "name": "Snyder Electric Co",
+   "domain": "snyderelectricco.net",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Minnesota, USA",
+   "year_founded": 1966,
+   "revenue": 1595000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 8
+   },
+   "funding_stage": "No Funding",
+   "description": "Snyder Electric Co provides electrical contracting services for residential, commercial, and industrial customers, focusing on electrical repair, maintenance, wiring, and installation of equipment such as generators and EV charging stations. They emphasize being a small, local contractor with long-term experience and offer prompt troubleshooting and repair services."
+  },
+  {
+   "id": "YK32TMJT",
+   "name": "Dakota Electric Construction Co., Inc.",
+   "domain": "dakotaelectricconst.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Fargo, ND",
+   "revenue": 1595000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 8,
+    "linkedin": 8
+   },
+   "funding_stage": "No Funding",
+   "description": "Dakota Electric Construction Co., Inc. provides electrical construction services\u2014primarily design, installation, and service of electrical systems\u2014for residential, commercial, retail, industrial, and institutional customers. They market themselves as a long-standing provider of dependable electrical solutions focused on safety, performance, and meeting project requirements for new construction, upgrades, and maintenance."
+  },
+  {
+   "id": "ZPDVJ7G8",
+   "name": "Security Control Systems, Inc.",
+   "domain": "scsimn.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Burnsville, MN",
+   "year_founded": 1997,
+   "revenue": 870000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 8
+   },
+   "funding_stage": "No Funding",
+   "description": "Security Control Systems provides customized electronic security solutions including installation, programming, maintenance, and 24/7 monitoring for businesses, property managers and residential customers. They emphasize personalized system design to meet varied user requirements and ongoing support through inspections and monitoring."
+  },
+  {
+   "id": "ERTH2H32",
+   "name": "WJRJ Electrical",
+   "domain": "wjrjelectrical.com"
+  },
+  {
+   "id": "K8GWZT63",
+   "name": "Rarick Financial Group",
+   "domain": "raricktax.com"
+  },
+  {
+   "id": "RD99B37U",
+   "name": "Tromco Electric, Llc",
+   "domain": "tromcoelectric.com"
+  },
+  {
+   "id": "PM5343FL",
+   "name": "B&L Electric Company LLC",
+   "domain": "blelectric.com"
+  },
+  {
+   "id": "VYQVYB9R",
+   "name": "City Wide Electrical Contractors",
+   "domain": "citywideelectricnd.com"
+  },
+  {
+   "id": "QTVXHU83",
+   "name": "Amick Sound Inc",
+   "domain": "amicksound.com"
+  },
+  {
+   "id": "BDU2KWSS",
+   "name": "Wizard installations",
+   "domain": "wizardinstallations.com"
+  },
+  {
+   "id": "GPEC82FS",
+   "name": "HG Electric",
+   "domain": "hgelectric.net"
+  },
+  {
+   "id": "WSMBFTL3",
+   "name": "Aikey Electric",
+   "domain": "aikeyelectric.com"
+  },
+  {
+   "id": "K7YZ5MJZ",
+   "name": "Nylund electric",
+   "domain": "nylundelectricmn.com"
+  },
+  {
+   "id": "KM8FEEBU",
+   "name": "Advanced Electrical Systems",
+   "domain": "aesnd.com"
+  },
+  {
+   "id": "XK3MWB6Z",
+   "name": "Rafter Electric",
+   "domain": "rafterelectric.com"
+  },
+  {
+   "id": "JUYMDUKZ",
+   "name": "Owatonna Electric",
+   "domain": "owatonnaelectric.com"
+  },
+  {
+   "id": "222Z7BVY",
+   "name": "Northern Electrical Solutions",
+   "domain": "northernelectricalmn.com"
+  },
+  {
+   "id": "UQYNBYYA",
+   "name": "Victor Electric",
+   "domain": "victorelectric.org"
+  },
+  {
+   "id": "T7PWVQS3",
+   "name": "Regency Electric Mn",
+   "domain": "regencyelectricmn.com"
+  },
+  {
+   "id": "MVMNJ5MT",
+   "name": "Presidential Electric",
+   "domain": "presidentialelectricmn.com"
+  },
+  {
+   "id": "NVZYMH2X",
+   "name": "Larson Electric",
+   "domain": "larsonelectriconline.com"
+  },
+  {
+   "id": "KP9LWV7S",
+   "name": "Planet Solarity",
+   "domain": "planetsolarity.com"
+  },
+  {
+   "id": "AZ3LVT4S",
+   "name": "A & J Electric",
+   "domain": "ajelectricmn.com"
+  },
+  {
+   "id": "7PNH8758",
+   "name": "Bison Electric",
+   "domain": "bisonelectric.org"
+  },
+  {
+   "id": "6LUPBYXU",
+   "name": "Voyager Electrical Services",
+   "domain": "voyagerelectricalservices.com"
+  },
+  {
+   "id": "EV84LJC4",
+   "name": "Division 17 Electric",
+   "domain": "division17electric.com"
+  },
+  {
+   "id": "4H7MJ5AP",
+   "name": "Act 1 V 8 Electric",
+   "domain": "act1v8electric.com"
+  },
+  {
+   "id": "U2N7R64D",
+   "name": "Alpha Electric Mn",
+   "domain": "alphaelectricmn.com"
+  },
+  {
+   "id": "YZXH7MPQ",
+   "name": "Absolute Electric of Central MN LLC",
+   "domain": "absoluteelectricllc.com"
+  },
+  {
+   "id": "FXHT3JRR",
+   "name": "Rob Mueller Electric",
+   "domain": "robmuellerelectric.com"
+  },
+  {
+   "id": "F95H9APR",
+   "name": "Supreme Electric Inc",
+   "domain": "supremeelectricinc.com"
+  },
+  {
+   "id": "XLXLAY4W",
+   "name": "Thompson Electric Albert Lea, MN",
+   "domain": "thompsonelectricofalbertlea.com"
+  },
+  {
+   "id": "YWU64QMG",
+   "name": "Arcade Electric",
+   "domain": "arcadeelectric.com"
+  },
+  {
+   "id": "ZHUVT8TN",
+   "name": "First Nation Electric",
+   "domain": "firstnationelectric.com"
+  },
+  {
+   "id": "H2VPCSEA",
+   "name": "River City Quilts",
+   "domain": "rivercityquilts.com"
+  },
+  {
+   "id": "5WHTYWS5",
+   "name": "Electrical Construction & Service, LLC",
+   "domain": "electrical-mn.com"
+  },
+  {
+   "id": "BNA2XRVG",
+   "name": "Infinity Electric",
+   "domain": "infinityelectricnd.com"
+  },
+  {
+   "id": "USTX22MU",
+   "name": "Rickard Electric Inc Elec",
+   "domain": "reifargo.com"
+  }
+ ]
+}

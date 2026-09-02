@@ -1,0 +1,522 @@
+{
+ "window": [
+  "2026-09-01",
+  "2028-02-28"
+ ],
+ "generated": "2026-09-01",
+ "events": [
+  {
+   "id": "99H3YQHL",
+   "name": "Electro-Mechanical Authority (EASA) Conventions & Solutions Expo 2027",
+   "series": "The Electro-Mechanical Authority (EASA) Conventions + Solutions Expo",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-16",
+   "city": "Orlando",
+   "state": "FL",
+   "source_link": "https://easa.com/convention",
+   "grata_url": "https://search.grata.com/lists/99H3YQHL/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "EASA 2026 (Orlando, 2026-06-13/16)",
+    "p2_count": 28,
+    "master_count": 8
+   },
+   "kept_reason": "Core S7 motor/apparatus repair trade convention; strongest P2 density of any series (28 P2s at the 2026 edition). 2027 roster not yet populated in Grata."
+  },
+  {
+   "id": "YDV77JYE",
+   "name": "Clean Currents 2026",
+   "series": "Clean Currents",
+   "start_date": "2026-09-21",
+   "end_date": "2026-09-25",
+   "city": "Phoenix",
+   "state": "AZ",
+   "source_link": "https://cleancurrents.org/",
+   "grata_url": "https://search.grata.com/lists/YDV77JYE/companies",
+   "company_count": 306,
+   "p2_attending": [
+    {
+     "domain": "lselectric.com",
+     "name": "L & S Electric, Inc.",
+     "bucket": "S7",
+     "wave": "W3"
+    },
+    {
+     "domain": "turbinepros.com",
+     "name": "TurbinePROs",
+     "bucket": "S7",
+     "wave": "W2"
+    },
+    {
+     "domain": "jenkinselectric.com",
+     "name": "Jenkins Electric Company",
+     "bucket": "T2",
+     "wave": "W2"
+    },
+    {
+     "domain": "sidewindersllc.com",
+     "name": "Sidewinders, LLC",
+     "bucket": "S7",
+     "wave": "W2"
+    }
+   ],
+   "candidates_attending_count": 5,
+   "master_attending_count": 0,
+   "prior_edition_evidence": null,
+   "kept_reason": "Hydropower O&M trade show, US; surfaced by P2 uid sweep. 4 P2s exhibit (L&S Electric, TurbinePROs, Jenkins Electric, Sidewinders) - hydro plant electro-mechanical services overlap S7/T2 apparatus trades."
+  },
+  {
+   "id": "ZMY8M97J",
+   "name": "National Rural Electric Cooperative Association (NRECA) PowerXchange 2027",
+   "series": "National Rural Electric Cooperative Association (NRECA) PowerXchange",
+   "start_date": "2027-03-06",
+   "end_date": "2027-03-11",
+   "city": "Nashville",
+   "state": "TN",
+   "source_link": "https://www.cooperative.com/conferences-education/meetings/powerxchange/Pages/default.aspx",
+   "grata_url": "https://search.grata.com/lists/ZMY8M97J/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "NRECA PowerXchange 2026 (Nashville, 2026-03-06/11)",
+    "p2_count": 3,
+    "master_count": 7
+   },
+   "kept_reason": "Electric co-op leadership event - T3/utility-services buyer and target universe. Roster not yet populated."
+  },
+  {
+   "id": "62T94EWS",
+   "name": "The Expo at PowerXchange and TechAdvantage 2027",
+   "series": "The Expo at PowerXchange and TechAdvantage",
+   "start_date": "2027-03-09",
+   "end_date": "2027-03-11",
+   "city": "Nashville",
+   "state": "TN",
+   "source_link": "https://www.cooperative.com/conferences-education/meetings/the-expo-at-powerxchange-and-techadvantage/Pages/default.aspx",
+   "grata_url": "https://search.grata.com/lists/62T94EWS/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "Expo at PowerXchange and TechAdvantage 2026",
+    "p2_count": 2,
+    "master_count": 4
+   },
+   "kept_reason": "Co-op tech/vendor expo co-located with PowerXchange. Roster not yet populated."
+  },
+  {
+   "id": "8KYJ3DWM",
+   "name": "Southeastern Electric Exchange (S.E.E.) Annual Conference & Trade Show 2027",
+   "series": "Southeastern Electric Exchange (S.E.E.) Annual Conference & Trade Show",
+   "start_date": "2027-06-23",
+   "end_date": "2027-06-26",
+   "city": "Grapevine",
+   "state": "TX",
+   "source_link": "https://www.theexchange.org/conference",
+   "grata_url": "https://search.grata.com/lists/8KYJ3DWM/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "S.E.E. 2026 (Grapevine, 2026-06-23/26)",
+    "p2_count": 2,
+    "master_count": 8
+   },
+   "kept_reason": "Southeast investor-owned-utility operations exchange; strong master-list vendor presence at prior edition. Roster not yet populated."
+  },
+  {
+   "id": "JQWTSYVS",
+   "name": "National Electrical Contractors Association (NECA) Convention & Trade Show Las Vegas 2026",
+   "series": "National Electrical Contractors Association NECA Convention and Trade Show Las Vegas",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-07",
+   "city": "Las Vegas",
+   "state": "NV",
+   "source_link": "https://www.necaconvention.org/",
+   "grata_url": "https://search.grata.com/lists/JQWTSYVS/companies",
+   "company_count": 532,
+   "p2_attending": [],
+   "candidates_attending_count": 2,
+   "master_attending_count": 9,
+   "prior_edition_evidence": {
+    "edition": "NECA Chicago 2025 (same NECA convention family)",
+    "p2_count": 1,
+    "master_count": 5
+   },
+   "kept_reason": "Flagship NECA convention with populated 532-company roster; 9 master-list companies exhibit. Roster fetch truncated at 500/532 (deep-page 403) and is sorted large-company-first, so the small-company P2 intersection is likely understated."
+  },
+  {
+   "id": "BU33WGV5",
+   "name": "Southwest Buildings & Facilities Management Trade Show & Conference (SWBFM) 2026",
+   "series": "Southwest Buildings & Facilities Management Trade Show & Conference (SWBFM)",
+   "start_date": "2026-10-07",
+   "end_date": "2026-10-08",
+   "city": "Phoenix",
+   "state": "AZ",
+   "source_link": "https://swbfm.net/",
+   "grata_url": "https://search.grata.com/lists/BU33WGV5/companies",
+   "company_count": 487,
+   "p2_attending": [
+    {
+     "domain": "canyonstateelectric.com",
+     "name": "Canyon State Electric",
+     "bucket": "T3",
+     "wave": "W1"
+    }
+   ],
+   "candidates_attending_count": 1,
+   "master_attending_count": 1,
+   "prior_edition_evidence": null,
+   "kept_reason": "Facilities-management trade show (thesis series); surfaced by P2 uid sweep - Canyon State Electric (T5, W1) exhibits alongside AZ commercial electrical/mechanical contractors."
+  },
+  {
+   "id": "BQZPKELW",
+   "name": "Professional Electrical Apparatus Reconditioning League (PEARL) Conference & Exhibition 2027",
+   "series": "Professional Electrical Apparatus Reconditioning League (PEARL) Conference and Exhibition",
+   "start_date": "2027-04-23",
+   "end_date": "2027-04-25",
+   "city": "Cleveland",
+   "state": "OH",
+   "source_link": "https://pearl1.org/conference-details-copy/",
+   "grata_url": "https://search.grata.com/lists/BQZPKELW/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "PEARL 2026 (Cleveland, 2026-04-23/25)",
+    "p2_count": 1,
+    "master_count": 2
+   },
+   "kept_reason": "Reconditioned electrical apparatus trade (S7/T2 core). Roster not yet populated."
+  },
+  {
+   "id": "R8RXZY47",
+   "name": "National Electrical Contractors Association (NECA) Chicago 2026",
+   "series": "National Electrical Contractors Association (NECA)",
+   "start_date": "2026-09-12",
+   "end_date": "2026-09-15",
+   "city": "Chicago",
+   "state": "IL",
+   "source_link": "https://www.necashow.org/NECA2025/public/enter.aspx",
+   "grata_url": "https://search.grata.com/lists/R8RXZY47/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "NECA Chicago 2025 (2025-09-12/15)",
+    "p2_count": 1,
+    "master_count": 5
+   },
+   "kept_reason": "Flagship electrical-contracting trade convention (T5/T1 corroboration). Grata roster not yet populated for this edition."
+  },
+  {
+   "id": "SMEME7VD",
+   "name": "National Electrical Contractors Association (NECA) Convention & Trade Show Las Vegas 2027",
+   "series": "National Electrical Contractors Association NECA Convention and Trade Show Las Vegas",
+   "start_date": "2027-10-04",
+   "end_date": "2027-10-07",
+   "city": "Las Vegas",
+   "state": "NV",
+   "source_link": "https://neca2026.smallworldlabs.com/home",
+   "grata_url": "https://search.grata.com/lists/SMEME7VD/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "NECA Chicago 2025 (same NECA convention family)",
+    "p2_count": 1,
+    "master_count": 5
+   },
+   "kept_reason": "2027 edition of the flagship NECA convention. Roster not yet populated."
+  },
+  {
+   "id": "NN5QQ8A4",
+   "name": "Florida Municipal Electric Association (FMEA) Conference 2027",
+   "series": "Florida Municipal Electric Association (FMEA) Conference",
+   "start_date": "2027-07-14",
+   "end_date": "2027-07-16",
+   "city": "Palm Beach",
+   "state": "FL",
+   "source_link": "https://www.flpublicpower.com/2026-fmea-annual-conference",
+   "grata_url": "https://search.grata.com/lists/NN5QQ8A4/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "FMEA 2026 (Palm Beach, 2026-07-14/16)",
+    "p2_count": 1,
+    "master_count": 2
+   },
+   "kept_reason": "Florida municipal/public-power event (utility services thesis). Roster not yet populated."
+  },
+  {
+   "id": "5WVJ3NU6",
+   "name": "Advancing Electrical Prefabrication 2027",
+   "series": "Advancing Electrical Prefabrication",
+   "start_date": "2027-07-22",
+   "end_date": "2027-07-24",
+   "city": "Dallas",
+   "state": "TX",
+   "source_link": "https://advancing-electrical-prefabrication.com/",
+   "grata_url": "https://search.grata.com/lists/5WVJ3NU6/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "Advancing Electrical Prefabrication 2026 (Dallas, 2026-07-22/24)",
+    "p2_count": 1,
+    "master_count": 2
+   },
+   "kept_reason": "Electrical-contractor prefab/BIM conference (T5 operators attend). Roster not yet populated."
+  },
+  {
+   "id": "JWMA34XG",
+   "name": "iP Utility Safety Conference & Expo 2026",
+   "series": "iP Utility Safety Conference & Expo",
+   "start_date": "2026-11-03",
+   "end_date": "2026-11-05",
+   "city": "Glendale",
+   "state": "AZ",
+   "source_link": "https://utilitysafetyconference.com/expo/",
+   "grata_url": "https://search.grata.com/lists/JWMA34XG/companies",
+   "company_count": 95,
+   "p2_attending": [],
+   "candidates_attending_count": 3,
+   "master_attending_count": 1,
+   "prior_edition_evidence": null,
+   "kept_reason": "Utility field-safety trade event; 3 candidate-pool and 1 master-list companies exhibit (utility services adjacency). Incidental on-thesis find from Utility Expo probe."
+  },
+  {
+   "id": "A3RPM49W",
+   "name": "The Utility Expo 2026",
+   "series": "The Utility Expo",
+   "start_date": "2026-10-07",
+   "end_date": "2026-10-09",
+   "city": "Louisville",
+   "state": "KY",
+   "source_link": "https://www.theutilityexpo.com/",
+   "grata_url": "https://search.grata.com/lists/A3RPM49W/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": null,
+   "kept_reason": "Major utility construction/field-technology trade show (thesis probe list). Grata roster not yet populated."
+  },
+  {
+   "id": "779ZH67X",
+   "name": "International Lineman's Rodeo & Expo 2026",
+   "series": "International Lineman's Rodeo & Expo",
+   "start_date": "2026-10-14",
+   "end_date": "2026-10-17",
+   "city": "Overland Park",
+   "state": "KS",
+   "source_link": "https://www.linemansrodeokc.com/",
+   "grata_url": "https://search.grata.com/lists/779ZH67X/companies",
+   "company_count": 29,
+   "p2_attending": [],
+   "candidates_attending_count": 2,
+   "master_attending_count": 0,
+   "prior_edition_evidence": null,
+   "kept_reason": "Electric-utility lineworker trade event; 2 candidate-pool companies exhibit. Incidental on-thesis find."
+  },
+  {
+   "id": "Y9VJAE67",
+   "name": "Data Center World POWER 2026",
+   "series": "Data Center World POWER",
+   "start_date": "2026-09-21",
+   "end_date": "2026-09-23",
+   "city": "Grapevine",
+   "state": "TX",
+   "source_link": "https://dcwpower.com/",
+   "grata_url": "https://search.grata.com/lists/Y9VJAE67/companies",
+   "company_count": 31,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": null,
+   "kept_reason": "Critical-power/data-center energy event (T6 adjacency); roster is OEM/utility-heavy with no current list overlap - watch for T6 targets in later roster updates."
+  },
+  {
+   "id": "GQDMLKE9",
+   "name": "Data Center World 2027",
+   "series": "Data Center World",
+   "start_date": "2027-04-20",
+   "end_date": "2027-04-23",
+   "city": "Washington",
+   "state": "DC",
+   "source_link": "https://datacenterworld.com/",
+   "grata_url": "https://search.grata.com/lists/GQDMLKE9/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": null,
+   "kept_reason": "Flagship US data-center infrastructure event (critical power / T6 thesis). Roster not yet populated."
+  },
+  {
+   "id": "MNRAN3LK",
+   "name": "Power-Generation (POWERGEN) 2027",
+   "series": "Power-Generation (POWERGEN) International",
+   "start_date": "2027-01-18",
+   "end_date": "2027-01-21",
+   "city": "Salt Lake City",
+   "state": "UT",
+   "source_link": "https://www.powergen.com/",
+   "grata_url": "https://search.grata.com/lists/MNRAN3LK/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "POWERGEN International 2024 (New Orleans)",
+    "p2_count": 0,
+    "master_count": 0
+   },
+   "kept_reason": "Power-generation industry flagship; prior edition showed no list overlap (roster truncated 100/595) - keep as low-priority coverage."
+  },
+  {
+   "id": "2VAK7U4S",
+   "name": "IEEE Power and Energy Society (PES) Transmission & Distribution (T&D) Conference & Exposition 2027",
+   "series": "IEEE Power and Energy Society PES Transmission & Distribution T&D Conference & Exposition",
+   "start_date": "2027-05-04",
+   "end_date": "2027-05-07",
+   "city": "Chicago",
+   "state": "IL",
+   "source_link": "https://ieeet-d.org/",
+   "grata_url": "https://search.grata.com/lists/2VAK7U4S/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": {
+    "edition": "IEEE PES T&D 2024 (Anaheim)",
+    "p2_count": 0,
+    "master_count": 0
+   },
+   "kept_reason": "Biennial T&D flagship (thesis series). Prior-edition intersection was 0 but that roster was truncated 200/1155 large-first, so evidence is weak, not negative. Grata holds a duplicate record 8TF994G7 for the same edition."
+  },
+  {
+   "id": "75RMJJPN",
+   "name": "CEATI Strategy & Innovation Conference 2026",
+   "series": "Centre for Energy Advancement through Technological Innovation (CEATI) Strategy & Innovation Conference",
+   "start_date": "2026-09-15",
+   "end_date": "2026-09-18",
+   "city": "Fort Lauderdale",
+   "state": "FL",
+   "source_link": "https://site.pheedloop.com/event/strategyinnovation/home",
+   "grata_url": "https://search.grata.com/lists/75RMJJPN/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": null,
+   "kept_reason": "Only CEATI event in window (the T&D conference series from the old build has no in-window edition listed). Utility R&D/operations community; roster not yet populated."
+  },
+  {
+   "id": "WFFF7HWT",
+   "name": "Electric Operations Conference & Expo (EOCE) 2027",
+   "series": "Electric Operations Conference & Expo",
+   "start_date": "2027-01-14",
+   "end_date": "2027-01-15",
+   "city": "Baraboo",
+   "state": "WI",
+   "source_link": "https://www.meuw.org/eoce",
+   "grata_url": "https://search.grata.com/lists/WFFF7HWT/companies",
+   "company_count": 0,
+   "p2_attending": [],
+   "candidates_attending_count": 0,
+   "master_attending_count": 0,
+   "prior_edition_evidence": null,
+   "kept_reason": "Wisconsin municipal electric utility operations trade show (utilities/munis thesis). Incidental find; roster not yet populated."
+  }
+ ],
+ "discarded_events": [
+  {
+   "name": "Electronica 2026 (Munich)",
+   "reason": "Overseas electronics-manufacturing trade fair; off-trade and off-geography."
+  },
+  {
+   "name": "WindEnergy Hamburg 2026",
+   "reason": "Overseas wind-turbine manufacturing expo; off-thesis."
+  },
+  {
+   "name": "Aboveground Storage Tank Conference & Trade Show 2026",
+   "reason": "Storage-tank operation/management event, not electrical services."
+  },
+  {
+   "name": "International Conference on Distributed Systems and Applications (ICDSA) New York 2026",
+   "reason": "Academic distributed-computing conference (WASET); not an industry trade event."
+  },
+  {
+   "name": "International Conference on Environmental and Agricultural Economics (ICEAE) 2026 (Rome)",
+   "reason": "Academic agricultural-economics conference; off-thesis and overseas."
+  },
+  {
+   "name": "IEEE PES General Meeting 2027 (Montreal)",
+   "reason": "Academic/research power-engineering forum outside the US; not a target-density trade show."
+  },
+  {
+   "name": "IEEE ITEC+EATS 2027",
+   "reason": "Transportation-electrification R&D/components conference; not an electrical-services trade event."
+  },
+  {
+   "name": "Data Center World Australia 2026 / Data Centre World Madrid 2026 / Data Centre World London 2027 / Data Centres Ireland 2026",
+   "reason": "Overseas Data Centre World editions; US thesis only."
+  },
+  {
+   "name": "infra/Structure Summit 2026",
+   "reason": "Internet-infrastructure (cloud/hosting) executive summit, not electrical/critical-power services."
+  },
+  {
+   "name": "Northeast Corrosion Conference (NECC) 2027",
+   "reason": "Corrosion control is a validated DQ pattern (sourcing rule 5)."
+  },
+  {
+   "name": "Nuclear Energy Conference & Expo (NECX) 2027",
+   "reason": "Nuclear-generation sector event; off core services thesis."
+  },
+  {
+   "name": "International BioMass Conference & Expo 2027",
+   "reason": "Biomass fuels/energy production; off-thesis."
+  },
+  {
+   "name": "Joint Expo & Operator Days 2027",
+   "reason": "Water/wastewater utility operations, not electrical."
+  },
+  {
+   "name": "Name-collision noise from fuzzy event_name probes (RestaurantPoint East, ProcureCon East, ABS East, ITEXPO East, Pax East, I.CON East, Pack Expo East, M&A East, NECANN cannabis conventions, National Ethanol Conference, NEMA Forum, NPCA Precast Convention, medical 'Pearls' CME events, EARL R-language conference, AGTA GemFair, mineral shows, WECA, NEAA, NWCA, NICA, MECA, NTCA, and similar)",
+   "reason": "Fuzzy-match noise on 'EASA'/'PEARL'/'NECA' probes; none are electrical infrastructure events."
+  }
+ ],
+ "spend": {
+  "search_conferences_calls": 21,
+  "grata_tokens": 42
+ },
+ "notes": [
+  "FORWARD-LOOKING BUILD: only events STARTING 2026-09-01 through 2028-02-28. Attendance evidence for future editions whose Grata rosters are empty is carried in prior_edition_evidence copied from scripts/xref/conferences.json (the backward build); no other backward look was taken.",
+  "Discovery: 196 P2 Grata uids swept in 5 batches of <=40 via search_conferences with dates=['2026-09-01','2028-02-28'] (date-range list shape accepted on first try). Batches returned 2, 0, 0, 1 and 4 events; only SWBFM 2026 and Clean Currents 2026 were on-thesis P2-attended hits.",
+  "Series probes (16 calls incl. the 5-sweep = 21 total): EASA, PEARL, NECA, PowerXchange, S.E.E., FMEA, POWERGEN, IEEE PES, Utility Expo, Lightning Protection, Data Center World, TSDOS, USMA, CEATI, Advancing Electrical Prefabrication, NETA PowerTest. TechAdvantage was covered by the PowerXchange probe.",
+  "ZERO-RESULT probes to re-check next pass: NETA PowerTest (T1 testing trade - PowerTest 2027 not yet in Grata's event index), Lightning Protection Institute, TSDOS, USMA. Their next editions likely exist but are not indexed yet; re-probe before conference-based outreach planning.",
+  "Most 2027 editions (EASA, PEARL, PowerXchange, S.E.E., FMEA, NECA LV 2027, IEEE PES T&D, POWERGEN, Data Center World, Advancing Electrical Prefabrication) currently show company_count=0 in Grata - rosters populate closer to the event. Re-pull rosters (get_companies_in_list is free) ~2-3 months before each event.",
+  "NECA Las Vegas 2026 roster truncated at 500/532: get_companies_in_list returns HTTP 403 past row 500 regardless of page size (same deep-page block the backward build hit at ~row 1000). List is sorted large-company-first, so the missing 32 rows skew small - P2 intersection likely UNDERSTATED. All other populated rosters fetched in full (SWBFM 487/487, Clean Currents 306/306, iP Utility Safety 95/95, DCW POWER 31/31, Lineman's Rodeo 29/29).",
+  "Grata holds duplicate records for IEEE PES T&D 2027 (2VAK7U4S kept, 8TF994G7 dropped as duplicate - same dates/venue).",
+  "Clean Currents 2026 is hydropower-sector; kept because 4 P2s exhibit (lselectric.com S7, turbinepros.com, jenkinselectric.com, sidewindersllc.com) and hydro electro-mechanical services overlap the S7/T2 apparatus trades. Per rule 1 attendance is corroboration only - buckets stay description-driven.",
+  "CEATI Strategy & Innovation 2026 is a different CEATI series than the T&D Conference in the old build (T&D 2024: 1 P2 / 1 master); no in-window CEATI T&D edition was returned, so that series-level evidence is noted here rather than in prior_edition_evidence.",
+  "iP Utility Safety 2026, Lineman's Rodeo 2026 and EOCE 2027 were incidental on-thesis finds from probe noise, kept because get_companies_in_list is free; they are coverage extras, not thesis series.",
+  "Intersections use normalized domains (strip protocol/www, lowercase) against conf_targets.json: 534 P2 domains (196 with uids), 1755 all_candidates, 2221 master_domains. Wave-2/3 P2s without Grata uids (338/534) could not seed uid discovery and surface only via roster intersection.",
+  "Spend: 21 search_conferences calls x 2 tokens = 42 Grata tokens (cap was 25 calls / 50 tokens). 17 get_companies_in_list calls, free."
+ ]
+}

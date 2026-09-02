@@ -1,0 +1,742 @@
+{
+ "T1": {
+  "seeds": [
+   {
+    "seed": "Power Distribution Maintenance (pdmaintenance.com)",
+    "comps": [
+     {
+      "n": "Hyre Electric / Wasatch Electric / Giles Electric / Rabalais Constructors",
+      "t": "EME:NYSE",
+      "o": "EMCOR Group Inc",
+      "ebitda": 14.5291,
+      "rev": 1.7433
+     },
+     {
+      "n": "Electrical Engineering & Service Co.",
+      "t": "ABBNY:NASDAQ",
+      "o": "ABB Asea Brown Boveri Ltd.",
+      "ebitda": 25.0021,
+      "rev": 5.0706
+     },
+     {
+      "n": "Advanced Electric Systems",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services Inc",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     },
+     {
+      "n": "Amteck, LLC",
+      "t": "FIX:NYSE",
+      "o": "Comfort Systems USA Inc",
+      "ebitda": 26.5581,
+      "rev": 4.6326
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 25.7801,
+     "ev_rev_median": 3.8108,
+     "ev_ebitda_min": 14.5291,
+     "ev_ebitda_max": 32.2719
+    }
+   },
+   {
+    "seed": "Southern Power Systems (sopower.com)",
+    "comps": [
+     {
+      "n": "Electrical Engineering & Service Co.",
+      "t": "ABBNY:NASDAQ",
+      "o": "ABB",
+      "ebitda": 25.0021,
+      "rev": 5.0706
+     },
+     {
+      "n": "Roundhouse Electric & Equipment",
+      "t": "KFS:NYSE",
+      "o": "Kingsway Financial Services",
+      "ebitda": null,
+      "rev": null
+     },
+     {
+      "n": "ICM Group W.A. P/L",
+      "t": "AMADY:NASDAQ",
+      "o": "Amadeus IT Group SA",
+      "ebitda": 10.9957,
+      "rev": 4.2252
+     },
+     {
+      "n": "International Line Builders",
+      "t": "MDU:NYSE",
+      "o": "MDU Resources Group",
+      "ebitda": 13.6929,
+      "rev": 3.6717
+     },
+     {
+      "n": "Basler Electric Co.",
+      "t": "LFUS:NASDAQ",
+      "o": "Littelfuse Inc",
+      "ebitda": 37.2846,
+      "rev": 4.0041
+     },
+     {
+      "n": "Advanced Electric Systems",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     },
+     {
+      "n": "SPIE Energotest",
+      "t": "SPIE:PAR",
+      "o": "SPIE SA",
+      "ebitda": 5.4099,
+      "rev": 0.5006
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 19.3475,
+     "ev_rev_median": 3.8379,
+     "ev_ebitda_min": 5.4099,
+     "ev_ebitda_max": 37.2846
+    }
+   }
+  ]
+ },
+ "T2": {
+  "seeds": [
+   {
+    "seed": "Transformer Service (transformer-svc.com)",
+    "comps": [
+     {
+      "n": "Roundhouse Electric & Equipment",
+      "t": "KFS:NYSE",
+      "o": "Kingsway Financial",
+      "ebitda": null,
+      "rev": null
+     },
+     {
+      "n": "Stuban General Trafo / Electrical Engineering & Service Co.",
+      "t": "ABBNY:NASDAQ",
+      "o": "ABB",
+      "ebitda": 25.0021,
+      "rev": 5.0706
+     },
+     {
+      "n": "Transfo Services",
+      "t": "SBGSY:NASDAQ",
+      "o": "Schneider Electric SA",
+      "ebitda": 11.3624,
+      "rev": 2.2867
+     },
+     {
+      "n": "Neeltran Inc",
+      "t": "AMSC:NASDAQ",
+      "o": "American Superconductor",
+      "ebitda": 41.3872,
+      "rev": 3.7484
+     },
+     {
+      "n": "Niagara Power Transformer / Advanced Electric Systems",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 28.637,
+     "ev_rev_median": 3.3687,
+     "ev_ebitda_min": 11.3624,
+     "ev_ebitda_max": 41.3872
+    }
+   }
+  ]
+ },
+ "T3": {
+  "seeds": [
+   {
+    "seed": "Primary Utility Services (primaryus.com)",
+    "comps": [
+     {
+      "n": "Irby Construction / Brink Constructors / Summit Line / Southern Electric / Valard",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     },
+     {
+      "n": "EC Source Services",
+      "t": "MTZ:NYSE",
+      "o": "MasTec Inc",
+      "ebitda": 16.7044,
+      "rev": 1.3612
+     },
+     {
+      "n": "International Line Builders",
+      "t": "MDU:NYSE",
+      "o": "MDU Resources Group",
+      "ebitda": 13.6929,
+      "rev": 3.6717
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 16.7044,
+     "ev_rev_median": 2.989,
+     "ev_ebitda_min": 13.6929,
+     "ev_ebitda_max": 32.2719
+    }
+   },
+   {
+    "seed": "Scobee Powerline (scobeepowerline.com)",
+    "comps": [
+     {
+      "n": "J. J. White, Inc.",
+      "t": "IMPJY:NASDAQ",
+      "o": "Webuild SpA",
+      "ebitda": 7.2099,
+      "rev": 0.1788
+     },
+     {
+      "n": "Bay Line Construction / Conam Construction",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     },
+     {
+      "n": "Kenny Seng Construction",
+      "t": "GVA:NYSE",
+      "o": "Granite Construction",
+      "ebitda": 32.6832,
+      "rev": 1.2513
+     },
+     {
+      "n": "Stone Ridge Contracting",
+      "t": "STRL:NASDAQ",
+      "o": "Sterling Infrastructure",
+      "ebitda": 20.1589,
+      "rev": 4.22
+     },
+     {
+      "n": "Smithbridge Guam",
+      "t": "KLR:LSE",
+      "o": "Keller Group PLC",
+      "ebitda": null,
+      "rev": null
+     },
+     {
+      "n": "Aecon Group Inc.",
+      "t": "ARE:TSX",
+      "o": "Aecon Group",
+      "ebitda": 25.7772,
+      "rev": 0.5308
+     },
+     {
+      "n": "Grupo ACS",
+      "t": "ACSAY:NASDAQ",
+      "o": "ACS Actividades",
+      "ebitda": null,
+      "rev": 2.5653
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 25.7772,
+     "ev_rev_median": 1.9083,
+     "ev_ebitda_min": 7.2099,
+     "ev_ebitda_max": 32.6832
+    },
+    "note": "Second seed pulls a distinct HEAVY-CIVIL comp set (Granite, Sterling, Aecon, ACS, Keller, Webuild) vs seed 1's electrical roll-ups - T3 straddles both comp universes."
+   }
+  ]
+ },
+ "T4": {
+  "seeds": [
+   {
+    "seed": "Caldwell Electrical Contractors (caldwellelectric.com)",
+    "comps": [
+     {
+      "n": "Dynalectric San Diego / Giles Electric",
+      "t": "EME:NYSE",
+      "o": "EMCOR Group Inc",
+      "ebitda": 14.5291,
+      "rev": 1.7433
+     },
+     {
+      "n": "Next Electric / Integrated Electrical Services (IES)",
+      "t": "IESC:NASDAQ",
+      "o": "IES Holdings Inc",
+      "ebitda": 20.8679,
+      "rev": 3.1398
+     },
+     {
+      "n": "Intermountain Electric",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services Inc",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     },
+     {
+      "n": "Capital Electric Construction",
+      "t": "MDU:NYSE",
+      "o": "MDU Resources Group",
+      "ebitda": 13.6929,
+      "rev": 3.6717
+     },
+     {
+      "n": "Amteck, LLC",
+      "t": "FIX:NYSE",
+      "o": "Comfort Systems USA",
+      "ebitda": 26.5581,
+      "rev": 4.6326
+     },
+     {
+      "n": "Commonwealth Electric Co. of the Midwest",
+      "t": "FCF:NYSE",
+      "o": "First Commonwealth Financial",
+      "ebitda": 18.947,
+      "rev": 3.6608
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 19.9074,
+     "ev_rev_median": 3.4003,
+     "ev_ebitda_min": 13.6929,
+     "ev_ebitda_max": 32.2719
+    }
+   }
+  ]
+ },
+ "S7": {
+  "seeds": [
+   {
+    "seed": "Motor Technology, Inc. (motortechnologyinc.com)",
+    "comps": [
+     {
+      "n": "Motor Technology, Inc.",
+      "t": "KKR:NYSE",
+      "o": "KKR & Co. Inc.",
+      "ebitda": 15.1238,
+      "rev": 6.76
+     },
+     {
+      "n": "Kopar",
+      "t": "AIT:NYSE",
+      "o": "Applied Industrial Technologies",
+      "ebitda": 22.7351,
+      "rev": 2.5278
+     },
+     {
+      "n": "NorthPoint Technical Services",
+      "t": "WJX:TSX",
+      "o": "Wajax Corporation",
+      "ebitda": 5.2574,
+      "rev": 0.4972
+     },
+     {
+      "n": "Rocky Mountain Hydrostatics",
+      "t": "HEI:NYSE",
+      "o": "Heico Corporation",
+      "ebitda": 33.9763,
+      "rev": 9.6279
+     },
+     {
+      "n": "James Electric Motor Services",
+      "t": "FERG:NASDAQ",
+      "o": "Ferguson Enterprises",
+      "ebitda": 16.0754,
+      "rev": 1.5774
+     },
+     {
+      "n": "Maintech Engineering & Supplies",
+      "t": "1968:TSE",
+      "o": "Taihei Dengyo Kaisha",
+      "ebitda": null,
+      "rev": null
+     },
+     {
+      "n": "Iris Power LP",
+      "t": "FTV:NYSE",
+      "o": "Fortive Corp",
+      "ebitda": 20.052,
+      "rev": 4.9807
+     },
+     {
+      "n": "Advantage Reliability Services",
+      "t": "SGSOY:NASDAQ",
+      "o": "SGS SA",
+      "ebitda": 7.8456,
+      "rev": 1.5638
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 15.5996,
+     "ev_rev_median": 2.4275,
+     "ev_ebitda_min": 5.2574,
+     "ev_ebitda_max": 33.9763
+    },
+    "note": "Comp set drifts off-trade (KKR, HEICO, Ferguson, SGS are not motor-service comparables) - Grata has no listed pure-play motor repair peer."
+   },
+   {
+    "seed": "E. Longo (elongo.com)",
+    "comps": [
+     {
+      "n": "Maintech Engineering & Supplies",
+      "t": "1968:TSE",
+      "o": "Taihei Dengyo Kaisha",
+      "ebitda": null,
+      "rev": null
+     },
+     {
+      "n": "Platt Electric Supply",
+      "t": "RXEEY:NASDAQ",
+      "o": "Rexel SA",
+      "ebitda": 14.0956,
+      "rev": 0.9161
+     },
+     {
+      "n": "Delom / NorthPoint Technical Services",
+      "t": "WJX:TSX",
+      "o": "Wajax Corporation",
+      "ebitda": 5.2574,
+      "rev": 0.4972
+     },
+     {
+      "n": "Electric Motor Service Ltd.",
+      "t": "BOL:PAR",
+      "o": "Bollore SA",
+      "ebitda": 9.4048,
+      "rev": 0.9589
+     },
+     {
+      "n": "AEC Industrial Solutions",
+      "t": "OVV:NYSE",
+      "o": "Ovintiv Inc",
+      "ebitda": 7.9132,
+      "rev": 2.3271
+     },
+     {
+      "n": "James Electric Motor Services",
+      "t": "FERG:NASDAQ",
+      "o": "Ferguson Enterprises",
+      "ebitda": 16.0754,
+      "rev": 1.5774
+     },
+     {
+      "n": "LS ELECTRIC Co., Ltd.",
+      "t": "010120:KSC",
+      "o": "LS Electric",
+      "ebitda": null,
+      "rev": null
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 9.4048,
+     "ev_rev_median": 0.9589,
+     "ev_ebitda_min": 5.2574,
+     "ev_ebitda_max": 16.0754
+    },
+    "note": "Better trade fit than seed 1 - Wajax/Delom and Bollore/EMSL are genuine motor-service peers. Note markedly LOWER multiples (median 9.4x) than the electrical-contractor roll-ups."
+   }
+  ]
+ },
+ "T5": {
+  "seeds": [
+   {
+    "seed": "Jess Howard Electric (jesshoward.com)",
+    "comps": [
+     {
+      "n": "Atlantic Electric / Meisner Electric",
+      "t": "FIX:NYSE",
+      "o": "Comfort Systems USA",
+      "ebitda": 26.5581,
+      "rev": 4.6326
+     },
+     {
+      "n": "Dynalectric San Diego",
+      "t": "EME:NYSE",
+      "o": "EMCOR Group",
+      "ebitda": 14.5291,
+      "rev": 1.7433
+     },
+     {
+      "n": "Duro Electric / Capital Electric Construction",
+      "t": "MDU:NYSE",
+      "o": "MDU Resources Group",
+      "ebitda": 13.6929,
+      "rev": 3.6717
+     },
+     {
+      "n": "Commonwealth Electric Co. of the Midwest",
+      "t": "FCF:NYSE",
+      "o": "First Commonwealth Financial",
+      "ebitda": 18.947,
+      "rev": 3.6608
+     },
+     {
+      "n": "J.W. Didado Electric",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 18.947,
+     "ev_rev_median": 3.6608,
+     "ev_ebitda_min": 13.6929,
+     "ev_ebitda_max": 32.2719
+    }
+   }
+  ]
+ },
+ "T6": {
+  "seeds": [
+   {
+    "seed": "Blackmon Service (blackmonservice.com)",
+    "comps": [
+     {
+      "n": "Capital City Electrical Services",
+      "t": "SBGSY:NASDAQ",
+      "o": "Schneider Electric SA",
+      "ebitda": 11.3624,
+      "rev": 2.2867
+     },
+     {
+      "n": "Seasonair / S.M. Lawrence",
+      "t": "FIX:NYSE",
+      "o": "Comfort Systems USA",
+      "ebitda": 26.5581,
+      "rev": 4.6326
+     },
+     {
+      "n": "Advanced Electric Systems",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     },
+     {
+      "n": "EMCOR Services Fluidics",
+      "t": "EME:NYSE",
+      "o": "EMCOR Group",
+      "ebitda": 14.5291,
+      "rev": 1.7433
+     },
+     {
+      "n": "Donnelly Mechanical Corporation",
+      "t": "VST:NYSE",
+      "o": "Vistra Corp.",
+      "ebitda": 10.1714,
+      "rev": 4.1329
+     },
+     {
+      "n": "John Nugent & Sons",
+      "t": "GS:NYSE",
+      "o": "Goldman Sachs Group",
+      "ebitda": 27.7091,
+      "rev": 7.3757
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 20.5436,
+     "ev_rev_median": 3.561,
+     "ev_ebitda_min": 10.1714,
+     "ev_ebitda_max": 32.2719
+    },
+    "note": "Vistra and Goldman Sachs appear only as listed PARENTS of small subsidiaries - not trade comparables for critical-power services."
+   },
+   {
+    "seed": "Nationwide Power (nationwidepower.com)",
+    "comps": [
+     {
+      "n": "Critical Components (CCI) / Concentric LLC / Industrial Power Products",
+      "t": "7011:TSE",
+      "o": "Mitsubishi Heavy Industries",
+      "ebitda": null,
+      "rev": null
+     },
+     {
+      "n": "HITEC Power Protection",
+      "t": "4088:TSE",
+      "o": "Air Water Inc",
+      "ebitda": null,
+      "rev": null
+     },
+     {
+      "n": "Mitsubishi Critical",
+      "t": "MIELY:NASDAQ",
+      "o": "Mitsubishi Electric Corp",
+      "ebitda": 13.0993,
+      "rev": 1.7407
+     },
+     {
+      "n": "AEG Power Solutions",
+      "t": "HMDPF:NASDAQ",
+      "o": "Hammond Power Solutions",
+      "ebitda": 23.4123,
+      "rev": 2.7087
+     },
+     {
+      "n": "AMETEK IntelliPower",
+      "t": "AME:NYSE",
+      "o": "Ametek Inc",
+      "ebitda": 23.1516,
+      "rev": 7.1359
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 23.1516,
+     "ev_rev_median": 2.7087,
+     "ev_ebitda_min": 13.0993,
+     "ev_ebitda_max": 23.4123
+    },
+    "note": "Best trade-fit comp set in the run: critical-power equipment/service OEMs (Mitsubishi Electric, AMETEK, Hammond Power, HITEC) rather than generalist contractor roll-ups."
+   }
+  ]
+ },
+ "S10": {
+  "seeds": [
+   {
+    "seed": "Bonded Lightning Protection (bondedlightning.com)",
+    "comps": [
+     {
+      "n": "Rabalais Constructors / Giles Electric",
+      "t": "EME:NYSE",
+      "o": "EMCOR Group",
+      "ebitda": 14.5291,
+      "rev": 1.7433
+     },
+     {
+      "n": "BCM Controls Corporation",
+      "t": "FIX:NYSE",
+      "o": "Comfort Systems USA",
+      "ebitda": 26.5581,
+      "rev": 4.6326
+     },
+     {
+      "n": "Integrated Electrical Services (IES)",
+      "t": "IESC:NASDAQ",
+      "o": "IES Holdings",
+      "ebitda": 20.8679,
+      "rev": 3.1398
+     },
+     {
+      "n": "Advanced Electric Systems",
+      "t": "PWR:NYSE",
+      "o": "Quanta Services",
+      "ebitda": 32.2719,
+      "rev": 2.989
+     },
+     {
+      "n": "Sunbelt Electrical Service Co",
+      "t": "ACCO:NYSE",
+      "o": "Acco Brands Corporation",
+      "ebitda": 6.817,
+      "rev": 0.8338
+     },
+     {
+      "n": "Capital Electric Construction",
+      "t": "MDU:NYSE",
+      "o": "MDU Resources Group",
+      "ebitda": 13.6929,
+      "rev": 3.6717
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 17.6985,
+     "ev_rev_median": 3.0644,
+     "ev_ebitda_min": 6.817,
+     "ev_ebitda_max": 32.2719
+    },
+    "note": "ACCO Brands (office products) appears only as listed parent of a small electrical subsidiary - not a trade comparable."
+   }
+  ]
+ },
+ "S8": {
+  "seeds": [
+   {
+    "seed": "Lighting Maintenance Inc (lightingmaintenance.com)",
+    "comps": [
+     {
+      "n": "Capital City Electrical Services / Trout Electric",
+      "t": "SBGSY:NASDAQ",
+      "o": "Schneider Electric SA",
+      "ebitda": 11.3624,
+      "rev": 2.2867
+     },
+     {
+      "n": "Baker Electric-Iowa / Giles Electric",
+      "t": "EME:NYSE",
+      "o": "EMCOR Group",
+      "ebitda": 14.5291,
+      "rev": 1.7433
+     },
+     {
+      "n": "Atlantic Electric, LLC",
+      "t": "FIX:NYSE",
+      "o": "Comfort Systems USA",
+      "ebitda": 26.5581,
+      "rev": 4.6326
+     },
+     {
+      "n": "Commonwealth Electric Co. of the Midwest",
+      "t": "FCF:NYSE",
+      "o": "First Commonwealth Financial",
+      "ebitda": 18.947,
+      "rev": 3.6608
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 16.7381,
+     "ev_rev_median": 2.9738,
+     "ev_ebitda_min": 11.3624,
+     "ev_ebitda_max": 26.5581
+    }
+   }
+  ]
+ },
+ "S9": {
+  "seeds": [
+   {
+    "seed": "Resound Energy Services (resoundenergy.com) - P3, no P1/P2 exists in S9",
+    "comps": [
+     {
+      "n": "Qmerit Electrification / Clinton Electric / Willow Glen Electric / Capital City Electrical",
+      "t": "SBGSY:NASDAQ",
+      "o": "Schneider Electric SA",
+      "ebitda": 11.3624,
+      "rev": 2.2867
+     },
+     {
+      "n": "CoolSys Energy Solutions",
+      "t": "ARES:NYSE",
+      "o": "Ares Management LP",
+      "ebitda": 17.4951,
+      "rev": 7.3582
+     },
+     {
+      "n": "Birkel Electric",
+      "t": "OFS:NASDAQ",
+      "o": "OFS Capital Corp",
+      "ebitda": null,
+      "rev": null
+     },
+     {
+      "n": "Bombard Electric, LLC",
+      "t": "MDU:NYSE",
+      "o": "MDU Resources Group",
+      "ebitda": 13.6929,
+      "rev": 3.6717
+     }
+    ],
+    "grata_stats": {
+     "ev_ebitda_median": 13.6929,
+     "ev_rev_median": 3.6717,
+     "ev_ebitda_min": 11.3624,
+     "ev_ebitda_max": 17.4951
+    },
+    "note": "Seed is P3 (bucket has no P1/P2 in master). Ares and OFS Capital are asset managers appearing as listed parents, not trade comparables."
+   }
+  ]
+ }
+}

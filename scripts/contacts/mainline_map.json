@@ -1,0 +1,5732 @@
+{
+ "generated": "2026-09-01",
+ "source": "inven get_company_info",
+ "note": "Inven company records carry NO phone numbers (0 of 817 returned an hq_phone), so phone_matches_hq is null throughout. The intended fallback -- scraping each company's own website -- is ALSO unavailable: web egress is blocked for this session (every fetch returns EGRESS_BLOCKED / HTTP 403 from the proxy, confirmed against control hosts, so it is a policy block and not a site problem). scripts/contacts/hq_phone_webcheck.json therefore does NOT exist and must not be assumed. THE HQ/MAINLINE QUESTION IS OPEN for the 245 master rows that hold both an email and a phone: it is unknown whether those held numbers are company mainlines or personal direct lines. Free structural tests found no signal either (245 distinct numbers, none shared across companies, none toll-free, none matching a typed phone in our enriched data). Those 245 rows stay marked skip_pending_mainline_check and are NOT enriched -- they are also the lowest-value rows in the queue, since they already carry an email and a phone, and the 1,200-company cap is consumed by higher-value rows that have no contact data at all. Street addresses below satisfy the postal-address requirement.",
+ "total_targets": 917,
+ "pulled": 817,
+ "remaining_not_pulled": 100,
+ "with_address": 711,
+ "with_hq_phone": 0,
+ "companies": {
+  "caldwellelectric.com": {
+   "hq_phone": null,
+   "street_address": "2334 Danbury Lane, Gainesville, GA 30507, Gainesville, Georgia 30507, US",
+   "contact_phone": "+1 678-316-6821",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sopower.com": {
+   "hq_phone": null,
+   "street_address": "8501 Joor Rd, Baton Rouge, Louisiana 70818, US",
+   "contact_phone": "+1 225-937-5208",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "wjbe.com": {
+   "hq_phone": null,
+   "street_address": "400 Dakin St, Jefferson, LA 70121, US",
+   "contact_phone": "+1 504-914-4540",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "coalmont.com": {
+   "hq_phone": null,
+   "street_address": "22577 Highway 216, Mc Calla, Alabama 35111-2705, US",
+   "contact_phone": "+1 205-542-9961",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "couttsbros.com": {
+   "hq_phone": null,
+   "street_address": "13 Barber Rd, Randolph, ME 04346, US",
+   "contact_phone": "+1 207-458-1957",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "vanharen.com": {
+   "hq_phone": null,
+   "street_address": "8500 Piedmont Industrial Park Dr, Byron Center, MI 49315, US",
+   "contact_phone": "+1 616-862-1495",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aceelectrical.net": {
+   "hq_phone": null,
+   "street_address": "8300 10th Ave N, Golden Valley, Minnesota 55427, US",
+   "contact_phone": "+1 920-860-1990",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "telexllc.com": {
+   "hq_phone": null,
+   "street_address": "Fayetteville, Ar, US",
+   "contact_phone": "+1 541-979-9135",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "texasmeter.com": {
+   "hq_phone": null,
+   "street_address": "5866 N State Highway 6, Waco, Texas 76712, US",
+   "contact_phone": "+1 719-216-6582",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hobgoodelectric.com": {
+   "hq_phone": null,
+   "street_address": "10330 Monticello Road, Winnsboro, South Carolina 29180, US",
+   "contact_phone": "+1 843-333-4679",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ietspower.com": {
+   "hq_phone": null,
+   "street_address": "7265 Slocum Road, Lima, NY 14485, US",
+   "contact_phone": "+1 917-303-2230",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sitesting.net": {
+   "hq_phone": null,
+   "street_address": "9375 Archibald Ave, Rancho Cucamonga, California, US",
+   "contact_phone": "+1 909-268-7946",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "davcoelectric.com": {
+   "hq_phone": null,
+   "street_address": "4885 Park Ridge Blvd, Boynton Beach, Florida 33426, US",
+   "contact_phone": "+1 267-872-4194",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "nationwidepower.com": {
+   "hq_phone": null,
+   "street_address": "1060 Mary Crest Road, Henderson, NV 89074, US",
+   "contact_phone": "+1 702-622-5307",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dubakelectrical.com": {
+   "hq_phone": null,
+   "street_address": "10 Beach Ave, La Grange Park, Illinois 60526, US",
+   "contact_phone": "+1 708-497-3555",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rewcorp.com": {
+   "hq_phone": null,
+   "street_address": "3708 Adams St, Portsmouth, Virginia 23703, US",
+   "contact_phone": "+1 773-551-3633",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "allanbritewayutility.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 516-456-1118",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "brintelectric.com": {
+   "hq_phone": null,
+   "street_address": "7825 Central Ave., Toledo, Ohio 43617, US",
+   "contact_phone": "+1 419-469-6700",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "electricalservicesco.com": {
+   "hq_phone": null,
+   "street_address": "9835 Kitty Lane, Oakland, CA 94603, US",
+   "contact_phone": "+1 209-629-2194",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "oilfieldtechnical.com": {
+   "hq_phone": null,
+   "street_address": "7412 NW 83rd ST, Oklahoma City, OK 73142, US",
+   "contact_phone": "+1 580-583-6270",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rapierindustries.com": {
+   "hq_phone": null,
+   "street_address": "Industrial Blvd, Rockwall, Texas 75087, US",
+   "contact_phone": "+1 972-693-3028",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "responseservices.com": {
+   "hq_phone": null,
+   "street_address": "2055 Quaker Pointe Dr, Quakertown, Pennsylvania 18951, US",
+   "contact_phone": "+1 215-622-0496",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "echopower.com": {
+   "hq_phone": null,
+   "street_address": "PO Box 2587, Hendersonville, TN 37077, US",
+   "contact_phone": "+1 615-796-5131",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aidelectric.com": {
+   "hq_phone": null,
+   "street_address": "Minneapolis, US",
+   "contact_phone": "+1 612-221-1572",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "masterelectric.com": {
+   "hq_phone": null,
+   "street_address": "8555 West 123rd Street, Savage, MN 55378, US",
+   "contact_phone": "+1 952-890-3555",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stoneandsons.com": {
+   "hq_phone": null,
+   "street_address": "2530 QUEENSTOWN RD, Birmingham, Alabama 35210, US",
+   "contact_phone": "+1 205-234-1398",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "albarell.com": {
+   "hq_phone": null,
+   "street_address": "Bethlehem, Pennsylvania 18018, US",
+   "contact_phone": "+1 484-554-5070",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "calvielectric.com": {
+   "hq_phone": null,
+   "street_address": "14 S. California Avenue, Atlantic City, New Jersey 08401, US",
+   "contact_phone": "+1 609-937-7727",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "parkerelectric.com": {
+   "hq_phone": null,
+   "street_address": "9603 Brown Ln # A, Austin, TX 78754",
+   "contact_phone": "+1 512-293-3019",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "petri-electric.com": {
+   "hq_phone": null,
+   "street_address": "907 N Bowser Rd, Richardson, Texas 75081, US",
+   "contact_phone": "+1 214-952-7296",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "progressiveelectric.net": {
+   "hq_phone": null,
+   "street_address": "1005 Central Avenue, Kearney, NE 68847, US",
+   "contact_phone": "+1 913-707-7091",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "seahurst.com": {
+   "hq_phone": null,
+   "street_address": "2915 Chestnut Street, Everett, WA 98201, US",
+   "contact_phone": "+1 425-508-9740",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "wilsonelectricco.com": {
+   "hq_phone": null,
+   "street_address": "113 SOUTH MADISON STREET, ROCKFORD, Illinois 61104, US",
+   "contact_phone": "+1 562-397-1887",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "southernswitch.com": {
+   "hq_phone": null,
+   "street_address": "855 Virginia Ave, Palm Harbor, Florida 34683-5227, US",
+   "contact_phone": "+1 914-582-9346",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "prime-electricusa.com": {
+   "hq_phone": null,
+   "street_address": "3312 Girard Blvd NE, Albuquerque, NM 87107",
+   "contact_phone": "+1 303-549-5609",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "southlandelectricinc.com": {
+   "hq_phone": null,
+   "street_address": "4950 Greencraig Lane, San Diego, California 92123, US",
+   "contact_phone": "+1 337-329-4146",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "deelc.com": {
+   "hq_phone": null,
+   "street_address": "1408 21st Ave NW, Watford City, North Dakota 58854, US",
+   "contact_phone": "+1 267-391-8250",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "scalfoelectric.com": {
+   "hq_phone": null,
+   "street_address": "3539 N Mill Rd, Vineland, NJ 08360, US",
+   "contact_phone": "+1 609-298-0114",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "westhueselectric.com": {
+   "hq_phone": null,
+   "street_address": "Kansas City, US",
+   "contact_phone": "+1 816-215-5180",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cableelectric.com": {
+   "hq_phone": null,
+   "street_address": "3716 Rufe Snow Dr, North Richland Hills, Texas 76180, US",
+   "contact_phone": "+1 817-913-1562",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cw1924.com": {
+   "hq_phone": null,
+   "street_address": "2508 Mechanicsville Turnpike, Richmond, Virginia 23223, US",
+   "contact_phone": "+1 806-367-4887",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "elandelectric.com": {
+   "hq_phone": null,
+   "street_address": "3154 Holmgren Way, Green Bay, WI 54304, US",
+   "contact_phone": "+1 414-610-4088",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "grnotoelectric.com": {
+   "hq_phone": null,
+   "street_address": "2 Skyline Dr E, South Abington Twp., Pennsylvania 18411, US",
+   "contact_phone": "+1 570-383-1567",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "glenwoodelectric.com": {
+   "hq_phone": null,
+   "street_address": "12250 CHANDLER DRIVE, WALTON, Kentucky 41094, US",
+   "contact_phone": "+1 513-608-2633",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "wlslighting.com": {
+   "hq_phone": null,
+   "street_address": "6820 Corporation Pkwy, Fort Worth, Texas 76126, US",
+   "contact_phone": "+1 817-891-0861",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "wildelectric.com": {
+   "hq_phone": null,
+   "street_address": "4729 E Olive Ave, Fresno, California 93702-1714, US",
+   "contact_phone": "+1 559-589-6068",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "bizcomelec.com": {
+   "hq_phone": null,
+   "street_address": "682 Tuxedo Pl, Cincinnati, Ohio 45206, US",
+   "contact_phone": "+1 281-793-7043",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hurtelectric.com": {
+   "hq_phone": null,
+   "street_address": "10529 W Appleton Ave, Milwaukee, Wisconsin 53225-2408, US",
+   "contact_phone": "+1 414-397-9573",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "homesteadelectric.com": {
+   "hq_phone": null,
+   "street_address": "27839 W Concrete Dr, Ingleside, IL 60041",
+   "contact_phone": "+1 708-359-5041",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "keyelectric.biz": {
+   "hq_phone": null,
+   "street_address": "4461 N Dixie Hwy, Oakland Park, FL 33334",
+   "contact_phone": "+1 954-553-8964",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "maryland-electric.com": {
+   "hq_phone": null,
+   "street_address": "2090 US-70, Kingston Springs, Tennessee 37082, US",
+   "contact_phone": "+1 407-709-1316",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "schetter.com": {
+   "hq_phone": null,
+   "street_address": "471 Bannon Street, Sacramento, CA 95811, US",
+   "contact_phone": "+1 916-502-3926",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "britainelectric.com": {
+   "hq_phone": null,
+   "street_address": "14149 Westfair East, Houston, Texas 77041, US",
+   "contact_phone": "+1 713-202-1159",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "beckettelectrical.com": {
+   "hq_phone": null,
+   "street_address": "P.O. Box 81381, Austin, TX 78708, US",
+   "contact_phone": "+1 512-947-9669",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "powerworkselectric.com": {
+   "hq_phone": null,
+   "street_address": "160 Gasoline Alley, Mooresville, North Carolina 28117, US",
+   "contact_phone": "+1 404-433-5134",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "wewireu.com": {
+   "hq_phone": null,
+   "street_address": "PO BOX 3695, Charleston, West Virginia 25326, US",
+   "contact_phone": "+1 304-546-0027",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "abelectric.net": {
+   "hq_phone": null,
+   "street_address": "1020 D St, Meridian, MS 39301, US",
+   "contact_phone": "+1 601-575-2351",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ams-corp.com": {
+   "hq_phone": null,
+   "street_address": "9119 Cross Park Drive, Knoxville, Tennessee 37923, US",
+   "contact_phone": "+1 865-567-6755",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ivctechnologies.com": {
+   "hq_phone": null,
+   "street_address": "210 S West St, Lebanon, OH 45036, US",
+   "contact_phone": "+1 514-941-5870",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "albrechtellc.com": {
+   "hq_phone": null,
+   "street_address": "P.O. Box 1451, Birmingham, Michigan 48012, US",
+   "contact_phone": "+1 505-603-1243",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "criterioncriticalsystems.com": {
+   "hq_phone": null,
+   "street_address": "-, Sacramento, California, US",
+   "contact_phone": "+1 916-869-0006",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ctelectricpro.com": {
+   "hq_phone": null,
+   "street_address": "Perris, California 92570, US",
+   "contact_phone": "+1 812-454-4428",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "bicelectrics.com": {
+   "hq_phone": null,
+   "street_address": "Miami, US",
+   "contact_phone": "+1 305-510-2462",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "southwestelectric.com": {
+   "hq_phone": null,
+   "street_address": "4557 York Blvd, Los Angeles, California 90041, US",
+   "contact_phone": "+1 732-896-7258",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "edgeserviceco.com": {
+   "hq_phone": null,
+   "street_address": "West Monroe, Louisiana 71292, US",
+   "contact_phone": "+1 337-298-2705",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sitewideps.com": {
+   "hq_phone": null,
+   "street_address": "11767 Katy Fwy, 1005, Houston, Texas 77079, US",
+   "contact_phone": "+61 405 765 105",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "bridgepointelectric.com": {
+   "hq_phone": null,
+   "street_address": "S 122nd East Ave, Tulsa, Oklahoma 74128, US",
+   "contact_phone": "+1 918-271-1119",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "nelsonelec.com": {
+   "hq_phone": null,
+   "street_address": "9620 Stone Ave N #201, Seattle, Wa 98103, US",
+   "contact_phone": "+1 319-533-3848",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "olympiatech.net": {
+   "hq_phone": null,
+   "street_address": "13700 Water Tower Circle, Plymouth, Mn 55441, US",
+   "contact_phone": "+1 612-919-1140",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lightingmaintenance.com": {
+   "hq_phone": null,
+   "street_address": "Alexandria, Virginia 22310, US",
+   "contact_phone": "+1 301-252-1380",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "motortechnologyinc.com": {
+   "hq_phone": null,
+   "street_address": "515 Willow Springs Ln, York, PA 17406, US",
+   "contact_phone": "+1 717-880-2665",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "elongo.com": {
+   "hq_phone": null,
+   "street_address": "1 Harry Shupe Blvd, Wharton, New Jersey 07885, US",
+   "contact_phone": "+45 24 22 63 75",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "electricmotorservice.net": {
+   "hq_phone": null,
+   "street_address": "1928 Milwaukee Way, Tacoma, Washington 98421, US",
+   "contact_phone": "+1 253-653-6914",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "bondedlightning.com": {
+   "hq_phone": null,
+   "street_address": "2080 W. Indiantown Rd, Suite 100, Jupiter, Florida 33458, US",
+   "contact_phone": "+1 573-275-2219",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "perryelectricsd.com": {
+   "hq_phone": null,
+   "street_address": "P.O. Box 710130, Santee, CA 92072, US",
+   "contact_phone": "+1 619-694-9577",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "underpowercorp.com": {
+   "hq_phone": null,
+   "street_address": "14170 Sw 30th St, Miami, Florida 33175-6529, US",
+   "contact_phone": "+1 561-379-3746",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hickslp.com": {
+   "hq_phone": null,
+   "street_address": "7420 FM 2449, Ponder, Texas 76259, US",
+   "contact_phone": "+1 214-708-3301",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kge.com": {
+   "hq_phone": null,
+   "street_address": "1955 Dale Lane, Owings, MD 20736, US",
+   "contact_phone": "+1 301-420-3983",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "totalenergysolutions.com": {
+   "hq_phone": null,
+   "street_address": "20500 Clay Center Dr, Houston, TX 77449, US",
+   "contact_phone": "+1 225-921-0542",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "commerciallightning.com": {
+   "hq_phone": null,
+   "street_address": "510-A Corliss St., Greensboro, NC 27406, US",
+   "contact_phone": "+1 336-404-7914",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hollandindustrial.com": {
+   "hq_phone": null,
+   "street_address": "518 W Montgomery St, Henderson, North Carolina 27536, US",
+   "contact_phone": "+1 252-425-7255",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "utilityconstructionco.com": {
+   "hq_phone": null,
+   "street_address": "8435 e Baseline Rd, Mesa, AZ 85209, US",
+   "contact_phone": "+1 440-605-0703",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pwrllc.com": {
+   "hq_phone": null,
+   "street_address": "6402 Deere Rd, Syracuse, New York 13206, US",
+   "contact_phone": "+1 315-374-8439",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sievertelectric.com": {
+   "hq_phone": null,
+   "street_address": "1230 Hannah Avenue, Forest Park, IL 60130, US",
+   "contact_phone": "+1 708-261-6341",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aecco.net": {
+   "hq_phone": null,
+   "street_address": "620 Pratt Ave N, Schaumburg, IL 60193, US",
+   "contact_phone": "+1 847-833-9292",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "capcityelectric.com": {
+   "hq_phone": null,
+   "street_address": "9798 Karmar Ct, Suite B, New Albany, Ohio 43054, US",
+   "contact_phone": "+1 614-678-9540",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mayerselectric.com": {
+   "hq_phone": null,
+   "street_address": "4004 Erie Ct, Cincinnati, OH 45227",
+   "contact_phone": "+1 513-977-0954",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "elitepower.com": {
+   "hq_phone": null,
+   "street_address": "6530 Asher Lane, Sacramento, CA 95828, US",
+   "contact_phone": "+1 916-717-3700",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rdmcompanies.com": {
+   "hq_phone": null,
+   "street_address": "4260 E Brickell St, Ontario, California 91761, US",
+   "contact_phone": "+1 951-212-7987",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "riverselectrical.com": {
+   "hq_phone": null,
+   "street_address": "3A Gill Street, Woburn, MA 01801, US",
+   "contact_phone": "+1 307-214-4019",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sweneyelectric.com": {
+   "hq_phone": null,
+   "street_address": "9111 LOUISIANA ST, Merrillville, Indiana 46410, us",
+   "contact_phone": "+1 219-614-5573",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "arcstarelectric.com": {
+   "hq_phone": null,
+   "street_address": "3425 N 21st, Ozark, MO 65721, US",
+   "contact_phone": "+1 417-425-3817",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "marstransformers.com": {
+   "hq_phone": null,
+   "street_address": "4155 S Main St, Pearland, Texas 77581, US",
+   "contact_phone": "+1 660-287-5327",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "resoundenergy.com": {
+   "hq_phone": null,
+   "street_address": "14522 NE North Woodinville Way, Suite 101A, Woodinville, Washington 98072, US",
+   "contact_phone": "+1 425-984-4500",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "redroverelectric.com": {
+   "hq_phone": null,
+   "street_address": "Louisville, US",
+   "contact_phone": "+1 502-931-0419",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "midlandllc.com": {
+   "hq_phone": null,
+   "street_address": "110 N CENTER ST., ELKINS, AR 72727, US",
+   "contact_phone": "+1 479-633-3939",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rdelectric.net": {
+   "hq_phone": null,
+   "street_address": "1875 Diesel Dr ., #10, Sacramento, CA 95838 , US",
+   "contact_phone": "+1 916-501-1432",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "raygenservices.com": {
+   "hq_phone": null,
+   "street_address": "14734 S HARRELL'S FERRY RD.,STE A, BATON ROUGE, Louisiana 70816, US",
+   "contact_phone": "+1 225-610-7467",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "douglaselectric.us": {
+   "hq_phone": null,
+   "street_address": "1812 BRIGHTON HENRIETTA TL ROAD, Rochester, New York 14623, US",
+   "contact_phone": "+1 585-734-7047",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cacyelectric.com": {
+   "hq_phone": null,
+   "street_address": "1269 Greenfield Dr, El Cajon, California 92021, US",
+   "contact_phone": "+1 619-905-9351",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "independentlighting.com": {
+   "hq_phone": null,
+   "street_address": "93 S First Colonial Rd, Virginia Beach, Virginia 23454, US",
+   "contact_phone": "+1 757-876-8689",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jemby.com": {
+   "hq_phone": null,
+   "street_address": "4468 Technology Drive, Fremont, CA 94538, US",
+   "contact_phone": "+1 510-299-6716",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lywood.com": {
+   "hq_phone": null,
+   "street_address": "102 Frank Adams Industrial Way, Federalsburg, MD 21632, US",
+   "contact_phone": "+1 410-924-3854",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "northpointusa.com": {
+   "hq_phone": null,
+   "street_address": "520 Columbia Dr, Suite 105, Johnson City, New York 13790, US",
+   "contact_phone": "+1 607-759-4787",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "currenteng.com": {
+   "hq_phone": null,
+   "street_address": "4133 S Merchant Dr, Newburgh, Indiana 47630, US",
+   "contact_phone": "+1 812-454-3766",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "walshelec.com": {
+   "hq_phone": null,
+   "street_address": "101 Sentry Circle, Yorktown, Virginia 23692, US",
+   "contact_phone": "+1 252-435-2675",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "capstarelectric.com": {
+   "hq_phone": null,
+   "street_address": "3871 E University Ave, #101, Georgetown, Texas 78626, US",
+   "contact_phone": "+1 512-917-4691",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "busscoinc.com": {
+   "hq_phone": null,
+   "street_address": "25 FRANKLIN STREET, MALDEN, Massachusetts 02148, US",
+   "contact_phone": "+1 617-389-4882",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "foygroup.net": {
+   "hq_phone": null,
+   "street_address": "901 Powell Ave SW, Suite 100, Renton, Washington 98057, US",
+   "contact_phone": "+1 206-730-6161",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mastercraftinc.com": {
+   "hq_phone": null,
+   "street_address": "206 Frontage Rd N, Pacific, Washington 98047, US",
+   "contact_phone": "+1 661-266-3053",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "usilluminations.com": {
+   "hq_phone": null,
+   "street_address": "600 E Cuyahoga Falls Ave, Akron, Ohio 44310, US",
+   "contact_phone": "+1 330-819-2074",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "fitzec.com": {
+   "hq_phone": null,
+   "street_address": "6S865 Shaw Road, Big Rock/Chicago, Illinois, US",
+   "contact_phone": "+1 618-799-1392",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pagepowersystems.com": {
+   "hq_phone": null,
+   "street_address": "2020 Remount Rd, Gastonia, North Carolina 28054, US",
+   "contact_phone": "+1 704-860-2445",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "alliedelectrical.com": {
+   "hq_phone": null,
+   "street_address": "1425 Lindbergh Dr, Beaumont, TX 77707, US",
+   "contact_phone": "+1 281-605-8189",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ec-m.com": {
+   "hq_phone": null,
+   "street_address": "5527 Mechanicsville Tpke, Mechanicsville, Virginia 23111, US",
+   "contact_phone": "+1 540-793-5844",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ce-electrical.com": {
+   "hq_phone": null,
+   "street_address": "1 Hartford Sq., Suite C3, New Britain, CT 06051, US",
+   "contact_phone": "+1 860-221-5380",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "careyelectricinc.com": {
+   "hq_phone": null,
+   "street_address": "74 Crabapple Ln, Watervliet, New York 12189, US",
+   "contact_phone": "+1 518-330-0066",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cusaconsulting.com": {
+   "hq_phone": null,
+   "street_address": "6 Merrill Industrial Drive, Suite 6, Hampton, NH 03842, US",
+   "contact_phone": "+1 603-498-4549",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "eagleelect.com": {
+   "hq_phone": null,
+   "street_address": "3942 VALLEY AVE, Suite J, Pleasanton, California 94566, US",
+   "contact_phone": "+1 925-783-0512",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mtlines.com": {
+   "hq_phone": null,
+   "street_address": "2800 Upper River Rd, Great Falls, Montana 59405-7235, US",
+   "contact_phone": "+1 406-590-1409",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hitechelectric.com": {
+   "hq_phone": null,
+   "street_address": "11116 W Little York Rd, Houston, Texas, US",
+   "contact_phone": "+1 972-948-4120",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kilianelectric.com": {
+   "hq_phone": null,
+   "street_address": "4107 W Harry St, Wichita, KS 67209-2754, US",
+   "contact_phone": "+1 314-575-2228",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "edmlink.com": {
+   "hq_phone": null,
+   "street_address": "4001 Automation Way, Fort Collins, Colorado 80525, US",
+   "contact_phone": "+1 619-993-8454",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "utilityrelay.com": {
+   "hq_phone": null,
+   "street_address": "10100 Queens Way, Chagrin Falls, Ohio 44023, US",
+   "contact_phone": "+1 440-543-7291",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "divtecs.com": {
+   "hq_phone": null,
+   "street_address": "35 Wiggins Ave, Bedford, MA 01730, US",
+   "contact_phone": "+1 781-275-9444",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "powermonitors.com": {
+   "hq_phone": null,
+   "street_address": "800 N Main St, Mount Crawford, VA 22841, US",
+   "contact_phone": "+1 540-729-2490",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "powertemp.com": {
+   "hq_phone": null,
+   "street_address": "1646 Rankin Rd, Suite 300, Houston, Texas 77073, US",
+   "contact_phone": "+1 832-857-8538",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "powerconnections.com": {
+   "hq_phone": null,
+   "street_address": "115 Adris Pl, Dothan, Alabama 36303, US",
+   "contact_phone": "+1 337-356-8940",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "root3power.com": {
+   "hq_phone": null,
+   "street_address": "Houston, TX 77379, US",
+   "contact_phone": "+1 281-257-9357",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "graceport.com": {
+   "hq_phone": null,
+   "street_address": "1515 E Kimberly Rd., Davenport, Iowa 52807, US",
+   "contact_phone": "+1 563-650-2393",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "h-j.com": {
+   "hq_phone": null,
+   "street_address": "1920 W Blossom Ave, Nampa, Idaho 83651-8323, US",
+   "contact_phone": "+1 636-485-8079",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ampedi.com": {
+   "hq_phone": null,
+   "street_address": "1801 W Warner Avenue, Suite 300, Chicago, IL 60613, US",
+   "contact_phone": "+1 847-571-5288",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "astuteng.com": {
+   "hq_phone": null,
+   "street_address": "Vienna, Virginia 22182, US",
+   "contact_phone": "+1 301-461-6485",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "btechinc.com": {
+   "hq_phone": null,
+   "street_address": "10 Astro Place, Rockaway, NJ 07866, US",
+   "contact_phone": "+1 646-239-4863",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "customelec.com": {
+   "hq_phone": null,
+   "street_address": "87 Browne Street, Oneonta, NY 13820, US",
+   "contact_phone": "+1 404-858-3773",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "exeltech.com": {
+   "hq_phone": null,
+   "street_address": "7317 Jack Newell Blvd N, Fort Worth, Texas 76118, US",
+   "contact_phone": "+1 817-919-4204",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gyre9.com": {
+   "hq_phone": null,
+   "street_address": "1200 Main St S, Southbury, Connecticut 06488, US",
+   "contact_phone": "+1 401-864-4373",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "titanledus.com": {
+   "hq_phone": null,
+   "street_address": "850 E Covey Ln, #140, Phoenix, Arizona 85024, US",
+   "contact_phone": "+1 805-231-7070",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "senergyelectric.com": {
+   "hq_phone": null,
+   "street_address": "6328 NW 97th Ave, Miami, FL 33178, US",
+   "contact_phone": "+1 786-286-0866",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "elecsysgroup.com": {
+   "hq_phone": null,
+   "street_address": "200 Summit Lake Drive, Suite 320, Valhalla, New York 10595, US",
+   "contact_phone": "+1 518-542-0293",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "davidsonsales.com": {
+   "hq_phone": null,
+   "street_address": "839 Bill France Blvd, Daytona Beach, Florida 32117, US",
+   "contact_phone": "+1 386-316-9604",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "merrimacindustrial.com": {
+   "hq_phone": null,
+   "street_address": "111 Neck Rd, Haverhill, Massachusetts 01835, US",
+   "contact_phone": "+1 978-363-5234",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "southcoastlighting.com": {
+   "hq_phone": null,
+   "street_address": "San Clemente, us",
+   "contact_phone": "+1 949-842-2717",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rnbcontrols.com": {
+   "hq_phone": null,
+   "street_address": "4623 W Ranch Road 1431, Kingsland, TX 78639, US",
+   "contact_phone": "+1 512-516-3234",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rtfps.net": {
+   "hq_phone": null,
+   "street_address": "909 West Pushmataha Street, Butler, Alabama 36904, US",
+   "contact_phone": "+1 251-533-2350",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "specializedelectric.com": {
+   "hq_phone": null,
+   "street_address": "13301 W 43rd Dr, Unit 13, Golden, Colorado 80403, US",
+   "contact_phone": "+1 303-908-9399",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "trcurlee.com": {
+   "hq_phone": null,
+   "street_address": "1808 South Ridge Ave., Kannapolis, NC 28083, US",
+   "contact_phone": "+1 704-576-3191",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "arselectricnyc.com": {
+   "hq_phone": null,
+   "street_address": "77 Jericho Tpke, Mineola, New York 11501, US",
+   "contact_phone": "+1 917-523-1402",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "alternalite.com": {
+   "hq_phone": null,
+   "street_address": "North Olmsted, OH 44070, US",
+   "contact_phone": "+1 216-406-1478",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "arcflashelectric.com": {
+   "hq_phone": null,
+   "street_address": "406 Madison Avenue, Suite 7, Orange Park, FL 32065, US",
+   "contact_phone": "+1 904-304-5821",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "designbyinitiative.com": {
+   "hq_phone": null,
+   "street_address": "110 Robinson Ct, Fayetteville, Georgia 30214, US",
+   "contact_phone": "+1 602-743-8263",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "diamondrelectric.com": {
+   "hq_phone": null,
+   "street_address": "718 N Main St, Enterprise, Alabama 36330, US",
+   "contact_phone": "+1 214-673-1888",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "signatureelectriccorp.com": {
+   "hq_phone": null,
+   "street_address": "3494 W 25th St, Cleveland, OH 44109",
+   "contact_phone": "+1 307-631-2240",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "americanconnectors.com": {
+   "hq_phone": null,
+   "street_address": "2000 MLK Fwy, Fort Worth, Texas 76104, US",
+   "contact_phone": "+1 817-909-8634",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "amexelectric.com": {
+   "hq_phone": null,
+   "street_address": "7677 Hunnicut Rd, Dallas, Texas 75228, US",
+   "contact_phone": "+1 214-991-5803",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "box-electric.com": {
+   "hq_phone": null,
+   "street_address": "5516 Old Wake Forest Rd, Raleigh, North Carolina 27609, US",
+   "contact_phone": "+1 919-201-7136",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cruzelectricllc.com": {
+   "hq_phone": null,
+   "street_address": "Haymarket, VA 20169, US",
+   "contact_phone": "+1 228-547-1388",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lumenelectric.com": {
+   "hq_phone": null,
+   "street_address": "117 S Cook St, 304, Barrington, Illinois 60010, US",
+   "contact_phone": "+1 847-540-6300",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aitechfl.com": {
+   "hq_phone": null,
+   "street_address": "4811 Lyons Technology Pkwy, Suite 15, Coconut Creek, Florida 33073, US",
+   "contact_phone": "+1 561-702-9010",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "21tech.com": {
+   "hq_phone": null,
+   "street_address": "1330 Broadway, Suite 701, Oakland, CA 94612, US",
+   "contact_phone": "+1 804-337-9940",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "4btechnology.com": {
+   "hq_phone": null,
+   "street_address": "100 Glenborough Dr, Suite 800, Houston, Texas 77067, US",
+   "contact_phone": "+1 832-241-0049",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "5stardrilling.com": {
+   "hq_phone": null,
+   "street_address": "PO BOX 194, KINGSLEY, Michigan 49649, US",
+   "contact_phone": "+1 231-313-5648",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "asignbydesign.com": {
+   "hq_phone": null,
+   "street_address": "501 W. Noble St., Lebanon, IN 46052, US",
+   "contact_phone": "+1 317-590-5950",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "asoundlook.com": {
+   "hq_phone": null,
+   "street_address": "2001 Vivigen Way, Santa Fe, New Mexico 87505, US",
+   "contact_phone": "+1 505-310-1215",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ahindllc.com": {
+   "hq_phone": null,
+   "street_address": "2413 Schuster Dr, Suite C, Hyattsville, Maryland 20781, US",
+   "contact_phone": "+1 703-909-2448",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "a-1signsinc.com": {
+   "hq_phone": null,
+   "street_address": "3950 Metropolitan St, New Orleans, Louisiana 70126, US",
+   "contact_phone": "+1 609-410-4896",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "asoliswelding.com": {
+   "hq_phone": null,
+   "street_address": "15500 STATE HIGHWAY 46 W, Spring Branch, TX 78070, US",
+   "contact_phone": "+1 210-296-8631",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "a-aelectric.com": {
+   "hq_phone": null,
+   "street_address": "2011 South Combee Road, Lakeland, Florida 33801-6855, US",
+   "contact_phone": "+1 201-962-8523",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aaa-asphalt.com": {
+   "hq_phone": null,
+   "street_address": "19155 Circle Lake Dr, Pinehurst, Texas 77362, US",
+   "contact_phone": "+1 713-817-4387",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aaafiberglass.net": {
+   "hq_phone": null,
+   "street_address": "3940 SW 113th St., Oklahoma City, Oklahoma 73173, US",
+   "contact_phone": "+1 405-613-7559",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aaapaintco.com": {
+   "hq_phone": null,
+   "street_address": "529 W. Roosevelt Rd., Wheaton, IL 60187, US",
+   "contact_phone": "+1 518-466-8038",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "actgti.com": {
+   "hq_phone": null,
+   "street_address": "8666 Huebner Rd, Suite 204, SAN ANTONIO, TX 78240, US",
+   "contact_phone": "+1 210-651-2543",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aha-engineers.com": {
+   "hq_phone": null,
+   "street_address": "77 S Bedford St, Suite 140, Burlington, Massachusetts 01803, US",
+   "contact_phone": "+1 781-372-3000",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "solutionsbyapex.com": {
+   "hq_phone": null,
+   "street_address": "3566 Highland Dr., Hudsonville, Michigan 49426, US",
+   "contact_phone": "+1 616-514-9600",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "austintechgroup.com": {
+   "hq_phone": null,
+   "street_address": "1800 Sandy Plains Industrial Pkwy, Ste 325, Marietta, Georgia 30066, US",
+   "contact_phone": "+1 770-843-1649",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "atokainc.com": {
+   "hq_phone": null,
+   "street_address": "2695 Airport Road, Hot Springs, AR 71913, US",
+   "contact_phone": "+1 501-804-9173",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "auipartners.com": {
+   "hq_phone": null,
+   "street_address": "9800 Hillwood Pkwy, Suite 160, Fort Worth, Texas 76177, US",
+   "contact_phone": "+1 817-676-3100",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "avsolutionsatlanta.com": {
+   "hq_phone": null,
+   "street_address": "4865 Warehouse Way, Suite 105, Cumming, Georgia 30041, US",
+   "contact_phone": "+1 404-392-0990",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "abstractelectric.com": {
+   "hq_phone": null,
+   "street_address": "116 N 12th Street, Hilbert, WI 54129, US",
+   "contact_phone": "+1 920-889-1547",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "acapellainc.com": {
+   "hq_phone": null,
+   "street_address": "Petaluma, CA, US",
+   "contact_phone": "+1 218-348-9131",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "accentgraphicsinc.com": {
+   "hq_phone": null,
+   "street_address": "523 E Rock Island Rd, Grand Prairie, Texas 75050, US",
+   "contact_phone": "+1 925-567-6126",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "accuracal.com": {
+   "hq_phone": null,
+   "street_address": "2834 W. Kingsley Rd., Garland, TX 75041, US",
+   "contact_phone": "+1 214-223-2711",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aeinteriors.com": {
+   "hq_phone": null,
+   "street_address": "5360 Bierson Way, Central Point, Oregon 97502, US",
+   "contact_phone": "+1 541-840-8600",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "accurateexcavation.com": {
+   "hq_phone": null,
+   "street_address": "4833 30th Pl, Yuma, AZ 85365",
+   "contact_phone": "+1 928-210-7125",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "accuratepropertyrestoration.com": {
+   "hq_phone": null,
+   "street_address": "2570 W 237th St, Unit B, Torrance, California 90505, US",
+   "contact_phone": "+1 310-918-8425",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "acgtampa.com": {
+   "hq_phone": null,
+   "street_address": "2706 Stallone Drive, Tampa, Florida 33605, US",
+   "contact_phone": "+1 813-917-9267",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "achesonautoworks.com": {
+   "hq_phone": null,
+   "street_address": "8000 University Blvd., Clive, IA 50325, US",
+   "contact_phone": "+1 515-249-1091",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "acrtmn.com": {
+   "hq_phone": null,
+   "street_address": "Hopkins, MN 55449, US",
+   "contact_phone": "+1 763-898-0266",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "webadt.com": {
+   "hq_phone": null,
+   "street_address": "1075 Shore Road, Naperville, IL 60563, US",
+   "contact_phone": "+1 630-417-0566",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "advdesign.com": {
+   "hq_phone": null,
+   "street_address": "2750 KIllarney Drive, Suite 207, Woodbridge, VA 22192, US",
+   "contact_phone": "+1 949-951-6644",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aesgs.com": {
+   "hq_phone": null,
+   "street_address": "1832 Stone Ave, San Jose, California 95125, US",
+   "contact_phone": "+1 408-386-3278",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "agesinc.us": {
+   "hq_phone": null,
+   "street_address": "608 Center St, Smithton, Pennsylvania 15479, US",
+   "contact_phone": "+1 412-956-6320",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aisav.com": {
+   "hq_phone": null,
+   "street_address": "58 N 300 W, Suite E, Tremonton, Utah 84337, US",
+   "contact_phone": "+1 435-512-4717",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ait-marine.com": {
+   "hq_phone": null,
+   "street_address": "2427 Ingleside Road, Norfolk, VA 23513, US",
+   "contact_phone": "+1 757-416-7406",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ats4solutions.com": {
+   "hq_phone": null,
+   "street_address": "55 W Army Trail Rd, Suite 101, Glendale Heights, IL 60108-2186, US",
+   "contact_phone": "+1 630-209-8300",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "advind.com": {
+   "hq_phone": null,
+   "street_address": "2196 Port Sheldon St., Jenison, Michigan 49428, US",
+   "contact_phone": "+1 616-886-2892",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "aerotage.com": {
+   "hq_phone": null,
+   "street_address": "240 Lookout Pl, Maitland, Florida 32751, US",
+   "contact_phone": "+1 352-459-4065",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "affordableflags.com": {
+   "hq_phone": null,
+   "street_address": "3905 S HWY 85-87, COLORADO SPRINGS, Colorado 80911, US",
+   "contact_phone": "+1 719-571-0704",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "acec-ark.com": {
+   "hq_phone": null,
+   "street_address": "3401 Kelley Hwy., Fort Smith, Arkansas 72904, US",
+   "contact_phone": "+1 479-719-6181",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "airelectro.com": {
+   "hq_phone": null,
+   "street_address": "9452 De Soto Ave., Los Angeles, CA 91313, US",
+   "contact_phone": "+1 818-317-1218",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "alselectric.ca": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 570-493-0900",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "alarmandelectronics.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 801-725-4616",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "alcobuildingsolutions.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 626-319-5559",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "aacabling.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 313-790-5666",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "aacalibration.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 330-323-4034",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "allbrightathens.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 706-340-8835",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "allsecured.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 614-496-8330",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "worldsecuritydirect.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 281-703-3792",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "alliedconstructgroup.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 732-684-7703",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "allstarelectrical.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 303-399-7420",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "allstateelectriclv.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 702-469-8845",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "alltest.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 848-469-6845",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "alphazetaent.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 772-528-9007",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "alpinemachine.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 603-449-3442",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "altimateelectric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 240-687-6265",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "ambiancesystems.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 908-850-4882",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "ambientelectric.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 818-309-7927",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "americanfivestartransmission.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 716-957-0413",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "amshore.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 214-769-3600",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "ae-mn.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 701-740-2697",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "applsys.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 817-296-4512",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "aquallc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 903-530-0715",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "arbsol.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 616-690-2500",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "associatedcontractors.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 814-547-1303",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "aismedical.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 316-207-4120",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "associatedwiringsolutions.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 281-638-2600",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "atlantaaudio.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 404-668-3467",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "atlanticinfra.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 732-948-1766",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "silvey.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 404-444-3312",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "audiologicsystems.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 612-237-6398",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "av-intel.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 781-760-0606",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "theaudiowarehouse.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 912-224-0971",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "autologicllc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 804-314-0038",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "avalontest.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 858-349-5089",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "avatarsolar.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 805-813-9946",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "aviotek.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 954-548-9982",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bcfiresafety.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 404-386-2676",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bandjelectriconline.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 330-533-0021",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bdeinc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 503-329-0531",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "beccinc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 205-823-3306",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bestproto.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 847-767-5745",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "btsdbq.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 563-451-3661",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "baileysystems.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 703-362-5826",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bannonpaving.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 857-342-0404",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "barattobrothers.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 218-232-0722",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "basselectricalnyc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 917-417-0468",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bates-electric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 314-267-2891",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bayareaelectric.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 281-808-9677",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "baylissmachine.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 630-624-2740",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "beckercomplete.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 803-315-2300",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bkbuilder.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 631-905-3739",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "benfieldinc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 410-977-3659",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "benson-orth.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 612-919-0668",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bibleelectric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 719-264-9988",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bigredmovers.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 262-370-6805",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bpc-jadgroup.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 617-417-9843",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bjbaldwin.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 818-813-4893",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "blencowe.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 803-414-4654",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "blueridgemi.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 908-925-5866",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bluestartechnologiesinc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 410-804-9583",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "boldlowvoltage.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 425-236-9979",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bracowindowcleaning.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 513-532-5118",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "brayelectricalservices.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 678-642-5572",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "ba-corp.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 952-472-3113",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "broadcastsystemsinc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 561-262-5696",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bruceewinglandscaping.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 260-437-3803",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bryantool.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 540-830-0225",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "buckeyebusiness.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 937-335-5503",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "budcocable.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 918-698-2221",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bcicontrols.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 614-582-0923",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "buildmain.co.uk": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 859-750-1575",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "bullettelectric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 801-870-3850",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "burkheadelectric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 515-202-2709",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "burns-land.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 203-794-2321",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "c-cgroup.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 913-530-7530",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cpfleet.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 571-221-2336",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cmarmitage.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 585-265-2774",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "caconstruction.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 951-660-1221",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cdpcorp.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 608-347-6283",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cfm-enterprises.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 318-366-2606",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "chrmedical.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 210-279-6275",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cjd-eng.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 417-838-3553",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cngengineering.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 210-776-3634",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cableassociates.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 570-241-1346",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cablesplususa.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 804-304-4565",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cabtug.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+44 7730 493487",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "calwind.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 818-889-4431",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "calcomsec.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 619-689-1716",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "calliesweldingandfab.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 509-554-8886",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cambridgecompaniesinc.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 219-313-0813",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "capital-electric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 414-333-7952",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "capitalpm.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 916-476-1315",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "capitalps.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 615-881-0966",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "capitalshieldelectric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 708-601-5082",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "carlowenconstruction.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 770-846-7715",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cbinc.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 307-746-4313",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "carltonelectric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 303-917-2538",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cartwrighttree.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 816-215-4976",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cts-us.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 623-826-9007",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "cascadefire.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 206-391-8646",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "castalia-advisors.com": {
+   "hq_phone": null,
+   "street_address": "1747 Pennsylvania Avenue NW, Suite 1200, Washington, DC, District of Columbia 20006, US",
+   "contact_phone": "+1 202-550-3609",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "catalystair.com": {
+   "hq_phone": null,
+   "street_address": "2505 Byington Solway Rd., Knoxville, TN 37931, US",
+   "contact_phone": "+1 865-207-7650",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cech.com": {
+   "hq_phone": null,
+   "street_address": "3984 Cabaret Trail West, Saginaw, MI 48603, US",
+   "contact_phone": "+1 843-441-4060",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "nextmiletech.com": {
+   "hq_phone": null,
+   "street_address": "3500 AM Drive, Quakertown, PA 18951, US",
+   "contact_phone": "+1 267-923-5186",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cellectric.net": {
+   "hq_phone": null,
+   "street_address": "6615 Towpath Rd, East Syracuse, New York 13057, US",
+   "contact_phone": "+1 315-374-5366",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cmhandling.com": {
+   "hq_phone": null,
+   "street_address": "1055 CR 270, Leander, Texas 78641, US",
+   "contact_phone": "+1 512-791-3284",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "centraldoorsolutions.com": {
+   "hq_phone": null,
+   "street_address": "1430 Contractors Blvd, Plover, WI 54467",
+   "contact_phone": "+1 715-572-5461",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "certifiedtreecarellc.com": {
+   "hq_phone": null,
+   "street_address": "PO Box 170157, Austin, Texas 78717, US",
+   "contact_phone": "+1 480-861-3513",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "a-1signs.com": {
+   "hq_phone": null,
+   "street_address": "1441 Highway 96, Burns, Tennessee 37029, US",
+   "contact_phone": "+1 615-446-2856",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cpcrowley.com": {
+   "hq_phone": null,
+   "street_address": "15861 Business Center Drive, Irwindale, CA 91706, US",
+   "contact_phone": "+1 626-856-5656",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "chestnutelectric.com": {
+   "hq_phone": null,
+   "street_address": "26 CRICKET LN, Wilton, Connecticut 06897, US",
+   "contact_phone": "+1 203-515-7687",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cheyennetechnical.com": {
+   "hq_phone": null,
+   "street_address": "100 Buccaneer Drive, Tonkawa, Oklahoma 74653, US",
+   "contact_phone": "+1 580-628-0222",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "chippewavalleyelectricalcontractors.com": {
+   "hq_phone": null,
+   "street_address": "3310 Miller St, Suite B, Eau Claire, Wisconsin 54701, US",
+   "contact_phone": "+1 715-586-8200",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "churneys.com": {
+   "hq_phone": null,
+   "street_address": "20660 Aurora Rd, Cleveland, Ohio 44146, US",
+   "contact_phone": "+1 216-543-0410",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "clawsons.com": {
+   "hq_phone": null,
+   "street_address": "474 Park 800 Dr, Greenwood, Indiana 46143-9525, US",
+   "contact_phone": "+1 317-887-1539",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "directionaldrilling.com": {
+   "hq_phone": null,
+   "street_address": "8155 Ridge Rd, Zanesville, Ohio 43701, US",
+   "contact_phone": "+1 740-819-7397",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "client-tech.com": {
+   "hq_phone": null,
+   "street_address": "3636 S. Sherwood Forest Blvd, Suite 102, Baton Rouge, 70816, US",
+   "contact_phone": "+1 225-572-2111",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cloverelectric.com": {
+   "hq_phone": null,
+   "street_address": "17111 Munn Road Ste 8, Chagrin Falls, OH 44023, US",
+   "contact_phone": "+1 216-543-1153",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "coastalhydraulicstx.com": {
+   "hq_phone": null,
+   "street_address": "1002 West Pasadena Blvd, Deer Park, Texas 77536, US",
+   "contact_phone": "+1 281-414-5268",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "coastalpacificconstruction.com": {
+   "hq_phone": null,
+   "street_address": "28 Edelman, Irvine, California 92618, US",
+   "contact_phone": "+1 614-404-0725",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "coastlandenterprises.com": {
+   "hq_phone": null,
+   "street_address": "P.O. Box 140, Middlefield, CT 06455, US",
+   "contact_phone": "+1 860-828-6718",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cochraneng.com": {
+   "hq_phone": null,
+   "street_address": "737 Rudder Rd, Saint Louis, Missouri 63026, US",
+   "contact_phone": "+1 314-581-6221",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "coleindust.com": {
+   "hq_phone": null,
+   "street_address": "6408 216th St SW, Ste A, Mountlake Terrace, Washington 98043, US",
+   "contact_phone": "+1 617-335-3662",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "collinsautocare.com": {
+   "hq_phone": null,
+   "street_address": "11814 Champion Forest Dr, Houston, TX 77066, US",
+   "contact_phone": "+1 503-998-3214",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ccsjacksonville.com": {
+   "hq_phone": null,
+   "street_address": "3621 Saint Augustine Rd, Jacksonville, Florida, US",
+   "contact_phone": "+1 904-759-3834",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "commercialtradesource.com": {
+   "hq_phone": null,
+   "street_address": "3924 Pendelton Way, Indianapolis, IN 46226, US",
+   "contact_phone": "+1 317-502-7722",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "communityplaygrounds.com": {
+   "hq_phone": null,
+   "street_address": "200 Commercial Street, Vallejo, CA 94589, US",
+   "contact_phone": "+1 415-559-8883",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "compedgellc.com": {
+   "hq_phone": null,
+   "street_address": "1050 W Town Pkwy, Altamonte Springs, Florida 32714, US",
+   "contact_phone": "+1 404-386-0132",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "completefoundationrepairs.com": {
+   "hq_phone": null,
+   "street_address": "4404 Baldwin Blvd, Corpus Christi, TX 78408",
+   "contact_phone": "+1 361-537-5540",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "completelandsculpture.com": {
+   "hq_phone": null,
+   "street_address": "2000 Sandy Lane, Dallas, TX 75220, US",
+   "contact_phone": "+1 214-808-3163",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ctg-gmp.com": {
+   "hq_phone": null,
+   "street_address": "505 S Franklin St, West Chester, Pennsylvania 19382, US",
+   "contact_phone": "+1 484-459-4225",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "compressedairequip.com": {
+   "hq_phone": null,
+   "street_address": "111 Clinton Ave, Pitman, New Jersey 08071, US",
+   "contact_phone": "+1 856-404-0023",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "conectsys.com": {
+   "hq_phone": null,
+   "street_address": "300 Farnsworth Ave, Bordentown, New Jersey 08505, US",
+   "contact_phone": "+1 215-990-9828",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cthomesolutions.net": {
+   "hq_phone": null,
+   "street_address": "101 N Plains Industrial Rd, Wallingford, CT 06492, US",
+   "contact_phone": "+1 203-314-1001",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "connors-haas.com": {
+   "hq_phone": null,
+   "street_address": "6337 Dean Parkway, Ontario, New York 14519, US",
+   "contact_phone": "+1 602-579-1907",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "constructioncco.com": {
+   "hq_phone": null,
+   "street_address": "1353 W Grand Ave, Chicago, Illinois 60642, US",
+   "contact_phone": "+1 847-370-5259",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "continentaltesting.com": {
+   "hq_phone": null,
+   "street_address": "104 S. Main St., Union, Ohio 45322, US",
+   "contact_phone": "+1 937-478-8778",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "controlco.com": {
+   "hq_phone": null,
+   "street_address": "2493 Estand Way, Pleasant Hill, CA 94523, US",
+   "contact_phone": "+1 415-823-7285",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "convergerep.com": {
+   "hq_phone": null,
+   "street_address": "103 East 18th Avenue, North Kansas City, Missouri 64116, US",
+   "contact_phone": "+1 816-769-7221",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "convergistech.com": {
+   "hq_phone": null,
+   "street_address": "2393 Pendley Road, Suite 200, Cumming, GA 30041, US",
+   "contact_phone": "+1 678-521-4671",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "corridornetwork.com": {
+   "hq_phone": null,
+   "street_address": "3353 Southgate Ct SW, Cedar Rapids, Iowa 52404, US",
+   "contact_phone": "+1 319-826-1411",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cesolar.com": {
+   "hq_phone": null,
+   "street_address": "455 West 1700 South, Salt Lake City, UT 84115, US",
+   "contact_phone": "+1 307-797-5782",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "cressydoor.com": {
+   "hq_phone": null,
+   "street_address": "8025 S 224th St., Kent, WA 98032, US",
+   "contact_phone": "+1 206-396-5133",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dfwcrest.com": {
+   "hq_phone": null,
+   "street_address": "715 Avenue H E, Arlington, Texas 76011, US",
+   "contact_phone": "+1 817-992-6782",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "crossairllc.com": {
+   "hq_phone": null,
+   "street_address": "P.O. BOX 291, Ellenboro, North Carolina 28040, US",
+   "contact_phone": "+1 828-289-6648",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "currentdemands.com": {
+   "hq_phone": null,
+   "street_address": "12 Felton Pl, Suite D, Cartersville, Georgia 30120, US",
+   "contact_phone": "+1 678-794-7297",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "currentelectricco.com": {
+   "hq_phone": null,
+   "street_address": "2942 N 117th St, Milwaukee, Wisconsin 53222, US",
+   "contact_phone": "+1 714-412-2241",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "current-electric.net": {
+   "hq_phone": null,
+   "street_address": "26804 Vista Terrace, Lake Forest, California 92630, US",
+   "contact_phone": "+1 712-461-1448",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "customactuation.com": {
+   "hq_phone": null,
+   "street_address": "13021 S. Choctaw Dr., Baton Rouge, LA 70815, US",
+   "contact_phone": "+1 225-603-4865",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "customdrilling.net": {
+   "hq_phone": null,
+   "street_address": "100 Kid Ellis Rd, Mulberry, FL 33860",
+   "contact_phone": "+1 863-425-9600",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "c1c.net": {
+   "hq_phone": null,
+   "street_address": "5555 Oakbrook Parkway, Suite #175, Norcross, GA 30093, US",
+   "contact_phone": "+1 404-754-2429",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ddelectricllc.net": {
+   "hq_phone": null,
+   "street_address": "1380 Blue Hole Rd, Harrisburg, IL 62946",
+   "contact_phone": "+1 618-926-4068",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "danddnet.com": {
+   "hq_phone": null,
+   "street_address": "10 Everberg Rd., Woburn, MA 01801, US",
+   "contact_phone": "+1 302-449-2092",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ddmotorsystems.com": {
+   "hq_phone": null,
+   "street_address": "215 Park Avenue, Syracuse, New York 13204, US",
+   "contact_phone": "+1 315-701-0635",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dandhwatersystems.com": {
+   "hq_phone": null,
+   "street_address": "4121 Avenida de La Plata, Oceanside, CA 92056, US",
+   "contact_phone": "+1 760-212-6472",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "daarcorp.com": {
+   "hq_phone": null,
+   "street_address": "330 E Kilbourn Ave, Suite 1149, Milwaukee, Wisconsin 53202, US",
+   "contact_phone": "+1 414-732-7423",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dcesolar.com": {
+   "hq_phone": null,
+   "street_address": "19410 Jetton Road, Suite 220, Cornelius, NC 28031, US",
+   "contact_phone": "+1 704-906-8129",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dlsmith.com": {
+   "hq_phone": null,
+   "street_address": "1405 SW 41st Street, Topeka, KS 66609, US",
+   "contact_phone": "+1 785-231-8723",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dnscleveland.com": {
+   "hq_phone": null,
+   "street_address": "80 Helwig St, Berea, Ohio 44017, US",
+   "contact_phone": "+1 440-891-4350",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "drscorp.net": {
+   "hq_phone": null,
+   "street_address": "8955 Ridgeline Blvd, Suite 700, Highlands Ranch, CO 80129, US",
+   "contact_phone": "+1 303-668-7502",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dwcbuilds.com": {
+   "hq_phone": null,
+   "street_address": "2014 Gladstone Avenue, Nashville, TN 37210, US",
+   "contact_phone": "+1 615-604-0128",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dci123.com": {
+   "hq_phone": null,
+   "street_address": "1811 Valcourt Drive, Richardson, Texas 75081, US",
+   "contact_phone": "+1 214-263-7300",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "davestreeserviceinc.com": {
+   "hq_phone": null,
+   "street_address": "6541 Elm Drive, Egg Harbor, WI 54209, US",
+   "contact_phone": "+1 219-712-1600",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "davieshoring.com": {
+   "hq_phone": null,
+   "street_address": "48177 Highway 51, Tickfaw, Louisiana 70466, US",
+   "contact_phone": "+1 713-206-0438",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dewindopt.com": {
+   "hq_phone": null,
+   "street_address": "13444 Barry St., Holland, MI 49424, US",
+   "contact_phone": "+1 626-354-7427",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "deckcon.com": {
+   "hq_phone": null,
+   "street_address": "51 Winter Place, East Rutherford, NJ 07073, US",
+   "contact_phone": "+1 720-318-8029",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "degryseelectric.com": {
+   "hq_phone": null,
+   "street_address": "2186 Rheem Dr, Pleasanton, California 94588, US",
+   "contact_phone": "+1 510-557-4711",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dei-pe.com": {
+   "hq_phone": null,
+   "street_address": "3343 N Ridge Ave, Arlington Heights, Illinois 60004, US",
+   "contact_phone": "+1 847-337-3183",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dhdpros.com": {
+   "hq_phone": null,
+   "street_address": "179 East Campus View Blvd., Columbus, OH 43235, US",
+   "contact_phone": "+1 614-668-2358",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "directionaltech.com": {
+   "hq_phone": null,
+   "street_address": "77 N Plains Industrial Rd, Wallingford, Connecticut 06492, US",
+   "contact_phone": "+1 203-494-5661",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "distinctivehospitality.com": {
+   "hq_phone": null,
+   "street_address": "6215 Chesapeake Circle, Suite C, New Kent, Virginia 23124, US",
+   "contact_phone": "+1 804-261-5954",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dobbinsco.com": {
+   "hq_phone": null,
+   "street_address": "7600 COMMERCE LANE, TRUSSVILLE, AL 35173, US",
+   "contact_phone": "+1 205-602-4701",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "domesav.com": {
+   "hq_phone": null,
+   "street_address": "724 First Colonial Road, Virginia Beach, Virginia 23451, US",
+   "contact_phone": "+1 757-449-0035",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dominiontx.com": {
+   "hq_phone": null,
+   "street_address": "16161 College Oak, San Antonio, TX 78249, US",
+   "contact_phone": "+1 210-404-9838",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dugantool.net": {
+   "hq_phone": null,
+   "street_address": "1145 E Airline Dr, East Alton, Illinois 62024, US",
+   "contact_phone": "+1 618-781-1045",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dustbusterspavementsweeping.com": {
+   "hq_phone": null,
+   "street_address": "P.O. Box 603, Anoka, Minnesota 55303, US",
+   "contact_phone": "+1 612-282-5854",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "dynamoelectricllc.com": {
+   "hq_phone": null,
+   "street_address": "1018 Roxleigh Rd, Towson, Maryland 21286, US",
+   "contact_phone": "+1 443-867-5993",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "e3rinc.com": {
+   "hq_phone": null,
+   "street_address": "7801 Mission Center Ct, 400, San Diego, California 92108, US",
+   "contact_phone": "+1 619-922-3690",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "emtelectric.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 650-222-9710",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "esbdesignbuild.com": {
+   "hq_phone": null,
+   "street_address": "11280 W Adonis Rd, Marana, AZ 85658, US",
+   "contact_phone": "+1 520-975-0686",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "esiconsult.com": {
+   "hq_phone": null,
+   "street_address": "1315 NW 98th Ct, Doral, Florida, US",
+   "contact_phone": "+1 305-775-8032",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ezevelectric.com": {
+   "hq_phone": null,
+   "street_address": "Denver, Colorado, US",
+   "contact_phone": "+1 720-979-7483",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ewme.com": {
+   "hq_phone": null,
+   "street_address": "1974 Steam Way, Round Rock, TX 78665, US",
+   "contact_phone": "+1 512-415-1292",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "productsafet.com": {
+   "hq_phone": null,
+   "street_address": "901 Sheldon Drive, Cary, NC 27513, US",
+   "contact_phone": "+1 919-280-1371",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "goecs.com": {
+   "hq_phone": null,
+   "street_address": "3702 West Valley Highway North, Suite 302, Auburn, WA 98001, US",
+   "contact_phone": "+1 971-533-9612",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "efficient-electric.com": {
+   "hq_phone": null,
+   "street_address": "4800 Groves Rd, Columbus, Ohio 43232, US",
+   "contact_phone": "+1 614-419-2810",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ecahq.com": {
+   "hq_phone": null,
+   "street_address": "7320 Arlington Ave., Raytown, Missouri 64133, US",
+   "contact_phone": "+1 816-215-5846",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "electriciansincomaha.com": {
+   "hq_phone": null,
+   "street_address": "14135 S 220th St, Suite 4, Gretna, Nebraska 68028, US",
+   "contact_phone": "+1 402-321-1131",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "electriciansinc.com": {
+   "hq_phone": null,
+   "street_address": "2688 Waiwai Loop, Honolulu, HI 96819, US",
+   "contact_phone": "+91 98935 37383",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "electrolabcontrols.com": {
+   "hq_phone": null,
+   "street_address": "159 Enterprise Parkway, Boerne, Texas 78006, US",
+   "contact_phone": "+1 520-241-2192",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "elitepowersolutions.io": {
+   "hq_phone": null,
+   "street_address": "5255 W 11000 N, Highland, UT 84003",
+   "contact_phone": "+1 385-335-1039",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "elmelec.com": {
+   "hq_phone": null,
+   "street_address": "68 Union St., Westfield, Massachusetts 01033, US",
+   "contact_phone": "+1 413-222-4925",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "emtec-engineers.com": {
+   "hq_phone": null,
+   "street_address": "3555 Veterans Memorial Highway, Suite M, Ronkonkoma, NY 11779, US",
+   "contact_phone": "+1 631-848-9809",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "emtgengineers.com": {
+   "hq_phone": null,
+   "street_address": "236 Mineola Blvd., Mineola, NY 11501, US",
+   "contact_phone": "+1 516-859-5602",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "endpointcorporation.com": {
+   "hq_phone": null,
+   "street_address": "6871 South Lovers Lane, Franklin, WI 53132, US",
+   "contact_phone": "+1 262-501-4207",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "energycx.com": {
+   "hq_phone": null,
+   "street_address": "600 W Chicago Ave, 250, Chicago, Illinois 60654, US",
+   "contact_phone": "+1 847-224-6906",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "engineeredlifting.com": {
+   "hq_phone": null,
+   "street_address": "601 Gravois Bluffs Blvd, Suite O, Fenton, Missouri 63026, US",
+   "contact_phone": "+1 314-630-8762",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "engineeredrepinc.com": {
+   "hq_phone": null,
+   "street_address": "1320 N Lake St, Neenah, Wisconsin 54956, US",
+   "contact_phone": "+1 414-581-5070",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "eplusadvisors.com": {
+   "hq_phone": null,
+   "street_address": "9018 Heritage Pkwy, Woodridge, Illinois 60517, US",
+   "contact_phone": "+1 614-440-5022",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "enspectinc.com": {
+   "hq_phone": null,
+   "street_address": "8300 Mississippi Street, Merrillville, Indiana 46410, US",
+   "contact_phone": "+1 708-769-6973",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "interstatepumpandtank.com": {
+   "hq_phone": null,
+   "street_address": "901 Niagara St, Waukesha, WI 53186",
+   "contact_phone": "+1 414-750-0999",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "intertekllc.com": {
+   "hq_phone": null,
+   "street_address": "6805 W River Rd S, Elyria, Ohio 44035, US",
+   "contact_phone": "+1 440-213-9083",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "interworksllc.net": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 303-888-7721",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jjelect.com": {
+   "hq_phone": null,
+   "street_address": "2518 N Richmond St, Appleton, WI 54911, US",
+   "contact_phone": "+1 920-378-1583",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jrelectrical.com": {
+   "hq_phone": null,
+   "street_address": "3002 Kingston Ct SE, Suite C, Marietta, Georgia 30064, US",
+   "contact_phone": "+1 413-323-5525",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jcwrightlighting.com": {
+   "hq_phone": null,
+   "street_address": "413 E 3rd Ave, Spokane, Washington 99202, US",
+   "contact_phone": "+1 509-981-6850",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jdsvi.com": {
+   "hq_phone": null,
+   "street_address": "Voorhees, New Jersey 08043, US",
+   "contact_phone": "+1 856-873-3308",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jdtraditional.com": {
+   "hq_phone": null,
+   "street_address": "701 Koehler Ave, 4, Ronkonkoma, New York 11779, US",
+   "contact_phone": "+1 770-823-3360",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jdicontracts.com": {
+   "hq_phone": null,
+   "street_address": "102 NE 3rd Street, Suite 120, Grand Rapids, MN 55744, US",
+   "contact_phone": "+1 218-259-1068",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jdrm.com": {
+   "hq_phone": null,
+   "street_address": "5604 N. Main Street, Sylvania, OH 43560, US",
+   "contact_phone": "+1 419-460-3246",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jpsolar.com": {
+   "hq_phone": null,
+   "street_address": "1240 East Caldwell Ave, Ste A, Visalia, CA 93292, US",
+   "contact_phone": "+1 559-909-0933",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jtmarineinc.com": {
+   "hq_phone": null,
+   "street_address": "2501 SE Hidden Way, Vancouver, Washington 98661, US",
+   "contact_phone": "+1 360-931-2149",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jthlighting.com": {
+   "hq_phone": null,
+   "street_address": "6885 146th St. West, Apple Valley, MN 55124, US",
+   "contact_phone": "+1 651-699-8027",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jabbercomm.com": {
+   "hq_phone": null,
+   "street_address": "1111 Jupiter Rd Ste 106a, Plano, Texas 75074-8406, US",
+   "contact_phone": "+1 915-487-5922",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jbelectric.com": {
+   "hq_phone": null,
+   "street_address": "3160 MacArthur Blvd, Northbrook, IL 60062-1904, US",
+   "contact_phone": "+1 630-248-4839",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jarmelkizel.com": {
+   "hq_phone": null,
+   "street_address": "42 Okner Parkway, Livingston, NJ 07039, US",
+   "contact_phone": "+1 973-220-9516",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jeffcoatassoc.com": {
+   "hq_phone": null,
+   "street_address": "Bessemer, US",
+   "contact_phone": "+1 205-706-9052",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jensengardens.com": {
+   "hq_phone": null,
+   "street_address": "20714 S Hwy 50, Springfield, NE 68059, US",
+   "contact_phone": "+1 402-212-7569",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jimmygraychevy.com": {
+   "hq_phone": null,
+   "street_address": "181 Goodman Rd E, Southaven, Mississippi 38671-9553, US",
+   "contact_phone": "+1 901-238-5516",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "johnswaterproofing.com": {
+   "hq_phone": null,
+   "street_address": "201 Airport Rd., Silverton, OR 97381, US",
+   "contact_phone": "+1 503-873-5883",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "jtcpainting.com": {
+   "hq_phone": null,
+   "street_address": "91 Wright Ave, Staten Island, New York 10303, US",
+   "contact_phone": "+1 917-670-4566",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kandhconstruction.com": {
+   "hq_phone": null,
+   "street_address": "PO Box 80193, Fort Wayne, Indiana 46898, US",
+   "contact_phone": "+1 260-438-2339",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "k7c.com": {
+   "hq_phone": null,
+   "street_address": "P.O. BOX 70205, Reno, Nevada 89570-0205, US",
+   "contact_phone": "+1 775-745-9419",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kamerchandising.com": {
+   "hq_phone": null,
+   "street_address": "826 Orange Ave, Coronado, California 92118, US",
+   "contact_phone": "+1 602-432-0337",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kbtstech.com": {
+   "hq_phone": null,
+   "street_address": "41461, W 11 Mile Road, Novi, MI 48375, US",
+   "contact_phone": "+1 248-219-5921",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kit-communications.com": {
+   "hq_phone": null,
+   "street_address": "Lebanon, US",
+   "contact_phone": "+1 717-679-8545",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "klhengrs.com": {
+   "hq_phone": null,
+   "street_address": "1538 Alexandria Pike, Ste. 11, Ft. Thomas, Kentucky 41075, US",
+   "contact_phone": "+1 859-462-1878",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kmssales.com": {
+   "hq_phone": null,
+   "street_address": "416 US-1, Suite A&B, Youngsville, North Carolina 27596, US",
+   "contact_phone": "+1 252-908-7142",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ko-construction.net": {
+   "hq_phone": null,
+   "street_address": "PO Box 68, Bridgeport, Texas 76426, US",
+   "contact_phone": "+1 307-262-7807",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kpselectricinc.com": {
+   "hq_phone": null,
+   "street_address": "PO Box 4396, Parker, Colorado 80134, US",
+   "contact_phone": "+1 720-251-1013",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kakouusa.com": {
+   "hq_phone": null,
+   "street_address": "4901 Enka Hwy, Morristown, Tennessee 37813, US",
+   "contact_phone": "+1 423-585-7382",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kenalloy.com": {
+   "hq_phone": null,
+   "street_address": "9735 Gravois Rd, St Louis, Missouri 63123, US",
+   "contact_phone": "+1 314-550-4892",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "highloads.com": {
+   "hq_phone": null,
+   "street_address": "5901 Bayway Dr, Baytown, Texas 77520, US",
+   "contact_phone": "+1 832-309-9184",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "keypartsco.com": {
+   "hq_phone": null,
+   "street_address": "3755 Industrial Pkwy, Birmingham, Alabama 35217, US",
+   "contact_phone": "+1 205-706-2446",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kilansolutions.com": {
+   "hq_phone": null,
+   "street_address": "5700 Granite Parkway, Suite 425, Plano, TX 75024, US",
+   "contact_phone": "+1 972-342-5836",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kintronic.com": {
+   "hq_phone": null,
+   "street_address": "144 Pleasant Grove Rd., Bluff City, Tennessee 37618, US",
+   "contact_phone": "+1 423-878-3141",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kleynelectric.com": {
+   "hq_phone": null,
+   "street_address": "306 Northern Dr NW, Grand Rapids, Michigan 49534, US",
+   "contact_phone": "+1 616-291-4647",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "knightselectric.com": {
+   "hq_phone": null,
+   "street_address": "11410 Old Redwood Highway, Windsor, CA 95492, US",
+   "contact_phone": "+1 707-696-2571",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "koester-corp.com": {
+   "hq_phone": null,
+   "street_address": "813 N Perry St, Napoleon, OH 43545, US",
+   "contact_phone": "+1 419-438-9674",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kordfire.com": {
+   "hq_phone": null,
+   "street_address": "3729 Cahuenga Blvd, Studio City, California 91604, US",
+   "contact_phone": "+1 818-326-8585",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "kowalski.com": {
+   "hq_phone": null,
+   "street_address": "2219 W. Melinda Ln., Suite A, Phoenix, AZ 85027, US",
+   "contact_phone": "+1 602-757-4702",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "krauseelectric.com": {
+   "hq_phone": null,
+   "street_address": "13921 w. IL RTE 173, Zion, IL 60099, US",
+   "contact_phone": "+1 847-980-8199",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "laconsulting.com": {
+   "hq_phone": null,
+   "street_address": "Southern California, US",
+   "contact_phone": "+1 310-200-9365",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lapropoint.com": {
+   "hq_phone": null,
+   "street_address": "Sun, Valley, CA, US",
+   "contact_phone": "+1 818-767-6800",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lanassociates.com": {
+   "hq_phone": null,
+   "street_address": "445 Godwin Ave, Suite 9, Midland Park, NJ 07432, US",
+   "contact_phone": "+1 201-965-6299",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lcnetworks.com": {
+   "hq_phone": null,
+   "street_address": "1151 Ringwood Ct, Suite 80, San Jose, California 95131, US",
+   "contact_phone": "+1 408-375-7524",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ledlightinginc.com": {
+   "hq_phone": null,
+   "street_address": "1555 Barclay Blvd., Buffalo Grove, Illinois 60089, US",
+   "contact_phone": "+1 847-412-4880",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lmselectric.com": {
+   "hq_phone": null,
+   "street_address": "2735 Honolulu Ave, Montrose, California 91020, US",
+   "contact_phone": "+1 818-395-9013",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lacrossesign.com": {
+   "hq_phone": null,
+   "street_address": "1450 Oak Forest Dr, Onalaska, WI 54650, US",
+   "contact_phone": "+1 608-518-0774",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lagunaindustries.com": {
+   "hq_phone": null,
+   "street_address": "6950 SW Hampton St, Suite 300, Portland, Oregon 97223, US",
+   "contact_phone": "+1 503-422-5416",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lakelandohio.com": {
+   "hq_phone": null,
+   "street_address": "6600 E Schaaf Rd, Independence, Ohio 44131, US",
+   "contact_phone": "+1 440-668-5547",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lantekavc.com": {
+   "hq_phone": null,
+   "street_address": "2780 N Great Southwest Pkwy, Grand Prairie, Texas 75050, US",
+   "contact_phone": "+1 972-877-3251",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "larsonengr.com": {
+   "hq_phone": null,
+   "street_address": "3524 Labore Road, White Bear Lake, MN 55110-5126, US",
+   "contact_phone": "+1 314-731-4710",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "leabraze.com": {
+   "hq_phone": null,
+   "street_address": "2495 Industrial Pkwy West, Hayward, CA 94545, US",
+   "contact_phone": "+1 510-715-6028",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lifetimeradon.com": {
+   "hq_phone": null,
+   "street_address": "824 Wells St, Delafield, Wisconsin 53018, US",
+   "contact_phone": "+1 414-349-8394",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lightsourceunlimited.com": {
+   "hq_phone": null,
+   "street_address": "980 Corporate Woods Parkway, Vernon Hills, IL 60061, US",
+   "contact_phone": "+1 847-910-6090",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "laiweb.net": {
+   "hq_phone": null,
+   "street_address": "3216 S Brentwood Blvd, Webster Groves, Missouri 63119, US",
+   "contact_phone": "+1 314-606-6439",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lightingdynamics.com": {
+   "hq_phone": null,
+   "street_address": "7835 W Commercial Blvd, Tamarac, Florida 33351, US",
+   "contact_phone": "+1 305-345-7571",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lightningbugelectric.com": {
+   "hq_phone": null,
+   "street_address": "3605 Sandy Plains Rd #240-156, Marietta, Ga 30066, US",
+   "contact_phone": "+1 828-776-8438",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "light-serve.com": {
+   "hq_phone": null,
+   "street_address": "9115 Harris Corners Pkwy, Suite 400, Charlotte, North Carolina 28269, US",
+   "contact_phone": "+1 336-339-5568",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lonestardeepwater.com": {
+   "hq_phone": null,
+   "street_address": "400 N Sam Houston Parkway E STE 530, Houston, Texas (TX) 77060, US",
+   "contact_phone": "+1 713-501-8402",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "louisptak.com": {
+   "hq_phone": null,
+   "street_address": "231a Dela Vina Ave, Monterey, CA 93940",
+   "contact_phone": "+1 831-915-3315",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lowerelectric.com": {
+   "hq_phone": null,
+   "street_address": "1307 Shermer Rd, Northbrook, Illinois 60062, US",
+   "contact_phone": "+1 847-274-2377",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "meengineers.com": {
+   "hq_phone": null,
+   "street_address": "14143 Denver West Pkwy, Suite 300, Golden, CO 80401, US",
+   "contact_phone": "+1 303-421-6655",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mmelectriccfl.com": {
+   "hq_phone": null,
+   "street_address": "4749 Patch Rd, Suite 100, Orlando, Florida 32822, US",
+   "contact_phone": "+1 321-228-2832",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mlschmittelectric.com": {
+   "hq_phone": null,
+   "street_address": "122 Doty Circle, West Springfield, Massachusetts 01089, US",
+   "contact_phone": "+1 413-563-0153",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mneilsengineering.com": {
+   "hq_phone": null,
+   "street_address": "100 Howe, Suite 235N, Sacramento, CA 95825, US",
+   "contact_phone": "+1 712-546-9461",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "map-sg.com": {
+   "hq_phone": null,
+   "street_address": "N92 W17420 Appleton Avenue, Suite 200, Menomonee Falls, Wisconsin 53051, US",
+   "contact_phone": "+1 262-339-6306",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mba-nrg.com": {
+   "hq_phone": null,
+   "street_address": "33126 Magnolia Circle, Magnolia, Texas 77354, US",
+   "contact_phone": "+1 832-948-0520",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mcelectricpro.com": {
+   "hq_phone": null,
+   "street_address": "13619 12th Street Suite B, Chino, California 91710, US",
+   "contact_phone": "+1 626-484-8677",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mecengineering.net": {
+   "hq_phone": null,
+   "street_address": "Portland, Oregon, US",
+   "contact_phone": "+1 503-806-4507",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mkmetalproducts.com": {
+   "hq_phone": null,
+   "street_address": "90 Sawyer Pkwy, Mansfield, Ohio 44903, US",
+   "contact_phone": "+1 330-749-0032",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mocinc.com": {
+   "hq_phone": null,
+   "street_address": "Pittsburgh, US",
+   "contact_phone": "+1 412-897-7452",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mptransmissions.com": {
+   "hq_phone": null,
+   "street_address": "14140 Alondra Blvd., Suite A, Santa Fe Springs, CA 90670, US",
+   "contact_phone": "+1 562-341-4053",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mpeconsulting.com": {
+   "hq_phone": null,
+   "street_address": "10807 Thornmint Rd, San Diego, CA 92127, US",
+   "contact_phone": "+1 858-610-0458",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "macconnellandassoc.com": {
+   "hq_phone": null,
+   "street_address": "501 Cascade Pointe Ln, Suite 103, Cary, North Carolina 27513, US",
+   "contact_phone": "+1 919-523-2248",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "machineethicsllc.com": {
+   "hq_phone": null,
+   "street_address": "1889 SunDolphin Dr, Muskegon, MI 49444, US",
+   "contact_phone": "+1 231-206-5718",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "maddash.com": {
+   "hq_phone": null,
+   "street_address": "910 Pyott Road, Crystal Lake, Illinois 60014, US",
+   "contact_phone": "+1 612-702-2810",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "4magnum.com": {
+   "hq_phone": null,
+   "street_address": "41700 Gardenbrook Rd, Novi, Michigan 48375, US",
+   "contact_phone": "+1 248-563-6746",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mlexc.com": {
+   "hq_phone": null,
+   "street_address": "2325 Paxton Church Road, Harrisburg, PA 17110, US",
+   "contact_phone": "+1 717-773-2584",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mappbuilt.com": {
+   "hq_phone": null,
+   "street_address": "344 Third Street, Baton Rouge, Louisiana 70801, US",
+   "contact_phone": "+1 225-933-1531",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "marshelectronics.com": {
+   "hq_phone": null,
+   "street_address": "1563 South 101st Street, Milwaukee, WI 53132, US",
+   "contact_phone": "+1 414-416-8253",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "marshallslocks.com": {
+   "hq_phone": null,
+   "street_address": "4205 Poole Road, Raleigh, NC 27610, US",
+   "contact_phone": "+1 919-329-0849",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "martinintegrated.com": {
+   "hq_phone": null,
+   "street_address": "1525 W Orange Grove Ave, Suite D, Orange, California 92868, US",
+   "contact_phone": "+1 714-713-0355",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mbiol.com": {
+   "hq_phone": null,
+   "street_address": "3145 Nw 38th St, Miami, Florida 33142-5128, US",
+   "contact_phone": "+1 305-812-1211",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "master-pt.com": {
+   "hq_phone": null,
+   "street_address": "19 Airview Dr, Greenville, South Carolina 29607, US",
+   "contact_phone": "+1 864-363-5625",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mkireps.com": {
+   "hq_phone": null,
+   "street_address": "California , US",
+   "contact_phone": "+1 951-240-0670",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mccaysouthern.com": {
+   "hq_phone": null,
+   "street_address": "148 County Road 738, Riceville, Tennessee 37370, US",
+   "contact_phone": "+1 423-506-3111",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mccequip.com": {
+   "hq_phone": null,
+   "street_address": "112 Northeast Drive, Loveland, Ohio 45249, US",
+   "contact_phone": "+1 513-918-1413",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mccullougheng.com": {
+   "hq_phone": null,
+   "street_address": "5425 Gavin Hamilton Rd, Moss Point, Mississippi 39562, US",
+   "contact_phone": "+1 228-305-0132",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mckaylighting.com": {
+   "hq_phone": null,
+   "street_address": "11440 S 146th Street, Omaha, NE 68138, US",
+   "contact_phone": "+1 402-660-1599",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mckownpressurewash.com": {
+   "hq_phone": null,
+   "street_address": "3211 Lafayette Blvd, Norfolk, Virginia 23509, US",
+   "contact_phone": "+1 757-406-0999",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mechdesigninc.com": {
+   "hq_phone": null,
+   "street_address": "30805 Highway 34 SW, Albany, OR 97321, US",
+   "contact_phone": "+1 541-981-8160",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "megaservicesllc.com": {
+   "hq_phone": null,
+   "street_address": "1870 The Exchange SE, Suite 200, Suite 200-89, Atlanta, Georgia 30339, US",
+   "contact_phone": "+1 770-652-9541",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mzltg.com": {
+   "hq_phone": null,
+   "street_address": "8981 Bond St, Overland Park, Kansas 66214, US",
+   "contact_phone": "+1 913-669-8182",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "messickandassociates.com": {
+   "hq_phone": null,
+   "street_address": "7 Old Solomons Island Rd, Suite 202, Annapolis, Maryland 21401, US",
+   "contact_phone": "+1 214-674-1000",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "metal-services.com": {
+   "hq_phone": null,
+   "street_address": "605 5th Street Northeast, Blooming Prairie, Minnesota 55917-0848, US",
+   "contact_phone": "+1 507-269-3244",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "metropolitangarage.com": {
+   "hq_phone": null,
+   "street_address": "3208 International St, Fairbanks, Alaska 99701, US",
+   "contact_phone": "+1 907-455-7450",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "miller-bradford.com": {
+   "hq_phone": null,
+   "street_address": "W250N6851 HWY 164, Sussex, WI 53089, US",
+   "contact_phone": "+1 262-246-5700",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "millwrightindustrial.com": {
+   "hq_phone": null,
+   "street_address": "4500 Wenger Road, Clayton, OH 45315, US",
+   "contact_phone": "+1 937-689-6263",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "milowelectric.com": {
+   "hq_phone": null,
+   "street_address": "2065 Wayzata Blvd W, Long Lake, Minnesota 55356, US",
+   "contact_phone": "+1 612-384-9218",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "milsoft.com": {
+   "hq_phone": null,
+   "street_address": "Suite 5150, Abilene, Texas 79606, US",
+   "contact_phone": "+1 563-528-3142",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mohawkvalleymaterials.com": {
+   "hq_phone": null,
+   "street_address": "1914 Black River Blvd N, Rome, New York 13440, US",
+   "contact_phone": "+1 770-231-4662",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "monumentnh.com": {
+   "hq_phone": null,
+   "street_address": "21 Factory Street, Suite 1, Nashua, NH 03060, US",
+   "contact_phone": "+1 978-512-0403",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "morpheyconstruction.com": {
+   "hq_phone": null,
+   "street_address": "1499 N Sherman Dr, Indianapolis, Indiana 46201-1515, US",
+   "contact_phone": "+1 317-710-3385",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mottelectricllc.net": {
+   "hq_phone": null,
+   "street_address": "632 S 3rd St, Paducah, Kentucky, US",
+   "contact_phone": "+1 270-210-0921",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mountainec.com": {
+   "hq_phone": null,
+   "street_address": "Bailey, Colorado 80421, US",
+   "contact_phone": "+1 727-222-9812",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "shaum-electric.com": {
+   "hq_phone": null,
+   "street_address": "25 S Mikes Pike St, Flagstaff, AZ 86001, US",
+   "contact_phone": "+1 928-853-9037",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ncexpress.pro": {
+   "hq_phone": null,
+   "street_address": "4809 Landover Arbor Pl, Raleigh, North Carolina 27616, US",
+   "contact_phone": "+1 252-290-7442",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "northgeorgiacivil.com": {
+   "hq_phone": null,
+   "street_address": "861 GA-98, Danielsville, Georgia 30633, US",
+   "contact_phone": "+1 706-255-9390",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "numarkassoc.com": {
+   "hq_phone": null,
+   "street_address": "1220 19th St NW, Suite 500, Washington, DC 20036, US",
+   "contact_phone": "+1 202-460-9850",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "nwinnovative.com": {
+   "hq_phone": null,
+   "street_address": "1300 NE 48th Ave, 1300, Hillsboro, Oregon 97124, US",
+   "contact_phone": "+1 971-770-7478",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "nwsigns.com": {
+   "hq_phone": null,
+   "street_address": "17201 Beaton Rd SE, Monroe, Washington 98272, US",
+   "contact_phone": "+1 425-501-4310",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "namastesolar.com": {
+   "hq_phone": null,
+   "street_address": "1900 S Sunset St, Unit 1F, Longmont, Colorado 80501, US",
+   "contact_phone": "+1 303-859-0686",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "nischain.com": {
+   "hq_phone": null,
+   "street_address": "1201 Rochester Rd, Troy, MI 48083, US",
+   "contact_phone": "+1 248-302-3922",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "nccommunications.com": {
+   "hq_phone": null,
+   "street_address": "200 Mosswood Blvd, Youngsville, North Carolina 27596, US",
+   "contact_phone": "+1 919-412-6416",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "nelson-electricllc.com": {
+   "hq_phone": null,
+   "street_address": "3896 E 600 N, Rigby, Idaho 83442, US",
+   "contact_phone": "+1 208-390-3424",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "airportnac.com": {
+   "hq_phone": null,
+   "street_address": "Brooksville , 34604, US",
+   "contact_phone": "+1 727-643-7681",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "northeast-solutions.com": {
+   "hq_phone": null,
+   "street_address": "Sparta, NJ 07871, US",
+   "contact_phone": "+1 973-270-4459",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "northlineutilitiesllc.com": {
+   "hq_phone": null,
+   "street_address": "Route 146, Clifton Park, New York, US",
+   "contact_phone": "+1 518-569-8702",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "novaengineeringpc.com": {
+   "hq_phone": null,
+   "street_address": "2338 Cline Avenue, Schererville, Indiana 46375, US",
+   "contact_phone": "+1 773-807-4420",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "novelluseng.com": {
+   "hq_phone": null,
+   "street_address": "44720 Helm St, Plymouth, Michigan 48170, US",
+   "contact_phone": "+1 734-507-3762",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "novustek.net": {
+   "hq_phone": null,
+   "street_address": "12285 World Trade Dr., Ste O, San Diego, CA 92128, US",
+   "contact_phone": "+1 858-774-0505",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "oneillelectricmn.com": {
+   "hq_phone": null,
+   "street_address": "6143 Osgood Ave N, Stillwater, Minnesota 55082, US",
+   "contact_phone": "+1 651-210-9548",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "otaenvironmentalsolutions.com": {
+   "hq_phone": null,
+   "street_address": "1250 W Mockingbird Ln, STE 450, Dallas, Texas 75247, US",
+   "contact_phone": "+1 972-965-0530",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ovissolutions.com": {
+   "hq_phone": null,
+   "street_address": "615 Pennsylvania Ave., Rochester, PA 15074, US",
+   "contact_phone": "+1 412-671-1664",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "oasissales.com": {
+   "hq_phone": null,
+   "street_address": "20701 North Scottsdale Road, Ste 107-437, Scottsdale, AZ 85255, US",
+   "contact_phone": "+1 602-692-2301",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "occserv.com": {
+   "hq_phone": null,
+   "street_address": "6397 Nancy Ridge Drive, San Diego, California 92121, US",
+   "contact_phone": "+1 619-708-8130",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "odysseyrf.com": {
+   "hq_phone": null,
+   "street_address": "2000 Steam Way, Round Rock, Texas 78665, US",
+   "contact_phone": "+1 512-925-1410",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "onehatonehand.com": {
+   "hq_phone": null,
+   "street_address": "1335 Yosemite Ave, San Francisco, California 94124, US",
+   "contact_phone": "+1 917-549-0813",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ospmain.com": {
+   "hq_phone": null,
+   "street_address": "10331 Hamilton, Detroit, MI 48202, US",
+   "contact_phone": "+1 313-779-5761",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "optimacommunications.com": {
+   "hq_phone": null,
+   "street_address": "Irvington, New York, US",
+   "contact_phone": "+1 845-359-4699",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pimcorp.com": {
+   "hq_phone": null,
+   "street_address": "201 Circle Dr North, Suite 105, Piscataway, New Jersey 08854, US",
+   "contact_phone": "+1 732-310-5871",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pndengineers.com": {
+   "hq_phone": null,
+   "street_address": "1506 West 36th Avenue, Anchorage, Alaska 99503, US",
+   "contact_phone": "+1 907-232-6226",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "packerlandelectric.com": {
+   "hq_phone": null,
+   "street_address": "1841 Plane Park Dr. STE B, De Pere, Wisconsin 54115-9552, US",
+   "contact_phone": "+1 920-371-4700",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "palmer-electric.com": {
+   "hq_phone": null,
+   "street_address": "875 Jackson Ave, Winter Park, Florida 32789, US",
+   "contact_phone": "+1 407-646-8700",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "paperperfect.com": {
+   "hq_phone": null,
+   "street_address": "P.O. Box 1123, Morristown, New Jersey 07962, US",
+   "contact_phone": "+1 973-610-3378",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "paragonelect.com": {
+   "hq_phone": null,
+   "street_address": "225 Coolidge Ave, Manchester, New Hampshire 03102, US",
+   "contact_phone": "+1 603-493-6140",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "psnet.com": {
+   "hq_phone": null,
+   "street_address": "831 Jupiter Park Dr, Jupiter, Florida 33458, US",
+   "contact_phone": "+1 561-254-4586",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pateralandscaping.com": {
+   "hq_phone": null,
+   "street_address": "17511 Storage Rd, Omaha, Nebraska 68136, US",
+   "contact_phone": "+1 402-639-7423",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pcssolutions.com": {
+   "hq_phone": null,
+   "street_address": "257 E HELEN RD, Palatine, Illinois 60067, US",
+   "contact_phone": "+1 847-814-3841",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pennellconsulting.com": {
+   "hq_phone": null,
+   "street_address": "400 S. Jefferson, Suite 301, Spokane, WA 99204, US",
+   "contact_phone": "+1 509-747-1888",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "penrosemotors.co.nz": {
+   "hq_phone": null,
+   "street_address": "44 Fairfax Avenue, Penrose, 1061, nz",
+   "contact_phone": "+64 21 343 366",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "penwal.com": {
+   "hq_phone": null,
+   "street_address": "10611 Acacia Street, Rancho Cucamonga, CA 91730, US",
+   "contact_phone": "+1 478-992-8359",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "performance-drywall.com": {
+   "hq_phone": null,
+   "street_address": "8203 Willow Place Drive South, Suite 414, Houston, Texas 77070, US",
+   "contact_phone": "+1 580-484-2308",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pfc2.com": {
+   "hq_phone": null,
+   "street_address": "7839 Hwy 190W, Livingston,, Texas 77351, US",
+   "contact_phone": "+1 770-908-2341",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "performancelandex.com": {
+   "hq_phone": null,
+   "street_address": "318 ETHAN ALLEN HWY, Ridgefield, Connecticut 06877, US",
+   "contact_phone": "+1 203-431-9153",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ppcwa.com": {
+   "hq_phone": null,
+   "street_address": "11636 SE 5th St, Suite 200, Bellevue, Washington 98005, US",
+   "contact_phone": "+1 425-830-3552",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "perkinsconstruction.net": {
+   "hq_phone": null,
+   "street_address": "310 Depot Street, Ann Arbor, MI 48104, US",
+   "contact_phone": "+1 734-677-3964",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "petersongrading.com": {
+   "hq_phone": null,
+   "street_address": "3550 Biggers Road, Concord, NC 28025, US",
+   "contact_phone": "+1 704-575-4670",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "petroguardian.com": {
+   "hq_phone": null,
+   "street_address": "29089 Krentel Rd, Lacombe, LA 70445, US",
+   "contact_phone": "+1 985-869-0999",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "phillipstelecom.com": {
+   "hq_phone": null,
+   "street_address": "8519 Glen Royal Dr, Chesterfield, Virginia 23832, US",
+   "contact_phone": "+1 804-878-5080",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "piercon.net": {
+   "hq_phone": null,
+   "street_address": "10 Park Pl, BLDG 6C, STE 402, Butler, New Jersey 07405, US",
+   "contact_phone": "+1 201-757-2778",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pierce-inc.com": {
+   "hq_phone": null,
+   "street_address": "4680 E 2nd St, Suite A, Benicia, California 94510, US",
+   "contact_phone": "+1 707-980-1947",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pineridgetech.com": {
+   "hq_phone": null,
+   "street_address": "217R Main St, North Reading, Massachusetts 01864, US",
+   "contact_phone": "+1 978-758-3195",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pivotgen.com": {
+   "hq_phone": null,
+   "street_address": "500 W Madison St, Chicago, Illinois 60661, US",
+   "contact_phone": "+1 774-994-0827",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "planetsecure.net": {
+   "hq_phone": null,
+   "street_address": "5008 US Highway 98 West, Unit 3, Santa Rosa Beach, FL 32459, US",
+   "contact_phone": "+1 636-578-2300",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pmsvs.com": {
+   "hq_phone": null,
+   "street_address": "32001 32nd Avenue South, Suite 325, Federal Way, Wa 98001, US",
+   "contact_phone": "+1 661-400-0798",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "platinumcom.co": {
+   "hq_phone": null,
+   "street_address": "SE Loop 820, Fort Worth, TX 76140, US",
+   "contact_phone": "+1 817-243-2376",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pneumaticandhydraulic.com": {
+   "hq_phone": null,
+   "street_address": "20500 Clay Center Dr, Houston, Texas 77449, US",
+   "contact_phone": "+1 337-278-7264",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pobinc.com": {
+   "hq_phone": null,
+   "street_address": "4941 Kirschling Court, Stevens Point, WI Wisconsin 54481, US",
+   "contact_phone": "+1 715-340-5164",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "portlighting.com": {
+   "hq_phone": null,
+   "street_address": "24 London Ln, Seabrook, New Hampshire 03874, US",
+   "contact_phone": "+1 978-609-0178",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "portcitysound.com": {
+   "hq_phone": null,
+   "street_address": "6622 Gordon Road, Suite H, Wilmington, NC 28411, US",
+   "contact_phone": "+1 910-790-5700",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "portlandengineers.com": {
+   "hq_phone": null,
+   "street_address": "Portland, OR 97214, US",
+   "contact_phone": "+1 503-690-4367",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "positiveenergysolar.com": {
+   "hq_phone": null,
+   "street_address": "1235 Siler Rd, Santa Fe, New Mexico 87507, US",
+   "contact_phone": "+1 505-795-0065",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "potterarchitects.com": {
+   "hq_phone": null,
+   "street_address": "410 Colonial Ave, Union, New Jersey 07083, US",
+   "contact_phone": "+1 908-687-2735",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "powerstore.com": {
+   "hq_phone": null,
+   "street_address": "4305 Longhorn Dr., Alvarado, Texas 76009, US",
+   "contact_phone": "+1 817-240-1998",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "powertechllc.com": {
+   "hq_phone": null,
+   "street_address": "9004 Yellow Pine Ct, Waxhaw, NC 28173",
+   "contact_phone": "+1 704-363-4806",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "powerconllc.com": {
+   "hq_phone": null,
+   "street_address": "110 Industrial Blvd, Eastman, GA 31023, US",
+   "contact_phone": "+1 478-231-9440",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "praisesign.com": {
+   "hq_phone": null,
+   "street_address": "Grand Rapids, US",
+   "contact_phone": "+1 616-262-5261",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "plandscapes.com": {
+   "hq_phone": null,
+   "street_address": "102 County Hwy-1, Ottertail, Minnesota 56571, US",
+   "contact_phone": "+1 402-610-0334",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "precisionlandscape-inc.com": {
+   "hq_phone": null,
+   "street_address": "2900 Millard Ave, Hastings, MN 55033, US",
+   "contact_phone": "+1 612-369-3355",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "precisionlawnirrigation.net": {
+   "hq_phone": null,
+   "street_address": "2600 Crooks Rd., Rochester Hills, Michigan 48309, US",
+   "contact_phone": "+1 563-529-1156",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "precisionsigns.net": {
+   "hq_phone": null,
+   "street_address": "1000 10th Dr SE, Austin, Minnesota 55912, US",
+   "contact_phone": "+1 507-440-3904",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "premierautomation.com": {
+   "hq_phone": null,
+   "street_address": "1100 Rico Road, Monroeville, PA 15146, US",
+   "contact_phone": "+1 724-422-0428",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pricewellandpump.com": {
+   "hq_phone": null,
+   "street_address": "914 Chambers Mountain Rd, Clyde, North Carolina 28721, US",
+   "contact_phone": "+1 828-253-0712",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "pro-pipecorp.com": {
+   "hq_phone": null,
+   "street_address": "24780 Frenchtown Frontage Rd, Huson, Montana 59846, US",
+   "contact_phone": "+1 406-239-0996",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "prosign.net": {
+   "hq_phone": null,
+   "street_address": "251 Boot Road, Downingtown, PA 19335, US",
+   "contact_phone": "+1 484-368-2728",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "provoltelectrical.com": {
+   "hq_phone": null,
+   "street_address": "1050 Goffle Rd, Hawthorne, New Jersey 07506, US",
+   "contact_phone": "+1 270-305-1666",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "productioncontracting.com": {
+   "hq_phone": null,
+   "street_address": "161 21st St, Brooklyn, NY 11232",
+   "contact_phone": "+1 617-308-9050",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "prometers.com": {
+   "hq_phone": null,
+   "street_address": "3605 N RTE 47 STE E, Morris, Illinois 60450, US",
+   "contact_phone": "+1 815-405-8558",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "prsol.com": {
+   "hq_phone": null,
+   "street_address": "451 N Claremont Ave, Chicago, Illinois 60612, US",
+   "contact_phone": "+1 573-337-8166",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "promptlink.com": {
+   "hq_phone": null,
+   "street_address": "4005 Avenida de la Plata, Oceanside, CA 92056, US",
+   "contact_phone": "+1 810-357-2180",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "purdy-mcguire.com": {
+   "hq_phone": null,
+   "street_address": "17300 Dallas Parkway, Suite #3000, Dallas, Texas 75248, US",
+   "contact_phone": "+1 817-319-0192",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "qsource.com": {
+   "hq_phone": null,
+   "street_address": "227 Knickerbocker Ave, Bohemia, NY 11716, US",
+   "contact_phone": "+1 516-380-0552",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "qm3us.com": {
+   "hq_phone": null,
+   "street_address": "4611 Greer Circle, M, Stone Mountain, Georgia 30083, US",
+   "contact_phone": "+1 770-595-7980",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "qualityswitchgear.com": {
+   "hq_phone": null,
+   "street_address": "13273 S Ih 35, Valley View, TX 76272, US",
+   "contact_phone": "+1 214-707-8506",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "triviewquality.com": {
+   "hq_phone": null,
+   "street_address": "2015 Industrial Street Suite 4, Tea, South Dakota 57064, US",
+   "contact_phone": "+1 712-490-7268",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "quicklymiamilocksmith.com": {
+   "hq_phone": null,
+   "street_address": "2680 NE 2nd Ave, Miami, Florida 33137, US",
+   "contact_phone": "+1 786-294-8768",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "quietvillagelandscaping.com": {
+   "hq_phone": null,
+   "street_address": "9810 Page Avenue, St. Louis, MO 63132, US",
+   "contact_phone": "+1 314-503-3082",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "quinnswell.com": {
+   "hq_phone": null,
+   "street_address": "6811 Williams Hwy, Grants Pass, OR 97527, US",
+   "contact_phone": "+1 352-895-8291",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rrengineers.com": {
+   "hq_phone": null,
+   "street_address": "1635 W 13th Ave, Suite 310, Denver, Colorado 80204, US",
+   "contact_phone": "+1 303-525-5609",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rbaker.com": {
+   "hq_phone": null,
+   "street_address": "190 Boundary Rd, Marlboro, New Jersey 07746, US",
+   "contact_phone": "+1 516-343-8194",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rcmerchant.com": {
+   "hq_phone": null,
+   "street_address": "23735 Research Drive, Farmington Hills, MI 48335, US",
+   "contact_phone": "+1 989-977-0417",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "beischel.com": {
+   "hq_phone": null,
+   "street_address": "P.O. Box 32067, 5655 Center Hill Avenue, Cincinnati, OH 45232, US",
+   "contact_phone": "+1 513-497-2194",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rclsolar.com": {
+   "hq_phone": null,
+   "street_address": "29 Alloway-Friesburg Road, Alloway, New Jersey 08001, US",
+   "contact_phone": "+1 609-820-1982",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rcseventproduction.com": {
+   "hq_phone": null,
+   "street_address": "3303 W. 65th St, Cleveland, OH 44102, US",
+   "contact_phone": "+1 216-496-6600",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rdmicrowaves.com": {
+   "hq_phone": null,
+   "street_address": "301 Rockaway Valley Rd, Boonton, New Jersey 07005, US",
+   "contact_phone": "+1 908-346-2073",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "reps-resource.com": {
+   "hq_phone": null,
+   "street_address": "9120 Union Centre Blvd. Suite 300, West Chester, Ohio 45069, US",
+   "contact_phone": "+1 513-382-6859",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rlscg.com": {
+   "hq_phone": null,
+   "street_address": "230 S Sporting Hill Rd, Suite 200, Mechanicsburg, Pennsylvania 17050, US",
+   "contact_phone": "+1 717-579-4345",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rsecorp.com": {
+   "hq_phone": null,
+   "street_address": "1820 Gateway Dr, San Mateo, California 94404, US",
+   "contact_phone": "+1 650-637-9500",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rtsconsulting.com": {
+   "hq_phone": null,
+   "street_address": "500 Ala Moana Blvd, Ste. 400, Honlulu, Hawaii 96813, US",
+   "contact_phone": "+1 905-840-1918",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ravenelectric.com": {
+   "hq_phone": null,
+   "street_address": "8015 Schoon St, Anchorage, Alaska 99518, US",
+   "contact_phone": "+1 907-830-6202",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rechtassociates.com": {
+   "hq_phone": null,
+   "street_address": "2880 Zanker Rd, Suite 203, San Jose, California 95134, US",
+   "contact_phone": "+1 925-575-0602",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "referenceavs.com": {
+   "hq_phone": null,
+   "street_address": "1120 E Kimberly Road, Davenport, IA 52807, US",
+   "contact_phone": "+1 563-529-1445",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "regencysupply.com": {
+   "hq_phone": null,
+   "street_address": "9261 Jordan Avenue, Chatsworth, CA 91311, US",
+   "contact_phone": "+1 818-481-8079",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "regionalrepair.com": {
+   "hq_phone": null,
+   "street_address": "6621 Dysinger Rd, Lockport, New York 14094, us",
+   "contact_phone": "+1 716-510-9300",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "reliableec.com": {
+   "hq_phone": null,
+   "street_address": "94 Compark Rd, Centerville, Ohio 45459, US",
+   "contact_phone": "+1 513-630-7577",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "restech.net": {
+   "hq_phone": null,
+   "street_address": "220 Phlox Ave., Metairie, Louisiana 70001, US",
+   "contact_phone": "+1 504-913-3617",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rinderledoor.com": {
+   "hq_phone": null,
+   "street_address": "S71 W23275 Adam Drive, Big Bend, WI 53103, US",
+   "contact_phone": "+1 262-662-5200",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rivertownlandscapes.com": {
+   "hq_phone": null,
+   "street_address": "11950 Northland Dr Ne, Rockford, Michigan 49341-9724, US",
+   "contact_phone": "+1 616-890-5530",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "airdinc.com": {
+   "hq_phone": null,
+   "street_address": "5711 Industry Ln, #29, Frederick, Maryland 21704, US",
+   "contact_phone": "+1 860-334-9948",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rockwell.tech": {
+   "hq_phone": null,
+   "street_address": "9515 Santa Clara Dr, Fort Worth, Texas 76116, US",
+   "contact_phone": "+1 817-480-0926",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "rosecityelectricco.com": {
+   "hq_phone": null,
+   "street_address": "2150 NW 29th Ave, Portland, Oregon 97210, US",
+   "contact_phone": "+1 503-867-4203",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "russellcompanies.net": {
+   "hq_phone": null,
+   "street_address": "1435 Brown St, Bettendorf, IA 52722",
+   "contact_phone": "+1 201-321-0236",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ryanconstructionsvcs.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 713-539-0181",
+   "phone_matches_hq": null,
+   "resolved": false
+  },
+  "ssgreenhouses.com": {
+   "hq_phone": null,
+   "street_address": "188 Plantation Dr, Fayetteville, Georgia 30215, US",
+   "contact_phone": "+1 770-856-1992",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sssprinkling.com": {
+   "hq_phone": null,
+   "street_address": "2699 Edward St, Jenison, Michigan 49428, US",
+   "contact_phone": "+1 616-530-0686",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stautobody.com": {
+   "hq_phone": null,
+   "street_address": "4632 Third Ave, Bronx, New York 10458, US",
+   "contact_phone": "+1 914-573-2938",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "swelectricinc.com": {
+   "hq_phone": null,
+   "street_address": "15 Scotland Blvd., Bridgewater, MA 02324, US",
+   "contact_phone": "+1 508-294-1655",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sca-nr.com": {
+   "hq_phone": null,
+   "street_address": "6339 Charlotte Pike, 633, Nashville, Tennessee 37209, US",
+   "contact_phone": "+1 570-259-3807",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sigmasignco.com": {
+   "hq_phone": null,
+   "street_address": "1590 E State Highway 121, Suite 3-100, Lewisville, Texas 75056, US",
+   "contact_phone": "+1 214-597-5413",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stctraffic.com": {
+   "hq_phone": null,
+   "street_address": "5973 Avenida Encinas, 218, Carlsbad, California 92008, US",
+   "contact_phone": "+1 714-315-4640",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stnbuildersinc.com": {
+   "hq_phone": null,
+   "street_address": "13681 Newport Ave, #8, Tustin, CA 92780, US",
+   "contact_phone": "+1 714-713-1097",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sanderscomposites.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 714-521-9800",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sanderstruckserviceinc.net": {
+   "hq_phone": null,
+   "street_address": "112 S Main St, Clover, South Carolina 29710, US",
+   "contact_phone": "+1 803-627-0874",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sandlappercontrols.com": {
+   "hq_phone": null,
+   "street_address": "3101 Carlisle Street STE 101, Columbia, SC 29205, US",
+   "contact_phone": "+1 803-351-0873",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sarentec.com": {
+   "hq_phone": null,
+   "street_address": "18058 FM 1097 East, Willis, Texas 77378, US",
+   "contact_phone": "+1 936-718-4874",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "saricamfg.com": {
+   "hq_phone": null,
+   "street_address": "240 W Twain Ave, Urbana, OH 43078",
+   "contact_phone": "+1 937-631-9858",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "schmechtiglandscapes.com": {
+   "hq_phone": null,
+   "street_address": "20860 West Indian Creek Road, Mundelein, IL 60060, US",
+   "contact_phone": "+1 847-417-5573",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "schwabelfab.com": {
+   "hq_phone": null,
+   "street_address": "Buffalo, US",
+   "contact_phone": "+1 716-864-4019",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "callseacom.com": {
+   "hq_phone": null,
+   "street_address": "3014 Hoyt Ave, Everett, Washington, US",
+   "contact_phone": "+1 425-508-7561",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "select-controls.com": {
+   "hq_phone": null,
+   "street_address": "45 Knickerbocker Ave Ste. 3, Bohemia, New York 11716, US",
+   "contact_phone": "+1 631-774-6967",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "select-painting.com": {
+   "hq_phone": null,
+   "street_address": "33305 Barber Rd, Santa Clarita, CA 91390, US",
+   "contact_phone": "+1 805-404-1415",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "selectron.com": {
+   "hq_phone": null,
+   "street_address": "13535 SW 72th Avenue, 200, Portland, OR 97223, US",
+   "contact_phone": "+1 503-201-2467",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sentryelectric.com": {
+   "hq_phone": null,
+   "street_address": "Lincoln, US",
+   "contact_phone": "+1 402-432-7188",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "serranoelectric.com": {
+   "hq_phone": null,
+   "street_address": "15920 Concord Cir, Morgan Hill, CA 95037",
+   "contact_phone": "+1 408-242-4201",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "shannonlandscaping.com": {
+   "hq_phone": null,
+   "street_address": "1111 Honeyspot Rd, Stratford, Connecticut 06615, US",
+   "contact_phone": "+1 203-410-2289",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "shoemakerrigging.com": {
+   "hq_phone": null,
+   "street_address": "3385 Miller Park Rd, Akron, Ohio 44312, US",
+   "contact_phone": "+1 330-685-4658",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sigmacompanies.us": {
+   "hq_phone": null,
+   "street_address": "2901 S Highland Dr STE 14A, Las Vegas, NV 89109",
+   "contact_phone": "+1 702-292-6416",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "signcraftind.com": {
+   "hq_phone": null,
+   "street_address": "8816 Corporation Drive, Indianapolis, IN 46256, US",
+   "contact_phone": "+1 317-413-1521",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "signalmetal.com": {
+   "hq_phone": null,
+   "street_address": "850 E PIONEER DR, Irving, Texas 75061, US",
+   "contact_phone": "+1 214-226-5858",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "silesremodeling.com": {
+   "hq_phone": null,
+   "street_address": "688 College Pkwy, Rockville, Maryland 20850, US",
+   "contact_phone": "+1 301-569-8718",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "silvermanlight.com": {
+   "hq_phone": null,
+   "street_address": "5900 Hollis St, E/F, Emeryville, California 94608, US",
+   "contact_phone": "+1 405-274-6513",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "simplifiedtech.biz": {
+   "hq_phone": null,
+   "street_address": "12717 McGregor Blvd, Fort Myers, Florida 33919, US",
+   "contact_phone": "+1 239-839-0575",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "siteengineeringinc.com": {
+   "hq_phone": null,
+   "street_address": "7025 Best Friend Rd, Atlanta, Georgia 30340, US",
+   "contact_phone": "+1 760-803-6060",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "skjeitelecom.com": {
+   "hq_phone": null,
+   "street_address": null,
+   "contact_phone": "+1 703-917-9873",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "skylinecommunications.net": {
+   "hq_phone": null,
+   "street_address": "12002 A Beverly Park Rd, Everett, WA 98204, US",
+   "contact_phone": "+1 425-754-5413",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "smalljobselectric.com": {
+   "hq_phone": null,
+   "street_address": "5002 W Linebaugh Ave, Ste C, Tampa, Florida 33624, US",
+   "contact_phone": "+1 813-244-9835",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "mdswm.com": {
+   "hq_phone": null,
+   "street_address": "913 Ridgebrook Rd, Suite 302, Sparks, MD 21152, US",
+   "contact_phone": "+1 410-458-2651",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "solarcentex.com": {
+   "hq_phone": null,
+   "street_address": "313 S. Irving Street, San Angelo, TX, US",
+   "contact_phone": "+1 703-401-2316",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "solarelectricsupply.com": {
+   "hq_phone": null,
+   "street_address": "108 Whispering Pines Dr #235, Scotts Valley, CA 95066",
+   "contact_phone": "+1 408-489-7928",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "southcoastsolar.com": {
+   "hq_phone": null,
+   "street_address": "2605 Ridgelake Drive, Metairie, LA 70002, US",
+   "contact_phone": "+1 504-864-1143",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stcradios.com": {
+   "hq_phone": null,
+   "street_address": "709 E PECAN, Mcallen, Texas 78502, us",
+   "contact_phone": "+1 956-687-8591",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sebiomedical.com": {
+   "hq_phone": null,
+   "street_address": "4360 Hickory Boulevard, Granite Falls, North Carolina 28630, US",
+   "contact_phone": "+1 828-551-5172",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "swi-solutions.com": {
+   "hq_phone": null,
+   "street_address": "7124 W. Frier Drive, Glendale, AZ 85303, US",
+   "contact_phone": "+1 602-909-2500",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "spacecontinuumllc.com": {
+   "hq_phone": null,
+   "street_address": "2150 S Canalport Ave, Chicago, Illinois 60608, US",
+   "contact_phone": "+1 315-254-8698",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "specialtyservicegroup.com": {
+   "hq_phone": null,
+   "street_address": "6816 Central Avenue Pike, Knoxville, Tennessee 37918, US",
+   "contact_phone": "+1 865-457-3585",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sls-lighting.net": {
+   "hq_phone": null,
+   "street_address": "350 West 43rd Street, Suite PHA, New York, NY - New York 10036, US",
+   "contact_phone": "+1 610-937-6038",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "spectrumelectricinc.com": {
+   "hq_phone": null,
+   "street_address": "1231 Seminola Blvd, Casselberry, Florida 32707, US",
+   "contact_phone": "+1 407-920-3278",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "scssince1986.com": {
+   "hq_phone": null,
+   "street_address": "1101 Bethlehem Pike, Flourtown, Pennsylvania 19031, US",
+   "contact_phone": "+1 215-820-3398",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stlouislightinggroup.com": {
+   "hq_phone": null,
+   "street_address": "7414 Manchester Rd, Maplewood, Missouri, US",
+   "contact_phone": "+1 314-452-6045",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "standardusa.com": {
+   "hq_phone": null,
+   "street_address": "3400 N Lincoln Blvd, Oklahoma City, Oklahoma 73105, US",
+   "contact_phone": "+1 405-919-0353",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stateelectricalcontractors.com": {
+   "hq_phone": null,
+   "street_address": "PO BOX 18187, Fountain Hills, Arizona 85269, US",
+   "contact_phone": "+1 931-384-0547",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sterlingatm.com": {
+   "hq_phone": null,
+   "street_address": "4282 West 1730 South, Salt Lake City, UT 84104, US",
+   "contact_phone": "+1 801-824-0490",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stilsonelectric.com": {
+   "hq_phone": null,
+   "street_address": "5424 N Buckskin Pass Dr, Colorado Springs, Colorado 80917, US",
+   "contact_phone": "+1 719-271-6519",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stocktonconstruction.us": {
+   "hq_phone": null,
+   "street_address": "1205 W Lakeview Court, Romeoville, IL Illinois 60446, US",
+   "contact_phone": "+1 708-973-5769",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "stonetreesigns.com": {
+   "hq_phone": null,
+   "street_address": "5321 State Rd 1181, Denton, North Carolina 27239, US",
+   "contact_phone": "+1 336-953-9952",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "slcnj.com": {
+   "hq_phone": null,
+   "street_address": "1775 Highway 34, Suite B-3, Farmingdale, New Jersey 07727, US",
+   "contact_phone": "+1 732-966-4859",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "strang-inc.com": {
+   "hq_phone": null,
+   "street_address": "811 East Washington Ave., Suite 200, Madison, WI 53703, US",
+   "contact_phone": "+1 863-859-1731",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sms-inc.net": {
+   "hq_phone": null,
+   "street_address": "12 Estate Dr, Gorham, ME 04038, US",
+   "contact_phone": "+1 207-240-0340",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hdtvdenver.com": {
+   "hq_phone": null,
+   "street_address": "846 S Miller St, Lakewood, CO 80226, US",
+   "contact_phone": "+1 720-353-2803",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "structuresunlimited.com": {
+   "hq_phone": null,
+   "street_address": "118280 Forward St, Stratford, Wisconsin 54484, US",
+   "contact_phone": "+1 610-730-3652",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "suchockiandson.com": {
+   "hq_phone": null,
+   "street_address": "43 Hatchetts Hill Rd, Old Lyme, Connecticut 06371, US",
+   "contact_phone": "+1 860-625-2385",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "summitelectricdata.com": {
+   "hq_phone": null,
+   "street_address": "Los Angeles, CA 91355, US",
+   "contact_phone": "+1 626-926-0174",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "summitresourcesland.com": {
+   "hq_phone": null,
+   "street_address": "3300 E 1st Ave, Sutie 650, Denver, Colorado 80206, US",
+   "contact_phone": "+1 720-201-5251",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "summit-e.com": {
+   "hq_phone": null,
+   "street_address": "2450 Bluebell Dr, Santa Rosa, California 95403, US",
+   "contact_phone": "+1 510-283-4465",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sunergysystems.com": {
+   "hq_phone": null,
+   "street_address": "4546 Leary Way NW, Seattle, WA 98107, US",
+   "contact_phone": "+1 425-213-2194",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sselectric.com": {
+   "hq_phone": null,
+   "street_address": "695 NW 4th Ave, Fort Lauderdale, FL 33311",
+   "contact_phone": "+1 954-444-6207",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "superiortank.com": {
+   "hq_phone": null,
+   "street_address": "9500 Lucas Ranch Road, Rancho Cucamonga, CA 91730, US",
+   "contact_phone": "+1 909-200-0792",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "switchgearsolutionsltd.com": {
+   "hq_phone": null,
+   "street_address": "32 East Walnut Street, Lancaster, PA 17602, US",
+   "contact_phone": "+1 720-327-9987",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "systemservices.us": {
+   "hq_phone": null,
+   "street_address": "1830 W Willow St, Scott, Louisiana 70583, US",
+   "contact_phone": "+1 337-288-4412",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "teamsol.net": {
+   "hq_phone": null,
+   "street_address": "2025 S. 12th Street, Waco, Texas 76706, US",
+   "contact_phone": "+1 979-241-2285",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tngenergyservices.com": {
+   "hq_phone": null,
+   "street_address": "3505 Standard St, Bakersfield, California 93308-5264, US",
+   "contact_phone": "+1 661-979-6397",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tpcsystems.com": {
+   "hq_phone": null,
+   "street_address": "261 Pepes Farm Rd, Milford, CT 06460, US",
+   "contact_phone": "+1 203-261-3333",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tsisolutions.us": {
+   "hq_phone": null,
+   "street_address": "2220 Centre Park Ct, Stone Mountain, Georgia 30087, US",
+   "contact_phone": "+1 770-595-0682",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tspnc.com": {
+   "hq_phone": null,
+   "street_address": "Fayetteville, NC 28305, US",
+   "contact_phone": "+1 910-849-1265",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tsthydraulics.com": {
+   "hq_phone": null,
+   "street_address": "20 Continental Blvd., Merrimack, NH 03054, US",
+   "contact_phone": "+1 863-899-0644",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tyrior.com": {
+   "hq_phone": null,
+   "street_address": "18672 Florida Street, Suite 302-D, Huntington Beach, CA 92648, US",
+   "contact_phone": "+1 714-717-6489",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tannerwire.com": {
+   "hq_phone": null,
+   "street_address": "1260 Moore Rd, Avon, Ohio 44011, US",
+   "contact_phone": "+1 216-533-6210",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "taylorssiteworks.com": {
+   "hq_phone": null,
+   "street_address": "8813 Gulf Ct, Suite A, Raleigh, North Carolina 27617, US",
+   "contact_phone": "+1 919-606-2431",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "techzoneia.com": {
+   "hq_phone": null,
+   "street_address": "800 E Lincoln Way, Jefferson, Iowa 50129, US",
+   "contact_phone": "+1 563-212-2149",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "techcompinc.com": {
+   "hq_phone": null,
+   "street_address": "123 Bruton Ct., Suite 103, Chesapeake, VA 23322, US",
+   "contact_phone": "+1 757-990-1040",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "technovoltelectric.com": {
+   "hq_phone": null,
+   "street_address": "28-29 119TH ST, Flushing, New York 11354, US",
+   "contact_phone": "+1 347-204-4255",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "techpro-av.com": {
+   "hq_phone": null,
+   "street_address": "300 Thunderbird Dr., Suite 12, El Paso, TX 79912, US",
+   "contact_phone": "+1 915-219-0039",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tefsco.com": {
+   "hq_phone": null,
+   "street_address": "309 Mecca St., Lafayette, Louisiana 70506, US",
+   "contact_phone": "+1 337-501-1350",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "teltechnetworks.com": {
+   "hq_phone": null,
+   "street_address": "810 E Hammond Lane, Phoenix, AZ 85034, US",
+   "contact_phone": "+1 480-226-1433",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "telecom-wiring.com": {
+   "hq_phone": null,
+   "street_address": "8 East 41st Street, 7th Floor, New York, New York 10017, US",
+   "contact_phone": "+1 212-685-5404",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "terra-associates.com": {
+   "hq_phone": null,
+   "street_address": "12525 Willows Road, Suite 101, Kirkland, WA 98034, US",
+   "contact_phone": "+1 206-255-4988",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tescorp.com": {
+   "hq_phone": null,
+   "street_address": "8525 E 46th St, Tulsa, Oklahoma 74145-4803, US",
+   "contact_phone": "+1 918-497-6559",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lameyelectric.com": {
+   "hq_phone": null,
+   "street_address": "13015 Shriners Blvd, Biloxi, Mississippi 39532, US",
+   "contact_phone": "+1 228-861-4120",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "larsonlightning.com": {
+   "hq_phone": null,
+   "street_address": "153 S. Enola Rd., Enola, Pennsylvania 17025, US",
+   "contact_phone": "+1 717-497-5411",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lightingservicesinc.net": {
+   "hq_phone": null,
+   "street_address": "150 Brookside Road, Waterbury, CT 06708, US",
+   "contact_phone": "+1 203-707-6231",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "lpsnet.com": {
+   "hq_phone": null,
+   "street_address": "154 Cooper Rd Unit1201, West Berlin, New Jersey 08091, US",
+   "contact_phone": "+1 609-217-9075",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "liraelectric.com": {
+   "hq_phone": null,
+   "street_address": "4210 N. Lamb Blvd., Suite #130, Las Vegas, Nevada 89115, US",
+   "contact_phone": "+1 520-743-9300",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "northeastbatteries.com": {
+   "hq_phone": null,
+   "street_address": "2300 David Dr, Bristol, PA 19007",
+   "contact_phone": "+1 267-566-3324",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "annunciator.com": {
+   "hq_phone": null,
+   "street_address": "39 Hutcheson Place, Lynbrook, N.Y. 11563, US",
+   "contact_phone": "+1 415-730-1303",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sdmmetro.com": {
+   "hq_phone": null,
+   "street_address": "215 N Main St, Freeport, New York 11520, US",
+   "contact_phone": "+1 516-287-6006",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "secucontrol.com": {
+   "hq_phone": null,
+   "street_address": "4721 Eisenhower Avenue, Alexandria, Virginia 22304, US",
+   "contact_phone": "+49 7038 387677",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "sloanelectric.com": {
+   "hq_phone": null,
+   "street_address": "3520 MAIN ST, San Diego, California 92113, US",
+   "contact_phone": "+1 858-349-8386",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "specializedengineeringservices.com": {
+   "hq_phone": null,
+   "street_address": "541 W. Capitol Expressway, #176, San Jose, California 95136, US",
+   "contact_phone": "+1 414-467-7696",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tdnelectric.com": {
+   "hq_phone": null,
+   "street_address": "1071 Wright Ave, Mountain View, California 94043, US",
+   "contact_phone": "+1 480-678-1590",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "teaysvalleyeng.com": {
+   "hq_phone": null,
+   "street_address": "35 Golf Dr, St Albans, WV 25177",
+   "contact_phone": "+1 304-549-6704",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "tirone-electric.com": {
+   "hq_phone": null,
+   "street_address": "3300 Corporate Ave, Suite 100, Weston, Florida 33331, US",
+   "contact_phone": "+1 954-868-6625",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "unipowerllc.com": {
+   "hq_phone": null,
+   "street_address": "2810 Emrick, Bethlehem, PA 18020, US",
+   "contact_phone": "+1 908-619-9268",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "wlrc.net": {
+   "hq_phone": null,
+   "street_address": "2 Richey Ave., Collingswood, NJ 08107, US",
+   "contact_phone": "+1 856-899-8133",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "iwestco.com": {
+   "hq_phone": null,
+   "street_address": "815 Arnold Dr, Martinez, CA 94553, US",
+   "contact_phone": "+1 925-788-1450",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "eescorp.com": {
+   "hq_phone": null,
+   "street_address": "5 Turnberry Lane, Sandy Hook, CT 06482, US",
+   "contact_phone": "+1 805-466-6825",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ethos.green": {
+   "hq_phone": null,
+   "street_address": "729 North Main Street, Viroqua, WI 54665, US",
+   "contact_phone": "+1 608-535-7574",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ettingerengineering.com": {
+   "hq_phone": null,
+   "street_address": "New York, New York 10018, US",
+   "contact_phone": "+1 212-244-2410",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "exele.com": {
+   "hq_phone": null,
+   "street_address": "349 W Commercial St, Suite 3300, East Rochester, New York 14445, US",
+   "contact_phone": "+1 415-265-7725",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "fkconst.com": {
+   "hq_phone": null,
+   "street_address": "2055 W 150 S, Flora, Indiana 46929, US",
+   "contact_phone": "+1 252-532-7820",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "fmsolutions.net": {
+   "hq_phone": null,
+   "street_address": "20171 N Bustos Way, Maricopa, Arizona 85138, US",
+   "contact_phone": "+1 602-721-7800",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "facilitydynamics.com": {
+   "hq_phone": null,
+   "street_address": "6760 Alexander Bell Drive, Suite 200, Columbia, MD 21046, US",
+   "contact_phone": "+1 443-942-3504",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "farnuminsulators.com": {
+   "hq_phone": null,
+   "street_address": "East Dummerston, VT 05346, US",
+   "contact_phone": "+1 850-419-7383",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "fibernext.com": {
+   "hq_phone": null,
+   "street_address": "41 Locke Rd, Concord, NH 03301, US",
+   "contact_phone": "+1 603-520-6614",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "finncoservices.com": {
+   "hq_phone": null,
+   "street_address": "8241 Beech Ave., Fontana, California 92335, US",
+   "contact_phone": "+1 909-632-5181",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "fpiseattle.com": {
+   "hq_phone": null,
+   "street_address": "17410 Ash Way, 8, Lynnwood, Washington 98037, US",
+   "contact_phone": "+1 586-531-8537",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "firstlineassociates.com": {
+   "hq_phone": null,
+   "street_address": "211 West St, Milford, Massachusetts 01757, US",
+   "contact_phone": "+1 516-779-6482",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "fnalandscape.com": {
+   "hq_phone": null,
+   "street_address": "Fort Worth, US",
+   "contact_phone": "+1 817-475-5315",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "foxvalleyelec.com": {
+   "hq_phone": null,
+   "street_address": "11022 N 28th Dr, 155, Phoenix, Arizona 85029, US",
+   "contact_phone": "+1 602-909-0377",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "fkaild.com": {
+   "hq_phone": null,
+   "street_address": "304 South Broadway Suite 203, Los Angeles, CA 90013, US",
+   "contact_phone": "+1 949-721-0289",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "frontrangewireless.com": {
+   "hq_phone": null,
+   "street_address": "7476 S Eagle St, Unit A, Centennial, Colorado 80112, US",
+   "contact_phone": "+1 719-287-7990",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "fyrerok.com": {
+   "hq_phone": null,
+   "street_address": "301 N. Spring Street, Suite 102, Bellefonte, Pennsylvania 16823, US",
+   "contact_phone": "+1 516-982-5074",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gandrmetals.com": {
+   "hq_phone": null,
+   "street_address": "810 Kiwanis St, Hampton, Virginia 23661, US",
+   "contact_phone": "+1 757-244-5693",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gl.com": {
+   "hq_phone": null,
+   "street_address": "818 W Diamond Ave #3, Gaithersburg, MD 20878",
+   "contact_phone": "+1 301-670-4784",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gmselevator.com": {
+   "hq_phone": null,
+   "street_address": "401 Borrego Court, San Dimas, California 91773, US",
+   "contact_phone": "+1 806-898-0560",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gprus.com": {
+   "hq_phone": null,
+   "street_address": "22365 Broderick Dr, Sterling, Virginia 20166, US",
+   "contact_phone": "+1 301-674-1181",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gtsconsultants.com": {
+   "hq_phone": null,
+   "street_address": "211 Warren St, 507, Newark, New Jersey 07103, US",
+   "contact_phone": "+1 732-614-6753",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gtstechsales.com": {
+   "hq_phone": null,
+   "street_address": "122 Middleboro Rd, Wilmington , DE 19804, US",
+   "contact_phone": "+1 302-584-6971",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gwainc.net": {
+   "hq_phone": null,
+   "street_address": "168 Laurelhurst Avenue, Columbia, SC 29210, US",
+   "contact_phone": "+1 803-622-8338",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gabelassociates.com": {
+   "hq_phone": null,
+   "street_address": "417 Denison St, Highland Park, New Jersey 08904, US",
+   "contact_phone": "+1 732-672-7782",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gaiadevelopment.com": {
+   "hq_phone": null,
+   "street_address": "12130 Millennium Drive, Suite 300, Unit C, Playa VIsta, California 90094, US",
+   "contact_phone": "+1 619-952-1650",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gallagherelectric.co": {
+   "hq_phone": null,
+   "street_address": "8699 Via Giula, Boca Raton, FL 33496, US",
+   "contact_phone": "+1 561-232-4357",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "garnerconstructionwbe.com": {
+   "hq_phone": null,
+   "street_address": "5301 Ravenna Ave NE, Seattle, WA 98105, US",
+   "contact_phone": "+1 512-525-2000",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "genalco.com": {
+   "hq_phone": null,
+   "street_address": "333 Reservoir St, Needham, Massachusetts 02494-3145, US",
+   "contact_phone": "+1 401-965-1739",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "generatorsofhouston.com": {
+   "hq_phone": null,
+   "street_address": "10727 Tower Oaks Blvd, Houston, Texas 77070, US",
+   "contact_phone": "+1 713-824-7726",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "geotecheng.com": {
+   "hq_phone": null,
+   "street_address": "17407 US Highway 59, Houston, TX 77396, US",
+   "contact_phone": "+1 713-699-4000",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gibson-painting.com": {
+   "hq_phone": null,
+   "street_address": "105 N 36th St, C, Lafayette, Indiana 47905, US",
+   "contact_phone": "+1 765-426-1189",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gilsulate.com": {
+   "hq_phone": null,
+   "street_address": "26000 Springbrook Ave. #201, Santa Clarita, CA 91350, US",
+   "contact_phone": "+1 312-909-5858",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "glazetool.com": {
+   "hq_phone": null,
+   "street_address": "1610 SUMMIT ST, NEW HAVEN, IN 46774, US",
+   "contact_phone": "+1 260-466-8365",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "globexcorp.com": {
+   "hq_phone": null,
+   "street_address": "3620 Stutz Drive, Canfield, OH 44406, US",
+   "contact_phone": "+1 330-726-1243",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "godfreyelectric.com": {
+   "hq_phone": null,
+   "street_address": "1222 Omar Rd, West Palm Beach, FL 33405, US",
+   "contact_phone": "+1 561-635-3710",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "goleyinc.com": {
+   "hq_phone": null,
+   "street_address": "1707 BLUFFVIEW DR., DUPO, Illinois 62239-1488, US",
+   "contact_phone": "+1 618-939-4644",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gonzalescontractors.com": {
+   "hq_phone": null,
+   "street_address": "4001 S Hwy 349, Midland, Texas 79706, US",
+   "contact_phone": "+1 361-235-0916",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "goodenergysolutions.com": {
+   "hq_phone": null,
+   "street_address": "641 E 22nd St, Lawrence, KS 66046, US",
+   "contact_phone": "+1 480-848-6304",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "goodbeeassoc.com": {
+   "hq_phone": null,
+   "street_address": "1658 Cole Blvd, Golden, Colorado 80401, US",
+   "contact_phone": "+1 303-587-2451",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gordonenergy.com": {
+   "hq_phone": null,
+   "street_address": "15735 S Mahaffie Rd., Olathe, KS 66062, US",
+   "contact_phone": "+1 913-915-4076",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gordyconstruction.com": {
+   "hq_phone": null,
+   "street_address": "2960 Smith Rd, Columbus, Georgia 31808, US",
+   "contact_phone": "+1 706-566-1308",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "grandeurfasteners.com": {
+   "hq_phone": null,
+   "street_address": "18798 E. State Hwy 10, Danville, Arkansas 72833, US",
+   "contact_phone": "+1 501-516-3485",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "greatlakesfireonline.com": {
+   "hq_phone": null,
+   "street_address": "21850 Watertown Rd, SUITE 18, Waukesha, Wisconsin 53186, US",
+   "contact_phone": "+1 414-333-0944",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "greatlakeslandscapedesign.com": {
+   "hq_phone": null,
+   "street_address": "Oak Park, US",
+   "contact_phone": "+1 248-854-4425",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "greentechenergy.com": {
+   "hq_phone": null,
+   "street_address": "122 East Kings Highway, Suite 503, Maple Shade, NJ 08052, US",
+   "contact_phone": "+1 856-979-6035",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "grcs.com": {
+   "hq_phone": null,
+   "street_address": "3558 Jefferson St N Ste 2, Lewisburg, WV 24901, US",
+   "contact_phone": "+1 304-667-4005",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "greenerhorizon.com": {
+   "hq_phone": null,
+   "street_address": "7 Clayton Rd., Middleboro, MA 02338, US",
+   "contact_phone": "+1 508-942-0305",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gregandersonpainting.com": {
+   "hq_phone": null,
+   "street_address": "1313 Central Ave S, Suite H, Kent, WA 98032, US",
+   "contact_phone": "+1 206-979-7798",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "guardianmfg.com": {
+   "hq_phone": null,
+   "street_address": "2971A Oxbow Circle, Cocoa, Florida 32926, US",
+   "contact_phone": "+1 321-288-1700",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "guardiansecurity.com": {
+   "hq_phone": null,
+   "street_address": "1743 1St Ave South, Seattle, WA 98134, US",
+   "contact_phone": "+1 360-280-1069",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "gurlitzarchitects.com": {
+   "hq_phone": null,
+   "street_address": "121 S Estes Dr #100, Chapel Hill, NC 27514",
+   "contact_phone": "+1 919-618-2445",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hswilliams.com": {
+   "hq_phone": null,
+   "street_address": "1320 Highway 16, Marion, VA 24354, US",
+   "contact_phone": "+1 276-608-7482",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hvmtech.com": {
+   "hq_phone": null,
+   "street_address": "360 McKenna Ave., New Braunfels, Texas 78130, US",
+   "contact_phone": "+1 210-391-8578",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hardwiretech.com": {
+   "hq_phone": null,
+   "street_address": "10900 73rd Ave N, 145, Maple Grove, Minnesota 55369, US",
+   "contact_phone": "+1 763-442-0821",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "harriman.com": {
+   "hq_phone": null,
+   "street_address": "46 Harriman Dr, Auburn, Maine 04210, US",
+   "contact_phone": "+1 207-318-2550",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "harrisclaimsservices.com": {
+   "hq_phone": null,
+   "street_address": "7161 North Cicero, Suite 207, Lincolnwood, Illinois 60712, US",
+   "contact_phone": "+1 847-525-5555",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hauptelectrical.com": {
+   "hq_phone": null,
+   "street_address": "312 N 1600 W, Mapleton, Utah 84664, US",
+   "contact_phone": "+1 801-866-5005",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hawaiienergysystems.com": {
+   "hq_phone": null,
+   "street_address": "99-970 Iwaena Street, Suite 100, Aiea, HI 96701, US",
+   "contact_phone": "+1 808-690-0519",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "heavenlysunshine.com": {
+   "hq_phone": null,
+   "street_address": "9115 Southview St., Southaven, MS 38671, US",
+   "contact_phone": "+1 901-496-8121",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hecoinc.com": {
+   "hq_phone": null,
+   "street_address": "3509 S. Burdick St., Kalamazoo, Michigan 49001, US",
+   "contact_phone": "+1 269-214-2514",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "heinelectric.com": {
+   "hq_phone": null,
+   "street_address": "5030 Blum Road, Martinez, CA 94553, US",
+   "contact_phone": "+1 925-939-1528",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "heroldprecision.com": {
+   "hq_phone": null,
+   "street_address": "1370 Hammond Road, White Bear Township, MN 55110, US",
+   "contact_phone": "+1 612-850-9975",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "herpellift.com": {
+   "hq_phone": null,
+   "street_address": "6339 Cannons Campground Rd, Cowpens, South Carolina 29330, US",
+   "contact_phone": "+1 864-266-1924",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hi-techcompressor.com": {
+   "hq_phone": null,
+   "street_address": "1113 Branagan Drive, Tullytown, PA 19007, US",
+   "contact_phone": "+1 215-880-0089",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "highdefinitionlogistics.com": {
+   "hq_phone": null,
+   "street_address": "2100 Greenwood Dr, suite 140, Southlake, TX 76092, US",
+   "contact_phone": "+1 214-632-3082",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hockema.com": {
+   "hq_phone": null,
+   "street_address": "5306 Ballard Ave NW, Suite 204, Seattle, Washington 98107, US",
+   "contact_phone": "+1 360-509-3119",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "horizonis.com": {
+   "hq_phone": null,
+   "street_address": "1659 East Sutter Road, Glenshaw, PA 15116, US",
+   "contact_phone": "+1 570-614-6509",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hotspray.com": {
+   "hq_phone": null,
+   "street_address": "1932 N Goldenrod Rd, Orlando, FL 32807, US",
+   "contact_phone": "+1 407-468-2605",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "houstonbearing.com": {
+   "hq_phone": null,
+   "street_address": "5311 Cornish, Houston, Texas 77007, US",
+   "contact_phone": "+1 832-651-3239",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "houstonlandscapepros.com": {
+   "hq_phone": null,
+   "street_address": "1300 W Sam Houston Pkwy S, STE 100, Houston, Texas 77042, US",
+   "contact_phone": "+1 281-650-8899",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hughesfire.com": {
+   "hq_phone": null,
+   "street_address": "910 Shelley St, Springfield, Oregon 97477, US",
+   "contact_phone": "+1 503-887-8658",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hulihanterritory.com": {
+   "hq_phone": null,
+   "street_address": "1177 Atlantic Blvd, Atlantic Beach, Florida 32233-2516, US",
+   "contact_phone": "+1 904-434-9681",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "hurstelec.com": {
+   "hq_phone": null,
+   "street_address": "229 W Hurst Blvd, Hurst, Texas 76053, US",
+   "contact_phone": "+1 817-505-6848",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "i-e-electric.com": {
+   "hq_phone": null,
+   "street_address": "Centennial , Colorado, US",
+   "contact_phone": "+1 720-641-0205",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "iaqsys.com": {
+   "hq_phone": null,
+   "street_address": "555 8th St Ave, Suite 1502, New York , NY 10018-4634, US",
+   "contact_phone": "+1 908-822-0446",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "inexsystemsdesigns.com": {
+   "hq_phone": null,
+   "street_address": "504 Fair St SW, 242, Atlanta, Georgia 30313, US",
+   "contact_phone": "+1 678-640-2772",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "icklerelectric.com": {
+   "hq_phone": null,
+   "street_address": "13250 Kirkham Way, Poway, California 92064, US",
+   "contact_phone": "+1 858-382-2155",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "imagebuildingsystems.com": {
+   "hq_phone": null,
+   "street_address": "1923 E 5th Street, Tempe, AZ 85288, US",
+   "contact_phone": "+1 623-980-8262",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "imagenationsystems.com": {
+   "hq_phone": null,
+   "street_address": "549 Pylon Dr, Raleigh, North Carolina 27606, US",
+   "contact_phone": "+1 919-539-7757",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "industrialcomm.net": {
+   "hq_phone": null,
+   "street_address": "1720 4th Avenue S, Seattle, Washington 98134, US",
+   "contact_phone": "+1 206-868-3180",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "industrialfour.com": {
+   "hq_phone": null,
+   "street_address": "9 Morse Drive, Essex Junction, Vermont 05452, US",
+   "contact_phone": "+1 802-324-3343",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "industrialsplicing.com": {
+   "hq_phone": null,
+   "street_address": "1842 N 109th East Ave, Tulsa, Oklahoma 74116, US",
+   "contact_phone": "+1 918-630-7333",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "industrialtechnical.com": {
+   "hq_phone": null,
+   "street_address": "323 Oxford Ave, Mansfield, Ohio 44906, US",
+   "contact_phone": "+1 419-756-6052",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "thenewutility.com": {
+   "hq_phone": null,
+   "street_address": "575 Corporate Drive, Mahwah, NJ 07430, US",
+   "contact_phone": "+1 732-337-9143",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "infinityscaffold.com": {
+   "hq_phone": null,
+   "street_address": "2395 Capp Rd, St Paul, MN 55114, US",
+   "contact_phone": "+1 612-961-8690",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "infinitysolutionsinc.com": {
+   "hq_phone": null,
+   "street_address": "1629 K St NW, 300, Washington, District of Columbia 20006, US",
+   "contact_phone": "+1 703-586-8285",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "infratechengineering.com": {
+   "hq_phone": null,
+   "street_address": "15 Maiden Ln, Suite 200, New York, NY 10038, US",
+   "contact_phone": "+65 8102 4952",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "ingeniumtech.com": {
+   "hq_phone": null,
+   "street_address": "4216 Maray Drive, Rockford, IL 61107, US",
+   "contact_phone": "+1 815-979-4098",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "innersolinc.com": {
+   "hq_phone": null,
+   "street_address": "13918 E Mississippi Ave, #279, Aurora, CO 80012, US",
+   "contact_phone": "+1 720-403-0156",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "iciofamerica.com": {
+   "hq_phone": null,
+   "street_address": "295 Main Road, Tiverton, RI 02878, US",
+   "contact_phone": "+1 401-265-7240",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "issisecurity.com": {
+   "hq_phone": null,
+   "street_address": "1703 Cope Avenue E, St. Paul, MN 55109, US",
+   "contact_phone": "+1 612-889-3833",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "innovet.us": {
+   "hq_phone": null,
+   "street_address": "SAINT LOUIS, MO - Missouri 63123-2509, US",
+   "contact_phone": "+1 314-353-9700",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "intofficesolutions.com": {
+   "hq_phone": null,
+   "street_address": "531 Forest Pkwy Suite 220, Forest Park, GA 30297",
+   "contact_phone": "+1 404-213-5260",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "integrity-crane.com": {
+   "hq_phone": null,
+   "street_address": "915 Carters Creek Pike, Columbia, TN 38401, US",
+   "contact_phone": "+1 615-289-9865",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "intelectcorp.com": {
+   "hq_phone": null,
+   "street_address": "3700 Odonnell St, Baltimore, Maryland 21224, US",
+   "contact_phone": "+1 410-961-5918",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "intelectric.net": {
+   "hq_phone": null,
+   "street_address": "3718 Overland Ave., Los Angeles, CA 90034-6312, US",
+   "contact_phone": "+1 310-838-5486",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "interconnect-wiring.com": {
+   "hq_phone": null,
+   "street_address": "5024 W. Vickery Blvd., Fort Worth, Texas 76107, US",
+   "contact_phone": "+1 817-360-9999",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "interior-tech.com": {
+   "hq_phone": null,
+   "street_address": "Seattle, WA 98109, US",
+   "contact_phone": "+1 503-781-4718",
+   "phone_matches_hq": null,
+   "resolved": true
+  },
+  "intlsign.com": {
+   "hq_phone": null,
+   "street_address": "10831 Canal Street, Largo, FL 33777, US",
+   "contact_phone": "+91 96321 51035",
+   "phone_matches_hq": null,
+   "resolved": true
+  }
+ },
+ "hq_mainline_check_status": "BLOCKED - no data source available (Inven has no phone field; web egress blocked)"
+}

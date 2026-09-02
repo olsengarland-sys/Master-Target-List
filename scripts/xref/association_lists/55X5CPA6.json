@@ -1,0 +1,2446 @@
+{
+ "header": {
+  "list_id": "55X5CPA6",
+  "name": "AGC Kentucky Member Directory 2026",
+  "total_reported": 440,
+  "rows_fetched": 440,
+  "truncated": false,
+  "note": "Complete: all 5 pages returned. Rows after the top 5 of each page are id/name/domain stubs."
+ },
+ "companies": [
+  {
+   "id": "CTPYU35H",
+   "name": "BP p.l.c.",
+   "domain": "bp.com",
+   "ownership": "Public",
+   "headquarters_pretty": "London, UK",
+   "year_founded": 1909,
+   "revenue": 215465000000.0,
+   "primary_business_model_name": "Manufacturer",
+   "employees_estimate": {
+    "grata": 299352,
+    "linkedin": 81980
+   },
+   "description": "BP p.l.c. is an integrated energy company that produces and refines crude oil and natural gas, markets fuels and lubricants to commercial and retail customers, trades energy commodities, and invests in renewable energy and lower\u2011carbon fuels. They typically serve industrial and commercial energy buyers as well as retail fuel customers, and they claim to be diversifying their portfolio by expanding wind, biofuels, hydrogen and electric\u2011vehicle charging offerings alongside traditional petroleum operations."
+  },
+  {
+   "id": "D3K794BH",
+   "name": "Popeyes Louisiana Kitchen, Inc. (Popeyes)",
+   "domain": "popeyes.com",
+   "ownership": "Private Subsidiary",
+   "headquarters_pretty": "Miami, FL",
+   "year_founded": 1972,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 175350,
+    "linkedin": 27725
+   },
+   "funding_stage": "Private Equity Backed",
+   "total_funding_amount": 63940000,
+   "latest_funding_amount": 63940000,
+   "latest_funding_date": "08/02/2023",
+   "description": "Popeyes is a quick-service restaurant chain that specializes in Southern-style chicken and seafood dishes. Their typical customers are individuals and families looking for a convenient and affordable dining option. Popeyes differentiates itself through its unique blend of Cajun and Creole flavors, as well as its famous buttermilk biscuits. They also market themselves as offering a \"Louisiana Fast\" dining experience, emphasizing the authentic and flavorful nature of their menu items."
+  },
+  {
+   "id": "EC8ER95G",
+   "name": "Siemens AG",
+   "domain": "siemens.com",
+   "ownership": "Private Subsidiary",
+   "headquarters_pretty": "M\u00fcnchen, Germany",
+   "year_founded": 1847,
+   "primary_business_model_name": "Manufacturer",
+   "employees_estimate": {
+    "grata": 611022,
+    "linkedin": 278153
+   },
+   "funding_stage": "Public",
+   "description": "Siemens AG is a global technology company that focuses on electrification, automation, and digitalization. Their products and services range from power generation and distribution to medical imaging and industrial automation. Their typical customers include energy providers, manufacturers, healthcare institutions, and infrastructure companies. Siemens differentiates itself through its focus on innovation, sustainability, and providing comprehensive solutions for their customers' needs."
+  },
+  {
+   "id": "96T7UEG3",
+   "name": "Google",
+   "domain": "google.com",
+   "ownership": "Public Subsidiary",
+   "headquarters_pretty": "Mountain View, CA",
+   "year_founded": 1998,
+   "revenue": 91341848000.0,
+   "primary_business_model_name": "Software",
+   "employees_estimate": {
+    "grata": 319402,
+    "linkedin": 317497
+   },
+   "description": "Google is a multinational technology company that specializes in internet-related products and services. Its offerings include online advertising technologies, search engine, cloud computing, software, and hardware. Google's typical customers include consumers, businesses, advertisers, and publishers who use its various products and services for different reasons. Google positions itself as a company that offers innovative and user-friendly technology solutions that aim to make the world's information accessible and useful."
+  },
+  {
+   "id": "SFKAEXEQ",
+   "name": "Republic Services, Inc.",
+   "domain": "republicservices.com",
+   "ownership": "Public",
+   "headquarters_pretty": "Phoenix, AZ",
+   "year_founded": 1998,
+   "revenue": 16890999000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 105779,
+    "linkedin": 21253
+   },
+   "description": "Republic Services provides integrated non-hazardous solid waste collection, transportation, recycling, and disposal services for municipal, commercial, industrial, multifamily, and residential customers and emphasizes a broad operational network and investments in recycling and landfill-gas-to-energy infrastructure."
+  },
+  {
+   "id": "BVZNPCTU",
+   "name": "Turner Construction Company",
+   "domain": "turnerconstruction.com"
+  },
+  {
+   "id": "K5UZFP6Z",
+   "name": "Marsh & McLennan Companies, Inc.",
+   "domain": "marshmclennan.com"
+  },
+  {
+   "id": "5CYNKEDG",
+   "name": "United Rentals, Inc.",
+   "domain": "unitedrentals.com"
+  },
+  {
+   "id": "AU5HUV4G",
+   "name": "Principal Financial Group",
+   "domain": "principal.com"
+  },
+  {
+   "id": "29C7Z3Y7",
+   "name": "Huntington National Bank",
+   "domain": "huntington.com"
+  },
+  {
+   "id": "CRPKMC3T",
+   "name": "BrandSafway",
+   "domain": "brandsafway.com"
+  },
+  {
+   "id": "DXUYXVN8",
+   "name": "Brown & Brown, Inc.",
+   "domain": "bbrown.com"
+  },
+  {
+   "id": "75WBQYV3",
+   "name": "USI Insurance Services",
+   "domain": "usi.com"
+  },
+  {
+   "id": "DHNNFFMW",
+   "name": "Renewal by Andersen",
+   "domain": "renewalbyandersen.homes"
+  },
+  {
+   "id": "3FF3QGXM",
+   "name": "Great American Insurance Group",
+   "domain": "greatamericaninsurancegroup.com"
+  },
+  {
+   "id": "9XQ4C5YK",
+   "name": "Acrisure, LLC",
+   "domain": "acrisure.com"
+  },
+  {
+   "id": "AGV4KSW8",
+   "name": "Roadsafe Traffic Systems, Inc",
+   "domain": "roadsafetraffic.com"
+  },
+  {
+   "id": "ELTDGFKX",
+   "name": "Cherry Bekaert Advisory, LLC",
+   "domain": "cbh.com"
+  },
+  {
+   "id": "JXWHKF9R",
+   "name": "Irving Materials, Inc.",
+   "domain": "irvmat.com"
+  },
+  {
+   "id": "UDFVJW5Z",
+   "name": "Aerotek, Inc.",
+   "domain": "aerotek.com"
+  },
+  {
+   "id": "ST7MCKSZ",
+   "name": "Messer Construction Co.",
+   "domain": "messer.com"
+  },
+  {
+   "id": "BH2W2E7E",
+   "name": "Central Bancompany",
+   "domain": "centralbank.net"
+  },
+  {
+   "id": "AHXQKVGZ",
+   "name": "Houchens Industries, Inc.",
+   "domain": "houchens.com"
+  },
+  {
+   "id": "43NN9VRS",
+   "name": "WillScot",
+   "domain": "willscot.com"
+  },
+  {
+   "id": "EBWNCCVH",
+   "name": "WesBanco",
+   "domain": "wesbanco.com"
+  },
+  {
+   "id": "TLU2BKAT",
+   "name": "Enterprise Fleet Management",
+   "domain": "efleets.com"
+  },
+  {
+   "id": "G73CACXB",
+   "name": "Knapheide",
+   "domain": "knapheide.com"
+  },
+  {
+   "id": "6NWVY9P5",
+   "name": "MEI Industrial Solutions",
+   "domain": "meiindustrialsolutions.com"
+  },
+  {
+   "id": "WNK37349",
+   "name": "Gray, Inc.",
+   "domain": "gray.com"
+  },
+  {
+   "id": "ETPA5WNH",
+   "name": "Rumpke Waste & Recycling",
+   "domain": "rumpke.com"
+  },
+  {
+   "id": "CJLN4D3A",
+   "name": "Charah Solutions, Inc.",
+   "domain": "charah.com"
+  },
+  {
+   "id": "G2UXNBUN",
+   "name": "Kentucky Farm Bureau Mutual Insurance Company",
+   "domain": "kyfb.com"
+  },
+  {
+   "id": "JZYVT5TU",
+   "name": "Steptoe & Johnson PLLC",
+   "domain": "steptoe-johnson.com"
+  },
+  {
+   "id": "5C2LKPH5",
+   "name": "Hennecke GmbH",
+   "domain": "hennecke.com"
+  },
+  {
+   "id": "L97LLTXT",
+   "name": "Valley Interior Systems",
+   "domain": "buildwithvalley.com"
+  },
+  {
+   "id": "7SCYHJXJ",
+   "name": "Kalkreuth Roofing And Sheet Metal",
+   "domain": "krsm.net"
+  },
+  {
+   "id": "49BC62FP",
+   "name": "Louisville Paving and Construction Co.",
+   "domain": "loupaving.com"
+  },
+  {
+   "id": "KDYWFTZU",
+   "name": "Boyd CAT",
+   "domain": "boydcat.com"
+  },
+  {
+   "id": "RWMD6AKF",
+   "name": "Dean Dorton",
+   "domain": "deandorton.com"
+  },
+  {
+   "id": "L38VQNSB",
+   "name": "Gordian",
+   "domain": "gordian.com"
+  },
+  {
+   "id": "KYBEUUWM",
+   "name": "Mobile Air & Power Rentals",
+   "domain": "mobileair.com"
+  },
+  {
+   "id": "WHLPQ56T",
+   "name": "American Roofing & Metal Company, Inc.",
+   "domain": "americanroofingonline.com"
+  },
+  {
+   "id": "3JDBW7HX",
+   "name": "Purple Wave, Inc.",
+   "domain": "purplewave.com"
+  },
+  {
+   "id": "F8RKYN2A",
+   "name": "Shepherd Insurance",
+   "domain": "shepherdins.com"
+  },
+  {
+   "id": "WKYNHTC3",
+   "name": "Houchens Insurance Group",
+   "domain": "higusa.com"
+  },
+  {
+   "id": "U5TR6Q8Q",
+   "name": "Brandeis",
+   "domain": "brandeismachinery.com"
+  },
+  {
+   "id": "3N6GNYMT",
+   "name": "Amteck, LLC",
+   "domain": "amteck.com"
+  },
+  {
+   "id": "GDJH2G7F",
+   "name": "Blue & Co., LLC",
+   "domain": "blueandco.com"
+  },
+  {
+   "id": "UA5Q8HD7",
+   "name": "Servpro",
+   "domain": "servpro.com"
+  },
+  {
+   "id": "GWZJ8C6K",
+   "name": "AMAROK",
+   "domain": "amarok.com"
+  },
+  {
+   "id": "XCMVCNJ3",
+   "name": "TP Mechanical",
+   "domain": "tpmechanical.com"
+  },
+  {
+   "id": "SS5ZYSW4",
+   "name": "Broadway Electric Service Company LLC (BESCO)",
+   "domain": "besco.com"
+  },
+  {
+   "id": "FGQSYA6H",
+   "name": "Stites & Harbison, PLLC",
+   "domain": "stites.com"
+  },
+  {
+   "id": "QC7DUUGL",
+   "name": "Tri-State",
+   "domain": "tri-stateservicegroup.com"
+  },
+  {
+   "id": "6QNQJL2F",
+   "name": "Rising Sun Developing",
+   "domain": "risingsundeveloping.com"
+  },
+  {
+   "id": "BQY8VSGZ",
+   "name": "Bullard",
+   "domain": "bullard.com"
+  },
+  {
+   "id": "5ACM5MBS",
+   "name": "Yamamoto FB Engineering",
+   "domain": "yamamotofineblanking.com"
+  },
+  {
+   "id": "DSN7HQ75",
+   "name": "Jackson Kelly PLLC",
+   "domain": "jacksonkelly.com"
+  },
+  {
+   "id": "BPFE7RJF",
+   "name": "Sternberg Automotive Group",
+   "domain": "sternbergs.com"
+  },
+  {
+   "id": "MKF9F98D",
+   "name": "Total Tool Supply, Inc.",
+   "domain": "totaltool.com"
+  },
+  {
+   "id": "NCJPPBRU",
+   "name": "Green Mechanical Construction, Inc.",
+   "domain": "gmci.com"
+  },
+  {
+   "id": "NAW6X5Y4",
+   "name": "Southern Pipeline Construction Company, Inc.",
+   "domain": "southernpipeline.net"
+  },
+  {
+   "id": "KDET6LC4",
+   "name": "RLA Utilities",
+   "domain": "rlautilities.com"
+  },
+  {
+   "id": "8HAEBALR",
+   "name": "M&L Electrical, Inc.",
+   "domain": "mlelectrical.com"
+  },
+  {
+   "id": "URL9ZKNE",
+   "name": "MAC Construction",
+   "domain": "macconstruction.com"
+  },
+  {
+   "id": "6Q2DFKWZ",
+   "name": "UMR, Inc.",
+   "domain": "umr.com"
+  },
+  {
+   "id": "3EDXPN9L",
+   "name": "CNC Foundations",
+   "domain": "cncfoundations.com"
+  },
+  {
+   "id": "4SF5E28W",
+   "name": "AE Electrical Solutions",
+   "domain": "aees.com"
+  },
+  {
+   "id": "YBYST7Z5",
+   "name": "HouseRight",
+   "domain": "houseright.com"
+  },
+  {
+   "id": "9KVE772Q",
+   "name": "Powell Valley Millwork LLC",
+   "domain": "pvmillwork.com"
+  },
+  {
+   "id": "WSYL2BNV",
+   "name": "Porta Kleen",
+   "domain": "portakleen.com"
+  },
+  {
+   "id": "VU3ESYCF",
+   "name": "Henderson Services LLC",
+   "domain": "henderson-services.com"
+  },
+  {
+   "id": "SUU86Z6E",
+   "name": "Anderson Communities",
+   "domain": "andersoncommunities.com"
+  },
+  {
+   "id": "K9CR72YT",
+   "name": "Dant Clayton Corporation",
+   "domain": "stadiumbleachers.com"
+  },
+  {
+   "id": "ALBEMAK5",
+   "name": "Denham-Blythe Company, Inc",
+   "domain": "denhamblythe.com"
+  },
+  {
+   "id": "CDRUQMLT",
+   "name": "Dean Builds, Inc.",
+   "domain": "deanbuilds.com"
+  },
+  {
+   "id": "RGRUVR74",
+   "name": "Peak Construction Corporation",
+   "domain": "peakconstruction.com"
+  },
+  {
+   "id": "9XWKT99C",
+   "name": "C.J. Hughes Construction Co, Inc.",
+   "domain": "cjhughes.com"
+  },
+  {
+   "id": "6MYCJSMQ",
+   "name": "Elliott Supply & Glass",
+   "domain": "elliottcompanies.com"
+  },
+  {
+   "id": "E8DS2EWM",
+   "name": "Grayhawk LLC",
+   "domain": "grayhawk-ky.com"
+  },
+  {
+   "id": "S4E6KLJ8",
+   "name": "ABG Caulking Contractors, Inc.",
+   "domain": "abgcaulking.com"
+  },
+  {
+   "id": "C9X4DV3J",
+   "name": "Judy Const",
+   "domain": "judycc.com"
+  },
+  {
+   "id": "W68YS7KB",
+   "name": "Clay Ingels Co LLC",
+   "domain": "clayingels.com"
+  },
+  {
+   "id": "639A9G4W",
+   "name": "Klausing Group",
+   "domain": "klausinggroup.com"
+  },
+  {
+   "id": "546CMZ77",
+   "name": "Loveland Excavating and Paving, Inc.",
+   "domain": "lovelandexcavatingandpaving.com"
+  },
+  {
+   "id": "JML3YBZC",
+   "name": "EOS Worldwide",
+   "domain": "eosworldwide.com"
+  },
+  {
+   "id": "DW5JJDNC",
+   "name": "Paul Hemmer Company",
+   "domain": "paulhemmer.com"
+  },
+  {
+   "id": "S5U2AGLA",
+   "name": "Harrod Concrete & Stone",
+   "domain": "harrodco.com"
+  },
+  {
+   "id": "DQ4W4A2P",
+   "name": "Safe Zone Services",
+   "domain": "safezoneservices.com"
+  },
+  {
+   "id": "F4HB28Y2",
+   "name": "LBX Company",
+   "domain": "lbxco.com"
+  },
+  {
+   "id": "HDRLZE37",
+   "name": "Brown Construction, Inc.",
+   "domain": "brown-construction.com"
+  },
+  {
+   "id": "LK2U2M8C",
+   "name": "The Murphy Elevator Company",
+   "domain": "murphyelevator.com"
+  },
+  {
+   "id": "6J72EB3S",
+   "name": "LockNet",
+   "domain": "locknet.com"
+  },
+  {
+   "id": "94HMKTZS",
+   "name": "Bme Inc.",
+   "domain": "bmeinc.com"
+  },
+  {
+   "id": "7GJDLHVW",
+   "name": "Marine Solutions, Inc.",
+   "domain": "msimarinesolutions.com"
+  },
+  {
+   "id": "EG884MD3",
+   "name": "Hakes Brothers",
+   "domain": "hakesbrothers.com"
+  },
+  {
+   "id": "B97FK8S6",
+   "name": "Davis & Plomin Mechanical",
+   "domain": "davisandplomin.com"
+  },
+  {
+   "id": "3BRHP978",
+   "name": "Hammer and Steel",
+   "domain": "hammersteel.com"
+  },
+  {
+   "id": "PA8CAV33",
+   "name": "TIS Insurance Services, Inc .",
+   "domain": "tisins.com"
+  },
+  {
+   "id": "UZLVP8RG",
+   "name": "Ranger Industrial Services",
+   "domain": "rangeris.com"
+  },
+  {
+   "id": "7BXAD47M",
+   "name": "Wehr Constructors, Inc.",
+   "domain": "wehrconstructors.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Louisville, KY",
+   "year_founded": 1945,
+   "revenue": 32525000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 114,
+    "linkedin": 113
+   },
+   "funding_stage": "No Funding",
+   "description": "Wehr Constructors, Inc. is a construction manager and general contractor serving institutional and organizational clients (healthcare, education, commercial, government, religious/non-profit, industrial) that markets itself as community-focused and culture-driven, emphasizing teamwork, faith, character, relationship-building, professional project delivery, and safety."
+  },
+  {
+   "id": "SDHA7BXA",
+   "name": "J. A. Street & Associates",
+   "domain": "jastreet.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Blountville, TN",
+   "revenue": 34689000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 113,
+    "linkedin": 37
+   },
+   "funding_stage": "No Funding",
+   "description": "J. A. Street & Associates is a general contracting firm specializing in design-build and construction management for commercial, industrial, and institutional clients. They serve businesses such as retailers, manufacturers, institutional owners, and developers and claim to differentiate through an integrated, single-source project delivery model and a collaborative team approach."
+  },
+  {
+   "id": "WS2S82DV",
+   "name": "Insight Risk Management",
+   "domain": "irmllc.com",
+   "ownership": "Private Subsidiary",
+   "headquarters_pretty": "Cordova, TN",
+   "year_founded": 2013,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 111,
+    "linkedin": 76
+   },
+   "description": "Insight Risk Management is an independent insurance agency and broker offering commercial and personal insurance placement, employee benefits, surety bonds, and risk management services to business and consumer clients. They emphasize long-standing operation, a team of experienced insurance and surety professionals, and providing multiple coverage options and risk-management advice. Their primary focus is brokering insurance solutions and managing client risk exposures."
+  },
+  {
+   "id": "FMYRVSKD",
+   "name": "Ruggles Sign Company",
+   "domain": "rugglessign.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Versailles, KY",
+   "year_founded": 1946,
+   "revenue": 34798000.0,
+   "primary_business_model_name": "Manufacturer",
+   "employees_estimate": {
+    "grata": 110,
+    "linkedin": 50
+   },
+   "funding_stage": "No Funding",
+   "description": "Ruggles Sign Company manufactures custom signs and manages end-to-end signage programs for business clients, focusing on design, project management, fabrication, installation, rebranding, and maintenance; they emphasize family ownership, long-term experience, personalized service, and the ability to deliver regional to global signage programs."
+  },
+  {
+   "id": "PQNPBGQG",
+   "name": "Wilson Nurseries Inc",
+   "domain": "wilsonnurseries.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Hampshire, IL",
+   "revenue": 52848000.0,
+   "primary_business_model_name": "Retailer",
+   "employees_estimate": {
+    "grata": 107,
+    "linkedin": 22
+   },
+   "funding_stage": "No Funding",
+   "description": "Wilson Nurseries Inc is a landscape supply company offering a wide range of nursery stock, hardgoods, and accessories such as evergreens, grasses, perennials, shrubs, and natural stone. They also provide delivery services to yards and jobsites, as well as cater to contractors looking for quality plants and materials. Their typical customers include landscapers, contractors, and homeowners looking to enhance their outdoor spaces. Wilson Nurseries Inc claims to differentiate itself through its commitment to quality, convenience, and availability, as well as its extensive knowledge of plant information and its display gardens."
+  },
+  {
+   "id": "C8V5BFYM",
+   "name": "Gallmar Industries, LLC",
+   "domain": "fvht.com"
+  },
+  {
+   "id": "GRZS7QYK",
+   "name": "Quality Drywall Midwest",
+   "domain": "qualitydrywallmidwest.com"
+  },
+  {
+   "id": "KNVXR6KL",
+   "name": "The Atlas Companies",
+   "domain": "atlas-co.com"
+  },
+  {
+   "id": "LZ4UD3FP",
+   "name": "Solar Energy Solutions",
+   "domain": "sesre.com"
+  },
+  {
+   "id": "ZQLR5CZG",
+   "name": "Buchanan Contracting Inc.",
+   "domain": "buchanancontracting.net"
+  },
+  {
+   "id": "LPA32ZSH",
+   "name": "Sentry Steel Inc.",
+   "domain": "sentrysteelinc.com"
+  },
+  {
+   "id": "VGSUDBZC",
+   "name": "J.R. Hoe",
+   "domain": "jrhoe.com"
+  },
+  {
+   "id": "ELN7Q4FN",
+   "name": "Adleta Construction",
+   "domain": "adletagroup.com"
+  },
+  {
+   "id": "HCETTZH9",
+   "name": "CCI Industrial Services",
+   "domain": "cciindustrial.us"
+  },
+  {
+   "id": "U5SCPQHG",
+   "name": "Edwards Moving & Rigging",
+   "domain": "edwardsmoving.com"
+  },
+  {
+   "id": "XJFRR9ZV",
+   "name": "American Scaffolding Inc.",
+   "domain": "amscaf.com"
+  },
+  {
+   "id": "MZQPMUZE",
+   "name": "Swift Roofing",
+   "domain": "swiftroofing.net"
+  },
+  {
+   "id": "VB9BGHSQ",
+   "name": "Associated Pipe Line",
+   "domain": "associatedpipeline.com"
+  },
+  {
+   "id": "4TAV2KVL",
+   "name": "Kerkan Roofing Inc",
+   "domain": "kerkan.com"
+  },
+  {
+   "id": "HF8HEXCA",
+   "name": "Alliance Corporation",
+   "domain": "alliancecorporation.com"
+  },
+  {
+   "id": "GPUMW4RK",
+   "name": "Congleton-Hacker Company",
+   "domain": "congleton-hacker.com"
+  },
+  {
+   "id": "8QNLLVZ9",
+   "name": "Lynn Imaging",
+   "domain": "lynnimaging.com"
+  },
+  {
+   "id": "XPDLNMP5",
+   "name": "Thermal Equipment Sales KY",
+   "domain": "thermaleq.com"
+  },
+  {
+   "id": "LN9URYYA",
+   "name": "Contractors Materials Company",
+   "domain": "cmcmmi.com"
+  },
+  {
+   "id": "L6PLRD3K",
+   "name": "ABR Construction",
+   "domain": "abrconstruction.com"
+  },
+  {
+   "id": "8KWXXZRU",
+   "name": "Marrillia Design and Construction",
+   "domain": "marrillia.com"
+  },
+  {
+   "id": "M88EWRBX",
+   "name": "Martin Contracting, Inc",
+   "domain": "martincontracting.net"
+  },
+  {
+   "id": "KSFPYUEW",
+   "name": "Sterling Thompson Company",
+   "domain": "sterlingthompson.com"
+  },
+  {
+   "id": "LXJ7DYFB",
+   "name": "Wilson Equipment Company",
+   "domain": "wilsonequipment.com"
+  },
+  {
+   "id": "E8N7WGP4",
+   "name": "C & R Asphalt, LLC",
+   "domain": "asphaltanimals.com"
+  },
+  {
+   "id": "5T3FANJK",
+   "name": "HB Masonry LLC",
+   "domain": "hbmasonryky.com"
+  },
+  {
+   "id": "8MENEE2M",
+   "name": "Branscum Construction Company, Inc.",
+   "domain": "branscumconstruction.com"
+  },
+  {
+   "id": "9L7AE6G2",
+   "name": "Thacker-Grigsby Telephone Company, Inc.",
+   "domain": "tgtel.com"
+  },
+  {
+   "id": "YJ86XCFS",
+   "name": "H & R Mechanical Contractors, Inc",
+   "domain": "hrmech.com"
+  },
+  {
+   "id": "T728532E",
+   "name": "R&J Cylinder and Machine",
+   "domain": "rjcylinder.com"
+  },
+  {
+   "id": "CTKSESLS",
+   "name": "D & D Machinery Movers",
+   "domain": "ddmachinerymovers.com"
+  },
+  {
+   "id": "XQNP5729",
+   "name": "Parsons Electric, Inc.",
+   "domain": "parsonselectric.com"
+  },
+  {
+   "id": "X5U2UTGW",
+   "name": "Ramey Construction",
+   "domain": "rameyco.com"
+  },
+  {
+   "id": "LQ3M5ZP7",
+   "name": "T.E.M. Group",
+   "domain": "temgroupinc.com"
+  },
+  {
+   "id": "KE4EMVJ8",
+   "name": "Broughton Construction",
+   "domain": "broughtonflatwork.com"
+  },
+  {
+   "id": "KNDZDHA5",
+   "name": "Herrick Company, Inc.",
+   "domain": "herrick-company.com"
+  },
+  {
+   "id": "QC4WRGPW",
+   "name": "Smith Contractors",
+   "domain": "smithcontractorsinc.com"
+  },
+  {
+   "id": "FAA76Y3H",
+   "name": "Meridian Wealth Management, LLC",
+   "domain": "meridianwealthllc.com"
+  },
+  {
+   "id": "U6QP3G96",
+   "name": "Baldwin CPAs, PLLC",
+   "domain": "baldwincpas.com"
+  },
+  {
+   "id": "8LG3HLYX",
+   "name": "Universal Contracting Corporation",
+   "domain": "unicon.cc"
+  },
+  {
+   "id": "9GLEX3PL",
+   "name": "M&M Services Co Inc",
+   "domain": "mmservicesky.com"
+  },
+  {
+   "id": "HLRMWSFH",
+   "name": "ENCON Equipment",
+   "domain": "enconequipment.com"
+  },
+  {
+   "id": "G6DN5PXH",
+   "name": "Thompson Electrical Constructors Inc.",
+   "domain": "thompsonconstructors.com"
+  },
+  {
+   "id": "PQW6RULC",
+   "name": "CKSM",
+   "domain": "cksm.net"
+  },
+  {
+   "id": "TM8MYKMU",
+   "name": "Mason Structure, Inc",
+   "domain": "masonstructure.com"
+  },
+  {
+   "id": "D48X3DW2",
+   "name": "Castlen Steel",
+   "domain": "castlensteel.com"
+  },
+  {
+   "id": "5W9XMNND",
+   "name": "Insuramax",
+   "domain": "insuramax.com"
+  },
+  {
+   "id": "2U3S5DWZ",
+   "name": "Ideal Fencing Corp.",
+   "domain": "idealfencingcorp.com"
+  },
+  {
+   "id": "4HF84LM9",
+   "name": "Keller Management Services, LLC",
+   "domain": "keller-na.com"
+  },
+  {
+   "id": "M7FHG78W",
+   "name": "Semper Tek, Inc.",
+   "domain": "sempertekinc.com"
+  },
+  {
+   "id": "LQGHVULK",
+   "name": "Thoroughbred Contractors, LLC",
+   "domain": "tbredcontractors.com"
+  },
+  {
+   "id": "QPGLKEME",
+   "name": "Highland Roofing",
+   "domain": "highlandroofing.com"
+  },
+  {
+   "id": "ZR2WL2Z6",
+   "name": "Martina Bros Co",
+   "domain": "martinabros.com"
+  },
+  {
+   "id": "GLGMLWPW",
+   "name": "ACE Consulting",
+   "domain": "ace-consulting.net"
+  },
+  {
+   "id": "JSCHMPNJ",
+   "name": "Jiffy Fastening Systems Inc",
+   "domain": "jiffyfastening.com"
+  },
+  {
+   "id": "SVLKKTTD",
+   "name": "Innovative Demolition Service LLC",
+   "domain": "innovativedemolition.com"
+  },
+  {
+   "id": "B8SZBAZ9",
+   "name": "Capitol Tunneling Inc",
+   "domain": "capitoltunneling.com"
+  },
+  {
+   "id": "SR3F84DL",
+   "name": "United Structural Systems Ltd., Inc.",
+   "domain": "ifixfoundations.com"
+  },
+  {
+   "id": "P98R8MJR",
+   "name": "Jmoore Construction",
+   "domain": "jmoore.construction"
+  },
+  {
+   "id": "QA4K9FWM",
+   "name": "Heritage Window Solutions",
+   "domain": "heritagewindowsolutions.com"
+  },
+  {
+   "id": "6DSD2TB8",
+   "name": "B & R Electrical, Inc.",
+   "domain": "br-electrical.com"
+  },
+  {
+   "id": "24VHLMTP",
+   "name": "BJB Inc.",
+   "domain": "bjbrestoration.com"
+  },
+  {
+   "id": "EWNH2BRA",
+   "name": "Brett Construction Co.",
+   "domain": "brettcon.com"
+  },
+  {
+   "id": "JGJW8T4U",
+   "name": "Hyland Insurance",
+   "domain": "hylandins.net"
+  },
+  {
+   "id": "ZSEH2KP5",
+   "name": "Bennett's Contracting, Inc.",
+   "domain": "bennettscontracting.com"
+  },
+  {
+   "id": "M9KSNBGN",
+   "name": "Lexington Lawn & Landscape",
+   "domain": "lexlawnky.com"
+  },
+  {
+   "id": "EYL9VERJ",
+   "name": "Turner Insurance & Bonding",
+   "domain": "turnerfirst.com"
+  },
+  {
+   "id": "SJK7BQ9V",
+   "name": "45Ninety.Com",
+   "domain": "45ninety.com"
+  },
+  {
+   "id": "5JD3HLXC",
+   "name": "Site-Safe",
+   "domain": "sitesafeonline.com"
+  },
+  {
+   "id": "RXJGXXDF",
+   "name": "Bosse Construction",
+   "domain": "bosseconstruction.com"
+  },
+  {
+   "id": "QLNMS2AZ",
+   "name": "Vc Veterans Contracting LLC",
+   "domain": "veteranscontractingllc.com"
+  },
+  {
+   "id": "WQREZ8J4",
+   "name": "Big League Roofers",
+   "domain": "bigleagueroofers.com"
+  },
+  {
+   "id": "TACYMEKV",
+   "name": "Bim Group",
+   "domain": "bimgroup.us"
+  },
+  {
+   "id": "DM87RHGJ",
+   "name": "Gunter Construction Roofing",
+   "domain": "gunterroofing.com"
+  },
+  {
+   "id": "88VZBU9N",
+   "name": "Winelco Inc.",
+   "domain": "winelco.com"
+  },
+  {
+   "id": "9JHSMCFE",
+   "name": "SkyRidge",
+   "domain": "skyridgeparkcity.com"
+  },
+  {
+   "id": "5E9X4W33",
+   "name": "1st Call Disaster Services",
+   "domain": "1stcalldisasterservices.com"
+  },
+  {
+   "id": "MGE5CJCA",
+   "name": "Kerr Brothers Funeral Home",
+   "domain": "kerrbrothersfuneralhome.com"
+  },
+  {
+   "id": "KK2Y7Y8C",
+   "name": "Messier & Associates, Inc.",
+   "domain": "messainc.com"
+  },
+  {
+   "id": "AWNXDDLF",
+   "name": "Southern Sheet Metal Inc",
+   "domain": "southernsheetmetal.com"
+  },
+  {
+   "id": "94Q4J7JW",
+   "name": "ISU Insurance and Investment Group",
+   "domain": "isuinsuranceandinvestmentgroup.com"
+  },
+  {
+   "id": "HY4EB4HR",
+   "name": "McKinney Painting, Inc.",
+   "domain": "mckinneypainting.com"
+  },
+  {
+   "id": "2ZHWZP7H",
+   "name": "Commonwealth Roofing Corp.",
+   "domain": "commonwealthroofing.com"
+  },
+  {
+   "id": "LR4NMQET",
+   "name": "Lanham Bros",
+   "domain": "lanhambros.com"
+  },
+  {
+   "id": "HUEJZL2P",
+   "name": "Wilhite Limited Inc.",
+   "domain": "wilhitelimited.com"
+  },
+  {
+   "id": "PDR425ZM",
+   "name": "ABG Caulking & Waterproofing of Morristown Inc.",
+   "domain": "abg-caulking.com"
+  },
+  {
+   "id": "D32UGVVB",
+   "name": "Mcd Concrete Enterprises",
+   "domain": "mcdconcrete.com"
+  },
+  {
+   "id": "CXP55R6J",
+   "name": "Shelton Construction",
+   "domain": "sheltonconstruction.net"
+  },
+  {
+   "id": "LZPTJXDA",
+   "name": "Tram Construction KY",
+   "domain": "tramconstructioninc.com"
+  },
+  {
+   "id": "9ZUUEL6W",
+   "name": "ShieldWorks",
+   "domain": "shieldworks.com"
+  },
+  {
+   "id": "RPFFBFMV",
+   "name": "Hayden Steel",
+   "domain": "haydensteel.com"
+  },
+  {
+   "id": "GCJGHY6Q",
+   "name": "RAM Engineering & Construction",
+   "domain": "ram-engineering.net"
+  },
+  {
+   "id": "QD5Q6RPT",
+   "name": "Packs, Inc.",
+   "domain": "packsinc.com"
+  },
+  {
+   "id": "93BH6KG8",
+   "name": "Trace Creek Construction, Inc.",
+   "domain": "tracecreek.net"
+  },
+  {
+   "id": "BW3AK5KD",
+   "name": "A1 Sheet Metal Inc.",
+   "domain": "a1sheetmetal.com"
+  },
+  {
+   "id": "KKCRD63T",
+   "name": "MP Kelly Design & Construction",
+   "domain": "mpkellyconstruction.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Richmond, KY",
+   "year_founded": 2004,
+   "revenue": 7432000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 29,
+    "linkedin": 9
+   },
+   "funding_stage": "No Funding",
+   "description": "MP Kelly Design & Construction designs and constructs customized industrial and commercial buildings for business clients. They provide pre-construction consulting, design-build, general contracting and construction management services, with specialized capabilities in tilt-up construction and heavy industrial foundations, and emphasize owner/principal involvement and extensive project experience."
+  },
+  {
+   "id": "L59SES6H",
+   "name": "The Rock, LLC",
+   "domain": "therockllc.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Richmond, KY",
+   "revenue": 7176000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 28
+   },
+   "funding_stage": "No Funding",
+   "description": "THE ROCK is a family-owned masonry contractor offering brick, stone, and block construction and design/build services to commercial builders, developers, and general contractors. They emphasize decades of industry experience and capability across veneer, structural masonry (CMU), cast stone and architectural detailing for building projects."
+  },
+  {
+   "id": "22639RAG",
+   "name": "Cass Concrete",
+   "domain": "cassconcrete.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Danville, KY",
+   "year_founded": 2021,
+   "revenue": 7176000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 28,
+    "linkedin": 5
+   },
+   "funding_stage": "No Funding",
+   "description": "Cass Concrete provides on-site concrete construction and related services for commercial, industrial, and multi-family housing projects. They offer Gypcrete underlayment and a range of concrete work\u2014foundations, structural renovations, FF & FL floor systems, demolition, paving, sidewalks, curbs, walls, columns, and piers\u2014and position themselves around precision, safety, and efficiency while supporting projects from consultation to completion."
+  },
+  {
+   "id": "62BM3E5Z",
+   "name": "Associated Railroad Contrs Inc",
+   "domain": "associatedrailroad.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Louisville, KY",
+   "revenue": 7176000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 28,
+    "linkedin": 8
+   },
+   "funding_stage": "No Funding",
+   "description": "Associated Railroad Contractors Inc. offers design and build services, new construction, maintenance, and material and equipment for sale to the railroad industry. Their typical customers are railroad companies, transit agencies, and other organizations involved in the construction and maintenance of rail infrastructure. Associated Railroad Contractors Inc. positions itself as a reliable and experienced partner in the railroad industry, emphasizing their expertise, quality of work, and dedication to meeting their customers' needs."
+  },
+  {
+   "id": "7MPNBT8A",
+   "name": "Ez Construction",
+   "domain": "ezconst.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Louisville, KY",
+   "year_founded": 1970,
+   "revenue": 16205000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 28,
+    "linkedin": 19
+   },
+   "funding_stage": "No Funding",
+   "description": "E-Z Construction provides design-build site development and concrete construction services for commercial, industrial, and public-sector clients, specializing in park infrastructure, parking and storm systems, and concrete structures. They target manufacturing, commercial, and public-works customers and position themselves as a value-engineered, efficiency-focused contractor with decades of experience and a knowledgeable, certified staff."
+  },
+  {
+   "id": "NFHX3983",
+   "name": "Congleton Lumber & Design Center",
+   "domain": "congletonlumber.com"
+  },
+  {
+   "id": "88Y5G2HL",
+   "name": "Mountain Valley Insurance",
+   "domain": "mountainvalleyinsurance.net"
+  },
+  {
+   "id": "SHSV4BD6",
+   "name": "Commonwealth Sign Company",
+   "domain": "commonwealthsign.com"
+  },
+  {
+   "id": "TXZ9R8QG",
+   "name": "Lodge At Red River Ranch",
+   "domain": "redriverranch.com"
+  },
+  {
+   "id": "BBU9XDW9",
+   "name": "Kmhlouisville",
+   "domain": "kmhlouisville.com"
+  },
+  {
+   "id": "ZQVZVZVP",
+   "name": "Holland Excavating",
+   "domain": "hollandexcavating.com"
+  },
+  {
+   "id": "YTZTT8XD",
+   "name": "Kentucky Associated General Contractors Self Insurers' Fund",
+   "domain": "kyagcsif.com"
+  },
+  {
+   "id": "57ERJHLF",
+   "name": "Jbk, Inc.",
+   "domain": "flatroofonline.com"
+  },
+  {
+   "id": "FPCFTZT3",
+   "name": "S & G Paving",
+   "domain": "sgpaving.net"
+  },
+  {
+   "id": "W5WE66MY",
+   "name": "Prickel Electric, Llc",
+   "domain": "prickelelectric.com"
+  },
+  {
+   "id": "JM3UG57D",
+   "name": "Chas. H. Bilz Insurance Agency, Inc.",
+   "domain": "bilzinsurance.com"
+  },
+  {
+   "id": "TTKWJERA",
+   "name": "Pearce Blackburn Roofing, Llc",
+   "domain": "pearce-blackburn.com"
+  },
+  {
+   "id": "V72FHPMK",
+   "name": "Precision Services",
+   "domain": "precision-services.com"
+  },
+  {
+   "id": "HJ5R72NU",
+   "name": "Laswell Electric Company Inc",
+   "domain": "lecoinc.com"
+  },
+  {
+   "id": "VH6GGN2C",
+   "name": "WC Dillon Co.",
+   "domain": "wcdilloncompany.com"
+  },
+  {
+   "id": "4DU9LG9D",
+   "name": "Reed's Sprayfoam Insulation",
+   "domain": "reedssprayfoam.com"
+  },
+  {
+   "id": "RVRQQLY9",
+   "name": "Elaine Allen LLC",
+   "domain": "elaineallenllc.com"
+  },
+  {
+   "id": "A6PPGZN4",
+   "name": "Doss and Horky Inc",
+   "domain": "dosshorky.com"
+  },
+  {
+   "id": "3RCQZDSQ",
+   "name": "Lynx Labeling",
+   "domain": "lynxlabeling.com"
+  },
+  {
+   "id": "54UY7NQT",
+   "name": "Tomrook Steel LLC",
+   "domain": "tomrook.com"
+  },
+  {
+   "id": "NZUNKTSX",
+   "name": "E.L. Electrical Contracting, Inc",
+   "domain": "elelectric.com"
+  },
+  {
+   "id": "JU7EQX23",
+   "name": "Green River Rentals Inc",
+   "domain": "greenriverrental.com"
+  },
+  {
+   "id": "M2ZQNVU3",
+   "name": "Air Mechanical Sales",
+   "domain": "airmechsales.com"
+  },
+  {
+   "id": "V2JBASAY",
+   "name": "LoVo Systems, Inc",
+   "domain": "lovosystems.com"
+  },
+  {
+   "id": "58KV5R33",
+   "name": "Beaver Creek Hydrology",
+   "domain": "beavercreekhydrology.com"
+  },
+  {
+   "id": "DAR5XF5C",
+   "name": "W Principles",
+   "domain": "wprinciples.com"
+  },
+  {
+   "id": "GDWEVCB5",
+   "name": "Walker Electrical Contractors",
+   "domain": "walkerelectric.net"
+  },
+  {
+   "id": "3RQY6B6K",
+   "name": "Toadvine Enterprises",
+   "domain": "toadvine.com"
+  },
+  {
+   "id": "Y2YS2CNV",
+   "name": "B&R Construction, Llc",
+   "domain": "bandr-construction.com"
+  },
+  {
+   "id": "SLP62U8V",
+   "name": "Jave, Llc",
+   "domain": "javellc.com"
+  },
+  {
+   "id": "XEU7MB6B",
+   "name": "Clay Pipeline Inc",
+   "domain": "claypipeline.com"
+  },
+  {
+   "id": "HD4RHZT3",
+   "name": "Southern Trades Inc.",
+   "domain": "southerntradesinc.com"
+  },
+  {
+   "id": "YKSYV9KX",
+   "name": "Kentucky Realty Corporations",
+   "domain": "kyrealtyonline.net"
+  },
+  {
+   "id": "7EBLCEJZ",
+   "name": "Concrete Coring Company",
+   "domain": "concretecoringcompany.com"
+  },
+  {
+   "id": "AF74XCL4",
+   "name": "JMK Electric",
+   "domain": "jmkelectric.com"
+  },
+  {
+   "id": "FBB79F3Q",
+   "name": "Got Caulking Inc",
+   "domain": "gottcaulking.com"
+  },
+  {
+   "id": "ZJCTZXM5",
+   "name": "Dbgc, Inc",
+   "domain": "dallmanbohl.com"
+  },
+  {
+   "id": "Q9DH8Q7D",
+   "name": "Kitchen Concepts",
+   "domain": "kitchenconceptsky.com"
+  },
+  {
+   "id": "NX3F3ESA",
+   "name": "Mci-Ridglok",
+   "domain": "mci-ridglok.com"
+  },
+  {
+   "id": "ULUQ2ASA",
+   "name": "Cooper Painting Inc",
+   "domain": "cooperpainting.com"
+  },
+  {
+   "id": "F8GDU9TD",
+   "name": "Unified Electric Inc",
+   "domain": "unifiedelectric.net"
+  },
+  {
+   "id": "ZBUPX34U",
+   "name": "McIntosh Electric LLC",
+   "domain": "mcintoshelectricllc.com"
+  },
+  {
+   "id": "3TNPZURH",
+   "name": "Aurora Pools & Spas",
+   "domain": "aurorapoolsandspas.com"
+  },
+  {
+   "id": "QV38YB8Y",
+   "name": "Insulation Technologies",
+   "domain": "insulationtechnologies.com"
+  },
+  {
+   "id": "B6H8CRUE",
+   "name": "Louisville Tree Service, LLC",
+   "domain": "louisvilletreeservice.biz"
+  },
+  {
+   "id": "9VVPRGHZ",
+   "name": "Disponette Service Co., Inc.",
+   "domain": "disponette.com"
+  },
+  {
+   "id": "XGQURMMY",
+   "name": "Burnett Sons Roofing Inc",
+   "domain": "burnettroofs.com"
+  },
+  {
+   "id": "83PB5F8V",
+   "name": "Grott Locksmith",
+   "domain": "grottlocksmith.net"
+  },
+  {
+   "id": "3GGGEF9N",
+   "name": "Radden Painting",
+   "domain": "raddenpainting.com"
+  },
+  {
+   "id": "2DCCRCCX",
+   "name": "Crown Stair",
+   "domain": "crownstair.com"
+  },
+  {
+   "id": "NMMMYF9Y",
+   "name": "Fab Steel Inc",
+   "domain": "fabsteelinc.com"
+  },
+  {
+   "id": "MHGJWEZS",
+   "name": "Tommy Wells Construction Inc",
+   "domain": "tommywellsconstruction.com"
+  },
+  {
+   "id": "D669GXFA",
+   "name": "Old Colony Insurance Svc Inc",
+   "domain": "oldcolonyinsurance.com"
+  },
+  {
+   "id": "GGV4HMXV",
+   "name": "Hard Hat Housing",
+   "domain": "hardhathousing.com"
+  },
+  {
+   "id": "DA4SB426",
+   "name": "D & M Electric",
+   "domain": "dmelectric.com"
+  },
+  {
+   "id": "JYD6PSSV",
+   "name": "Amshauling.Com",
+   "domain": "amshauling.com"
+  },
+  {
+   "id": "MT46VR88",
+   "name": "Fayette Erectors Inc",
+   "domain": "fayetteerectors.com"
+  },
+  {
+   "id": "TQNAJWAQ",
+   "name": "McKnight & Associates",
+   "domain": "mcknightgc.com"
+  },
+  {
+   "id": "XN5MRP9G",
+   "name": "Growth Solutions Team",
+   "domain": "growthsolutionsteam.com"
+  },
+  {
+   "id": "HCRFZG44",
+   "name": "Total Tech Solutions LLC",
+   "domain": "totaltech.net"
+  },
+  {
+   "id": "2QHUG6Q6",
+   "name": "Gooch Construction Inc",
+   "domain": "goochconstruction.com"
+  },
+  {
+   "id": "SGQ46JK2",
+   "name": "Estesenergy.Com",
+   "domain": "estesenergy.com"
+  },
+  {
+   "id": "BE7Z7NVK",
+   "name": "A1 Portables",
+   "domain": "a1portables.com"
+  },
+  {
+   "id": "E5S8UXWQ",
+   "name": "Lagco, Inc.",
+   "domain": "lagco.com"
+  },
+  {
+   "id": "Z3K7GXU6",
+   "name": "Technical Piping Svc Inc",
+   "domain": "technicalpiping.com"
+  },
+  {
+   "id": "PXHEW44M",
+   "name": "Al Torstrick Insurance Agency",
+   "domain": "altorstrick.com"
+  },
+  {
+   "id": "5VK9C6HY",
+   "name": "Graves & Graves, P.C.",
+   "domain": "graveslaw.org"
+  },
+  {
+   "id": "KC8HH55T",
+   "name": "Star Plumbing & Mechanical",
+   "domain": "mystarpros.com"
+  },
+  {
+   "id": "U2PEGPFB",
+   "name": "R C Griffin Inc",
+   "domain": "rcgriffin.com"
+  },
+  {
+   "id": "U5WS72Y6",
+   "name": "Spectrum Contracting Services, Inc.",
+   "domain": "spectrumcontract.com"
+  },
+  {
+   "id": "Q68RLFH2",
+   "name": "Johnson Lawrence Walker Inc",
+   "domain": "jlwins.com"
+  },
+  {
+   "id": "YLPMTG2L",
+   "name": "Service Specialties",
+   "domain": "servspecllc.com"
+  },
+  {
+   "id": "58HLTGRP",
+   "name": "Interstate Fence Supply Inc",
+   "domain": "interstatefencesupply.com"
+  },
+  {
+   "id": "46V2UY84",
+   "name": "Industrial Installations",
+   "domain": "industrialinstallations.com"
+  },
+  {
+   "id": "3CKCF38U",
+   "name": "Ison Insurance Agency, Inc.",
+   "domain": "isoninsurance.com"
+  },
+  {
+   "id": "RQ8HRWBR",
+   "name": "Integrated Pest Management Services",
+   "domain": "ipmpestcontrol.com"
+  },
+  {
+   "id": "X2CLUAGJ",
+   "name": "Concrete Plus Llc",
+   "domain": "concreteplusllc.com"
+  },
+  {
+   "id": "XFRN7JDE",
+   "name": "Hearn & Fleener, LLC",
+   "domain": "hearnfleener.com"
+  },
+  {
+   "id": "K3YSMNRT",
+   "name": "Dam Steel & Supply",
+   "domain": "damsteelsupply.com"
+  },
+  {
+   "id": "6SBJ96C2",
+   "name": "N3D Group",
+   "domain": "n3dgroup.com"
+  },
+  {
+   "id": "2QZQHHQ7",
+   "name": "Geo Specialties",
+   "domain": "geospecialties.com"
+  },
+  {
+   "id": "P5JGMU4M",
+   "name": "Green Consturction Services, Inc.",
+   "domain": "green-construction.com"
+  },
+  {
+   "id": "4EUGW3GQ",
+   "name": "Lexington Laminates",
+   "domain": "lexingtonlaminates.com"
+  },
+  {
+   "id": "QVARCGPA",
+   "name": "HPP Industrial",
+   "domain": "hppindustrial.com"
+  },
+  {
+   "id": "W44TUFRR",
+   "name": "Early Environmental Contracting, LLC",
+   "domain": "earlyenvironmental.com"
+  },
+  {
+   "id": "Y5KM75AC",
+   "name": "Dynamic Restoration LLC",
+   "domain": "dynamicrestorationky.com"
+  },
+  {
+   "id": "EV942B6S",
+   "name": "Kebco Inc.",
+   "domain": "kebcoinc.com"
+  },
+  {
+   "id": "WXG3U8EF",
+   "name": "George H. Friedlander Company",
+   "domain": "friedlandercompany.com"
+  },
+  {
+   "id": "G7M9FSAB",
+   "name": "Gallagher",
+   "domain": "ajg.com"
+  },
+  {
+   "id": "9Z6B37EN",
+   "name": "R & M Construction Co.",
+   "domain": "rmconstructionco.com"
+  },
+  {
+   "id": "4CMDPMVG",
+   "name": "Sunrise Excavation",
+   "domain": "sunriseexcavating.com"
+  },
+  {
+   "id": "S242ENWP",
+   "name": "Bluegrass Stream, LLC",
+   "domain": "bluegrassstream.com"
+  },
+  {
+   "id": "6QC6SXNV",
+   "name": "Overhead Door Company of Corbin",
+   "domain": "corbindoors.com"
+  },
+  {
+   "id": "YSTK48CK",
+   "name": "Spears Mfg Co Inc",
+   "domain": "spearsmfg.com"
+  },
+  {
+   "id": "YGFJYGF6",
+   "name": "Raymond Hymer Plumbing",
+   "domain": "raymondhymerplumbing.com"
+  },
+  {
+   "id": "GRABCHLW",
+   "name": "Enviro-Tec Services",
+   "domain": "envirotecservices.net",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Bowling Green, KY",
+   "year_founded": 2012,
+   "revenue": 1791000.0,
+   "primary_business_model_name": "Manufacturer",
+   "employees_estimate": {
+    "grata": 8
+   },
+   "funding_stage": "No Funding",
+   "description": "Enviro-Tec Services provides industrial fabrication and mechanical contracting services to business clients such as manufacturers and commercial operators. They position themselves as industrial fabricators and mechanical contractors and invite direct contact for project needs and inquiries."
+  },
+  {
+   "id": "H4PQZWBR",
+   "name": "Little Creek Construction, LLC",
+   "domain": "littlecreekconstruction.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Yadkinville, NC",
+   "revenue": 1701000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 8,
+    "linkedin": 3
+   },
+   "funding_stage": "No Funding",
+   "description": "Little Creek Construction, LLC provides residential construction services specializing in home additions and exterior remodeling for homeowners. They position themselves as a family-owned, licensed contractor with experienced leadership that uses quality materials and offers responsive, personalized service. Primary services include garage, room and sunroom additions, decks, patios, and fence construction."
+  },
+  {
+   "id": "HBTTPV9B",
+   "name": "Do It Best",
+   "domain": "doitbest.com",
+   "ownership": "Private Subsidiary",
+   "headquarters_pretty": "Illinois, USA",
+   "year_founded": 1968,
+   "primary_business_model_name": "Retailer",
+   "employees_estimate": {
+    "grata": 8
+   },
+   "description": "Do It Best is a member-owned hardware, lumber and building materials cooperative that supplies and retails a broad assortment of tools, building materials, paint, plumbing, lawn & garden, and outdoor living products to consumers and member retail stores; they highlight cooperative membership, nationwide member locations, store-level services and same-day online order pickup."
+  },
+  {
+   "id": "7CDFAMHJ",
+   "name": "The King's Helper",
+   "domain": "kingshelper.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Lexington, KY",
+   "revenue": 1595000.0,
+   "primary_business_model_name": "Services",
+   "employees_estimate": {
+    "grata": 8,
+    "linkedin": 1
+   },
+   "funding_stage": "No Funding",
+   "description": "The King's Helper provides plumbing and HVAC repair, maintenance, and emergency response services to residential and small property customers and positions themselves as a dependable, long-established partner that honors commitments and responds when problems arise."
+  },
+  {
+   "id": "A7LVSSUP",
+   "name": "Nally & Gibson Georgetown Inc",
+   "domain": "nallygibson.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "George Town, Cayman Islands",
+   "revenue": 1957000.0,
+   "primary_business_model_name": "Producer",
+   "employees_estimate": {
+    "grata": 8,
+    "linkedin": 8
+   },
+   "funding_stage": "No Funding",
+   "description": "Nally & Gibson Georgetown Inc operates a limestone quarry and supplies crushed limestone and other construction aggregates, and provides paving services. They serve construction and paving contractors and other businesses needing aggregate materials. They position themselves as a long-established, vertically integrated supplier with on-site quarrying and paving capabilities."
+  },
+  {
+   "id": "WBN2U9X8",
+   "name": "River City Machine & Tool",
+   "domain": "rivercitymachineandtool.net"
+  },
+  {
+   "id": "XP2KJY6C",
+   "name": "B&B Utility Services",
+   "domain": "bandbutilityservices.com"
+  },
+  {
+   "id": "CRDWK4ZF",
+   "name": "Duane Realty Group",
+   "domain": "duanerealtygroup.com"
+  },
+  {
+   "id": "3YZ5YDGN",
+   "name": "Sams Floor Covering Inc",
+   "domain": "samsfloorcoveringsny.com"
+  },
+  {
+   "id": "AZTWZXTJ",
+   "name": "Special Projects International",
+   "domain": "specialprojects.com"
+  },
+  {
+   "id": "WNCS8E7H",
+   "name": "Smith Welding And Fabrication Inc",
+   "domain": "smithweldandfab.com"
+  },
+  {
+   "id": "ASJSHN96",
+   "name": "Summit Flooring",
+   "domain": "summitflooringgroup.com"
+  },
+  {
+   "id": "3R35X283",
+   "name": "Klempnerexcavating.Com",
+   "domain": "klempnerexcavating.com"
+  },
+  {
+   "id": "DSJCBA64",
+   "name": "Smith-Altman Insurance Agency",
+   "domain": "smithaltman.com"
+  },
+  {
+   "id": "JTPBJA97",
+   "name": "Tucker Building Company",
+   "domain": "tuckerbuildingcompany.com"
+  },
+  {
+   "id": "DV6JNAXP",
+   "name": "Cambridge Construction",
+   "domain": "buildwithcambridge.com"
+  },
+  {
+   "id": "4JMSXYGU",
+   "name": "Glasgow Insurance Agency",
+   "domain": "glasgowins.com"
+  },
+  {
+   "id": "LZVFH649",
+   "name": "JBR Industrial Servces, LLC",
+   "domain": "jbrindustrialservices.com"
+  },
+  {
+   "id": "T9TFWBXU",
+   "name": "Sams Floor Covering",
+   "domain": "samsfc.com"
+  },
+  {
+   "id": "M2HZ47BH",
+   "name": "Central Kentucky Glass",
+   "domain": "centralkentuckyglass.com"
+  },
+  {
+   "id": "C9AJKJY3",
+   "name": "PSI Paving",
+   "domain": "psipaving.net"
+  },
+  {
+   "id": "UZVXS289",
+   "name": "Falco Drilling Co",
+   "domain": "falcodrilling.com"
+  },
+  {
+   "id": "NVBD676N",
+   "name": "R&R Roofing and Siding",
+   "domain": "rrroofingandsiding.com"
+  },
+  {
+   "id": "XV73YU29",
+   "name": "KCS-Kentuckiana Contracting Services",
+   "domain": "kentuckianacontracting.com"
+  },
+  {
+   "id": "JPUS7ST8",
+   "name": "A G C Of Kentucky Inc",
+   "domain": "agcky.org"
+  },
+  {
+   "id": "GME3TZSK",
+   "name": "Means Tool Co",
+   "domain": "meanstoolco.com"
+  },
+  {
+   "id": "GHPU69YW",
+   "name": "Slick Rollers.com",
+   "domain": "slickrollers.com"
+  },
+  {
+   "id": "TNKNSCN5",
+   "name": "Cooper Painting",
+   "domain": "cooperpaintinginc.com"
+  },
+  {
+   "id": "2XGRHRSB",
+   "name": "Gilpin Masonry",
+   "domain": "gilpinmasonry.com"
+  },
+  {
+   "id": "657KACFU",
+   "name": "Anything Email",
+   "domain": "anythingemail.com"
+  },
+  {
+   "id": "NJRS76Y7",
+   "name": "Custom Creations, Inc.",
+   "domain": "customcreationsky.com"
+  },
+  {
+   "id": "JQB4VXGG",
+   "name": "L A Surety Solutions LLC",
+   "domain": "lasurety.net"
+  },
+  {
+   "id": "V7R2RPGH",
+   "name": "Heat Pro",
+   "domain": "heatpro.net"
+  },
+  {
+   "id": "8HHF9NNZ",
+   "name": "Hall and Clark Insurance Agency, Inc.",
+   "domain": "hallclark.com"
+  },
+  {
+   "id": "2J4QKZYQ",
+   "name": "Robert Ventures",
+   "domain": "robertventures.com"
+  },
+  {
+   "id": "WULZT3CE",
+   "name": "Heckmann Sales & Leasing",
+   "domain": "heckmannsales.com"
+  },
+  {
+   "id": "MWLBQ3YT",
+   "name": "Obara Corp",
+   "domain": "obarausa.com"
+  },
+  {
+   "id": "2RS55TMS",
+   "name": "Integ Construction Management",
+   "domain": "integconstruction.com"
+  },
+  {
+   "id": "HMH6E755",
+   "name": "Bluegrass Tool & Industrial",
+   "domain": "sandkindustrial.com"
+  },
+  {
+   "id": "MWBD95P4",
+   "name": "IN-COM Data Systems",
+   "domain": "com.com"
+  },
+  {
+   "id": "35W3FLT3",
+   "name": "Lewis Brothers Funeral Chapel",
+   "domain": "lewisbrothersfuneralchapel.com"
+  },
+  {
+   "id": "Y4YHZHDK",
+   "name": "Vendoor",
+   "domain": "vendoorapp.com"
+  },
+  {
+   "id": "MGVQEAZ2",
+   "name": "Minnifield Enterprize Inc",
+   "domain": "minnifield.net"
+  },
+  {
+   "id": "6HV7HC3D",
+   "name": "Red Arrow Corporation",
+   "domain": "redarrowcorp.net"
+  },
+  {
+   "id": "PS2SL6YA",
+   "name": "Lowe Pools, Inc",
+   "domain": "lowepools.com"
+  },
+  {
+   "id": "BKMMFYF3",
+   "name": "Bri-Den CO",
+   "domain": "bridenroofing.com"
+  },
+  {
+   "id": "NHSU2P9W",
+   "name": "Spencer Concrete",
+   "domain": "spencerconcrete.com"
+  },
+  {
+   "id": "VMDPRGGF",
+   "name": "Carter & Witt",
+   "domain": "carterwitt.com"
+  },
+  {
+   "id": "37TRT4YQ",
+   "name": "McKnight & Associates PC",
+   "domain": "mcknightsurveys.com"
+  },
+  {
+   "id": "R7LWJG8F",
+   "name": "Hickey Steel",
+   "domain": "hickeysteel.com"
+  },
+  {
+   "id": "UNDUWULS",
+   "name": "test",
+   "domain": "test-llc.llc"
+  },
+  {
+   "id": "EFY596Z7",
+   "name": "Bobby Luttrell & Sons, L.L.C.",
+   "domain": "luttrellandsons.com"
+  },
+  {
+   "id": "YJDQ7JCA",
+   "name": "LIBERTY Holding",
+   "domain": "libertygroupholdings.com"
+  },
+  {
+   "id": "T53AA4DR",
+   "name": "Geothermalearthworks.Com",
+   "domain": "geothermalearthworks.com"
+  },
+  {
+   "id": "FT2VGC2M",
+   "name": "Walker Electrical & Communication Contractor, Inc",
+   "domain": "walkerelectricky.com"
+  },
+  {
+   "id": "QWXN88T6",
+   "name": "KayKar, Inc.",
+   "domain": "kaykarinc.com"
+  },
+  {
+   "id": "ZHSC2PLG",
+   "name": "Tri-Star Roofing & Renovations",
+   "domain": "tristarroofingrenovations.com"
+  },
+  {
+   "id": "NGTMXRW3",
+   "name": "Moore HVAC Solutions",
+   "domain": "moorehvacsolutionslexington.com"
+  },
+  {
+   "id": "EMCC96KY",
+   "name": "American Saddlebred Builders LLC",
+   "domain": "asbuildersllc.com"
+  },
+  {
+   "id": "JXE85ZF6",
+   "name": "Samson Steel Structures",
+   "domain": "samsonsteelstructures.com"
+  },
+  {
+   "id": "K9Z4GW2M",
+   "name": "McElroy, Wharton & Boldrick, Inc.",
+   "domain": "ky-insurance.com"
+  },
+  {
+   "id": "W2VT7GPS",
+   "name": "Affordable Towing",
+   "domain": "bgaffordabletowing.com"
+  },
+  {
+   "id": "729VMFHF",
+   "name": "Southern Pipeline Construction",
+   "domain": "soupipe.com"
+  },
+  {
+   "id": "UWS8ADDT",
+   "name": "Roof Services LLC",
+   "domain": "roofservicesllc.net"
+  },
+  {
+   "id": "L46Y3PQ3",
+   "name": "Perdue Environmental Contracting Co., Inc. (PECCO)",
+   "domain": "peccoinc.com"
+  },
+  {
+   "id": "JZTJF8LU",
+   "name": "Legrand",
+   "domain": "legrand.com"
+  },
+  {
+   "id": "PA565PDH",
+   "name": "Akin Sex C",
+   "domain": "akinsexc.com"
+  },
+  {
+   "id": "2TC25TRY",
+   "name": "Extreme Communications LLC",
+   "domain": "extremecommunicationsllc.com"
+  },
+  {
+   "id": "VZWM54SA",
+   "name": "Kentucky Realty Corporation",
+   "domain": "kentuckyrealty.net"
+  },
+  {
+   "id": "6H3SCNK8",
+   "name": "Finally Finished Contracting",
+   "domain": "finallyfinishedcontracting.com"
+  },
+  {
+   "id": "2JWXLRQV",
+   "name": "R&R Siding Llc",
+   "domain": "rrsidingllc.com"
+  },
+  {
+   "id": "VK3VSBBN",
+   "name": "Cook Electrical Contractors",
+   "domain": "cookelec.com"
+  },
+  {
+   "id": "PKHFXLM5",
+   "name": "Stanley Pipeline",
+   "domain": "stanleypipeline.org"
+  },
+  {
+   "id": "3CZHCUSJ",
+   "name": "Stephenson Farms and Contracting, LLC",
+   "domain": "stephensoncontracting.com"
+  },
+  {
+   "id": "Y98EV89F",
+   "name": "AMP Paving LLC",
+   "domain": "amppaving.com"
+  },
+  {
+   "id": "EAXVK987",
+   "name": "Law Office of Richard Deck",
+   "domain": "attorneyricharddeck.com"
+  },
+  {
+   "id": "9UW8ZS86",
+   "name": "Johnsons Flooring Edan",
+   "domain": "johnsons-flooring.edan.io"
+  },
+  {
+   "id": "FSM9ZLEY",
+   "name": "JM Weldco",
+   "domain": "jmweldco.com"
+  },
+  {
+   "id": "7CXW24DY",
+   "name": "United Rail Service",
+   "domain": "unitedrailservice.org"
+  },
+  {
+   "id": "7DREZ2QK",
+   "name": "Georgebstoneco",
+   "domain": "georgebstoneco.com"
+  },
+  {
+   "id": "DCZH3ER3",
+   "name": "Shewmaker Trucking INC",
+   "domain": "shewmakertrucking.com"
+  },
+  {
+   "id": "9XXUNYJJ",
+   "name": "Southern Wv Media",
+   "domain": "southernwvmedia.com"
+  },
+  {
+   "id": "K7BXHA7Y",
+   "name": "Superior Hose & Fittings",
+   "domain": "superiorhose.com"
+  },
+  {
+   "id": "UW5NT276",
+   "name": "Younger, Inc",
+   "domain": "younger-electrical.com"
+  },
+  {
+   "id": "DBFYRDUF",
+   "name": "Bellehomesllc.Com",
+   "domain": "bellehomesllc.com"
+  },
+  {
+   "id": "CQMXD7EZ",
+   "name": "CMD Painting",
+   "domain": "cmdpainting.com"
+  },
+  {
+   "id": "SE9GPXVZ",
+   "name": "Cooper Rose Enterprises Llc",
+   "domain": "cooperroseenterprises.com"
+  },
+  {
+   "id": "NH5NKCHS",
+   "name": "Pratherandson.Com",
+   "domain": "pratherandson.com"
+  },
+  {
+   "id": "B2PK63UW",
+   "name": "Jumpstart Coatesville",
+   "domain": "gojumpstart.org"
+  },
+  {
+   "id": "GPS2CHKL",
+   "name": "Packs Walker",
+   "domain": "packswalker.com"
+  },
+  {
+   "id": "U95RAJDP",
+   "name": "Straightedge Construction",
+   "domain": "straightedgeconstructionllc.com"
+  },
+  {
+   "id": "TL3BYBQG",
+   "name": "Sunrise Excavating Llc",
+   "domain": "sunriseexcavatingllc.com"
+  },
+  {
+   "id": "R76QEAAJ",
+   "name": "Surfaces Company Llc",
+   "domain": "surfacescompanyllc.org"
+  },
+  {
+   "id": "EF5KXQ73",
+   "name": "Whitehouse Electric",
+   "domain": "whitehouseelectric.com"
+  },
+  {
+   "id": "54QRSS2Z",
+   "name": "Djskitchencorner.Com",
+   "domain": "djskitchencorner.com"
+  },
+  {
+   "id": "86LB6393",
+   "name": "Tint Nerds",
+   "domain": "tintnerds.com"
+  },
+  {
+   "id": "GE8XZ9PA",
+   "name": "Elelectricllc.Com",
+   "domain": "elelectricllc.com"
+  },
+  {
+   "id": "CER6VC7W",
+   "name": "Patterson Properties, Inc",
+   "domain": "pattersonpropertiesinc.com"
+  },
+  {
+   "id": "4S4C8TG6",
+   "name": "S & T Watkins Fencing",
+   "domain": "stfencing.net"
+  },
+  {
+   "id": "LW5NEZMB",
+   "name": "ClearView Excavating LLC",
+   "domain": "clearviewex.com"
+  },
+  {
+   "id": "SVQH2L5A",
+   "name": "Andys Mirror Glass",
+   "domain": "andysmirror.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Cincinnati, OH",
+   "revenue": 2613000.0,
+   "primary_business_model_name": "Services",
+   "funding_stage": "No Funding",
+   "description": "Andys Mirror Glass provides commercial and residential glass and glazing services, including glass replacement, storefronts and entrances, curtainwall, mirrors, windows, doors, showers, and tabletops. They serve both residential customers and commercial clients and market themselves as a locally owned hometown glazing contractor with over 70 years of history and availability when needed, offering products at competitive prices."
+  },
+  {
+   "id": "3223P4KT",
+   "name": "Monarch Construction",
+   "domain": "monarchconstruction.cc",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Swindon, UK",
+   "revenue": 2821000.0,
+   "primary_business_model_name": "Services",
+   "funding_stage": "No Funding",
+   "description": "Monarch Construction is an independent general contractor focused on commercial and institutional building projects. They offer general contracting, design/build delivery, self-performed concrete construction, and pre-construction services for public and private owners, educational institutions, healthcare, and industrial clients. They emphasize safety and performance ratings, single-point responsibility through design/build, and in-house concrete capabilities."
+  },
+  {
+   "id": "9C9TST6X",
+   "name": "W B Fosson & Sons Inc",
+   "domain": "wbfosson.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Ashland, KY",
+   "revenue": 2292000.0,
+   "primary_business_model_name": "Services",
+   "funding_stage": "No Funding",
+   "description": "W B Fosson & Sons Inc are a construction firm offering general contracting, construction management, mechanical contracting, design services, and design-build delivery for commercial, institutional, healthcare, education, and industrial clients; they emphasize decades of experience, a collaborative hands-on project management approach, and delivering projects on schedule and on budget."
+  },
+  {
+   "id": "UYCLZTL8",
+   "name": "Potter General Contracting, LLC",
+   "domain": "pottergc.com",
+   "ownership": "Bootstrapped",
+   "headquarters_pretty": "Louisville, KY",
+   "year_founded": 2005,
+   "primary_business_model_name": "Services",
+   "funding_stage": "No Funding",
+   "description": "Potter General Contracting provides commercial construction services focused on design-build and tenant improvement projects for business and institutional clients, including retail build-outs, medical and office facilities, restaurants, manufacturing facilities, and institutional projects. They emphasize managing projects from concept to completion and claim to differentiate by giving clients access to a cloud-based construction app for real-time project visibility and document handling."
+  },
+  {
+   "id": "6FX5W3F5",
+   "name": "Smith-Manus Surety Bonds",
+   "domain": "smithmanus.com",
+   "ownership": "Private Equity Add-On",
+   "headquarters_pretty": "Louisville, KY",
+   "year_founded": 1979,
+   "revenue": 16343000.0,
+   "primary_business_model_name": "Services",
+   "description": "Smith-Manus Surety Bonds brokers and places surety bonds and designs surety programs for businesses in industries such as construction, mining, oil and gas, development, waste, and environmental remediation. They serve business customers that need performance, payment, license/permit, and federal contracting bonds, and they market themselves as an experienced, industry-focused surety partner with nationwide reach and a partnership with a major broker."
+  },
+  {
+   "id": "PUAAZUKN",
+   "name": "Good-One Excavating",
+   "domain": "goodoneexcavating.com"
+  },
+  {
+   "id": "XXBDWKE4",
+   "name": "Greystone",
+   "domain": "greystonebuilds.com"
+  },
+  {
+   "id": "QUFUCJMG",
+   "name": "Graves & Graves, LLC",
+   "domain": "gravesontheweb.com"
+  },
+  {
+   "id": "4EWT7ETP",
+   "name": "Kodiak Construction",
+   "domain": "kodiakconstructionky.com"
+  },
+  {
+   "id": "NQL3U5AP",
+   "name": "Craig Caulking Inc",
+   "domain": "craigcaulking.com"
+  },
+  {
+   "id": "VADTL4VU",
+   "name": "Overhead Door Company",
+   "domain": "overheaddoorbg.com"
+  },
+  {
+   "id": "Z2N38LGR",
+   "name": "YLB Accounting & Consulting Services",
+   "domain": "wisebuyingmall.com"
+  },
+  {
+   "id": "4PKYPWKS",
+   "name": "Industrial Electrical Contractors, INC.",
+   "domain": "iecbg.com"
+  },
+  {
+   "id": "SPRFVDYK",
+   "name": "Patterson Construction & Design",
+   "domain": "pattersonconstructiondesign.com"
+  },
+  {
+   "id": "99L7J753",
+   "name": "Nelson Roofing",
+   "domain": "nelsonroofing1.com"
+  },
+  {
+   "id": "L3D48K6U",
+   "name": "Thompson Electrical Contracting",
+   "domain": "thompsonelectricalcontracting.com"
+  },
+  {
+   "id": "JJ4SYSG9",
+   "name": "Dudley's Geothermal & HVAC",
+   "domain": "dudleysgeothermalandhvac.com"
+  },
+  {
+   "id": "X4K9EHXA",
+   "name": "Kremer Tree Service",
+   "domain": "kremertreeservice.com"
+  },
+  {
+   "id": "G34FE2B7",
+   "name": "Midnight Oil",
+   "domain": "midnightoil.com"
+  },
+  {
+   "id": "CTTAFX2Y",
+   "name": "Yamamoto FB Engineering",
+   "domain": "yamamotofb.com"
+  },
+  {
+   "id": "3JPHRL57",
+   "name": "McElroy Wharton & Boldrick",
+   "domain": "ky-realestate.com"
+  },
+  {
+   "id": "EL4KP794",
+   "name": "R Alle Movements",
+   "domain": "rallemovements.com"
+  },
+  {
+   "id": "T4W9RTBC",
+   "name": "South East Welding LTD",
+   "domain": "southeastwelding.ca"
+  },
+  {
+   "id": "LLGKR6A5",
+   "name": "Mathis & Sons, Inc.",
+   "domain": "mathisinc.com"
+  },
+  {
+   "id": "7EYC6XDE",
+   "name": "Wildcat Drywall LLC",
+   "domain": "wildcatdrywall.com"
+  },
+  {
+   "id": "7KQ5L7A7",
+   "name": "Bendigo Electrician",
+   "domain": "timmillerelectrical.com.au"
+  },
+  {
+   "id": "UBPTBVGZ",
+   "name": "Wood Concepts",
+   "domain": "woodconcepts.ca"
+  },
+  {
+   "id": "GWZJ6N5Z",
+   "name": "Jefferson Contracting Ltd.",
+   "domain": "jeffersoncontracting.com"
+  },
+  {
+   "id": "2S3UMDZD",
+   "name": "Excavator",
+   "domain": "excavatorpub.co.uk"
+  },
+  {
+   "id": "YE5XD3V3",
+   "name": "Total Care Environmental",
+   "domain": "totalcareenv.com"
+  },
+  {
+   "id": "W9MBAQXF",
+   "name": "Edwards Development Group",
+   "domain": "edwardsdevelopmentgroup.com"
+  },
+  {
+   "id": "XDC8J8WR",
+   "name": "Mick Mur F Inc",
+   "domain": "mickmurfinc.com"
+  },
+  {
+   "id": "WD3HU5HT",
+   "name": "Crialoss Cafebistrot",
+   "domain": "palazzodegliabati.it"
+  },
+  {
+   "id": "9GJ7P9BY",
+   "name": "Adecontracting",
+   "domain": "adecontracting.com"
+  },
+  {
+   "id": "3UHFQLD6",
+   "name": "Profile Php",
+   "domain": "concrete3.net"
+  },
+  {
+   "id": "A8TNM2CQ",
+   "name": "Euro-Paint.Info",
+   "domain": "euro-paint.info"
+  },
+  {
+   "id": "ZLZ6J4HZ",
+   "name": "Make Ready Services",
+   "domain": "makereadyservices.com"
+  },
+  {
+   "id": "Y4FVW8RP",
+   "name": "Nextech.Build",
+   "domain": "nextech.build"
+  },
+  {
+   "id": "LT35XL7K",
+   "name": "Pro Klee N",
+   "domain": "prokleen.com.my"
+  },
+  {
+   "id": "WBX5MX5R",
+   "name": "Make Ready Services LLC",
+   "domain": "makereadyservices.co"
+  }
+ ]
+}
