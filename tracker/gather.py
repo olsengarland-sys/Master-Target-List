@@ -113,7 +113,10 @@ for key, lab in [('valid','Validated 1 Sep'), ('newt','New Targets 1 Sep')]:
                 dq_reason=(r.get('reason') if sh == 'Remove - DQ' else None))
 
 # ---- Ben / Anchor leads ----------------------------------------------------
-for r in csv.DictReader(open(F['ben'])):
+for _raw in csv.DictReader(open(F['ben'])):
+    # this CSV ships a header of "Campaign " with a trailing space; strip keys
+    # so a lookup does not silently return nothing
+    r = {(k or '').strip(): v for k, v in _raw.items()}
     em = (r.get('Email') or '').strip()
     d = norm(em.split('@')[-1]) if '@' in em else None
     nm = ' '.join(x for x in [(r.get('First Name') or '').strip(), (r.get('Last Name') or '').strip()] if x)

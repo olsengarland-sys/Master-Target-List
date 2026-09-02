@@ -1395,7 +1395,8 @@
   "ben_tier": "A - core buy box",
   "ben_reply": "No Reply",
   "ben_succession": "2",
-  "ben_industry": "Business Services"
+  "ben_industry": "Business Services",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "taylorelectricutility.com": {
   "domain": "taylorelectricutility.com",
@@ -18588,7 +18589,8 @@
   "ben_tier": "A - core buy box",
   "ben_reply": "No Reply",
   "ben_succession": "1",
-  "ben_industry": "Construction"
+  "ben_industry": "Construction",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "hvtechnologies.com": {
   "domain": "hvtechnologies.com",
@@ -63321,7 +63323,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "7",
   "why": "Full-service industrial contractor: electrical, mechanical, civil for pulp & paper, chemicals, petroleum.",
-  "ben_industry": "Industrial Services / Technical Services"
+  "ben_industry": "Industrial Services / Technical Services",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "lucaelectric.com": {
   "domain": "lucaelectric.com",
@@ -65863,7 +65866,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "8",
   "why": "Commercial, industrial and mission-critical electrical across TN, MS, FL, CO, NC.",
-  "ben_industry": "Construction"
+  "ben_industry": "Construction",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "epowernetwork.com": {
   "domain": "epowernetwork.com",
@@ -83650,7 +83654,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "8",
   "why": "Electrical contracting since 1948; residential, commercial, industrial, design, maintenance.",
-  "ben_industry": "Construction"
+  "ben_industry": "Construction",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "allindustrial.com": {
   "domain": "allindustrial.com",
@@ -88767,7 +88772,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Residential, commercial and industrial electrical, Clarksville.",
-  "ben_industry": "Construction"
+  "ben_industry": "Construction",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "treehouse.pro": {
   "domain": "treehouse.pro",
@@ -89031,7 +89037,8 @@
   "ben_tier": "A - core buy box",
   "ben_reply": "Replied",
   "why": "Electrical services, Knoxville. REPLIED to prior outreach. No description on file - enrich before use.",
-  "ben_industry": "Electrical"
+  "ben_industry": "Electrical",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "traviselectricinc.com": {
   "domain": "traviselectricinc.com",
@@ -89047,7 +89054,8 @@
   "ben_reply": "Replied",
   "ben_succession": "6",
   "why": "Commercial, industrial and data-center electrical, ~70 years, Nashville/Middle TN. REPLIED to prior outreach.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "aselectric.com": {
   "domain": "aselectric.com",
@@ -89063,7 +89071,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "7",
   "why": "C&I electrical installations since 1981, dedicated service department.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "blountelectrical.com": {
   "domain": "blountelectrical.com",
@@ -89079,7 +89088,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "5",
   "why": "50+ years; residential, commercial and industrial electrical.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "boyetteelectric.com": {
   "domain": "boyetteelectric.com",
@@ -89095,7 +89105,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "6",
   "why": "Residential/commercial/industrial electrical with generator backup power and solar.",
-  "ben_industry": "Electrical"
+  "ben_industry": "Electrical",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "cawtn.com": {
   "domain": "cawtn.com",
@@ -89110,7 +89121,8 @@
   "ben_tier": "A - core buy box",
   "ben_reply": "No Reply",
   "why": "Electric motors, drives, pumps, gearboxes; motor repair, sales, custom builds. Family-owned.",
-  "ben_industry": "Manufacturing - Electrical Motors/Armatures"
+  "ben_industry": "Manufacturing - Electrical Motors/Armatures",
+  "ben_campaign": "Motor & Generator Companies"
  },
  "cowart-inc.net": {
   "domain": "cowart-inc.net",
@@ -89126,7 +89138,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "6",
   "why": "C&I and industrial electrical since 1980; turnkey multi-service.",
-  "ben_industry": "Electrical Contracting / Industrial Electrical Services"
+  "ben_industry": "Electrical Contracting / Industrial Electrical Services",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "irelandelectriccorp.com": {
   "domain": "irelandelectriccorp.com",
@@ -89142,7 +89155,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "2",
   "why": "Full-service C&I electrical contractor, Augusta region.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "wge108.com": {
   "domain": "wge108.com",
@@ -89158,7 +89172,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "7",
   "why": "C&I electrical, pre-construction design, BIM, design-build across nine states.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "kovarikelectrical.com": {
   "domain": "kovarikelectrical.com",
@@ -89174,7 +89189,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "4",
   "why": "Industrial electrical plus automation, systems integration, PLC, robotics.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "lawsonelectric.com": {
   "domain": "lawsonelectric.com",
@@ -89190,7 +89206,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "6",
   "why": "Industrial, commercial, government and healthcare electrical.",
-  "ben_industry": "Electrical"
+  "ben_industry": "Electrical",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "prestonlinkelectric.com": {
   "domain": "prestonlinkelectric.com",
@@ -89206,7 +89223,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "9",
   "why": "Residential, commercial and industrial electrical; wiring, lighting, generators.",
-  "ben_industry": "Construction"
+  "ben_industry": "Construction",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "renfrowindustrial.com": {
   "domain": "renfrowindustrial.com",
@@ -89222,7 +89240,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "7",
   "why": "Mechanical, electrical power and controls, control panel design, fabrication. SC/NC/TN.",
-  "ben_industry": "Manufacturing"
+  "ben_industry": "Manufacturing",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "shelbyelectric.net": {
   "domain": "shelbyelectric.net",
@@ -89237,7 +89256,8 @@
   "ben_tier": "A - core buy box",
   "ben_reply": "No Reply",
   "why": "Fiber optics, roadway infrastructure, industrial/commercial across the Southeast.",
-  "ben_industry": "Electrical"
+  "ben_industry": "Electrical",
+  "ben_campaign": "Traffic Signals & Lighting Companies"
  },
  "tibbetts-electric.com": {
   "domain": "tibbetts-electric.com",
@@ -89253,7 +89273,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "4",
   "why": "Commercial, healthcare and education electrical installs and upgrades, 28 years.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "tristateec.com": {
   "domain": "tristateec.com",
@@ -89267,7 +89288,8 @@
   "ben_tier": "A - core buy box",
   "ben_reply": "No Reply",
   "why": "Commercial and industrial electrical plus low voltage and solar.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "andrewelectric.com": {
   "domain": "andrewelectric.com",
@@ -89281,7 +89303,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Electrical contracting. No description or location on file.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "bucyelectric.com": {
   "domain": "bucyelectric.com",
@@ -89296,7 +89319,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Electrical install, repair and maintenance for construction projects.",
-  "ben_industry": "Construction"
+  "ben_industry": "Construction",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "crelectricservices.com": {
   "domain": "crelectricservices.com",
@@ -89311,7 +89335,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Commercial electrical contractor, Cookeville. Likely sub-scale.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "discipleelectric.com": {
   "domain": "discipleelectric.com",
@@ -89326,7 +89351,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Residential, commercial, industrial electrical, Lebanon TN. Likely sub-scale.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "dixieelectric.net": {
   "domain": "dixieelectric.net",
@@ -89340,7 +89366,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Electrical contracting. No description or location on file.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "guardianelectric.net": {
   "domain": "guardianelectric.net",
@@ -89354,7 +89381,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Electrical contracting. No description or location on file.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "hwelectrical.com": {
   "domain": "hwelectrical.com",
@@ -89370,7 +89398,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "4",
   "why": "Electrical contracting, Greenville SC. No description on file.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "knoxcet.com": {
   "domain": "knoxcet.com",
@@ -89385,7 +89414,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Commercial, industrial and residential electrical, Knoxville.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "modcable.com": {
   "domain": "modcable.com",
@@ -89399,7 +89429,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Low-voltage: structured cabling and physical security. Weakest core fit.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "mossandmoss.com": {
   "domain": "mossandmoss.com",
@@ -89414,7 +89445,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Residential, commercial, industrial electrical; upgrades, generator installs.",
-  "ben_industry": "Construction"
+  "ben_industry": "Construction",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "optivalighting.com": {
   "domain": "optivalighting.com",
@@ -89428,7 +89460,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Lighting and electrical services. No description on file.",
-  "ben_industry": "Electrical Contracting & Lighting Services"
+  "ben_industry": "Electrical Contracting & Lighting Services",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "powerdoctors.net": {
   "domain": "powerdoctors.net",
@@ -89443,7 +89476,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Residential, commercial and industrial electrical, Memphis.",
-  "ben_industry": "Construction"
+  "ben_industry": "Construction",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "prolectric.us": {
   "domain": "prolectric.us",
@@ -89457,7 +89491,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Electrical contracting. No description or location on file.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "swutilitysolutions.com": {
   "domain": "swutilitysolutions.com",
@@ -89473,7 +89508,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "6",
   "why": "Water & utilities, Houston. No description - confirm whether electric or water only.",
-  "ben_industry": "Water & Utilities"
+  "ben_industry": "Water & Utilities",
+  "ben_campaign": "Substation & T&D"
  },
  "utilityplantsolutions.com": {
   "domain": "utilityplantsolutions.com",
@@ -89489,7 +89525,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "4",
   "why": "Utility services / plant operations / industrial services. No description - name suggests a fit.",
-  "ben_industry": "Utility Services / Plant Operations / Industrial Services"
+  "ben_industry": "Utility Services / Plant Operations / Industrial Services",
+  "ben_campaign": "Substation & T&D"
  },
  "vankirkelectric.com": {
   "domain": "vankirkelectric.com",
@@ -89505,7 +89542,8 @@
   "ben_reply": "No Reply",
   "ben_succession": "7",
   "why": "Electrical contracting, Winder GA. No description on file.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "westsideelectricservice.com": {
   "domain": "westsideelectricservice.com",
@@ -89520,7 +89558,8 @@
   "ben_tier": "B - plausible, needs enrichment",
   "ben_reply": "No Reply",
   "why": "Electrical plus HVAC, residential and commercial. Mixed-resi, likely sub-scale.",
-  "ben_industry": "Electrical Contracting"
+  "ben_industry": "Electrical Contracting",
+  "ben_campaign": "Commercial & Industrial Contractors"
  },
  "amconindustrial.com": {
   "domain": "amconindustrial.com",

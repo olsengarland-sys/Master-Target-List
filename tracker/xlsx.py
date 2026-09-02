@@ -101,7 +101,8 @@ S(['BY CAMPAIGN (non-DQ, all priorities)', 'Companies', 'Tab'], True, HDRF)
 for i in range(1, 4): ws.cell(row=r-1, column=i).font = HF
 for i, c in enumerate(CAMPAIGNS, 3):
     S([c, n_cp.get(c, 0), f'{i}. {c[:24]}'])
-S(['(no campaign assigned)', n_cp.get('(none)', 0), 'Unscreened leads tab'], False, GREY)
+S(['(no campaign assigned)', n_cp.get('(none)', 0),
+   'tab 14 - unscreened association leads plus Ben tier-C rows awaiting a campaign'], False, GREY)
 r += 1
 S(['SOURCES FOLDED IN', '', ''], True, HDRF)
 for i in range(1, 4): ws.cell(row=r-1, column=i).font = HF
@@ -137,8 +138,14 @@ for i, c in enumerate(CAMPAIGNS, 3):
     table(w, sub, start=3)
 sub = [x for x in live if not x['campaign']]
 w = wb.create_sheet('14. Unscreened leads')
-w.cell(row=1, column=1, value=f'{len(sub)} leads with no campaign - mostly free trade-association '
-       'names never screened against the thesis. Screen before working.').font = TITLE
+_raw = sum(1 for x in sub if x['status'].startswith('RAW'))
+w.cell(row=1, column=1, value=(
+    f'{len(sub)} companies with no campaign assigned. TWO DIFFERENT THINGS - read the Status column. '
+    f'{_raw} are RAW LEADs from free trade-association directories, never screened against the thesis; '
+    f'they will contain brokers, law firms and CPAs, so screen before working them. '
+    f'The other {len(sub) - _raw} are ACTIVE TARGETs from Ben/Anchor tier C ("adjacent, judgment call") '
+    'where that list itself left the campaign blank - they are real leads awaiting a campaign decision.')
+).font = TITLE
 table(w, sub, start=3)
 
 OUT = '/home/user/Master-Target-List/Hunter_Power_MASTER_TRACKER_20260902.xlsx'
